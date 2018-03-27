@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "hist-1950",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "HighResMIP"
@@ -31,5 +31,5 @@
     "description": "Coupled integrationswith historic external forcings (as in highresSST-present)",
     "namespace": "ukcp:ukcp18:experiment-id:hist-1950",
     "status": "pending",
-    "uid": "f665987c-95f5-432c-afaa-abba5d2086be"
+    "uid": "297f4d93-df21-4df2-93cf-55ff083fd0a1"
 }

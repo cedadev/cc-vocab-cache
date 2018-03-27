@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "land",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "label": "LAND",
     "namespace": "ukcp:ukcp18:source-type:land",
     "raw_name": "LAND",
     "status": "pending",
-    "uid": "270d161f-7a8b-4652-8aaf-a0f51f055ee6"
+    "uid": "fb138e64-10ba-4608-8e9a-042303815b59"
 }

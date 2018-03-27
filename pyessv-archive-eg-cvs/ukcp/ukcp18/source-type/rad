@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "rad",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "label": "RAD",
     "namespace": "ukcp:ukcp18:source-type:rad",
     "raw_name": "RAD",
     "status": "pending",
-    "uid": "0f2cbe6a-40b5-4c3e-9308-84e9a916a5c1"
+    "uid": "7f5f6384-8d81-49bc-ab78-3b33e1f1c6d4"
 }

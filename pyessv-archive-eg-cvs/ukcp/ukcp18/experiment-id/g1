@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "g1",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "GeoMIP"
@@ -35,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:g1",
     "raw_name": "G1",
     "status": "pending",
-    "uid": "3cb030ad-da0c-4133-8948-aacb0e6ab691"
+    "uid": "602f944c-bfee-460f-bced-12c68666ce33"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "pisst-pxk",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "CFMIP"
@@ -34,5 +34,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:pisst-pxk",
     "raw_name": "piSST-pxK",
     "status": "pending",
-    "uid": "47d93c07-a924-4fbd-ac93-21f1cf8fd7a0"
+    "uid": "545ca9f4-6ac5-4ac9-9ee5-2f8d39c5a36c"
 }

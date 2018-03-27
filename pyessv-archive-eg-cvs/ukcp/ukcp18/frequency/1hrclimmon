@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "1hrclimmon",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "label": "1hrClimMon",
     "namespace": "ukcp:ukcp18:frequency:1hrclimmon",
     "raw_name": "1hrClimMon",
     "status": "pending",
-    "uid": "914cd324-a298-4cd2-9b37-ee0f36acf7a9"
+    "uid": "733260db-36a1-42ca-b27f-fe5b0e9df4b7"
 }

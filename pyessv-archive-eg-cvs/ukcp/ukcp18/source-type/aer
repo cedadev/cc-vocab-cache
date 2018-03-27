@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "aer",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "label": "AER",
     "namespace": "ukcp:ukcp18:source-type:aer",
     "raw_name": "AER",
     "status": "pending",
-    "uid": "f4ef1377-3117-46b7-b6d5-8543dd2edeec"
+    "uid": "771af844-eae0-4e34-99d0-657ee5664a0f"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppa-historical-niff",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "DCPP"
@@ -91,5 +91,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppa-historical-niff",
     "raw_name": "dcppA-historical-niff",
     "status": "pending",
-    "uid": "11b6ca85-546d-4207-bee1-e98d45619c8b"
+    "uid": "167a8674-e9cf-4774-984c-94708d76e7d6"
 }

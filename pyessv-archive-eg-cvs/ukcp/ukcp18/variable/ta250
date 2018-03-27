@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ta250",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "cmip6_name": "ta",
         "cmip6_standard_name": "air_temperature",
@@ -29,5 +29,5 @@
     "description": "Air temperature",
     "namespace": "ukcp:ukcp18:variable:ta250",
     "status": "pending",
-    "uid": "d87123b6-1554-4b3b-a888-a21c2518333b"
+    "uid": "a82e257a-a3bb-4540-8677-1e3f5fd29e7e"
 }

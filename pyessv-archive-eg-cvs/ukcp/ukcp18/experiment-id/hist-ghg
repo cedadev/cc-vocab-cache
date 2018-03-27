@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "hist-ghg",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "DAMIP"
@@ -35,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:hist-ghg",
     "raw_name": "hist-GHG",
     "status": "pending",
-    "uid": "6f6c425f-b365-46f1-8e08-4cd523564241"
+    "uid": "38339018-9512-4a97-ab33-225e6ca7f2f8"
 }

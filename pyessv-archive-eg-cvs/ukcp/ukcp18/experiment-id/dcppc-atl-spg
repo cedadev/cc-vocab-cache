@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppc-atl-spg",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "DCPP"
@@ -42,5 +42,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppc-atl-spg",
     "raw_name": "dcppC-atl-spg",
     "status": "pending",
-    "uid": "9ff11f3a-eaee-4ac3-8855-315e0626396a"
+    "uid": "fc5e1ebc-9858-495f-80f6-781dbbcd05b5"
 }

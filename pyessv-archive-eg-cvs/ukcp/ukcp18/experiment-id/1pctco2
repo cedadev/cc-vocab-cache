@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "1pctco2",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "CMIP"
@@ -35,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:1pctco2",
     "raw_name": "1pctCO2",
     "status": "pending",
-    "uid": "7c26f009-ea96-404c-9174-b05d4785188e"
+    "uid": "25af9894-f26b-4c1f-938a-ed6283f31b74"
 }

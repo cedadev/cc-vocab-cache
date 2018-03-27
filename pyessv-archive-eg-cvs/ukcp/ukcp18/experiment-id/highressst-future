@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "highressst-future",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "HighResMIP"
@@ -33,5 +33,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:highressst-future",
     "raw_name": "highresSST-future",
     "status": "pending",
-    "uid": "70719e8b-91c8-4145-9fbc-55cf78b0fd7d"
+    "uid": "5fd3d857-2812-48f9-a6db-f7bc279bb642"
 }

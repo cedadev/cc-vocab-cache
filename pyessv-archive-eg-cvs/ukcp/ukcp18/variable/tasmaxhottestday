@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "tasmaxhottestday",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "label_units": "\u00b0c",
         "level": "1.5m",
@@ -30,5 +30,5 @@
     "namespace": "ukcp:ukcp18:variable:tasmaxhottestday",
     "raw_name": "tasmaxHottestDay",
     "status": "pending",
-    "uid": "413a2bd1-32e3-461f-ba0c-643e812198c6"
+    "uid": "704c49f0-0f3c-4749-8ca3-060ab5c2e45c"
 }

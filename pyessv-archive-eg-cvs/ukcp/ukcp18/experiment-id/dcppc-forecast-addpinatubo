@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppc-forecast-addpinatubo",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "DCPP",
@@ -38,5 +38,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppc-forecast-addpinatubo",
     "raw_name": "dcppC-forecast-addPinatubo",
     "status": "pending",
-    "uid": "868ec411-d39f-4b96-8e5d-3fdd561970e7"
+    "uid": "de142e0e-883b-4f98-87f6-1c6979f8b736"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "percentile",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "axis": "",
         "bounds_values": "",
@@ -133,5 +133,5 @@
     },
     "namespace": "ukcp:ukcp18:coordinate:percentile",
     "status": "pending",
-    "uid": "5c0b5dc2-af31-48c3-8178-bc7bfed516a8"
+    "uid": "b1c0a16d-3afd-4ab4-9769-9b08ed209554"
 }

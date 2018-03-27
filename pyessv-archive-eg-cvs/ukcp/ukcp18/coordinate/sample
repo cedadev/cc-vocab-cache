@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "sample",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "axis": "",
         "bounds_values": "",
@@ -21,5 +21,5 @@
     },
     "namespace": "ukcp:ukcp18:coordinate:sample",
     "status": "pending",
-    "uid": "7a457a66-f285-4634-8d89-ea79bc2cc740"
+    "uid": "5b4b0622-f7fc-4952-badc-d880b1d0a5ad"
 }

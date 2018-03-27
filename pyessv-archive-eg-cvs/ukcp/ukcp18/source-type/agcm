@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "agcm",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "label": "AGCM",
     "namespace": "ukcp:ukcp18:source-type:agcm",
     "raw_name": "AGCM",
     "status": "pending",
-    "uid": "49848560-6e27-4fe1-bc84-0303bce31961"
+    "uid": "d5437a06-6561-419b-a3a4-a263675d83be"
 }

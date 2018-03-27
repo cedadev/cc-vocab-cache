@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "winddir",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "label_units": "degrees",
         "level": "10m",
@@ -25,5 +25,5 @@
     "namespace": "ukcp:ukcp18:variable:winddir",
     "raw_name": "windDir",
     "status": "pending",
-    "uid": "673efc33-9de5-41ca-b618-e5d8cab74ffe"
+    "uid": "fd0c56a3-09fa-455b-a61e-fdb67a2edc01"
 }

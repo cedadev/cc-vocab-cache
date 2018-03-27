@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "sun",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "label_units": "h",
         "long_name": "Sunshine hours",
@@ -29,5 +29,5 @@
     "description": "Sunshine hours",
     "namespace": "ukcp:ukcp18:variable:sun",
     "status": "pending",
-    "uid": "1dca09bc-33fb-421e-9131-6e95147982ed"
+    "uid": "7f804658-80e4-4ad1-8949-19e25b15923b"
 }

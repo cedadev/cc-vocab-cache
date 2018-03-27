@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "ogcm",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "label": "OGCM",
     "namespace": "ukcp:ukcp18:source-type:ogcm",
     "raw_name": "OGCM",
     "status": "pending",
-    "uid": "52e7202e-ea07-430c-82b9-a6b88f84b3a8"
+    "uid": "c059c395-8dea-4b70-a98a-2ce0506b8c72"
 }

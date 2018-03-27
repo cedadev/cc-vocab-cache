@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ssp245-strato3",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "DAMIP"
@@ -34,5 +34,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:ssp245-strato3",
     "raw_name": "ssp245-stratO3",
     "status": "pending",
-    "uid": "7080ab61-a220-4a7e-9b7f-eac0f70ddd14"
+    "uid": "9ec34af5-0996-4a58-b6a8-cfec35177812"
 }

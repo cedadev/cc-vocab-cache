@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "hail",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "label_units": "1",
         "long_name": "??",
@@ -29,5 +29,5 @@
     "description": "Hail (Graupel)",
     "namespace": "ukcp:ukcp18:variable:hail",
     "status": "pending",
-    "uid": "b5f11009-da05-4cdb-ac2c-aa145e3c99e7"
+    "uid": "3621d8fa-1ea1-45b3-a9fb-ed29d8e589c2"
 }

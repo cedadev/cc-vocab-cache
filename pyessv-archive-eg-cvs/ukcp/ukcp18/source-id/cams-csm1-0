@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "cams-csm1-0",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_participation": [
             "CMIP"
@@ -54,5 +54,5 @@
     "namespace": "ukcp:ukcp18:source-id:cams-csm1-0",
     "raw_name": "CAMS_CSM1-0",
     "status": "pending",
-    "uid": "70f2c476-9976-4ffe-8e7f-29f882829bd7"
+    "uid": "9d589e47-6082-4882-96cb-46ea73adc2a0"
 }

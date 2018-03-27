@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "land-nowoodharv",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "LUMIP"
@@ -31,5 +31,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:land-nowoodharv",
     "raw_name": "land-noWoodHarv",
     "status": "pending",
-    "uid": "ab6ae79c-bf0f-4634-b034-4ab6111416aa"
+    "uid": "7b390c6a-dcd1-4285-b143-3530dfc73065"
 }

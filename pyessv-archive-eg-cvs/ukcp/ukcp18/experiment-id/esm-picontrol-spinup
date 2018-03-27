@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "esm-picontrol-spinup",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "CMIP"
@@ -35,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:esm-picontrol-spinup",
     "raw_name": "esm-piControl-spinup",
     "status": "pending",
-    "uid": "5a030c27-803b-4fa9-be1f-a066c5709276"
+    "uid": "10e6ab13-82b7-4c31-9127-48d2752d08c8"
 }

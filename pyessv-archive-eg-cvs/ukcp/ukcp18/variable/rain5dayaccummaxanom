@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "rain5dayaccummaxanom",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "anomaly_type": "absolute_change",
         "label_units": "%",
@@ -29,5 +29,5 @@
     "namespace": "ukcp:ukcp18:variable:rain5dayaccummaxanom",
     "raw_name": "rain5DayAccumMaxAnom",
     "status": "pending",
-    "uid": "7001d274-5e34-43ec-88f1-3edcc41e8503"
+    "uid": "7c6b34d6-0124-444f-a11e-f8c8e5155ac9"
 }

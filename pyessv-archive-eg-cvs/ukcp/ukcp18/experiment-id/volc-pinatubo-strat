@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "volc-pinatubo-strat",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "VolMIP"
@@ -33,5 +33,5 @@
     "description": "As volc-pinatubo-full, but with prescribed perturbation to the total (LW+SW) radiative heating rates",
     "namespace": "ukcp:ukcp18:experiment-id:volc-pinatubo-strat",
     "status": "pending",
-    "uid": "08c45a07-1cf7-42e9-a696-c98d59ef009e"
+    "uid": "78f5c94f-caef-452b-aceb-a8b8990a1e69"
 }

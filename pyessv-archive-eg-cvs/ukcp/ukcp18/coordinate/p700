@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "p700",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "axis": "Z",
         "bounds_values": "",
@@ -20,5 +20,5 @@
     },
     "namespace": "ukcp:ukcp18:coordinate:p700",
     "status": "pending",
-    "uid": "62faff6e-c009-4e8e-a83f-499182ce8d8b"
+    "uid": "8ce1e810-5aad-4f20-b5c0-76f86c0a7617"
 }

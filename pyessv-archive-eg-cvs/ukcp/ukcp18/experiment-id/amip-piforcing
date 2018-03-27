@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "amip-piforcing",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "CFMIP"
@@ -34,5 +34,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:amip-piforcing",
     "raw_name": "amip-piForcing",
     "status": "pending",
-    "uid": "c70a2cab-4cb2-4906-ba91-e49f954b8cca"
+    "uid": "8cc11dcb-090a-422f-8f48-e5ad5b9b0664"
 }

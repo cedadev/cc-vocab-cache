@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "ism",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "label": "ISM",
     "namespace": "ukcp:ukcp18:source-type:ism",
     "raw_name": "ISM",
     "status": "pending",
-    "uid": "3be40c4c-1dd9-47ed-b5cb-0fc483255770"
+    "uid": "ceb8fb21-b3d3-4a2a-8dd5-748f335ad0fa"
 }

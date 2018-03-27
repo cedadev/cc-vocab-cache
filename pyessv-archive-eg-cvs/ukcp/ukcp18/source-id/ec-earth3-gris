@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ec-earth3-gris",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_participation": [
             ""
@@ -54,5 +54,5 @@
     "namespace": "ukcp:ukcp18:source-id:ec-earth3-gris",
     "raw_name": "EC-Earth3-GrIS",
     "status": "pending",
-    "uid": "ca03efa7-8d8f-482a-ac20-1445b39ee6b1"
+    "uid": "116262c0-19ff-430c-b5c9-38bfdb5513d7"
 }

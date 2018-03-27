@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "twbanom",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "anomaly_type": "absolute_change",
         "label_units": "\u00b0c",
@@ -33,5 +33,5 @@
     "namespace": "ukcp:ukcp18:variable:twbanom",
     "raw_name": "twbAnom",
     "status": "pending",
-    "uid": "8236b586-02db-48ad-9669-13d1c082c921"
+    "uid": "f64700b1-3764-4a01-9efc-ab3df35a2c7b"
 }

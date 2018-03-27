@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "republic-of-ireland",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "label": "republic_of_ireland",
     "namespace": "ukcp:ukcp18:river-basin:republic-of-ireland",
     "raw_name": "republic_of_ireland",
     "status": "pending",
-    "uid": "99e85830-d23a-446c-9f43-85565637a174"
+    "uid": "a47a5bd0-a301-4248-8ec3-cbf333283ed7"
 }

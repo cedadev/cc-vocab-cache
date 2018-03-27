@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "tasmaxanom",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_cmor_tables_row_id": [
@@ -42,5 +42,5 @@
     "namespace": "ukcp:ukcp18:variable:tasmaxanom",
     "raw_name": "tasmaxAnom",
     "status": "pending",
-    "uid": "948d8424-52e3-432c-b539-7d06a7dff7c9"
+    "uid": "4e6e7923-6bd7-4bb8-b745-364a6cc18aad"
 }

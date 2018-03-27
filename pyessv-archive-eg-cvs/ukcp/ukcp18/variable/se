@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "se",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "label_units": "mm/day",
         "level": "Surface",
@@ -31,5 +31,5 @@
     "description": "Surface evaporation",
     "namespace": "ukcp:ukcp18:variable:se",
     "status": "pending",
-    "uid": "9aefb5fa-80f8-4e0e-a88b-9adfef791bca"
+    "uid": "7f5579d7-eed4-4c4b-8589-7d1194852dac"
 }

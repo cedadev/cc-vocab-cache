@@ -1,8 +1,8 @@
 {
     "_type": "term",
     "canonical_name": "ukcp18-land-prob-25km",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "namespace": "ukcp:ukcp18:dataset-id:ukcp18-land-prob-25km",
     "status": "pending",
-    "uid": "f69777de-f7ee-46a1-8543-8e9c98fefa04"
+    "uid": "68a86c99-3dcb-4249-b04f-147a4df854ab"
 }

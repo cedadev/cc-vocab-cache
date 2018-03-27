@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "tplanom",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "anomaly_type": "absolute_change",
         "label_units": "m",
@@ -25,5 +25,5 @@
     "namespace": "ukcp:ukcp18:variable:tplanom",
     "raw_name": "tplAnom",
     "status": "pending",
-    "uid": "a7c367ec-65cc-4ed5-9649-1e4b2bee66e1"
+    "uid": "62f70c00-b28e-4ab7-88a8-f92d8847b88f"
 }

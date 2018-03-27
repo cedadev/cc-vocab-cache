@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppc-hindcast-noelchichon",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "DCPP"
@@ -37,5 +37,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppc-hindcast-noelchichon",
     "raw_name": "dcppC-hindcast-noElChichon",
     "status": "pending",
-    "uid": "e2096d28-7463-475c-839d-c28ae877ed0b"
+    "uid": "5911d3c4-03e4-4cab-8ad5-9bb5297e6f8b"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "awi-cm-1-0-lr",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_participation": [
             "CMIP",
@@ -61,5 +61,5 @@
     "namespace": "ukcp:ukcp18:source-id:awi-cm-1-0-lr",
     "raw_name": "AWI-CM-1-0-LR",
     "status": "pending",
-    "uid": "bcbba46d-f08c-4849-a066-01724b60519f"
+    "uid": "065676fb-bf50-4d4c-9577-cd61bbb48ef9"
 }

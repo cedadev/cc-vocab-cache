@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "land-hist",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "LS3MIP",
@@ -30,5 +30,5 @@
     "description": "Land only simulations",
     "namespace": "ukcp:ukcp18:experiment-id:land-hist",
     "status": "pending",
-    "uid": "21c73133-b600-4bdd-a61a-e2a76421007b"
+    "uid": "20a7e645-db06-4e1e-a7fc-d62e444d0545"
 }

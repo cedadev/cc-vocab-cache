@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "north-east-scotland",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "label": "north_east_scotland",
     "namespace": "ukcp:ukcp18:river-basin:north-east-scotland",
     "raw_name": "north_east_scotland",
     "status": "pending",
-    "uid": "2cd66b5d-a8ea-4fe6-b240-c6373e16c706"
+    "uid": "aa492f44-ab2d-459e-9f9e-ea434036e58b"
 }

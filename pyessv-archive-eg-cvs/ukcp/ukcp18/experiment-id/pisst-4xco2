@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "pisst-4xco2",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "CFMIP"
@@ -34,5 +34,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:pisst-4xco2",
     "raw_name": "piSST-4xCO2",
     "status": "pending",
-    "uid": "4edab324-5da7-44af-850f-03e9173816ed"
+    "uid": "78d187dc-6ca2-4116-b1bb-c1d943ecb0e7"
 }

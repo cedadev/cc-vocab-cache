@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "wsgmax10manom",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_cmor_tables_row_id": [
@@ -36,5 +36,5 @@
     "namespace": "ukcp:ukcp18:variable:wsgmax10manom",
     "raw_name": "wsgmax10mAnom",
     "status": "pending",
-    "uid": "612b1452-ad90-4b85-af40-5a1f86c1fa07"
+    "uid": "fc9dfb26-388d-4214-8f4e-9fbb5417c1de"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "seanom",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "anomaly_type": "absolute_change",
         "level": "Surface",
@@ -32,5 +32,5 @@
     "namespace": "ukcp:ukcp18:variable:seanom",
     "raw_name": "seAnom",
     "status": "pending",
-    "uid": "780a177c-fada-4a36-bd1d-a8ef4849429f"
+    "uid": "25e9d93f-8f3e-4a38-8110-ff68f2b2015a"
 }

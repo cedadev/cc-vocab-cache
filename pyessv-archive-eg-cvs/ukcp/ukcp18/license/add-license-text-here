@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "add-license-text-here",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "label": "ADD LICENSE TEXT HERE",
     "namespace": "ukcp:ukcp18:license:add-license-text-here",
     "raw_name": "ADD LICENSE TEXT HERE",
     "status": "pending",
-    "uid": "e9a5731e-b965-4213-9bae-1a26feb81309"
+    "uid": "f1108329-547e-4ff9-bb54-36a50f06badb"
 }

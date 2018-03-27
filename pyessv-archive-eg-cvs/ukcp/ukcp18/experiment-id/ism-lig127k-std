@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ism-lig127k-std",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "ISMIP6"
@@ -29,5 +29,5 @@
     "description": "Last interglacial simulation of ice sheet evolution driven by PMIP lig127k",
     "namespace": "ukcp:ukcp18:experiment-id:ism-lig127k-std",
     "status": "pending",
-    "uid": "965e808a-557d-4b25-a728-d6e368cbac3f"
+    "uid": "ea6cd099-cfcd-4908-a226-ea34e0048839"
 }

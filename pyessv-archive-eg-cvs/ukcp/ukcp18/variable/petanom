@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "petanom",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_cmor_tables_row_id": [
@@ -37,5 +37,5 @@
     "namespace": "ukcp:ukcp18:variable:petanom",
     "raw_name": "petAnom",
     "status": "pending",
-    "uid": "754bad2c-5e49-4f03-a0e0-4dbb5b52f4eb"
+    "uid": "e23024ee-bc35-4631-8bb6-a9a0dd4cc18d"
 }

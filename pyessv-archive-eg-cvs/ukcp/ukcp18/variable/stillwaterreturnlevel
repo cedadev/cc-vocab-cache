@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "stillwaterreturnlevel",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "label_units": "m",
-        "long_name": "Still water return level ",
+        "long_name": "Still water return level",
         "notes": [
             "Return level to be plotted against return period. Log scale for return period. How will uncertainty be made available? Separate variable?"
         ],
@@ -27,5 +27,5 @@
     "namespace": "ukcp:ukcp18:variable:stillwaterreturnlevel",
     "raw_name": "stillWaterReturnLevel",
     "status": "pending",
-    "uid": "a3058868-70b1-4bbb-88e9-6b4541b6e9e8"
+    "uid": "82a3a1e2-efb9-47ba-bab5-4cf398a7036b"
 }

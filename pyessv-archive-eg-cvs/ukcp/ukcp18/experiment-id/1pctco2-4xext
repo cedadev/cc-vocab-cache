@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "1pctco2-4xext",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "ISMIP6"
@@ -35,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:1pctco2-4xext",
     "raw_name": "1pctCO2-4xext",
     "status": "pending",
-    "uid": "c6facda5-eb8a-48a0-be71-5dca1df32a3b"
+    "uid": "4e62de55-273a-4e8d-8f1b-01610df5559a"
 }

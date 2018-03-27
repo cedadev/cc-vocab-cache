@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ssp534-over-bgc",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "C4MIP"
@@ -33,5 +33,5 @@
     "description": "This simulation should optionally be extended to year 2300",
     "namespace": "ukcp:ukcp18:experiment-id:ssp534-over-bgc",
     "status": "pending",
-    "uid": "c536295e-c94f-4097-8ffc-41bb7ce7e88e"
+    "uid": "813a408b-cfbc-4942-a7c3-61cb65835f8f"
 }

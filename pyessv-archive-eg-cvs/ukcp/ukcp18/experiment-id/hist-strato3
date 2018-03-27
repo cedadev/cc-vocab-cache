@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "hist-strato3",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "DAMIP"
@@ -34,5 +34,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:hist-strato3",
     "raw_name": "hist-stratO3",
     "status": "pending",
-    "uid": "169daf05-57d1-4caf-9d26-ab401f06c7fb"
+    "uid": "5efc0d17-dc64-4a80-a4f5-7246c2aa0893"
 }

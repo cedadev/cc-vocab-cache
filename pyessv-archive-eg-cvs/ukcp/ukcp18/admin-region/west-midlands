@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "west-midlands",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "label": "west_midlands",
     "namespace": "ukcp:ukcp18:admin-region:west-midlands",
     "raw_name": "west_midlands",
     "status": "pending",
-    "uid": "508d652e-fff9-4781-9c6b-e8fc8e140552"
+    "uid": "57d508ba-82ef-477c-909e-7dc89079a10c"
 }

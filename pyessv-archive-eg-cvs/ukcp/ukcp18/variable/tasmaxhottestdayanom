@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "tasmaxhottestdayanom",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "anomaly_type": "absolute_change",
         "label_units": "\u00b0c",
@@ -31,5 +31,5 @@
     "namespace": "ukcp:ukcp18:variable:tasmaxhottestdayanom",
     "raw_name": "tasmaxHottestDayAnom",
     "status": "pending",
-    "uid": "f6ae2219-c400-4ae6-97fd-72bd1937b506"
+    "uid": "35643ddb-b45d-4694-b0f4-6d55c9fc4154"
 }

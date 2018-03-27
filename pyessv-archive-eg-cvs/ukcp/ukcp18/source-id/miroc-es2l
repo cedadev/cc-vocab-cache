@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "miroc-es2l",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_participation": [
             ""
@@ -54,5 +54,5 @@
     "namespace": "ukcp:ukcp18:source-id:miroc-es2l",
     "raw_name": "MIROC-ES2L",
     "status": "pending",
-    "uid": "9dfa9c05-a77c-4c64-9e86-bfa896787ed1"
+    "uid": "b28f10a9-822b-47d4-9489-22da1709539f"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ism-amip-std",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "ISMIP6"
@@ -29,5 +29,5 @@
     "description": "Offline ice sheet evolution for the last few decades forced by amip",
     "namespace": "ukcp:ukcp18:experiment-id:ism-amip-std",
     "status": "pending",
-    "uid": "5e57091c-82c0-4ba1-b90d-d5f87eb97f07"
+    "uid": "07862c7a-f9fa-4efe-9e98-fd194a16142d"
 }

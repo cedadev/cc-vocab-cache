@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "piclim-2xss",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "AerChemMIP"
@@ -34,5 +34,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:piclim-2xss",
     "raw_name": "piClim-2xss",
     "status": "pending",
-    "uid": "9f7a3e64-53f6-46b5-ac24-aad5feaf0871"
+    "uid": "444aa942-75c4-455c-9902-3db64a2be693"
 }

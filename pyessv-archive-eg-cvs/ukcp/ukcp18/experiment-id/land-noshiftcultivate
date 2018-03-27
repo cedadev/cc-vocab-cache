@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "land-noshiftcultivate",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "LUMIP"
@@ -31,5 +31,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:land-noshiftcultivate",
     "raw_name": "land-noShiftCultivate",
     "status": "pending",
-    "uid": "357a9f6b-cf24-4353-afbd-30761fee3ee1"
+    "uid": "e9e60eb4-e8ac-4d9a-9448-96173a921c93"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "swl",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "label_units": "m",
         "long_name": "Sea water level",
@@ -21,5 +21,5 @@
     "description": "Mean sea level",
     "namespace": "ukcp:ukcp18:variable:swl",
     "status": "pending",
-    "uid": "1c9a9641-8702-4db4-8675-e63d1f1c70b6"
+    "uid": "c4954f5b-dab4-4a06-aeba-5364cd153a36"
 }

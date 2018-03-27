@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "rad-irf",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "RFMIP"
@@ -29,5 +29,5 @@
     "description": "Offline radiation calculations",
     "namespace": "ukcp:ukcp18:experiment-id:rad-irf",
     "status": "pending",
-    "uid": "00190ae6-41f0-44d1-8dfc-effa3b8d8ea4"
+    "uid": "0b238412-83be-4e67-8571-c4a414d1d692"
 }

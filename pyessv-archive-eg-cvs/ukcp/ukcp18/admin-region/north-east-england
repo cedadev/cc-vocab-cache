@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "north-east-england",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "label": "north_east_england",
     "namespace": "ukcp:ukcp18:admin-region:north-east-england",
     "raw_name": "north_east_england",
     "status": "pending",
-    "uid": "ee700a32-1172-43b0-8ed5-8fe2f8b99009"
+    "uid": "9683d278-d19c-47fe-9035-668bdea251ca"
 }

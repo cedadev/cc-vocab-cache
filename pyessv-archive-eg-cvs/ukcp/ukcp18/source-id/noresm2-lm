@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "noresm2-lm",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_participation": [
             "AerChemMIP",
@@ -64,5 +64,5 @@
     "namespace": "ukcp:ukcp18:source-id:noresm2-lm",
     "raw_name": "NorESM2-LM",
     "status": "pending",
-    "uid": "319f4fbe-ec84-45c7-872e-4e58c04a5fce"
+    "uid": "ee242292-cc73-4c17-bfbc-36c104d3d14d"
 }

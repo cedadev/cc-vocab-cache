@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "northern-ireland",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "label": "northern_ireland",
     "namespace": "ukcp:ukcp18:admin-region:northern-ireland",
     "raw_name": "northern_ireland",
     "status": "pending",
-    "uid": "eebe69cc-a9a2-456a-bf83-4fa6a6dc6412"
+    "uid": "4cf22310-a79b-4434-a04c-3e913fa3182c"
 }

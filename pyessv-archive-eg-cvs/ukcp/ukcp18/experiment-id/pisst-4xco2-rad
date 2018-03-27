@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "pisst-4xco2-rad",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "CFMIP"
@@ -34,5 +34,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:pisst-4xco2-rad",
     "raw_name": "piSST-4xCO2-rad",
     "status": "pending",
-    "uid": "9f94a429-6bfe-4a63-9a97-15b4e559c5c2"
+    "uid": "60db5565-863a-426f-bbf8-1a02252e2f2c"
 }

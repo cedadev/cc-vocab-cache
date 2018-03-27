@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "cmcc-cm2-hr5",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_participation": [
             "CMIP",
@@ -55,5 +55,5 @@
     "namespace": "ukcp:ukcp18:source-id:cmcc-cm2-hr5",
     "raw_name": "CMCC-CM2-HR5",
     "status": "pending",
-    "uid": "b7f28b09-f9cb-46b4-a288-f4ff5b96e773"
+    "uid": "c4215163-0754-4648-85e3-56d3d9232d11"
 }

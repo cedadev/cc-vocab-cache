@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "land-cclim",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "LUMIP"
@@ -31,5 +31,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:land-cclim",
     "raw_name": "land-cClim",
     "status": "pending",
-    "uid": "08a2eac9-3eda-4591-a14b-cf15c501d52f"
+    "uid": "a91ff34e-955a-4922-b321-2993af2c639b"
 }

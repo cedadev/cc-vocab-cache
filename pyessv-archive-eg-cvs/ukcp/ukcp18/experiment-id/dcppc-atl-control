@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppc-atl-control",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "DCPP"
@@ -35,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppc-atl-control",
     "raw_name": "dcppC-atl-control",
     "status": "pending",
-    "uid": "2cd2a3c8-a555-4216-bc1f-80eb019bb793"
+    "uid": "26600af0-77f3-498c-8984-57cefcc45653"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "lfmip-pdlc",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "LS3MIP"
@@ -35,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:lfmip-pdlc",
     "raw_name": "lfmip-pdLC",
     "status": "pending",
-    "uid": "100708d6-816f-43af-ad74-2d8a50ca7107"
+    "uid": "e112995a-3d5c-48af-b433-1ea1280863a7"
 }

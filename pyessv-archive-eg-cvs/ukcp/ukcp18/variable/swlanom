@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "swlanom",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "anomaly_type": "absolute_change",
         "label_units": "m",
@@ -24,5 +24,5 @@
     "namespace": "ukcp:ukcp18:variable:swlanom",
     "raw_name": "swlAnom",
     "status": "pending",
-    "uid": "19947a09-4fc4-46db-ba43-45590cd22b7f"
+    "uid": "c78ff63c-254f-4ef7-a83c-1119a3b17db2"
 }

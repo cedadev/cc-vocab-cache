@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ism-picontrol-self",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "ISMIP6"
@@ -31,5 +31,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:ism-picontrol-self",
     "raw_name": "ism-piControl-self",
     "status": "pending",
-    "uid": "72ce4f88-51d9-413d-b91b-5fe85d3038e1"
+    "uid": "9e02fbcf-57aa-4abc-98bc-e61a379eb2c4"
 }

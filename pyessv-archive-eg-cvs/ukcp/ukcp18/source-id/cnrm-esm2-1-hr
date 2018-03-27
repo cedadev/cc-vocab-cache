@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "cnrm-esm2-1-hr",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_participation": [
             ""
@@ -54,5 +54,5 @@
     "namespace": "ukcp:ukcp18:source-id:cnrm-esm2-1-hr",
     "raw_name": "CNRM-ESM2-1-HR",
     "status": "pending",
-    "uid": "ee70edc6-0323-4040-9138-1ce6874aa0b8"
+    "uid": "5ee6affa-9267-4459-bf6b-2260cb33d00d"
 }

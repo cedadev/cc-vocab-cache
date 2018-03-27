@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "sunanom",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "anomaly_type": "absolute_change",
         "label_units": "h",
@@ -32,5 +32,5 @@
     "namespace": "ukcp:ukcp18:variable:sunanom",
     "raw_name": "sunAnom",
     "status": "pending",
-    "uid": "fca7524e-2266-4728-8a51-d4f46682bdc0"
+    "uid": "387526d1-95f3-44df-9e5a-4c94013e27c6"
 }

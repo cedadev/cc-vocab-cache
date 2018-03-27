@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "hist-resamo",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "GMMIP"
@@ -35,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:hist-resamo",
     "raw_name": "hist-resAMO",
     "status": "pending",
-    "uid": "14333f2c-3fe1-49f7-9937-959bf6106c6c"
+    "uid": "3dbe54e6-8614-4a1a-9d89-594db3ae23ff"
 }

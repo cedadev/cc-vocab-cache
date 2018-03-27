@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "highressst-4co2",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "HighResMIP"
@@ -33,5 +33,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:highressst-4co2",
     "raw_name": "highresSST-4co2",
     "status": "pending",
-    "uid": "99145d02-3b10-4af5-b3f0-4ae180dbd1c4"
+    "uid": "afc3f49d-0117-405e-a29c-64540bdf475a"
 }

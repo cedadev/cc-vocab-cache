@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "north-scotland",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "label": "north_scotland",
     "namespace": "ukcp:ukcp18:admin-region:north-scotland",
     "raw_name": "north_scotland",
     "status": "pending",
-    "uid": "d5e88f4b-450b-4c3c-aef2-dc4a3f6e1944"
+    "uid": "73dd5ad1-9ae9-4100-861c-7cfc079f63e9"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ssp370-ssp126lu",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "LUMIP"
@@ -35,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:ssp370-ssp126lu",
     "raw_name": "ssp370-ssp126Lu",
     "status": "pending",
-    "uid": "468a367a-e6fc-4711-8b9a-29d08ec501de"
+    "uid": "67daf627-1989-41b6-8742-1f5ec98392c6"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "rlsanom",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_cmor_tables_row_id": [
@@ -39,5 +39,5 @@
     "namespace": "ukcp:ukcp18:variable:rlsanom",
     "raw_name": "rlsAnom",
     "status": "pending",
-    "uid": "56be6cf6-8fbf-459e-8422-c0e7188e6b2e"
+    "uid": "478aeb98-3a44-4666-b650-dcc1a9f3261c"
 }

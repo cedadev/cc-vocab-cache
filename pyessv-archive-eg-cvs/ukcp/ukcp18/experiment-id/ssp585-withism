@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ssp585-withism",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "ISMIP6"
@@ -34,5 +34,5 @@
     "description": "Future climate from ScenarioMIP SSP5-8.5 simulation that includes interactive ice sheets. Set up follows the standard SSP5-8.5 experiment",
     "namespace": "ukcp:ukcp18:experiment-id:ssp585-withism",
     "status": "pending",
-    "uid": "e229a86b-a5ee-4621-a2b7-3e5e9edb2ca0"
+    "uid": "db14dc59-be0d-47fd-a461-92e78989ccea"
 }

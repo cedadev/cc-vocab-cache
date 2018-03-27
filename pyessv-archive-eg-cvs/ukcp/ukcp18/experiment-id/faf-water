@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "faf-water",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "FAFMIP"
@@ -33,5 +33,5 @@
     "description": "1xCO2 experiment, parallel to piControl, forced over the ocean by surface net freshwater flux anomalies obtained from the CMIP5 ensemble mean of 1pctCO2 experiments at the time of 2xCO2",
     "namespace": "ukcp:ukcp18:experiment-id:faf-water",
     "status": "pending",
-    "uid": "f9cea7e0-9c96-4a09-9b21-baca217471b9"
+    "uid": "cb76d920-62b3-46de-9fe9-ef49ca4912c2"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "sspxy",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "ScenarioMIP"
@@ -33,5 +33,5 @@
     "description": "Future scenario with low radiative forcing by the end of century. Following a forcing pathway below RCP2.6. Specific SSP and 2100 forcing level to be finalized with IAM groups within next few months. Concentration-driven",
     "namespace": "ukcp:ukcp18:experiment-id:sspxy",
     "status": "pending",
-    "uid": "d11512c6-7cbb-471c-83d6-0b3b31dabaf2"
+    "uid": "95ba6476-9b2a-4ccd-961f-49d3b71313f8"
 }

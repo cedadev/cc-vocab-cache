@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "sse",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "label_units": "m",
         "long_name": "Sea surface elevation",
@@ -26,5 +26,5 @@
     "description": "Sea surface elevation above the mean level",
     "namespace": "ukcp:ukcp18:variable:sse",
     "status": "pending",
-    "uid": "c480d995-2616-410b-b26c-402484de54b7"
+    "uid": "172060ba-2932-41ba-9878-d1d1e68738ed"
 }

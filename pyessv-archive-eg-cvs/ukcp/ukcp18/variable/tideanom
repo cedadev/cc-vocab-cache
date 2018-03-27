@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "tideanom",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_standard_name": "sea_surface_height_above_mean_sea_level",
@@ -28,5 +28,5 @@
     "namespace": "ukcp:ukcp18:variable:tideanom",
     "raw_name": "tideAnom",
     "status": "pending",
-    "uid": "4bb5b34a-5f56-44a8-b2aa-e31df8bd85e6"
+    "uid": "338d01f4-87fe-4ebe-a3a0-54a07257c3ac"
 }

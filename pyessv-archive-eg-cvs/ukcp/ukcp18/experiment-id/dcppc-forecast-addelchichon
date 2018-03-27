@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppc-forecast-addelchichon",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "DCPP"
@@ -37,5 +37,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppc-forecast-addelchichon",
     "raw_name": "dcppC-forecast-addElChichon",
     "status": "pending",
-    "uid": "fa863512-7c5f-4dbd-be80-81f40cf7beee"
+    "uid": "b8be5229-672c-4cd0-81d6-cc06b30da1b5"
 }

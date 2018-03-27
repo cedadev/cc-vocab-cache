@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "amip-tip",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "GMMIP"
@@ -34,5 +34,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:amip-tip",
     "raw_name": "amip-TIP",
     "status": "pending",
-    "uid": "4e55c20f-589a-4cbe-b682-b865bca7f7fb"
+    "uid": "5864004d-bc3c-402d-b057-a02eda74f772"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "gfdl-am4",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_participation": [
             "CMIP"
@@ -54,5 +54,5 @@
     "namespace": "ukcp:ukcp18:source-id:gfdl-am4",
     "raw_name": "GFDL-AM4",
     "status": "pending",
-    "uid": "b6f0b343-b689-4274-80e7-92f56dc1adb8"
+    "uid": "9b01aa82-3c1a-4e7a-83c4-7997c4d57020"
 }

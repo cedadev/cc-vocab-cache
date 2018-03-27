@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "noresm2-hh",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_participation": [
             "HighResMIP"
@@ -54,5 +54,5 @@
     "namespace": "ukcp:ukcp18:source-id:noresm2-hh",
     "raw_name": "NorESM2-HH",
     "status": "pending",
-    "uid": "79e8cd92-d8cd-459d-b6b6-38a9bdb9ae81"
+    "uid": "5b6c8200-f330-428c-ab57-93856f3edae8"
 }

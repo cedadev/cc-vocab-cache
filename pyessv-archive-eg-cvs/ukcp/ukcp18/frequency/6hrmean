@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "6hrmean",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "label": "6hrMean",
     "namespace": "ukcp:ukcp18:frequency:6hrmean",
     "raw_name": "6hrMean",
     "status": "pending",
-    "uid": "d9232bf9-5447-46cc-a457-8b4d24446d18"
+    "uid": "ec283d21-680e-47cd-b6b8-243b2bb18f49"
 }

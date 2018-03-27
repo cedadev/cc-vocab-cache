@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppc-pac-control",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "DCPP"
@@ -35,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppc-pac-control",
     "raw_name": "dcppC-pac-control",
     "status": "pending",
-    "uid": "5ebd0d2a-89ff-439c-b476-a5a2b52a4d03"
+    "uid": "8f3586cb-8548-47f8-a67c-7d16a48a9d36"
 }

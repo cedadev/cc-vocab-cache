@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "rls",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "cmip6_cmor_tables_row_id": [
             "1317",
@@ -36,5 +36,5 @@
     "description": "Net Surface long wave flux",
     "namespace": "ukcp:ukcp18:variable:rls",
     "status": "pending",
-    "uid": "e1fb6412-2238-4f6d-b493-fb4542b1e746"
+    "uid": "c7552646-944b-4737-aab4-ab13b2c14fec"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "sseanom",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "anomaly_type": "absolute_change",
         "label_units": "m",
@@ -29,5 +29,5 @@
     "namespace": "ukcp:ukcp18:variable:sseanom",
     "raw_name": "sseAnom",
     "status": "pending",
-    "uid": "e3dd3e78-199b-4b90-94ba-b483690eb3bb"
+    "uid": "29731d73-6162-45f8-b0e0-5baf456143f6"
 }

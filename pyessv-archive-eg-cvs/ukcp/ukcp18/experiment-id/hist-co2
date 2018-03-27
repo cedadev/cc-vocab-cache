@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "hist-co2",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "DAMIP"
@@ -35,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:hist-co2",
     "raw_name": "hist-CO2",
     "status": "pending",
-    "uid": "b716a3eb-3169-49cc-b13d-0d70f06852b6"
+    "uid": "a180ce7a-2528-4afa-99da-b48dbb4f4b20"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "picontrol-spinup",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "CMIP"
@@ -35,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:picontrol-spinup",
     "raw_name": "piControl-spinup",
     "status": "pending",
-    "uid": "7edbb857-dc35-4852-9edb-1bc61f2a03e8"
+    "uid": "2e564bc0-770c-437a-bb2c-70d76beef333"
 }

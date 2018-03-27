@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "abrupt-2xco2",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "CFMIP"
@@ -35,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:abrupt-2xco2",
     "raw_name": "abrupt-2xCO2",
     "status": "pending",
-    "uid": "3bbffb96-38e8-401e-ae6b-6a039a7a0fcb"
+    "uid": "a88c43c6-7174-46b5-826c-0a87cf5293e7"
 }

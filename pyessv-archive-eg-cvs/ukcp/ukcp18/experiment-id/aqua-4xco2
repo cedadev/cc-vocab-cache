@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "aqua-4xco2",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "CFMIP"
@@ -34,5 +34,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:aqua-4xco2",
     "raw_name": "aqua-4xCO2",
     "status": "pending",
-    "uid": "7b7382be-5880-4742-8385-2273ae7566f4"
+    "uid": "183875ed-8938-471b-b4a2-a19155fdfb9f"
 }

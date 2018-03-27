@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "p500",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "axis": "Z",
         "bounds_values": "",
@@ -20,5 +20,5 @@
     },
     "namespace": "ukcp:ukcp18:coordinate:p500",
     "status": "pending",
-    "uid": "d9552b46-893a-438c-b99f-c1c446deab68"
+    "uid": "3bb45264-4133-467a-a9c4-cb67bb5fe8d7"
 }

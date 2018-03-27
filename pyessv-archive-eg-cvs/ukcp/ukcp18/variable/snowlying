@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "snowlying",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "label_units": "mm",
         "long_name": "Depth of snow lying on the ground",
@@ -31,5 +31,5 @@
     "namespace": "ukcp:ukcp18:variable:snowlying",
     "raw_name": "snowLying",
     "status": "pending",
-    "uid": "22d4df70-5480-417a-9964-cca7b712440d"
+    "uid": "b442b5b3-7e32-4dc7-bac6-a89dd78c1856"
 }

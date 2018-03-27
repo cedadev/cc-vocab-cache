@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "volc-cluster-21c",
-    "create_date": "2018-03-26 11:31:41.770050",
+    "create_date": "2018-03-27 14:25:41.299475+00:00",
     "data": {
         "activity_id": [
             "VolMIP"
@@ -35,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:volc-cluster-21c",
     "raw_name": "volc-cluster-21C",
     "status": "pending",
-    "uid": "773685fd-ce9b-423f-9ece-870ee84f1267"
+    "uid": "b503cf46-4263-42f9-b068-f6001d5cd356"
 }
