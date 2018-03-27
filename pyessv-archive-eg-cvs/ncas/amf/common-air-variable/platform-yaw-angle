@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 5,
     "label": "platform_yaw_angle",
+    "namespace": "ncas:amf:common-air-variable:platform-yaw-angle",
     "raw_name": "platform_yaw_angle",
     "status": "pending",
     "uid": "ce22f976-87ff-4bb9-a793-fdb73a8a55e5"

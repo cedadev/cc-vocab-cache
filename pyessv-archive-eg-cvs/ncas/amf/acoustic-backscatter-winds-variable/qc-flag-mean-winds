@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 11,
     "label": "qc_flag_mean_winds",
+    "namespace": "ncas:amf:acoustic-backscatter-winds-variable:qc-flag-mean-winds",
     "raw_name": "qc_flag_mean_winds",
     "status": "pending",
     "uid": "3ad7c806-b842-4787-879b-33e50a91c4d9"

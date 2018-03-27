@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 11,
     "label": "wind_from_direction",
+    "namespace": "ncas:amf:surface-met-variable:wind-from-direction",
     "raw_name": "wind_from_direction",
     "status": "pending",
     "uid": "9b2e9e6b-d7b8-49e0-8241-30e2c1b3059c"

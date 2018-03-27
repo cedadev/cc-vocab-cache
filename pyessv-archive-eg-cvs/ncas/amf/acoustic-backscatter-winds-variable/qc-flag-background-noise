@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 4,
     "label": "qc_flag_background_noise",
+    "namespace": "ncas:amf:acoustic-backscatter-winds-variable:qc-flag-background-noise",
     "raw_name": "qc_flag_background_noise",
     "status": "pending",
     "uid": "c640864b-b4ea-41a1-84d5-1ea9540d03f4"

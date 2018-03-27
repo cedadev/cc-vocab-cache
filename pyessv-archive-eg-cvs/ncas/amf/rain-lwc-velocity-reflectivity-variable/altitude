@@ -15,9 +15,7 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 3,
-    "label": "altitude",
-    "raw_name": "altitude",
+    "namespace": "ncas:amf:rain-lwc-velocity-reflectivity-variable:altitude",
     "status": "pending",
     "uid": "1b73c2bf-aa82-4d26-9f97-360c29d361cd"
 }

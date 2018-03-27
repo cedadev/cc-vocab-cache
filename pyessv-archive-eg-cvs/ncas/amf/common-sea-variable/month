@@ -11,9 +11,7 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 14,
-    "label": "month",
-    "raw_name": "month",
+    "namespace": "ncas:amf:common-sea-variable:month",
     "status": "pending",
     "uid": "f5f17605-94ee-46ff-9762-955a106f9f5b"
 }

@@ -1,45 +1,45 @@
 {
-    "_type": "term", 
-    "canonical_name": "psl", 
-    "create_date": "2018-03-22 15:45:36.922170+00:00", 
+    "_type": "term",
+    "canonical_name": "psl",
+    "create_date": "2018-03-26 11:31:41.770050",
     "data": {
         "cmip6_cmor_tables_row_id": [
-            "1235", 
-            "1237", 
+            "1235",
+            "1237",
             "1240"
-        ], 
-        "cmip6_name": "psl", 
-        "cmip6_standard_name": "air_pressure_at_sea_level", 
-        "label_units": "hPa", 
-        "long_name": "Pressure at mean sea level", 
+        ],
+        "cmip6_name": "psl",
+        "cmip6_standard_name": "air_pressure_at_sea_level",
+        "label_units": "hPa",
+        "long_name": "Pressure at mean sea level",
         "notes": [
             "Use WPS for LS1-3"
-        ], 
-        "plot_label": "Sea level pressure (hPa)", 
-        "standard_name": "air_pressure_at_sea_level", 
+        ],
+        "plot_label": "Sea level pressure (hPa)",
+        "standard_name": "air_pressure_at_sea_level",
         "strand": [
-            "land strand 1", 
-            "land strand 2", 
-            "land strand 3 12km", 
-            "land strand 3 2km", 
-            "marine", 
+            "land strand 1",
+            "land strand 2",
+            "land strand 3 12km",
+            "land strand 3 2km",
+            "marine",
             "observations"
-        ], 
+        ],
         "time_averaging": [
-            "LTA", 
-            "intantaneous", 
+            "LTA",
+            "intantaneous",
             "mean"
-        ], 
+        ],
         "time_step": [
-            "6hr", 
-            "day", 
+            "6hr",
+            "day",
             "mon"
-        ], 
-        "um_stash": "16222", 
+        ],
+        "um_stash": "16222",
         "units": "hPa"
-    }, 
-    "description": "Sea level pressure", 
-    "namespace": "ukcp:ukcp18:variable:psl", 
-    "status": "pending", 
-    "uid": "6e913830-7dc7-4273-99e8-218d792770cf"
+    },
+    "description": "Sea level pressure",
+    "namespace": "ukcp:ukcp18:variable:psl",
+    "status": "pending",
+    "uid": "87debb08-b4e2-460b-ad4e-e7ae92759bac"
 }

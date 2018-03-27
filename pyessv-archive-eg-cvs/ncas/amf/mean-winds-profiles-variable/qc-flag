@@ -11,8 +11,8 @@
         "type": "int32",
         "units": "1"
     },
-    "idx": 3,
     "label": "qc_flag",
+    "namespace": "ncas:amf:mean-winds-profiles-variable:qc-flag",
     "raw_name": "qc_flag",
     "status": "pending",
     "uid": "c6ab1e7c-dbbf-491c-82c1-83159a5d931b"

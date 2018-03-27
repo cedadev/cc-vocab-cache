@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 7,
     "label": "qc_flag",
+    "namespace": "ncas:amf:sonde-variable:qc-flag",
     "raw_name": "qc_flag",
     "status": "pending",
     "uid": "61d8dfda-67bd-4b9e-84a4-d93348d500a9"

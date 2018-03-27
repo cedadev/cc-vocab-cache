@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 5,
     "label": "upwelling_shortwave_flux_in_air",
+    "namespace": "ncas:amf:radiation-variable:upwelling-shortwave-flux-in-air",
     "raw_name": "upwelling_shortwave_flux_in_air",
     "status": "pending",
     "uid": "1cb606a7-6cff-4771-887b-6b156714d0bf"

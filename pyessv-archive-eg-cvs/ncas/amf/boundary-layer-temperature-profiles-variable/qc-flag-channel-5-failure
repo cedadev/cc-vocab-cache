@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 6,
     "label": "qc_flag_channel_5_failure",
+    "namespace": "ncas:amf:boundary-layer-temperature-profiles-variable:qc-flag-channel-5-failure",
     "raw_name": "qc_flag_channel_5_failure",
     "status": "pending",
     "uid": "2c229465-4478-4e4b-a5fb-328b6bb67632"

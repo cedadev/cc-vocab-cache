@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 8,
     "label": "platform_speed_wrt_air",
+    "namespace": "ncas:amf:common-air-variable:platform-speed-wrt-air",
     "raw_name": "platform_speed_wrt_air",
     "status": "pending",
     "uid": "d2ba373a-2050-4aeb-8802-02ce46659bb0"

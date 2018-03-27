@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 4,
     "label": "divergence_of_northward_wind",
+    "namespace": "ncas:amf:mean-winds-variable:divergence-of-northward-wind",
     "raw_name": "divergence_of_northward_wind",
     "status": "pending",
     "uid": "8c66327e-8ab4-4106-8a32-158d7c7540ed"

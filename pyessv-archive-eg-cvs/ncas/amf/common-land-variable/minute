@@ -11,9 +11,7 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 9,
-    "label": "minute",
-    "raw_name": "minute",
+    "namespace": "ncas:amf:common-land-variable:minute",
     "status": "pending",
     "uid": "91481448-bc44-4f1a-a9a1-76ef9ed4c5e0"
 }

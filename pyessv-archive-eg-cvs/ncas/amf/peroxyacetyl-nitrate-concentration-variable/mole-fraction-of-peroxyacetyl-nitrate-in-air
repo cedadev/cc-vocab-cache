@@ -16,8 +16,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 0,
     "label": "mole_fraction_of_peroxyacetyl_nitrate_in_air",
+    "namespace": "ncas:amf:peroxyacetyl-nitrate-concentration-variable:mole-fraction-of-peroxyacetyl-nitrate-in-air",
     "raw_name": "mole_fraction_of_peroxyacetyl_nitrate_in_air",
     "status": "pending",
     "uid": "50d718c8-2fb7-484a-9f2f-cb984591b217"

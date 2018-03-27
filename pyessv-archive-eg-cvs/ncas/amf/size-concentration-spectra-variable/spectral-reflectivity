@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 3,
     "label": "spectral_reflectivity",
+    "namespace": "ncas:amf:size-concentration-spectra-variable:spectral-reflectivity",
     "raw_name": "spectral_reflectivity",
     "status": "pending",
     "uid": "6d934e9f-449e-4709-9151-ffd9b21fffc0"

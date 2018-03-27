@@ -14,9 +14,7 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 13,
-    "label": "time",
-    "raw_name": "time",
+    "namespace": "ncas:amf:common-air-variable:time",
     "status": "pending",
     "uid": "2a7eb3d9-bfd8-4c3d-aebb-1d6e77e9a9e1"
 }

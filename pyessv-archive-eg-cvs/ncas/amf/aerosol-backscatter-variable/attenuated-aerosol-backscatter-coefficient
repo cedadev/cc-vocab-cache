@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 1,
     "label": "attenuated_aerosol_backscatter_coefficient",
+    "namespace": "ncas:amf:aerosol-backscatter-variable:attenuated-aerosol-backscatter-coefficient",
     "raw_name": "attenuated_aerosol_backscatter_coefficient",
     "status": "pending",
     "uid": "32fb2a6d-fb81-4088-971b-95146ae0fa1a"

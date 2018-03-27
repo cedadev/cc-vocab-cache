@@ -11,9 +11,7 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 6,
-    "label": "year",
-    "raw_name": "year",
+    "namespace": "ncas:amf:common-land-variable:year",
     "status": "pending",
     "uid": "a495be6d-e5e4-45b8-9228-6df7aa99b700"
 }

@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 12,
     "label": "signal_to_noise_ratio_minimum",
+    "namespace": "ncas:amf:snr-winds-variable:signal-to-noise-ratio-minimum",
     "raw_name": "signal_to_noise_ratio_minimum",
     "status": "pending",
     "uid": "1c94e110-5b2b-4b35-b5e7-3d2f42f8cf77"

@@ -11,9 +11,7 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 5,
-    "label": "second",
-    "raw_name": "second",
+    "namespace": "ncas:amf:common-land-variable:second",
     "status": "pending",
     "uid": "f2091863-8335-4189-a0e4-7c0b2146f0c3"
 }

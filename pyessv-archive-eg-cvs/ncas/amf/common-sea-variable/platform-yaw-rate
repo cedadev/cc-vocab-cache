@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 8,
     "label": "platform_yaw_rate",
+    "namespace": "ncas:amf:common-sea-variable:platform-yaw-rate",
     "raw_name": "platform_yaw_rate",
     "status": "pending",
     "uid": "d2668251-d597-438e-ad87-0165e915cb7c"

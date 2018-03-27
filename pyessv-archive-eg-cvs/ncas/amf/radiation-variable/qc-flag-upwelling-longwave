@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 0,
     "label": "qc_flag_upwelling_longwave",
+    "namespace": "ncas:amf:radiation-variable:qc-flag-upwelling-longwave",
     "raw_name": "qc_flag_upwelling_longwave",
     "status": "pending",
     "uid": "f8199c7c-f4ee-4d39-905a-67ab6f59b89d"

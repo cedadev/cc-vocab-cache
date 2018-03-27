@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 4,
     "label": "soil_temperature",
+    "namespace": "ncas:amf:soil-variable:soil-temperature",
     "raw_name": "soil_temperature",
     "status": "pending",
     "uid": "c6a52ccb-ba72-4e9c-b7d3-ae7da43bdafc"

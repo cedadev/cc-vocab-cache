@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 10,
     "label": "platform_roll_rate",
+    "namespace": "ncas:amf:common-sea-variable:platform-roll-rate",
     "raw_name": "platform_roll_rate",
     "status": "pending",
     "uid": "3c5d8d6b-bedb-45be-a3cc-4c5032f882b2"

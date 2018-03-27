@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 6,
     "label": "atmosphere_stability_showalter_index",
+    "namespace": "ncas:amf:stability-indices-variable:atmosphere-stability-showalter-index",
     "raw_name": "atmosphere_stability_showalter_index",
     "status": "pending",
     "uid": "64e28ba6-34f5-4855-acfc-f80edb289bda"

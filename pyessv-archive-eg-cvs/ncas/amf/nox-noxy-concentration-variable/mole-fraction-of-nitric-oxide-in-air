@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 0,
     "label": "mole_fraction_of_nitric_oxide_in_air",
+    "namespace": "ncas:amf:nox-noxy-concentration-variable:mole-fraction-of-nitric-oxide-in-air",
     "raw_name": "mole_fraction_of_nitric_oxide_in_air",
     "status": "pending",
     "uid": "acfb54bc-7599-4575-bf16-92dcd8ff8043"

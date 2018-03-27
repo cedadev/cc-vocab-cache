@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 4,
     "label": "qc_flag",
+    "namespace": "ncas:amf:oh-concentration-variable:qc-flag",
     "raw_name": "qc_flag",
     "status": "pending",
     "uid": "bbebea3d-3296-40dd-a61b-9f617ebd7b41"

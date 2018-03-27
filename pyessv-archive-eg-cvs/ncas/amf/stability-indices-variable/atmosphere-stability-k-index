@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 16,
     "label": "atmosphere_stability_k_index",
+    "namespace": "ncas:amf:stability-indices-variable:atmosphere-stability-k-index",
     "raw_name": "atmosphere_stability_k_index",
     "status": "pending",
     "uid": "0e99cd97-125d-46c1-b900-a25eb214ce89"

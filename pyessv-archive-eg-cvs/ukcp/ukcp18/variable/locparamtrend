@@ -1,28 +1,28 @@
 {
-    "_type": "term", 
-    "canonical_name": "locparamtrend", 
-    "create_date": "2018-03-22 15:45:36.922170+00:00", 
+    "_type": "term",
+    "canonical_name": "locparamtrend",
+    "create_date": "2018-03-26 11:31:41.770050",
     "data": {
-        "label_units": "m y-1", 
-        "long_name": "Trend in skew surge location parameter", 
-        "plot_label": "Trend in skew surge location parameter (m year-1)", 
+        "label_units": "m y-1",
+        "long_name": "Trend in skew surge location parameter",
+        "plot_label": "Trend in skew surge location parameter (m year-1)",
         "strand": [
-            "land strand 1", 
-            "land strand 2", 
-            "land strand 3 12km", 
-            "land strand 3 2km", 
-            "marine", 
+            "land strand 1",
+            "land strand 2",
+            "land strand 3 12km",
+            "land strand 3 2km",
+            "marine",
             "observations"
-        ], 
+        ],
         "time_step": [
             "n/a"
-        ], 
+        ],
         "units": "m y-1"
-    }, 
-    "description": "Trend in skew surge location parameter", 
-    "label": "locParamTrend", 
-    "namespace": "ukcp:ukcp18:variable:locparamtrend", 
-    "raw_name": "locParamTrend", 
-    "status": "pending", 
-    "uid": "dda986ac-bdf8-4d6a-b427-458c7606a756"
+    },
+    "description": "Trend in skew surge location parameter",
+    "label": "locParamTrend",
+    "namespace": "ukcp:ukcp18:variable:locparamtrend",
+    "raw_name": "locParamTrend",
+    "status": "pending",
+    "uid": "d76d4aca-d720-43f9-a3f4-1749123d640c"
 }

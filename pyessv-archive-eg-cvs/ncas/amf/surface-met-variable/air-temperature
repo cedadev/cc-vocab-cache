@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 9,
     "label": "air_temperature",
+    "namespace": "ncas:amf:surface-met-variable:air-temperature",
     "raw_name": "air_temperature",
     "status": "pending",
     "uid": "40ffbebc-bd6d-49a0-8d23-5b5072e32f8c"

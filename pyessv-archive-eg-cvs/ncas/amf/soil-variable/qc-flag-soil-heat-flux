@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 3,
     "label": "qc_flag_soil_heat_flux",
+    "namespace": "ncas:amf:soil-variable:qc-flag-soil-heat-flux",
     "raw_name": "qc_flag_soil_heat_flux",
     "status": "pending",
     "uid": "df230925-fcbd-4a00-879b-72dbbf482d72"

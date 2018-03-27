@@ -15,9 +15,7 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 2,
-    "label": "altitude",
-    "raw_name": "altitude",
+    "namespace": "ncas:amf:size-concentration-spectra-variable:altitude",
     "status": "pending",
     "uid": "f2f9b5f6-d5b0-43cc-8a5b-d9b035b59299"
 }

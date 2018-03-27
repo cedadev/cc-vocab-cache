@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 7,
     "label": "tilt_angle",
+    "namespace": "ncas:amf:aerosol-backscatter-variable:tilt-angle",
     "raw_name": "tilt_angle",
     "status": "pending",
     "uid": "076c21c9-cd5a-4482-b5bf-e934501d0cbd"

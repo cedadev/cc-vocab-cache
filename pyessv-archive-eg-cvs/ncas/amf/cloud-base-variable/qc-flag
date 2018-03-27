@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 5,
     "label": "qc_flag",
+    "namespace": "ncas:amf:cloud-base-variable:qc-flag",
     "raw_name": "qc_flag",
     "status": "pending",
     "uid": "03f36b07-6da4-4846-9469-2275406fa712"

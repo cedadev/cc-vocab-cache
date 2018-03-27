@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 0,
     "label": "dew_point_temperature",
+    "namespace": "ncas:amf:dew-point-variable:dew-point-temperature",
     "raw_name": "dew_point_temperature",
     "status": "pending",
     "uid": "5cd51d08-1049-4301-9eae-c33e79732feb"

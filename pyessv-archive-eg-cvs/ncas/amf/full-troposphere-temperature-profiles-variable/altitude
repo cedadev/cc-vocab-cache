@@ -15,9 +15,7 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 5,
-    "label": "altitude",
-    "raw_name": "altitude",
+    "namespace": "ncas:amf:full-troposphere-temperature-profiles-variable:altitude",
     "status": "pending",
     "uid": "9fb5463c-db22-4fdb-b705-0d77026ec525"
 }

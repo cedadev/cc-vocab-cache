@@ -1,35 +1,35 @@
 {
-    "_type": "term", 
-    "canonical_name": "se", 
-    "create_date": "2018-03-22 15:45:36.922170+00:00", 
+    "_type": "term",
+    "canonical_name": "se",
+    "create_date": "2018-03-26 11:31:41.770050",
     "data": {
-        "label_units": "mm/day", 
-        "level": "Surface", 
-        "long_name": "Surface evaporation", 
+        "label_units": "mm/day",
+        "level": "Surface",
+        "long_name": "Surface evaporation",
         "notes": [
             "evspsbl"
-        ], 
-        "plot_label": "Surface evaporation at Surface (mm/day)", 
-        "standard_name": "surface_upward_water_flux", 
+        ],
+        "plot_label": "Surface evaporation at Surface (mm/day)",
+        "standard_name": "surface_upward_water_flux",
         "strand": [
-            "land strand 1", 
-            "land strand 2", 
-            "land strand 3 12km", 
-            "land strand 3 2km", 
-            "marine", 
+            "land strand 1",
+            "land strand 2",
+            "land strand 3 12km",
+            "land strand 3 2km",
+            "marine",
             "observations"
-        ], 
+        ],
         "time_averaging": [
             "mean"
-        ], 
+        ],
         "time_step": [
             "day"
-        ], 
-        "um_stash": "03223", 
+        ],
+        "um_stash": "03223",
         "units": "mm/day"
-    }, 
-    "description": "Surface evaporation", 
-    "namespace": "ukcp:ukcp18:variable:se", 
-    "status": "pending", 
-    "uid": "311886ef-17db-4de9-95fd-8ad9035f0428"
+    },
+    "description": "Surface evaporation",
+    "namespace": "ukcp:ukcp18:variable:se",
+    "status": "pending",
+    "uid": "9aefb5fa-80f8-4e0e-a88b-9adfef791bca"
 }

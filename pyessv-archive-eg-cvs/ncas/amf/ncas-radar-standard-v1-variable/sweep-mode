@@ -9,8 +9,8 @@
         "options": "sector, coplane, rhi, vertical_pointing, idle, azimuth_surveillance, elevation_surveillance, sunscan, pointing, calibration, manual_ppi, manual_rhi, sunscan_rhi",
         "type": "char"
     },
-    "idx": 9,
     "label": "sweep_mode",
+    "namespace": "ncas:amf:ncas-radar-standard-v1-variable:sweep-mode",
     "raw_name": "sweep_mode",
     "status": "pending",
     "uid": "637b1205-54a4-42f7-b44d-cfdda091e9a6"

@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 4,
     "label": "air_pressure",
+    "namespace": "ncas:amf:sonde-variable:air-pressure",
     "raw_name": "air_pressure",
     "status": "pending",
     "uid": "6092d8d6-4013-4023-8ab8-c825e9b88738"

@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 13,
     "label": "downwelling_longwave_flux_in_air",
+    "namespace": "ncas:amf:surface-met-variable:downwelling-longwave-flux-in-air",
     "raw_name": "downwelling_longwave_flux_in_air",
     "status": "pending",
     "uid": "427707bc-4f6c-4baf-8160-7dd0b8e1eba6"

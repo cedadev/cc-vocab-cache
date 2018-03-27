@@ -10,8 +10,8 @@
         "type": "int",
         "units": "1"
     },
-    "idx": 12,
     "label": "sweep_number",
+    "namespace": "ncas:amf:ncas-radar-standard-v1-variable:sweep-number",
     "raw_name": "sweep_number",
     "status": "pending",
     "uid": "c3c1e8c5-6bfb-4217-a798-663dbed829f1"

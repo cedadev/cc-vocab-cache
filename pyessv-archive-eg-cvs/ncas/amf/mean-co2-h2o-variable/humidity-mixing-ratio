@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 0,
     "label": "humidity_mixing_ratio",
+    "namespace": "ncas:amf:mean-co2-h2o-variable:humidity-mixing-ratio",
     "raw_name": "humidity_mixing_ratio",
     "status": "pending",
     "uid": "bf19e39f-2943-442d-ac4f-5154200afafb"

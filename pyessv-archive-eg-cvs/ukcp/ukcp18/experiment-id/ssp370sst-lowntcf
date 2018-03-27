@@ -1,39 +1,39 @@
 {
-    "_type": "term", 
-    "canonical_name": "ssp370sst-lowntcf", 
-    "create_date": "2018-03-22 15:45:36.922170+00:00", 
+    "_type": "term",
+    "canonical_name": "ssp370sst-lowntcf",
+    "create_date": "2018-03-26 11:31:41.770050",
     "data": {
         "activity_id": [
             "AerChemMIP"
-        ], 
+        ],
         "additional_allowed_model_components": [
-            "CHEM", 
+            "CHEM",
             "BGC"
-        ], 
-        "end_year": "2055", 
-        "experiment": "SSP3-7.0, prescribed SSTs, with low NTCF emissions", 
-        "experiment_id": "ssp370SST-lowNTCF", 
-        "min_number_yrs_per_sim": "41", 
+        ],
+        "end_year": "2055",
+        "experiment": "SSP3-7.0, prescribed SSTs, with low NTCF emissions",
+        "experiment_id": "ssp370SST-lowNTCF",
+        "min_number_yrs_per_sim": "41",
         "parent_activity_id": [
             "ScenarioMIP"
-        ], 
+        ],
         "parent_experiment_id": [
             "ssp370"
-        ], 
+        ],
         "required_model_components": [
-            "AGCM", 
+            "AGCM",
             "AER"
-        ], 
-        "start_year": "2015", 
+        ],
+        "start_year": "2015",
         "sub_experiment_id": [
             "none"
-        ], 
+        ],
         "tier": "1"
-    }, 
-    "description": "Future SSP3-7.0 with reduced NTCF emissions, prescribed SSTs", 
-    "label": "ssp370SST-lowNTCF", 
-    "namespace": "ukcp:ukcp18:experiment-id:ssp370sst-lowntcf", 
-    "raw_name": "ssp370SST-lowNTCF", 
-    "status": "pending", 
-    "uid": "c85b0e44-119a-4e40-be01-8a0e3a0197aa"
+    },
+    "description": "Future SSP3-7.0 with reduced NTCF emissions, prescribed SSTs",
+    "label": "ssp370SST-lowNTCF",
+    "namespace": "ukcp:ukcp18:experiment-id:ssp370sst-lowntcf",
+    "raw_name": "ssp370SST-lowNTCF",
+    "status": "pending",
+    "uid": "4e6c300e-206a-4a7e-b907-87727e6e1f69"
 }

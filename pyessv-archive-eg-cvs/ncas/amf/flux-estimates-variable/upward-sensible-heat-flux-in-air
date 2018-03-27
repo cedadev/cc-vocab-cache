@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 13,
     "label": "upward_sensible_heat_flux_in_air",
+    "namespace": "ncas:amf:flux-estimates-variable:upward-sensible-heat-flux-in-air",
     "raw_name": "upward_sensible_heat_flux_in_air",
     "status": "pending",
     "uid": "fddf736a-82eb-466d-bc57-18d2610df1d1"

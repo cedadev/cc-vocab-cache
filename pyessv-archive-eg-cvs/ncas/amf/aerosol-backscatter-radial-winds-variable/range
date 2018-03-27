@@ -13,9 +13,7 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 1,
-    "label": "range",
-    "raw_name": "range",
+    "namespace": "ncas:amf:aerosol-backscatter-radial-winds-variable:range",
     "status": "pending",
     "uid": "869a4895-6364-47bf-bb05-9ef6bb19165d"
 }

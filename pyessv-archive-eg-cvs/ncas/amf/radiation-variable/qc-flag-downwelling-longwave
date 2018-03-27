@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 9,
     "label": "qc_flag_downwelling_longwave",
+    "namespace": "ncas:amf:radiation-variable:qc-flag-downwelling-longwave",
     "raw_name": "qc_flag_downwelling_longwave",
     "status": "pending",
     "uid": "afae5e1c-ab8f-4b54-94e9-f6c58a42e22f"

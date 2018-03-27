@@ -10,8 +10,8 @@
         "options": "none, sun, vehicle, aircraft, target, manual",
         "type": "char"
     },
-    "idx": 3,
     "label": "follow_mode",
+    "namespace": "ncas:amf:ncas-radar-standard-v1-variable:follow-mode",
     "raw_name": "follow_mode",
     "status": "pending",
     "uid": "1adbc918-9a10-486d-ab10-60a6ca032b82"

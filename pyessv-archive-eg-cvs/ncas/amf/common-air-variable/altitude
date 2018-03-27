@@ -16,9 +16,7 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 4,
-    "label": "altitude",
-    "raw_name": "altitude",
+    "namespace": "ncas:amf:common-air-variable:altitude",
     "status": "pending",
     "uid": "e7f6e01a-29b6-4068-b84c-e59e3e476f69"
 }

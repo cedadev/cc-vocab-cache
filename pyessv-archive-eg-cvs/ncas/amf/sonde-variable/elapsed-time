@@ -13,8 +13,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 5,
     "label": "elapsed_time",
+    "namespace": "ncas:amf:sonde-variable:elapsed-time",
     "raw_name": "elapsed_time",
     "status": "pending",
     "uid": "4381e14b-4a79-4dc0-a7b8-91966c8088b0"

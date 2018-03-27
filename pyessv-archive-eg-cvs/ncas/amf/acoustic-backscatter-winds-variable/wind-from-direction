@@ -15,8 +15,8 @@
         "valid_max": "<derived form file>",
         "valid_min": "<derived form file>"
     },
-    "idx": 12,
     "label": "wind_from_direction",
+    "namespace": "ncas:amf:acoustic-backscatter-winds-variable:wind-from-direction",
     "raw_name": "wind_from_direction",
     "status": "pending",
     "uid": "9b195efc-0817-46d9-abca-466dca342a93"

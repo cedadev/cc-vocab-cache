@@ -6,9 +6,7 @@
         "length": 1,
         "units": "degrees_east"
     },
-    "idx": 2,
-    "label": "longitude",
-    "raw_name": "longitude",
+    "namespace": "ncas:amf:common-land-dimension:longitude",
     "status": "pending",
     "uid": "d1a8b2fc-acbb-403f-855a-08b62a60b649"
 }

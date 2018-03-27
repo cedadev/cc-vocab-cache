@@ -8,9 +8,7 @@
         "type": "int32",
         "units": "1"
     },
-    "idx": 1,
-    "label": "hour",
-    "raw_name": "hour",
+    "namespace": "ncas:amf:common-sea-variable:hour",
     "status": "pending",
     "uid": "56703771-f198-436f-967e-a30c265005df"
 }

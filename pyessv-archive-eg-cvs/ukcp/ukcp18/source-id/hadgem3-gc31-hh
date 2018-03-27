@@ -1,58 +1,58 @@
 {
-    "_type": "term", 
-    "canonical_name": "hadgem3-gc31-hh", 
-    "create_date": "2018-03-22 15:45:36.922170+00:00", 
+    "_type": "term",
+    "canonical_name": "hadgem3-gc31-hh",
+    "create_date": "2018-03-26 11:31:41.770050",
     "data": {
         "activity_participation": [
             ""
-        ], 
+        ],
         "cohort": [
             "Registered"
-        ], 
+        ],
         "institution_id": [
             "MOHC"
-        ], 
-        "label_extended": "HadGEM3-GC3.1-N512ORCA12", 
+        ],
+        "label_extended": "HadGEM3-GC3.1-N512ORCA12",
         "model_component": {
             "aerosol": {
-                "description": "UKCA-GLOMAP-mode", 
+                "description": "UKCA-GLOMAP-mode",
                 "nominal_resolution": ""
-            }, 
+            },
             "atmos": {
-                "description": "MetUM-HadGEM3-GA7.1 (1024 x 768 N512; 85 levels; top level 85km)", 
+                "description": "MetUM-HadGEM3-GA7.1 (1024 x 768 N512; 85 levels; top level 85km)",
                 "nominal_resolution": ""
-            }, 
+            },
             "atmosChem": {
-                "description": "none", 
+                "description": "none",
                 "nominal_resolution": "none"
-            }, 
+            },
             "land": {
-                "description": "JULES-HadGEM3-GL7.1", 
+                "description": "JULES-HadGEM3-GL7.1",
                 "nominal_resolution": ""
-            }, 
+            },
             "landIce": {
-                "description": "none", 
+                "description": "none",
                 "nominal_resolution": "none"
-            }, 
+            },
             "ocean": {
-                "description": "NEMO-HadGEM3-GO6.0 (ORCA12 tripolar primarily 1/12 deg latitude/longitude; 75 levels; top grid cell 0-1m)", 
+                "description": "NEMO-HadGEM3-GO6.0 (ORCA12 tripolar primarily 1/12 deg latitude/longitude; 75 levels; top grid cell 0-1m)",
                 "nominal_resolution": ""
-            }, 
+            },
             "ocnBgchem": {
-                "description": "none", 
+                "description": "none",
                 "nominal_resolution": "none"
-            }, 
+            },
             "seaIce": {
-                "description": "CICE-HadGEM3-GSI8 (ORCA12 tripolar primarily 1/12 deg latitude/longitude)", 
+                "description": "CICE-HadGEM3-GSI8 (ORCA12 tripolar primarily 1/12 deg latitude/longitude)",
                 "nominal_resolution": ""
             }
-        }, 
-        "release_year": "2016", 
+        },
+        "release_year": "2016",
         "source_id": "HadGEM3-GC31-HH"
-    }, 
-    "label": "HadGEM3-GC31-HH", 
-    "namespace": "ukcp:ukcp18:source-id:hadgem3-gc31-hh", 
-    "raw_name": "HadGEM3-GC31-HH", 
-    "status": "pending", 
-    "uid": "f4ac53b2-0327-467e-8763-86e2e26e2c2c"
+    },
+    "label": "HadGEM3-GC31-HH",
+    "namespace": "ukcp:ukcp18:source-id:hadgem3-gc31-hh",
+    "raw_name": "HadGEM3-GC31-HH",
+    "status": "pending",
+    "uid": "86489364-0a4e-42a4-b9c2-76b9f60c6b35"
 }

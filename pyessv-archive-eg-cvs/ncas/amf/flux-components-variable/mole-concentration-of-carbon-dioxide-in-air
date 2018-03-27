@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 6,
     "label": "mole_concentration_of_carbon_dioxide_in_air",
+    "namespace": "ncas:amf:flux-components-variable:mole-concentration-of-carbon-dioxide-in-air",
     "raw_name": "mole_concentration_of_carbon_dioxide_in_air",
     "status": "pending",
     "uid": "92085094-3b08-4308-a680-1f44d206d14d"

@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 14,
     "label": "water_vapor_partial_pressure_in_air",
+    "namespace": "ncas:amf:flux-components-variable:water-vapor-partial-pressure-in-air",
     "raw_name": "water_vapor_partial_pressure_in_air",
     "status": "pending",
     "uid": "70ab4fc0-7b50-4881-93d5-7deffa8d7e45"

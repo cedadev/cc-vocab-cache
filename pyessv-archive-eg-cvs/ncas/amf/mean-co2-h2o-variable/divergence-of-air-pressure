@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 8,
     "label": "divergence_of_air_pressure",
+    "namespace": "ncas:amf:mean-co2-h2o-variable:divergence-of-air-pressure",
     "raw_name": "divergence_of_air_pressure",
     "status": "pending",
     "uid": "04d6064a-671a-4f8e-a4ba-eb9e18914053"

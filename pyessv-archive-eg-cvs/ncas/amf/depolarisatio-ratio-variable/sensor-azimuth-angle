@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 0,
     "label": "sensor_azimuth_angle",
+    "namespace": "ncas:amf:depolarisatio-ratio-variable:sensor-azimuth-angle",
     "raw_name": "sensor_azimuth_angle",
     "status": "pending",
     "uid": "d5fdcb3a-e79f-44ce-bf2a-a9e6a25224bc"

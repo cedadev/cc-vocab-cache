@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "south-west-england", 
-    "create_date": "2018-03-22 15:45:36.922170+00:00", 
-    "label": "south_west_england", 
-    "namespace": "ukcp:ukcp18:admin-region:south-west-england", 
-    "raw_name": "south_west_england", 
-    "status": "pending", 
-    "uid": "d01c2923-dbd2-48f9-a580-11e0ee381b32"
+    "_type": "term",
+    "canonical_name": "south-west-england",
+    "create_date": "2018-03-26 11:31:41.770050",
+    "label": "south_west_england",
+    "namespace": "ukcp:ukcp18:admin-region:south-west-england",
+    "raw_name": "south_west_england",
+    "status": "pending",
+    "uid": "e49a9152-c378-4896-9dca-66212f6f4da5"
 }

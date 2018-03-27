@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 6,
     "label": "air_pressure",
+    "namespace": "ncas:amf:surface-met-variable:air-pressure",
     "raw_name": "air_pressure",
     "status": "pending",
     "uid": "cd774e8d-5f37-4310-8e23-e68395fe0dab"

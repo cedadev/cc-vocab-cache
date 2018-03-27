@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 8,
     "label": "qc_flag_channel_3_failure",
+    "namespace": "ncas:amf:brightness-temperature-variable:qc-flag-channel-3-failure",
     "raw_name": "qc_flag_channel_3_failure",
     "status": "pending",
     "uid": "747f5e37-fadd-4c96-8710-633e17a1fbd5"

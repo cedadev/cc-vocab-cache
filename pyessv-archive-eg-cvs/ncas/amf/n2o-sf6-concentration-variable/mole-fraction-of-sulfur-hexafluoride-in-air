@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 3,
     "label": "mole_fraction_of_sulfur_hexafluoride_in_air",
+    "namespace": "ncas:amf:n2o-sf6-concentration-variable:mole-fraction-of-sulfur-hexafluoride-in-air",
     "raw_name": "mole_fraction_of_sulfur_hexafluoride_in_air",
     "status": "pending",
     "uid": "9f6d89e0-d159-41b3-a2c8-bc677733a159"

@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 9,
     "label": "specific_humidity",
+    "namespace": "ncas:amf:mean-co2-h2o-variable:specific-humidity",
     "raw_name": "specific_humidity",
     "status": "pending",
     "uid": "a131b149-126c-4605-9aed-7777b820ab99"

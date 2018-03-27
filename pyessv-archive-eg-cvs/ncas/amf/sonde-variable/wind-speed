@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 0,
     "label": "wind_speed",
+    "namespace": "ncas:amf:sonde-variable:wind-speed",
     "raw_name": "wind_speed",
     "status": "pending",
     "uid": "403f971d-26be-465c-932b-e0fb19fbe008"

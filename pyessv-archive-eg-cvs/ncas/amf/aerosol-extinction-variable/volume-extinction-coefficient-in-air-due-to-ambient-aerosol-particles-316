@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 1,
     "label": "volume_extinction_coefficient_in_air_due_to_ambient_aerosol_particles_316",
+    "namespace": "ncas:amf:aerosol-extinction-variable:volume-extinction-coefficient-in-air-due-to-ambient-aerosol-particles-316",
     "raw_name": "volume_extinction_coefficient_in_air_due_to_ambient_aerosol_particles_316",
     "status": "pending",
     "uid": "65330208-b387-4a04-9a19-c94691b4c394"

@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 1,
     "label": "qc_flag_wind_component_upward_air_velocity",
+    "namespace": "ncas:amf:acoustic-backscatter-winds-variable:qc-flag-wind-component-upward-air-velocity",
     "raw_name": "qc_flag_wind_component_upward_air_velocity",
     "status": "pending",
     "uid": "96d85c22-9565-494d-b88c-409b5ef8e743"

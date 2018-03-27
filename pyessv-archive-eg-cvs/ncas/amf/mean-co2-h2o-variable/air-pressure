@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 7,
     "label": "air_pressure",
+    "namespace": "ncas:amf:mean-co2-h2o-variable:air-pressure",
     "raw_name": "air_pressure",
     "status": "pending",
     "uid": "ec251417-2969-4885-8aff-ad6528edc014"

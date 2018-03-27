@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 5,
     "label": "qc_flag_channel_6_failure",
+    "namespace": "ncas:amf:stability-indices-variable:qc-flag-channel-6-failure",
     "raw_name": "qc_flag_channel_6_failure",
     "status": "pending",
     "uid": "b773f2ac-c362-4c9e-adf1-ed3c5b9c9a96"

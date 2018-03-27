@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 7,
     "label": "qc_flag_surface_relative_humidity",
+    "namespace": "ncas:amf:brightness-temperature-variable:qc-flag-surface-relative-humidity",
     "raw_name": "qc_flag_surface_relative_humidity",
     "status": "pending",
     "uid": "4563ee02-6465-4931-aaa1-a87ca2975c2c"

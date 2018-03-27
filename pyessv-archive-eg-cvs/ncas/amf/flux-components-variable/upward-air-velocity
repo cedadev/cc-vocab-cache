@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 2,
     "label": "upward_air_velocity",
+    "namespace": "ncas:amf:flux-components-variable:upward-air-velocity",
     "raw_name": "upward_air_velocity",
     "status": "pending",
     "uid": "30793bae-7539-4e66-b894-b7dc86891521"

@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 15,
     "label": "platform_speed_wrt_ground",
+    "namespace": "ncas:amf:common-air-variable:platform-speed-wrt-ground",
     "raw_name": "platform_speed_wrt_ground",
     "status": "pending",
     "uid": "6bac2564-2f60-494d-9202-33f38b4a8778"

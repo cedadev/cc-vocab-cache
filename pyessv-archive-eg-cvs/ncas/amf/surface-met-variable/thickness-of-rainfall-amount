@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 7,
     "label": "thickness_of_rainfall_amount",
+    "namespace": "ncas:amf:surface-met-variable:thickness-of-rainfall-amount",
     "raw_name": "thickness_of_rainfall_amount",
     "status": "pending",
     "uid": "77013635-16e3-45e8-a6d2-fff1dd6e1c1f"

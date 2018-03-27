@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 8,
     "label": "relative_humidity",
+    "namespace": "ncas:amf:surface-met-variable:relative-humidity",
     "raw_name": "relative_humidity",
     "status": "pending",
     "uid": "bd2b2c93-02cf-4b41-b7cb-8a1dcbe151f1"

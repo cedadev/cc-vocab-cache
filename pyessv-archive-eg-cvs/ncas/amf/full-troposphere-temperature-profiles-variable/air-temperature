@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 13,
     "label": "air_temperature",
+    "namespace": "ncas:amf:full-troposphere-temperature-profiles-variable:air-temperature",
     "raw_name": "air_temperature",
     "status": "pending",
     "uid": "058ade91-94cd-44a7-a507-ebfea4e05c5d"

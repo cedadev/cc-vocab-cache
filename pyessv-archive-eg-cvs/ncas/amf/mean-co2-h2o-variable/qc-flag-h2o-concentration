@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 1,
     "label": "qc_flag_h2o_concentration",
+    "namespace": "ncas:amf:mean-co2-h2o-variable:qc-flag-h2o-concentration",
     "raw_name": "qc_flag_h2o_concentration",
     "status": "pending",
     "uid": "f8691f35-45f0-4783-9426-9a18604046e4"

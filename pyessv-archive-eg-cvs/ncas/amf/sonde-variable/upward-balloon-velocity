@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 2,
     "label": "upward_balloon_velocity",
+    "namespace": "ncas:amf:sonde-variable:upward-balloon-velocity",
     "raw_name": "upward_balloon_velocity",
     "status": "pending",
     "uid": "6093edaf-bcc7-4581-85d4-a59c522fb7a1"

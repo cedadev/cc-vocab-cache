@@ -1,8 +1,8 @@
 {
-    "_type": "term", 
-    "canonical_name": "river", 
-    "create_date": "2018-03-22 15:45:36.922170+00:00", 
-    "namespace": "ukcp:ukcp18:resolution:river", 
-    "status": "pending", 
-    "uid": "1ee4fccf-40fd-4766-8a0d-436cfdb478d1"
+    "_type": "term",
+    "canonical_name": "river",
+    "create_date": "2018-03-26 11:31:41.770050",
+    "namespace": "ukcp:ukcp18:resolution:river",
+    "status": "pending",
+    "uid": "de91c8f6-1321-43d8-be42-1d07232c2fa3"
 }

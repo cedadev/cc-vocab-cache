@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 1,
     "label": "number_concentration_of_ambient_aerosol_particles_in_air",
+    "namespace": "ncas:amf:aerosol-concentration-variable:number-concentration-of-ambient-aerosol-particles-in-air",
     "raw_name": "number_concentration_of_ambient_aerosol_particles_in_air",
     "status": "pending",
     "uid": "e91dd4d3-606c-4e4b-b86e-14804a1d7f9d"

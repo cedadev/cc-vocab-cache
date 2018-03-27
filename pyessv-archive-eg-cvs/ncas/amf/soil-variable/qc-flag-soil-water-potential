@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 1,
     "label": "qc_flag_soil_water_potential",
+    "namespace": "ncas:amf:soil-variable:qc-flag-soil-water-potential",
     "raw_name": "qc_flag_soil_water_potential",
     "status": "pending",
     "uid": "6e0ed3e1-40f0-4d47-997d-944e27864ebb"

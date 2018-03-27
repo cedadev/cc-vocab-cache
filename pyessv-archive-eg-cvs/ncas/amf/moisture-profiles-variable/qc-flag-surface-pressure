@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 17,
     "label": "qc_flag_surface_pressure",
+    "namespace": "ncas:amf:moisture-profiles-variable:qc-flag-surface-pressure",
     "raw_name": "qc_flag_surface_pressure",
     "status": "pending",
     "uid": "b39d27dc-c874-4a7b-b98e-ad484e9d5faa"

@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 4,
     "label": "window_contamination",
+    "namespace": "ncas:amf:cloud-base-variable:window-contamination",
     "raw_name": "window_contamination",
     "status": "pending",
     "uid": "b5d85400-0873-4c27-b84a-469c34cd7523"

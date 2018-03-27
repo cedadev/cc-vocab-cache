@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 15,
     "label": "qc_flag_ch2br2",
+    "namespace": "ncas:amf:halocarbon-concentration-variable:qc-flag-ch2br2",
     "raw_name": "qc_flag_ch2br2",
     "status": "pending",
     "uid": "f619226c-cbc4-41aa-adb7-5fce4d927323"

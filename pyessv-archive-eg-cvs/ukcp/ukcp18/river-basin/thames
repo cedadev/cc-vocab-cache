@@ -1,8 +1,8 @@
 {
-    "_type": "term", 
-    "canonical_name": "thames", 
-    "create_date": "2018-03-22 15:45:36.922170+00:00", 
-    "namespace": "ukcp:ukcp18:river-basin:thames", 
-    "status": "pending", 
-    "uid": "50f0da19-6d34-4ca6-a3ca-a2c7cae45d6b"
+    "_type": "term",
+    "canonical_name": "thames",
+    "create_date": "2018-03-26 11:31:41.770050",
+    "namespace": "ukcp:ukcp18:river-basin:thames",
+    "status": "pending",
+    "uid": "5896981f-a98d-4a70-8c3e-ba8f0f962cfe"
 }

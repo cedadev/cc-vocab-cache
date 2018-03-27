@@ -15,8 +15,8 @@
         "valid_max": "<derived form file>",
         "valid_min": "<derived form file>"
     },
-    "idx": 13,
     "label": "eastward_wind",
+    "namespace": "ncas:amf:acoustic-backscatter-winds-variable:eastward-wind",
     "raw_name": "eastward_wind",
     "status": "pending",
     "uid": "30d6e606-a224-4863-a6d6-4b6730f26523"

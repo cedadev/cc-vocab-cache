@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 1,
     "label": "attenuated_aerosol_backscatter_coefficient_cr",
+    "namespace": "ncas:amf:depolarisatio-ratio-variable:attenuated-aerosol-backscatter-coefficient-cr",
     "raw_name": "attenuated_aerosol_backscatter_coefficient_cr",
     "status": "pending",
     "uid": "e392ca36-1e28-431d-b729-266dc624cdfa"

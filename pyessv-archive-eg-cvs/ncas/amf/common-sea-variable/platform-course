@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 5,
     "label": "platform_course",
+    "namespace": "ncas:amf:common-sea-variable:platform-course",
     "raw_name": "platform_course",
     "status": "pending",
     "uid": "4fa1144d-073d-47dc-ad9e-37f7c2bb36a8"

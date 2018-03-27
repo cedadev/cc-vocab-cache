@@ -15,9 +15,7 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 2,
-    "label": "altitude",
-    "raw_name": "altitude",
+    "namespace": "ncas:amf:mean-winds-profiles-variable:altitude",
     "status": "pending",
     "uid": "3ec5c887-7c19-4021-a5d6-7cf3f71dbbc4"
 }

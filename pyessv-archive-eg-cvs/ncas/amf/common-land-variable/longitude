@@ -10,9 +10,7 @@
         "type": "float64",
         "units": "degrees_east"
     },
-    "idx": 3,
-    "label": "longitude",
-    "raw_name": "longitude",
+    "namespace": "ncas:amf:common-land-variable:longitude",
     "status": "pending",
     "uid": "d1a8b2fc-acbb-403f-855a-08b62a60b641"
 }

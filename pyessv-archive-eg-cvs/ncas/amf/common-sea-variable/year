@@ -11,9 +11,7 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 3,
-    "label": "year",
-    "raw_name": "year",
+    "namespace": "ncas:amf:common-sea-variable:year",
     "status": "pending",
     "uid": "94cb1925-06d6-4ef2-b6c8-dc535d5c5aff"
 }

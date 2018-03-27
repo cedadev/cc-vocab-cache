@@ -15,8 +15,8 @@
         "valid_max": "<derived form file>",
         "valid_min": "<derived form file>"
     },
-    "idx": 0,
     "label": "wind_speed",
+    "namespace": "ncas:amf:acoustic-backscatter-winds-variable:wind-speed",
     "raw_name": "wind_speed",
     "status": "pending",
     "uid": "6b9ee57e-93ce-4cbf-bec7-96449f72263f"

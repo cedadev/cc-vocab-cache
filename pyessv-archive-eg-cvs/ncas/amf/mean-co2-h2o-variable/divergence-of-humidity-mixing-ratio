@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 3,
     "label": "divergence_of_humidity_mixing_ratio",
+    "namespace": "ncas:amf:mean-co2-h2o-variable:divergence-of-humidity-mixing-ratio",
     "raw_name": "divergence_of_humidity_mixing_ratio",
     "status": "pending",
     "uid": "2095203a-93ec-4c5c-810f-e1d561025642"

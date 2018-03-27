@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 3,
     "label": "number_concentration_of_hydroxyl_radical_in_air",
+    "namespace": "ncas:amf:oh-concentration-variable:number-concentration-of-hydroxyl-radical-in-air",
     "raw_name": "number_concentration_of_hydroxyl_radical_in_air",
     "status": "pending",
     "uid": "ccaaff18-2210-4227-919b-54de1890fdfd"

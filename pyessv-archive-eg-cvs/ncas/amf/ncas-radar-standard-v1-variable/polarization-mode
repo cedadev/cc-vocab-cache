@@ -10,8 +10,8 @@
         "options": "horizontal, vertical, hv_alt, hv_sim, circular",
         "type": "char"
     },
-    "idx": 15,
     "label": "polarization_mode",
+    "namespace": "ncas:amf:ncas-radar-standard-v1-variable:polarization-mode",
     "raw_name": "polarization_mode",
     "status": "pending",
     "uid": "c3ab3677-9b61-4b51-b8cf-f07a6aa15b53"

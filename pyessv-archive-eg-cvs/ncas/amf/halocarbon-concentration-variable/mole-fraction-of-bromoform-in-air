@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 2,
     "label": "mole_fraction_of_bromoform_in_air",
+    "namespace": "ncas:amf:halocarbon-concentration-variable:mole-fraction-of-bromoform-in-air",
     "raw_name": "mole_fraction_of_bromoform_in_air",
     "status": "pending",
     "uid": "5d203557-cf55-4f73-8682-2c9c0fbd4131"

@@ -16,8 +16,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 1,
     "label": "mole_fraction_of_carbon_monoxide_in_air",
+    "namespace": "ncas:amf:co-concentration-variable:mole-fraction-of-carbon-monoxide-in-air",
     "raw_name": "mole_fraction_of_carbon_monoxide_in_air",
     "status": "pending",
     "uid": "f148199c-9da9-46e4-af4b-29cbe2f4a254"

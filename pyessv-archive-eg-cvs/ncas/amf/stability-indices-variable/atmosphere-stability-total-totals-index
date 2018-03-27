@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 17,
     "label": "atmosphere_stability_total_totals_index",
+    "namespace": "ncas:amf:stability-indices-variable:atmosphere-stability-total-totals-index",
     "raw_name": "atmosphere_stability_total_totals_index",
     "status": "pending",
     "uid": "ed463a93-937e-42f6-8e05-be251ac615c3"

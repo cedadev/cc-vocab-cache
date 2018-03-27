@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 5,
     "label": "sonic_temperature_theta",
+    "namespace": "ncas:amf:flux-components-variable:sonic-temperature-theta",
     "raw_name": "sonic_temperature_theta",
     "status": "pending",
     "uid": "3223e6f4-23b9-4d99-8689-e643f9e00a0e"

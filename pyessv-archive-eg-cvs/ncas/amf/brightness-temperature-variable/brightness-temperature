@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 9,
     "label": "brightness_temperature",
+    "namespace": "ncas:amf:brightness-temperature-variable:brightness-temperature",
     "raw_name": "brightness_temperature",
     "status": "pending",
     "uid": "c4248e47-a515-4868-9007-47190abce114"

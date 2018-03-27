@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 1,
     "label": "tilt_angle",
+    "namespace": "ncas:amf:cloud-base-variable:tilt-angle",
     "raw_name": "tilt_angle",
     "status": "pending",
     "uid": "d430b570-cc22-4b9b-a7fe-fa07295a3cc4"

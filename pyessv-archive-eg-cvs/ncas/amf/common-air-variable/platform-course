@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 6,
     "label": "platform_course",
+    "namespace": "ncas:amf:common-air-variable:platform-course",
     "raw_name": "platform_course",
     "status": "pending",
     "uid": "c3ff153c-6bac-4b3f-94b1-210dcdc641ea"

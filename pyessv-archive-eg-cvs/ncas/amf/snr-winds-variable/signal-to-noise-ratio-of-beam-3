@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 8,
     "label": "signal_to_noise_ratio_of_beam_3",
+    "namespace": "ncas:amf:snr-winds-variable:signal-to-noise-ratio-of-beam-3",
     "raw_name": "signal_to_noise_ratio_of_beam_3",
     "status": "pending",
     "uid": "fc9e2e2f-8102-4681-91cc-b0d0373abb68"

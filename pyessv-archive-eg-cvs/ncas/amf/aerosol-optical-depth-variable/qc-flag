@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 2,
     "label": "qc_flag",
+    "namespace": "ncas:amf:aerosol-optical-depth-variable:qc-flag",
     "raw_name": "qc_flag",
     "status": "pending",
     "uid": "6942d740-d11b-426d-837b-2f6249b65e5a"

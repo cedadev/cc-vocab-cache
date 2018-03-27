@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 0,
     "label": "mass_concentration_of_organics_in_ ambient_aerosol_particles_in_air",
+    "namespace": "ncas:amf:aerosol-no3-so4-nh3-org-concentration-variable:mass-concentration-of-organics-in--ambient-aerosol-particles-in-air",
     "raw_name": "mass_concentration_of_organics_in_ ambient_aerosol_particles_in_air",
     "status": "pending",
     "uid": "077f88e8-6f84-42bb-b793-59b6fb912212"

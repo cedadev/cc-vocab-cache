@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 15,
     "label": "kinematic_humidity_flux",
+    "namespace": "ncas:amf:flux-estimates-variable:kinematic-humidity-flux",
     "raw_name": "kinematic_humidity_flux",
     "status": "pending",
     "uid": "0386d380-f114-4f10-8afc-0ee40278ff67"

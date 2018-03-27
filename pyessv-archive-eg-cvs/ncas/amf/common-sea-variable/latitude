@@ -14,9 +14,7 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 13,
-    "label": "latitude",
-    "raw_name": "latitude",
+    "namespace": "ncas:amf:common-sea-variable:latitude",
     "status": "pending",
     "uid": "dc2b6d34-5498-40c2-ac30-3c06160419ca"
 }

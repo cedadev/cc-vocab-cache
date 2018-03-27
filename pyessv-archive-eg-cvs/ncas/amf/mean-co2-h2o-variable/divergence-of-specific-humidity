@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 6,
     "label": "divergence_of_specific_humidity",
+    "namespace": "ncas:amf:mean-co2-h2o-variable:divergence-of-specific-humidity",
     "raw_name": "divergence_of_specific_humidity",
     "status": "pending",
     "uid": "92e22f1b-4d07-4eda-827e-82e634913325"

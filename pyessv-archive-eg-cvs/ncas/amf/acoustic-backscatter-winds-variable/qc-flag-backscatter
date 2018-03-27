@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 7,
     "label": "qc_flag_backscatter",
+    "namespace": "ncas:amf:acoustic-backscatter-winds-variable:qc-flag-backscatter",
     "raw_name": "qc_flag_backscatter",
     "status": "pending",
     "uid": "6f559039-7049-4d06-b2c5-db16dd523634"

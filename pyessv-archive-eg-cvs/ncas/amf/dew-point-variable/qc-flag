@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 1,
     "label": "qc_flag",
+    "namespace": "ncas:amf:dew-point-variable:qc-flag",
     "raw_name": "qc_flag",
     "status": "pending",
     "uid": "35e684e2-037e-408f-b15d-3e1666b886a5"

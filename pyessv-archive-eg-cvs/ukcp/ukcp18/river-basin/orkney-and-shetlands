@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "orkney-and-shetlands", 
-    "create_date": "2018-03-22 15:45:36.922170+00:00", 
-    "label": "orkney_and_shetlands", 
-    "namespace": "ukcp:ukcp18:river-basin:orkney-and-shetlands", 
-    "raw_name": "orkney_and_shetlands", 
-    "status": "pending", 
-    "uid": "de74ee63-0c54-4d14-8343-5a4fbe8aaea3"
+    "_type": "term",
+    "canonical_name": "orkney-and-shetlands",
+    "create_date": "2018-03-26 11:31:41.770050",
+    "label": "orkney_and_shetlands",
+    "namespace": "ukcp:ukcp18:river-basin:orkney-and-shetlands",
+    "raw_name": "orkney_and_shetlands",
+    "status": "pending",
+    "uid": "5bec9c42-e4b0-42d2-8796-70d9d130f825"
 }

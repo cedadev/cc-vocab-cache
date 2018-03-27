@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 10,
     "label": "licor_temperature",
+    "namespace": "ncas:amf:flux-components-variable:licor-temperature",
     "raw_name": "licor_temperature",
     "status": "pending",
     "uid": "e7372550-221c-4e82-a404-2a9a579276cc"

@@ -11,8 +11,8 @@
         "name": "qc_flag_channel_7_failure",
         "units": "1"
     },
-    "idx": 10,
     "label": "qc_flag_channel_7_failure",
+    "namespace": "ncas:amf:stability-indices-variable:qc-flag-channel-7-failure",
     "raw_name": "qc_flag_channel_7_failure",
     "status": "pending",
     "uid": "91f8aef5-d483-4a80-b3c4-0a69345135a5"

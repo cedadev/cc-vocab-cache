@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 6,
     "label": "depolarisation_ratio",
+    "namespace": "ncas:amf:depolarisatio-ratio-variable:depolarisation-ratio",
     "raw_name": "depolarisation_ratio",
     "status": "pending",
     "uid": "31d53aeb-4b69-411a-811f-0c288895278e"

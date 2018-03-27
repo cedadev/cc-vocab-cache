@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 6,
     "label": "rainfall_velocity",
+    "namespace": "ncas:amf:rain-lwc-velocity-reflectivity-variable:rainfall-velocity",
     "raw_name": "rainfall_velocity",
     "status": "pending",
     "uid": "46efddf7-52e7-46fb-be8a-f2df26311deb"

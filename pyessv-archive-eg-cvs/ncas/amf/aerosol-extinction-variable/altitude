@@ -15,9 +15,7 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 0,
-    "label": "altitude",
-    "raw_name": "altitude",
+    "namespace": "ncas:amf:aerosol-extinction-variable:altitude",
     "status": "pending",
     "uid": "79edf934-8326-4ab5-8a69-a30022e0e318"
 }

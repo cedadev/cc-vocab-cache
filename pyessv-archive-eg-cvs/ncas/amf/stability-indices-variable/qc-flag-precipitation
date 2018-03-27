@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 2,
     "label": "qc_flag_precipitation",
+    "namespace": "ncas:amf:stability-indices-variable:qc-flag-precipitation",
     "raw_name": "qc_flag_precipitation",
     "status": "pending",
     "uid": "4e41032d-c6a9-4471-9e1f-ca7aab6751ee"

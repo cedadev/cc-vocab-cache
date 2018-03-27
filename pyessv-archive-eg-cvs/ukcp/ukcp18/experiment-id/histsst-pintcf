@@ -1,39 +1,39 @@
 {
-    "_type": "term", 
-    "canonical_name": "histsst-pintcf", 
-    "create_date": "2018-03-22 15:45:36.922170+00:00", 
+    "_type": "term",
+    "canonical_name": "histsst-pintcf",
+    "create_date": "2018-03-26 11:31:41.770050",
     "data": {
         "activity_id": [
             "AerChemMIP"
-        ], 
+        ],
         "additional_allowed_model_components": [
-            "CHEM", 
+            "CHEM",
             "BGC"
-        ], 
-        "end_year": "2014", 
-        "experiment": "historical SSTs and historical forcing, but with pre-industrial NTCF emissions", 
-        "experiment_id": "histSST-piNTCF", 
-        "min_number_yrs_per_sim": "165", 
+        ],
+        "end_year": "2014",
+        "experiment": "historical SSTs and historical forcing, but with pre-industrial NTCF emissions",
+        "experiment_id": "histSST-piNTCF",
+        "min_number_yrs_per_sim": "165",
         "parent_activity_id": [
             "no parent"
-        ], 
+        ],
         "parent_experiment_id": [
             "no parent"
-        ], 
+        ],
         "required_model_components": [
-            "AGCM", 
+            "AGCM",
             "AER"
-        ], 
-        "start_year": "1850", 
+        ],
+        "start_year": "1850",
         "sub_experiment_id": [
             "none"
-        ], 
+        ],
         "tier": "1"
-    }, 
-    "description": "Historical WMGHG concentrations and halocarbons emissions, 1850 NTCF emissions, prescribed SSTs", 
-    "label": "histSST-piNTCF", 
-    "namespace": "ukcp:ukcp18:experiment-id:histsst-pintcf", 
-    "raw_name": "histSST-piNTCF", 
-    "status": "pending", 
-    "uid": "b9a035f4-f922-42ab-930d-75ce9466b673"
+    },
+    "description": "Historical WMGHG concentrations and halocarbons emissions, 1850 NTCF emissions, prescribed SSTs",
+    "label": "histSST-piNTCF",
+    "namespace": "ukcp:ukcp18:experiment-id:histsst-pintcf",
+    "raw_name": "histSST-piNTCF",
+    "status": "pending",
+    "uid": "3e574183-bb28-47a9-9eb2-9e3338c50987"
 }

@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 4,
     "label": "qc_flag",
+    "namespace": "ncas:amf:depolarisatio-ratio-variable:qc-flag",
     "raw_name": "qc_flag",
     "status": "pending",
     "uid": "215dbe59-5632-4379-b6b3-c854f3ef0503"

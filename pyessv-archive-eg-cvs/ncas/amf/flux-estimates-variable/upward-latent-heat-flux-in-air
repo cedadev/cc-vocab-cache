@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 5,
     "label": "upward_latent_heat_flux_in_air",
+    "namespace": "ncas:amf:flux-estimates-variable:upward-latent-heat-flux-in-air",
     "raw_name": "upward_latent_heat_flux_in_air",
     "status": "pending",
     "uid": "bec6f458-5586-4547-b34d-38388bcb0999"

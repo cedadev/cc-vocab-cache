@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 0,
     "label": "ambient_aerosol_size_distribution",
+    "namespace": "ncas:amf:aerosol-size-distribution-variable:ambient-aerosol-size-distribution",
     "raw_name": "ambient_aerosol_size_distribution",
     "status": "pending",
     "uid": "cd50baff-2398-45ba-9195-dc510e0e2a85"

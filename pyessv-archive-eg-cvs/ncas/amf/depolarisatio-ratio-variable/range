@@ -13,9 +13,7 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 3,
-    "label": "range",
-    "raw_name": "range",
+    "namespace": "ncas:amf:depolarisatio-ratio-variable:range",
     "status": "pending",
     "uid": "33e73021-8239-4c02-bc7f-282a4683fb96"
 }

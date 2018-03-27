@@ -15,9 +15,7 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 5,
-    "label": "altitude",
-    "raw_name": "altitude",
+    "namespace": "ncas:amf:boundary-layer-temperature-profiles-variable:altitude",
     "status": "pending",
     "uid": "6b515795-a24b-4e06-9497-99861958d4a1"
 }

@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 5,
     "label": "divergence_of_eastward_wind",
+    "namespace": "ncas:amf:mean-winds-variable:divergence-of-eastward-wind",
     "raw_name": "divergence_of_eastward_wind",
     "status": "pending",
     "uid": "45f0c412-7117-42be-afd7-f30df618e356"

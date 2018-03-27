@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 4,
     "label": "platform_yaw_angle",
+    "namespace": "ncas:amf:common-sea-variable:platform-yaw-angle",
     "raw_name": "platform_yaw_angle",
     "status": "pending",
     "uid": "b5f8cf9d-1029-47c5-bd62-4de08b208fc1"

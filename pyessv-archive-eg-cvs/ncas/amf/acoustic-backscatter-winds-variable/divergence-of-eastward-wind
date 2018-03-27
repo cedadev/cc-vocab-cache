@@ -14,8 +14,8 @@
         "valid_max": "<derived form file>",
         "valid_min": "<derived form file>"
     },
-    "idx": 15,
     "label": "divergence_of_eastward_wind",
+    "namespace": "ncas:amf:acoustic-backscatter-winds-variable:divergence-of-eastward-wind",
     "raw_name": "divergence_of_eastward_wind",
     "status": "pending",
     "uid": "da8e134c-b65f-4b1d-9880-e99648fa00c2"

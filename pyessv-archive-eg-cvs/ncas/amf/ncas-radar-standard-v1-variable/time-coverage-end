@@ -9,8 +9,8 @@
         "name": "time_coverage_end",
         "type": "char"
     },
-    "idx": 17,
     "label": "time_coverage_end",
+    "namespace": "ncas:amf:ncas-radar-standard-v1-variable:time-coverage-end",
     "raw_name": "time_coverage_end",
     "status": "pending",
     "uid": "838c2c3a-b73f-49bc-8009-8ffb1912f438"

@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 5,
     "label": "qc_flag",
+    "namespace": "ncas:amf:rain-lwc-velocity-reflectivity-variable:qc-flag",
     "raw_name": "qc_flag",
     "status": "pending",
     "uid": "cb23de25-3d16-4140-b091-9372e86496d7"

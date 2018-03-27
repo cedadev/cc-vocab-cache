@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 10,
     "label": "divergence_of_upward_air_velocity",
+    "namespace": "ncas:amf:mean-winds-variable:divergence-of-upward-air-velocity",
     "raw_name": "divergence_of_upward_air_velocity",
     "status": "pending",
     "uid": "3990c55a-b35f-4cbb-8c67-596676d1afd3"

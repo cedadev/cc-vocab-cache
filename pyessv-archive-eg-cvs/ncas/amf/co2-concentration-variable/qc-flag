@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 1,
     "label": "qc_flag",
+    "namespace": "ncas:amf:co2-concentration-variable:qc-flag",
     "raw_name": "qc_flag",
     "status": "pending",
     "uid": "e2aa196f-0248-4fbe-81c2-47273273efb6"

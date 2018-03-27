@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 12,
     "label": "air_temperature",
+    "namespace": "ncas:amf:mean-co2-h2o-variable:air-temperature",
     "raw_name": "air_temperature",
     "status": "pending",
     "uid": "06e8cdbc-c101-44d4-8e16-8feac49dfd3f"

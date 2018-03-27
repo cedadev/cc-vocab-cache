@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 0,
     "label": "qc_flag_o3",
+    "namespace": "ncas:amf:o3-conccentration-profile-variable:qc-flag-o3",
     "raw_name": "qc_flag_o3",
     "status": "pending",
     "uid": "ebc674c2-b647-47f1-9fc8-38caeaa709ec"

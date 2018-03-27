@@ -16,8 +16,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 4,
     "label": "mole_fraction_of_nox_expresssed_as_nitrogen_in_air",
+    "namespace": "ncas:amf:nox-noxy-concentration-variable:mole-fraction-of-nox-expresssed-as-nitrogen-in-air",
     "raw_name": "mole_fraction_of_nox_expresssed_as_nitrogen_in_air",
     "status": "pending",
     "uid": "509be7d0-6fe6-403b-9484-5a11343e7aa9"

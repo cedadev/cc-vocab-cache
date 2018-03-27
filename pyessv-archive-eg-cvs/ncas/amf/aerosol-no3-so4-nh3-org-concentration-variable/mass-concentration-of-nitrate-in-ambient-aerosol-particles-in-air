@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 2,
     "label": "mass_concentration_of_nitrate_in_ambient_aerosol_particles_in_air",
+    "namespace": "ncas:amf:aerosol-no3-so4-nh3-org-concentration-variable:mass-concentration-of-nitrate-in-ambient-aerosol-particles-in-air",
     "raw_name": "mass_concentration_of_nitrate_in_ambient_aerosol_particles_in_air",
     "status": "pending",
     "uid": "bfd61753-f6f4-4e45-b18b-93d0c999dcb9"

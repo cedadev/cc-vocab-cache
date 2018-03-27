@@ -1,33 +1,33 @@
 {
-    "_type": "term", 
-    "canonical_name": "hail", 
-    "create_date": "2018-03-22 15:45:36.922170+00:00", 
+    "_type": "term",
+    "canonical_name": "hail",
+    "create_date": "2018-03-26 11:31:41.770050",
     "data": {
-        "label_units": "1", 
-        "long_name": "??", 
+        "label_units": "1",
+        "long_name": "??",
         "notes": [
             "Intended we'll still do these, but as LS3 they're not a priority at present"
-        ], 
-        "plot_label": "Hail (Graupel) (1)", 
+        ],
+        "plot_label": "Hail (Graupel) (1)",
         "strand": [
-            "land strand 1", 
-            "land strand 2", 
-            "land strand 3 12km", 
-            "land strand 3 2km", 
-            "marine", 
+            "land strand 1",
+            "land strand 2",
+            "land strand 3 12km",
+            "land strand 3 2km",
+            "marine",
             "observations"
-        ], 
+        ],
         "time_averaging": [
             "mean"
-        ], 
+        ],
         "time_step": [
             "day"
-        ], 
-        "um_stash": "21102", 
+        ],
+        "um_stash": "21102",
         "units": "1"
-    }, 
-    "description": "Hail (Graupel)", 
-    "namespace": "ukcp:ukcp18:variable:hail", 
-    "status": "pending", 
-    "uid": "f24607f7-ceb3-49ed-8632-f2c9b927ced9"
+    },
+    "description": "Hail (Graupel)",
+    "namespace": "ukcp:ukcp18:variable:hail",
+    "status": "pending",
+    "uid": "b5f11009-da05-4cdb-ac2c-aa145e3c99e7"
 }

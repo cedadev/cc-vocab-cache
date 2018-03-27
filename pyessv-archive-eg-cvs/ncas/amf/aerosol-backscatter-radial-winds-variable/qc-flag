@@ -11,8 +11,8 @@
         "type": "int32",
         "units": "1"
     },
-    "idx": 2,
     "label": "qc_flag",
+    "namespace": "ncas:amf:aerosol-backscatter-radial-winds-variable:qc-flag",
     "raw_name": "qc_flag",
     "status": "pending",
     "uid": "02b73f6c-c80b-43cc-967e-7ad5816b28d5"

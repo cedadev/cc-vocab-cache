@@ -1,0 +1,10 @@
+{
+    "_type": "term",
+    "canonical_name": "ec-earth",
+    "create_date": "2018-03-26 11:31:41.770050",
+    "label": "EC-EARTH",
+    "namespace": "ukcp:ukcp18:marine-input-model:ec-earth",
+    "raw_name": "EC-EARTH",
+    "status": "pending",
+    "uid": "0ea19723-5d7d-4e2c-b765-e4e9948973ab"
+}

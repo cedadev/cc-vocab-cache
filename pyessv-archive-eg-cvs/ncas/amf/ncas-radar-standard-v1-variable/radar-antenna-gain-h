@@ -10,8 +10,8 @@
         "type": "float",
         "units": "dB"
     },
-    "idx": 1,
     "label": "radar_antenna_gain_h",
+    "namespace": "ncas:amf:ncas-radar-standard-v1-variable:radar-antenna-gain-h",
     "raw_name": "radar_antenna_gain_h",
     "status": "pending",
     "uid": "8f1c1915-dd05-4cfc-9c64-3e40b58af8a4"

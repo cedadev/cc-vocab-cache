@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 18,
     "label": "qc_flag_surface_pressure",
+    "namespace": "ncas:amf:iwv-lwp-variable:qc-flag-surface-pressure",
     "raw_name": "qc_flag_surface_pressure",
     "status": "pending",
     "uid": "122e75f5-c1df-4380-8693-734d35f0c4f0"

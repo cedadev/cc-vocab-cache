@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 1,
     "label": "radar_reflectivity",
+    "namespace": "ncas:amf:rain-lwc-velocity-reflectivity-variable:radar-reflectivity",
     "raw_name": "radar_reflectivity",
     "status": "pending",
     "uid": "258b75dd-58e6-4d6f-b3ae-c1c48c3907b3"

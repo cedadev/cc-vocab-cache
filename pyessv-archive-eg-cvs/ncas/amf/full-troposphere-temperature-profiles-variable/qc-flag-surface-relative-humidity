@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 8,
     "label": "qc_flag_surface_relative_humidity",
+    "namespace": "ncas:amf:full-troposphere-temperature-profiles-variable:qc-flag-surface-relative-humidity",
     "raw_name": "qc_flag_surface_relative_humidity",
     "status": "pending",
     "uid": "74d157d7-0d11-44ad-9bcf-3916fbfb71f7"

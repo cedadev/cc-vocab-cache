@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "north-eastern-ireland", 
-    "create_date": "2018-03-22 15:45:36.922170+00:00", 
-    "label": "north_eastern_ireland", 
-    "namespace": "ukcp:ukcp18:river-basin:north-eastern-ireland", 
-    "raw_name": "north_eastern_ireland", 
-    "status": "pending", 
-    "uid": "41cc0ab9-10af-44ba-8367-8a3c0aa00680"
+    "_type": "term",
+    "canonical_name": "north-eastern-ireland",
+    "create_date": "2018-03-26 11:31:41.770050",
+    "label": "north_eastern_ireland",
+    "namespace": "ukcp:ukcp18:river-basin:north-eastern-ireland",
+    "raw_name": "north_eastern_ireland",
+    "status": "pending",
+    "uid": "0c2ae3ca-d6ca-46f1-ab87-933210bd7f51"
 }

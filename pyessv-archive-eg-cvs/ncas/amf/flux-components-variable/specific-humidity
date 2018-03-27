@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 9,
     "label": "specific_humidity",
+    "namespace": "ncas:amf:flux-components-variable:specific-humidity",
     "raw_name": "specific_humidity",
     "status": "pending",
     "uid": "1b6c64c3-3e3b-4214-902b-83db5a4a2216"

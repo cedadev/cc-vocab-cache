@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 8,
     "label": "qc_flag_wind_component_eastward",
+    "namespace": "ncas:amf:acoustic-backscatter-winds-variable:qc-flag-wind-component-eastward",
     "raw_name": "qc_flag_wind_component_eastward",
     "status": "pending",
     "uid": "ffba0405-3502-4294-b258-24ba882a6421"

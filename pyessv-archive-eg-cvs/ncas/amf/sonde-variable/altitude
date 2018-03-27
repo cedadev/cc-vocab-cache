@@ -15,9 +15,7 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 3,
-    "label": "altitude",
-    "raw_name": "altitude",
+    "namespace": "ncas:amf:sonde-variable:altitude",
     "status": "pending",
     "uid": "e6eaf151-b1bc-4f87-aff0-b0beeae40de1"
 }

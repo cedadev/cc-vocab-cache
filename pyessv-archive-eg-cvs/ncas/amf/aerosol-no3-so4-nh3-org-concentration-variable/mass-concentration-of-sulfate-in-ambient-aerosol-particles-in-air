@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 4,
     "label": "mass_concentration_of_sulfate_in_ambient_aerosol_particles_in_air",
+    "namespace": "ncas:amf:aerosol-no3-so4-nh3-org-concentration-variable:mass-concentration-of-sulfate-in-ambient-aerosol-particles-in-air",
     "raw_name": "mass_concentration_of_sulfate_in_ambient_aerosol_particles_in_air",
     "status": "pending",
     "uid": "5d05969d-4a57-4d8e-ac3c-cc7c85cb8516"

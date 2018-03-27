@@ -15,9 +15,7 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 5,
-    "label": "altitude",
-    "raw_name": "altitude",
+    "namespace": "ncas:amf:moisture-profiles-variable:altitude",
     "status": "pending",
     "uid": "95306b98-f151-492c-bb83-f6ceb7f79a47"
 }

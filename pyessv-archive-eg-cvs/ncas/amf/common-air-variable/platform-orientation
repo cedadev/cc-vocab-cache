@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 1,
     "label": "platform_orientation",
+    "namespace": "ncas:amf:common-air-variable:platform-orientation",
     "raw_name": "platform_orientation",
     "status": "pending",
     "uid": "a013a919-1025-4d6f-8396-9c4e3f993be9"

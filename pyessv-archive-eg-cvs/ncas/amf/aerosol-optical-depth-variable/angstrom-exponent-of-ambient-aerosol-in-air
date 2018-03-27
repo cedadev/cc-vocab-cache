@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 3,
     "label": "angstrom_exponent_of_ambient_aerosol_in_air",
+    "namespace": "ncas:amf:aerosol-optical-depth-variable:angstrom-exponent-of-ambient-aerosol-in-air",
     "raw_name": "angstrom_exponent_of_ambient_aerosol_in_air",
     "status": "pending",
     "uid": "63197e07-b636-4e8d-bfe0-bc18c9f1fc86"

@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 3,
     "label": "upward_air_velocity",
+    "namespace": "ncas:amf:snr-winds-variable:upward-air-velocity",
     "raw_name": "upward_air_velocity",
     "status": "pending",
     "uid": "bd7eb8ea-1403-42aa-8712-7f7950973d8d"

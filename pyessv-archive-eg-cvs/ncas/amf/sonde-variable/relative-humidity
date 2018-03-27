@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 6,
     "label": "relative_humidity",
+    "namespace": "ncas:amf:sonde-variable:relative-humidity",
     "raw_name": "relative_humidity",
     "status": "pending",
     "uid": "44d92984-86f4-4955-b707-acd43a51e454"

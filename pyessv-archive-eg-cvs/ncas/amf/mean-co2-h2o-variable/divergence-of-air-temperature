@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 15,
     "label": "divergence_of_air_temperature",
+    "namespace": "ncas:amf:mean-co2-h2o-variable:divergence-of-air-temperature",
     "raw_name": "divergence_of_air_temperature",
     "status": "pending",
     "uid": "f73c24c5-572e-4812-9ffb-b5df895955b8"

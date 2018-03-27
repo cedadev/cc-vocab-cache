@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 5,
     "label": "mole_concentration_of_carbon_dioxide_in_air",
+    "namespace": "ncas:amf:mean-co2-h2o-variable:mole-concentration-of-carbon-dioxide-in-air",
     "raw_name": "mole_concentration_of_carbon_dioxide_in_air",
     "status": "pending",
     "uid": "40c74873-998e-4c08-88e2-6636ee1333b8"

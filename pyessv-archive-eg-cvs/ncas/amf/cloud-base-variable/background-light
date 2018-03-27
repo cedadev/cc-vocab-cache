@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 6,
     "label": "background_light",
+    "namespace": "ncas:amf:cloud-base-variable:background-light",
     "raw_name": "background_light",
     "status": "pending",
     "uid": "6dfcf347-4bf5-4991-bb7e-9f15ce3fb9af"

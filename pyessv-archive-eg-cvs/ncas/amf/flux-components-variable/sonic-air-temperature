@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 13,
     "label": "sonic_air_temperature",
+    "namespace": "ncas:amf:flux-components-variable:sonic-air-temperature",
     "raw_name": "sonic_air_temperature",
     "status": "pending",
     "uid": "7e930302-58ce-4974-9d37-8d933fde2900"

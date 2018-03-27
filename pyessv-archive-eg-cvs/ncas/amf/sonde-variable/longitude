@@ -15,9 +15,7 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 9,
-    "label": "longitude",
-    "raw_name": "longitude",
+    "namespace": "ncas:amf:sonde-variable:longitude",
     "status": "pending",
     "uid": "3143a36b-9653-46ec-afc8-ae1bb7b77700"
 }

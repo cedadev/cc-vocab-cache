@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 7,
     "label": "air_pressure",
+    "namespace": "ncas:amf:flux-components-variable:air-pressure",
     "raw_name": "air_pressure",
     "status": "pending",
     "uid": "4347a6cc-9cbd-4a69-a9a0-9835de26102e"

@@ -13,8 +13,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 0,
     "label": "instrument_channel_wavelength",
+    "namespace": "ncas:amf:aerosol-optical-depth-variable:instrument-channel-wavelength",
     "raw_name": "instrument_channel_wavelength",
     "status": "pending",
     "uid": "a27f8fa1-f35c-486e-9e0f-a5d2cfd6952a"

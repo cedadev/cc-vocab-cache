@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 11,
     "label": "platform_speed_wrt_sea_water",
+    "namespace": "ncas:amf:common-sea-variable:platform-speed-wrt-sea-water",
     "raw_name": "platform_speed_wrt_sea_water",
     "status": "pending",
     "uid": "2c1d2e0e-af63-42ed-9c3f-62e1f68b08b5"

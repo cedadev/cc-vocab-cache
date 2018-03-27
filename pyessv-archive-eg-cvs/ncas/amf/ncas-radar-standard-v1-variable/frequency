@@ -11,9 +11,7 @@
         "type": "float",
         "units": "s-1"
     },
-    "idx": 22,
-    "label": "frequency",
-    "raw_name": "frequency",
+    "namespace": "ncas:amf:ncas-radar-standard-v1-variable:frequency",
     "status": "pending",
     "uid": "d4a78dae-c369-4a11-94a2-ed95af495af7"
 }

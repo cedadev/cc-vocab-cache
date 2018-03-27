@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 13,
     "label": "air_temperature",
+    "namespace": "ncas:amf:boundary-layer-temperature-profiles-variable:air-temperature",
     "raw_name": "air_temperature",
     "status": "pending",
     "uid": "4b63f55a-cfa5-47e9-8f8a-e3f034ca7595"

@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 1,
     "label": "qc_flag_precipitation",
+    "namespace": "ncas:amf:surface-met-variable:qc-flag-precipitation",
     "raw_name": "qc_flag_precipitation",
     "status": "pending",
     "uid": "691404a0-78b6-4410-a397-bc735ebe7fcd"

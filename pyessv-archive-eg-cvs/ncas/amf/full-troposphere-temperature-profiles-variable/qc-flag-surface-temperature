@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 15,
     "label": "qc_flag_surface_temperature",
+    "namespace": "ncas:amf:full-troposphere-temperature-profiles-variable:qc-flag-surface-temperature",
     "raw_name": "qc_flag_surface_temperature",
     "status": "pending",
     "uid": "30eae125-9a1c-45f4-afb9-73b9ad4c5a16"

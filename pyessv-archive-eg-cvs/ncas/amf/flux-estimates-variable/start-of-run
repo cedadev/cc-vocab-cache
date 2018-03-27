@@ -13,8 +13,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 8,
     "label": "start_of_run",
+    "namespace": "ncas:amf:flux-estimates-variable:start-of-run",
     "raw_name": "start_of_run",
     "status": "pending",
     "uid": "a9706fe4-f34e-4e1d-97b4-2fcd5e81c71b"

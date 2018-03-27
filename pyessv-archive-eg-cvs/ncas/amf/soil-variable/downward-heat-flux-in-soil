@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 2,
     "label": "downward_heat_flux_in_soil",
+    "namespace": "ncas:amf:soil-variable:downward-heat-flux-in-soil",
     "raw_name": "downward_heat_flux_in_soil",
     "status": "pending",
     "uid": "8ef1e8b0-af2f-4b17-9d55-8a651379aa47"

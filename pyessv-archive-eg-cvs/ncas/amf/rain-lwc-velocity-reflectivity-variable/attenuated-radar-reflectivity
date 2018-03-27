@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 0,
     "label": "attenuated_radar_reflectivity",
+    "namespace": "ncas:amf:rain-lwc-velocity-reflectivity-variable:attenuated-radar-reflectivity",
     "raw_name": "attenuated_radar_reflectivity",
     "status": "pending",
     "uid": "ef80026d-d1c2-480f-84fe-3200a863153a"

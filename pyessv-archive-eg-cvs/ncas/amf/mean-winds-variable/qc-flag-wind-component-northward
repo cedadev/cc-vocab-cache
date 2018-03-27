@@ -6,8 +6,8 @@
         "name": "qc_flag_wind_component_northward",
         "type": "byte"
     },
-    "idx": 14,
     "label": "qc_flag_wind_component_northward",
+    "namespace": "ncas:amf:mean-winds-variable:qc-flag-wind-component-northward",
     "raw_name": "qc_flag_wind_component_northward",
     "status": "pending",
     "uid": "dc655716-0690-440e-b541-02dcd0a205c0"

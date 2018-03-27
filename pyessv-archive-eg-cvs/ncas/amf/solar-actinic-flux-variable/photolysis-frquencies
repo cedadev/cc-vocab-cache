@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 0,
     "label": "photolysis_frquencies",
+    "namespace": "ncas:amf:solar-actinic-flux-variable:photolysis-frquencies",
     "raw_name": "photolysis_frquencies",
     "status": "pending",
     "uid": "e5895a79-e8ca-4bab-9250-9613a0e64a6d"

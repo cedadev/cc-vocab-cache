@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 4,
     "label": "mole_concentration_of_water_vapor_in_air",
+    "namespace": "ncas:amf:flux-components-variable:mole-concentration-of-water-vapor-in-air",
     "raw_name": "mole_concentration_of_water_vapor_in_air",
     "status": "pending",
     "uid": "5d7ab717-8f3a-44c2-8513-e8b7bb09df44"

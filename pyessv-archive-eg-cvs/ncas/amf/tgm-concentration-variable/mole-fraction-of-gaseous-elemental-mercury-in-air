@@ -16,8 +16,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 1,
     "label": "mole_fraction_of_gaseous_elemental_mercury_in_air",
+    "namespace": "ncas:amf:tgm-concentration-variable:mole-fraction-of-gaseous-elemental-mercury-in-air",
     "raw_name": "mole_fraction_of_gaseous_elemental_mercury_in_air",
     "status": "pending",
     "uid": "80d1254b-39d8-4706-9ea8-d874753dcd19"

@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 4,
     "label": "laser_temperature",
+    "namespace": "ncas:amf:aerosol-backscatter-variable:laser-temperature",
     "raw_name": "laser_temperature",
     "status": "pending",
     "uid": "05b87191-68d9-4370-bd32-d28d7fae3541"

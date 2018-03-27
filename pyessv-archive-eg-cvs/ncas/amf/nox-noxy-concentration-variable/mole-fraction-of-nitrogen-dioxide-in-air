@@ -16,8 +16,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 1,
     "label": "mole_fraction_of_nitrogen_dioxide_in_air",
+    "namespace": "ncas:amf:nox-noxy-concentration-variable:mole-fraction-of-nitrogen-dioxide-in-air",
     "raw_name": "mole_fraction_of_nitrogen_dioxide_in_air",
     "status": "pending",
     "uid": "b14f0e96-a8f9-4983-9d4f-5b93598aad4c"

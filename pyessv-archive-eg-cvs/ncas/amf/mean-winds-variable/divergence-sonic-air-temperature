@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 11,
     "label": "divergence_sonic_air_temperature",
+    "namespace": "ncas:amf:mean-winds-variable:divergence-sonic-air-temperature",
     "raw_name": "divergence_sonic_air_temperature",
     "status": "pending",
     "uid": "5311dbb1-4939-4666-bab6-3dba83ce9b8d"

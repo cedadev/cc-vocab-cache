@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 4,
     "label": "rain_drop_diameter",
+    "namespace": "ncas:amf:size-concentration-spectra-variable:rain-drop-diameter",
     "raw_name": "rain_drop_diameter",
     "status": "pending",
     "uid": "8677bcaf-6b56-4941-beb0-267f9a5a2176"

@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 1,
     "label": "qc_flag",
+    "namespace": "ncas:amf:liquid-water-content-variable:qc-flag",
     "raw_name": "qc_flag",
     "status": "pending",
     "uid": "62e938ea-f6ce-4b1b-90f2-dd5b56fd2aab"

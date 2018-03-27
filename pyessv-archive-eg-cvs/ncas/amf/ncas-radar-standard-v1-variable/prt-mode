@@ -10,8 +10,8 @@
         "options": "fixed, staggered, dual",
         "type": "char"
     },
-    "idx": 10,
     "label": "prt_mode",
+    "namespace": "ncas:amf:ncas-radar-standard-v1-variable:prt-mode",
     "raw_name": "prt_mode",
     "status": "pending",
     "uid": "dc3e1d94-dd67-4e57-bdf2-c9d8b2787ebd"

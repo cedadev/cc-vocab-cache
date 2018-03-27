@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 4,
     "label": "rainfall_rate",
+    "namespace": "ncas:amf:rain-lwc-velocity-reflectivity-variable:rainfall-rate",
     "raw_name": "rainfall_rate",
     "status": "pending",
     "uid": "1254b688-77d9-4232-aeb7-5e75842bf460"

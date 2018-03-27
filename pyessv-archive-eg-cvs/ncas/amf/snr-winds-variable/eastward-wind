@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 14,
     "label": "eastward_wind",
+    "namespace": "ncas:amf:snr-winds-variable:eastward-wind",
     "raw_name": "eastward_wind",
     "status": "pending",
     "uid": "0dc1310b-fe95-42e5-b95a-3850275d2a27"

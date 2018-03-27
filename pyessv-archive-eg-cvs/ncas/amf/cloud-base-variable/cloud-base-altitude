@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 2,
     "label": "cloud_base_altitude",
+    "namespace": "ncas:amf:cloud-base-variable:cloud-base-altitude",
     "raw_name": "cloud_base_altitude",
     "status": "pending",
     "uid": "67a83734-caf0-4951-aa40-6bb8fb527fb6"

@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 13,
     "label": "integrated_water_vapour",
+    "namespace": "ncas:amf:iwv-lwp-variable:integrated-water-vapour",
     "raw_name": "integrated_water_vapour",
     "status": "pending",
     "uid": "dbbf3e93-f8b2-4ac5-93d0-0fe8b3d95f7a"

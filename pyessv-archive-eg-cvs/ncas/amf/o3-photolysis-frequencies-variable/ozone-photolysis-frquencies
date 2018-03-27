@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 1,
     "label": "ozone_photolysis_frquencies",
+    "namespace": "ncas:amf:o3-photolysis-frequencies-variable:ozone-photolysis-frquencies",
     "raw_name": "ozone_photolysis_frquencies",
     "status": "pending",
     "uid": "948bee71-9131-48a8-9714-2a52554f8f14"

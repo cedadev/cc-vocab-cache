@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 0,
     "label": "qc_flag_sf6",
+    "namespace": "ncas:amf:n2o-sf6-concentration-variable:qc-flag-sf6",
     "raw_name": "qc_flag_sf6",
     "status": "pending",
     "uid": "b28315e1-ff8e-4008-bf5c-5bcb8a1fa84b"

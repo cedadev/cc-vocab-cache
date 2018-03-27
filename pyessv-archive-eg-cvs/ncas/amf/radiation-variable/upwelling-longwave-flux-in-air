@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 2,
     "label": "upwelling_longwave_flux_in_air",
+    "namespace": "ncas:amf:radiation-variable:upwelling-longwave-flux-in-air",
     "raw_name": "upwelling_longwave_flux_in_air",
     "status": "pending",
     "uid": "4c43a10a-f77a-4718-a095-2391226bbae8"

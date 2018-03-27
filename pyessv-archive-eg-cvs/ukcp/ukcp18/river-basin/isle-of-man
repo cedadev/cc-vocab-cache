@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "isle-of-man", 
-    "create_date": "2018-03-22 15:45:36.922170+00:00", 
-    "label": "isle_of_man", 
-    "namespace": "ukcp:ukcp18:river-basin:isle-of-man", 
-    "raw_name": "isle_of_man", 
-    "status": "pending", 
-    "uid": "18e65bf6-5d61-4673-be91-64259faf7095"
+    "_type": "term",
+    "canonical_name": "isle-of-man",
+    "create_date": "2018-03-26 11:31:41.770050",
+    "label": "isle_of_man",
+    "namespace": "ukcp:ukcp18:river-basin:isle-of-man",
+    "raw_name": "isle_of_man",
+    "status": "pending",
+    "uid": "56f420e3-f3c6-40ee-84d8-ebb7b22c1633"
 }

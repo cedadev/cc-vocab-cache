@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 2,
     "label": "mole_fraction_of_molecular_hydrogen_in_dry_air",
+    "namespace": "ncas:amf:co-h2-concentration-variable:mole-fraction-of-molecular-hydrogen-in-dry-air",
     "raw_name": "mole_fraction_of_molecular_hydrogen_in_dry_air",
     "status": "pending",
     "uid": "56ef42da-57b9-417c-a85e-8aa0583c3dc1"

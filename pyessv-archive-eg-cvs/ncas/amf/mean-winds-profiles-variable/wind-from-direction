@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 1,
     "label": "wind_from_direction",
+    "namespace": "ncas:amf:mean-winds-profiles-variable:wind-from-direction",
     "raw_name": "wind_from_direction",
     "status": "pending",
     "uid": "aa140e49-e988-4c20-a4ef-8271527a42ca"

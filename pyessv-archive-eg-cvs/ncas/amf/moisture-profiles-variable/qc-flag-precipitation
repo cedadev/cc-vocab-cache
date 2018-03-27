@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 0,
     "label": "qc_flag_precipitation",
+    "namespace": "ncas:amf:moisture-profiles-variable:qc-flag-precipitation",
     "raw_name": "qc_flag_precipitation",
     "status": "pending",
     "uid": "ab99b4de-c2e5-42ae-aea1-bc6020dff357"

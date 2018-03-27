@@ -6,9 +6,7 @@
         "length": 1,
         "units": "degrees_north"
     },
-    "idx": 1,
-    "label": "latitude",
-    "raw_name": "latitude",
+    "namespace": "ncas:amf:common-land-dimension:latitude",
     "status": "pending",
     "uid": "6eb69e63-b6b4-4cc3-a2e5-17bfccb403f9"
 }

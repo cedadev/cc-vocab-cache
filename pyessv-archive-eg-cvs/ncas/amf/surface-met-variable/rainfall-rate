@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 3,
     "label": "rainfall_rate",
+    "namespace": "ncas:amf:surface-met-variable:rainfall-rate",
     "raw_name": "rainfall_rate",
     "status": "pending",
     "uid": "0b126a74-81fb-4122-a2b9-f5552ae38da2"

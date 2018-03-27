@@ -14,9 +14,7 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 7,
-    "label": "longitude",
-    "raw_name": "longitude",
+    "namespace": "ncas:amf:common-sea-variable:longitude",
     "status": "pending",
     "uid": "ed9ef096-3d29-4f9e-8f08-70060086bea4"
 }

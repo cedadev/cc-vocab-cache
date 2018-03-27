@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 7,
     "label": "mass_concentration_of_ammonium_in_ ambient_aerosol_particles_in_air",
+    "namespace": "ncas:amf:aerosol-no3-so4-nh3-org-concentration-variable:mass-concentration-of-ammonium-in--ambient-aerosol-particles-in-air",
     "raw_name": "mass_concentration_of_ammonium_in_ ambient_aerosol_particles_in_air",
     "status": "pending",
     "uid": "cc2e3e0c-f010-4d42-998d-9840b3ba6093"

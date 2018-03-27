@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 9,
     "label": "qc_flag_wind_direction",
+    "namespace": "ncas:amf:mean-winds-variable:qc-flag-wind-direction",
     "raw_name": "qc_flag_wind_direction",
     "status": "pending",
     "uid": "2b3756c3-01f8-4630-925b-a6953ae42190"

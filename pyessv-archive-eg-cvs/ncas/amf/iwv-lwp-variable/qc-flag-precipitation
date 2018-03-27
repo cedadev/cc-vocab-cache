@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 1,
     "label": "qc_flag_precipitation",
+    "namespace": "ncas:amf:iwv-lwp-variable:qc-flag-precipitation",
     "raw_name": "qc_flag_precipitation",
     "status": "pending",
     "uid": "f1f03c20-7db0-44c0-bac3-5c9cd8cf08c4"

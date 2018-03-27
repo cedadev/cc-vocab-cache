@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 0,
     "label": "laser_pulse_energy",
+    "namespace": "ncas:amf:aerosol-backscatter-variable:laser-pulse-energy",
     "raw_name": "laser_pulse_energy",
     "status": "pending",
     "uid": "ce21c4bf-5921-4764-a474-8b095f5f1d81"

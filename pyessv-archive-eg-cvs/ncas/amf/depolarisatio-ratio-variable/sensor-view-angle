@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 5,
     "label": "sensor_view_angle",
+    "namespace": "ncas:amf:depolarisatio-ratio-variable:sensor-view-angle",
     "raw_name": "sensor_view_angle",
     "status": "pending",
     "uid": "21ba6cd9-6c1b-4732-82b2-94246990e5f1"

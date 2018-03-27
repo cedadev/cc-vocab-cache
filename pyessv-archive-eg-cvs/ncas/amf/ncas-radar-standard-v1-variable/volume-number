@@ -8,8 +8,8 @@
         "name": "volume_number",
         "type": "int"
     },
-    "idx": 20,
     "label": "volume_number",
+    "namespace": "ncas:amf:ncas-radar-standard-v1-variable:volume-number",
     "raw_name": "volume_number",
     "status": "pending",
     "uid": "c7ecd8ff-04f0-4c42-ba09-72e50ccc8ce1"

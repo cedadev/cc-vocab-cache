@@ -16,8 +16,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 1,
     "label": "mass_fraction_of_ozone_in_air",
+    "namespace": "ncas:amf:o3-concentration-variable:mass-fraction-of-ozone-in-air",
     "raw_name": "mass_fraction_of_ozone_in_air",
     "status": "pending",
     "uid": "d4dab311-5407-44db-8857-4aa8ae8675bb"

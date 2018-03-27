@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 3,
     "label": "qc_flag_body_temperature",
+    "namespace": "ncas:amf:radiation-variable:qc-flag-body-temperature",
     "raw_name": "qc_flag_body_temperature",
     "status": "pending",
     "uid": "194bf4f4-7d4b-4468-b190-8ddf9c1a41c0"

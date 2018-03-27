@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 15,
     "label": "qc_flag_sonic_temperature",
+    "namespace": "ncas:amf:mean-winds-variable:qc-flag-sonic-temperature",
     "raw_name": "qc_flag_sonic_temperature",
     "status": "pending",
     "uid": "78a344ca-392a-4630-b9ee-08448341e1ad"

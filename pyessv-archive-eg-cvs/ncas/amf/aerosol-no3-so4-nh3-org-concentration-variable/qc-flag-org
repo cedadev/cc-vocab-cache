@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 1,
     "label": "qc_flag_org",
+    "namespace": "ncas:amf:aerosol-no3-so4-nh3-org-concentration-variable:qc-flag-org",
     "raw_name": "qc_flag_org",
     "status": "pending",
     "uid": "70e50ec2-f75e-47f7-8698-184ace9cac28"

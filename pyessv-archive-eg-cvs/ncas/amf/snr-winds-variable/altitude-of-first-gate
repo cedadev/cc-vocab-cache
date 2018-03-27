@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 2,
     "label": "altitude_of_first_gate",
+    "namespace": "ncas:amf:snr-winds-variable:altitude-of-first-gate",
     "raw_name": "altitude_of_first_gate",
     "status": "pending",
     "uid": "4dde52ca-9482-4a3a-818f-b4b5e8861f89"

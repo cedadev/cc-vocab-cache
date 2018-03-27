@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 4,
     "label": "qc_flag_pressure",
+    "namespace": "ncas:amf:mean-co2-h2o-variable:qc-flag-pressure",
     "raw_name": "qc_flag_pressure",
     "status": "pending",
     "uid": "61653e50-3cb8-428e-8e0a-baa08e4259c1"

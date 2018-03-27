@@ -13,8 +13,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 9,
     "label": "run_length",
+    "namespace": "ncas:amf:flux-estimates-variable:run-length",
     "raw_name": "run_length",
     "status": "pending",
     "uid": "74db0e7b-d73b-40c1-9c0c-cda2fb220163"

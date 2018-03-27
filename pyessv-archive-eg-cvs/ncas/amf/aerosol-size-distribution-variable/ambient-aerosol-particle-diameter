@@ -13,8 +13,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 2,
     "label": "ambient_aerosol_particle_diameter",
+    "namespace": "ncas:amf:aerosol-size-distribution-variable:ambient-aerosol-particle-diameter",
     "raw_name": "ambient_aerosol_particle_diameter",
     "status": "pending",
     "uid": "375e0314-9da3-4645-b117-a63386657ad9"

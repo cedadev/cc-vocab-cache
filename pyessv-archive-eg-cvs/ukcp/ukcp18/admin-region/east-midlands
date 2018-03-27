@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "east-midlands", 
-    "create_date": "2018-03-22 15:45:36.922170+00:00", 
-    "label": "east_midlands", 
-    "namespace": "ukcp:ukcp18:admin-region:east-midlands", 
-    "raw_name": "east_midlands", 
-    "status": "pending", 
-    "uid": "94f2078c-fda3-4942-be99-ebca4948116d"
+    "_type": "term",
+    "canonical_name": "east-midlands",
+    "create_date": "2018-03-26 11:31:41.770050",
+    "label": "east_midlands",
+    "namespace": "ukcp:ukcp18:admin-region:east-midlands",
+    "raw_name": "east_midlands",
+    "status": "pending",
+    "uid": "2544a9da-cfe2-48cc-ba4b-5afac9b9c6bb"
 }

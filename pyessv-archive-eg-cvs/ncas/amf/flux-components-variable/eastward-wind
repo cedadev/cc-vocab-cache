@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 1,
     "label": "eastward_wind",
+    "namespace": "ncas:amf:flux-components-variable:eastward-wind",
     "raw_name": "eastward_wind",
     "status": "pending",
     "uid": "4e0d1ce0-24a2-4203-adc3-1478ab9b603a"

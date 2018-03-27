@@ -1,40 +1,40 @@
 {
-    "_type": "term", 
-    "canonical_name": "rss", 
-    "create_date": "2018-03-22 15:45:36.922170+00:00", 
+    "_type": "term",
+    "canonical_name": "rss",
+    "create_date": "2018-03-26 11:31:41.770050",
     "data": {
         "cmip6_cmor_tables_row_id": [
-            "1399", 
-            "1400", 
+            "1399",
+            "1400",
             "?"
-        ], 
-        "cmip6_name": "rss", 
-        "cmip6_standard_name": "surface_net_downward_shortwave_flux", 
-        "label_units": "W m-2", 
-        "long_name": "Net Surface short wave flux", 
-        "plot_label": "Net Surface short wave flux (W m-2)", 
-        "standard_name": "surface_net_downward_shortwave_flux", 
+        ],
+        "cmip6_name": "rss",
+        "cmip6_standard_name": "surface_net_downward_shortwave_flux",
+        "label_units": "W m-2",
+        "long_name": "Net Surface short wave flux",
+        "plot_label": "Net Surface short wave flux (W m-2)",
+        "standard_name": "surface_net_downward_shortwave_flux",
         "strand": [
-            "land strand 1", 
-            "land strand 2", 
-            "land strand 3 12km", 
-            "land strand 3 2km", 
-            "marine", 
+            "land strand 1",
+            "land strand 2",
+            "land strand 3 12km",
+            "land strand 3 2km",
+            "marine",
             "observations"
-        ], 
+        ],
         "time_averaging": [
             "mean"
-        ], 
+        ],
         "time_step": [
-            "3hr", 
-            "day", 
+            "3hr",
+            "day",
             "mon"
-        ], 
-        "um_stash": "01201", 
+        ],
+        "um_stash": "01201",
         "units": "W m-2"
-    }, 
-    "description": "Net Surface short wave flux", 
-    "namespace": "ukcp:ukcp18:variable:rss", 
-    "status": "pending", 
-    "uid": "5981c48f-035b-4841-9a6e-896c886ecbac"
+    },
+    "description": "Net Surface short wave flux",
+    "namespace": "ukcp:ukcp18:variable:rss",
+    "status": "pending",
+    "uid": "70719ba0-9dfe-4b17-ad6f-828fba8f78b5"
 }

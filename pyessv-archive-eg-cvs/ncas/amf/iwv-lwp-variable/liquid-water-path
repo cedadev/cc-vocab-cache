@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 0,
     "label": "liquid_water_path",
+    "namespace": "ncas:amf:iwv-lwp-variable:liquid-water-path",
     "raw_name": "liquid_water_path",
     "status": "pending",
     "uid": "79387799-22e2-4b4e-a023-14c91fb9b4bb"

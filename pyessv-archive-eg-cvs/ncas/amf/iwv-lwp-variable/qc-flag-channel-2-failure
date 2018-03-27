@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 9,
     "label": "qc_flag_channel_2_failure",
+    "namespace": "ncas:amf:iwv-lwp-variable:qc-flag-channel-2-failure",
     "raw_name": "qc_flag_channel_2_failure",
     "status": "pending",
     "uid": "052091c5-97f2-49bd-a81d-cf1e2e074f84"

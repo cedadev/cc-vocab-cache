@@ -1,10 +1,10 @@
 {
-    "_type": "term", 
-    "canonical_name": "northern-ireland", 
-    "create_date": "2018-03-22 15:45:36.922170+00:00", 
-    "label": "northern_ireland", 
-    "namespace": "ukcp:ukcp18:country:northern-ireland", 
-    "raw_name": "northern_ireland", 
-    "status": "pending", 
-    "uid": "5cfaa4c3-f2b5-475c-9cfd-55d7c5e0931c"
+    "_type": "term",
+    "canonical_name": "northern-ireland",
+    "create_date": "2018-03-26 11:31:41.770050",
+    "label": "northern_ireland",
+    "namespace": "ukcp:ukcp18:country:northern-ireland",
+    "raw_name": "northern_ireland",
+    "status": "pending",
+    "uid": "189f4f89-7afd-4082-86e7-c6a9b4f199f0"
 }

@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 2,
     "label": "qc_flag_radiation",
+    "namespace": "ncas:amf:surface-met-variable:qc-flag-radiation",
     "raw_name": "qc_flag_radiation",
     "status": "pending",
     "uid": "8d59f49e-1047-4fa0-b218-a44d1990d5c8"

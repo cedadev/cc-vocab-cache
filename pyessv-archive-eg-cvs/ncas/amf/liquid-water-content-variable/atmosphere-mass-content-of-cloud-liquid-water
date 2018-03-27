@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 0,
     "label": "atmosphere_mass_content_of_cloud_liquid_water",
+    "namespace": "ncas:amf:liquid-water-content-variable:atmosphere-mass-content-of-cloud-liquid-water",
     "raw_name": "atmosphere_mass_content_of_cloud_liquid_water",
     "status": "pending",
     "uid": "02d77e8e-4a62-4833-bffd-af5ad5815f75"

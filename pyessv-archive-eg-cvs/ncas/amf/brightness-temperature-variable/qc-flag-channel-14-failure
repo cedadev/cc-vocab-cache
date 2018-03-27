@@ -7,8 +7,8 @@
         "name": "qc_flag_channel_14_failure",
         "type": "byte"
     },
-    "idx": 16,
     "label": "qc_flag_channel_14_failure",
+    "namespace": "ncas:amf:brightness-temperature-variable:qc-flag-channel-14-failure",
     "raw_name": "qc_flag_channel_14_failure",
     "status": "pending",
     "uid": "ad98273a-7176-4096-9494-d7fd963e3f89"

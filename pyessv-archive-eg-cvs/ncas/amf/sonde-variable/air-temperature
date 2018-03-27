@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 8,
     "label": "air_temperature",
+    "namespace": "ncas:amf:sonde-variable:air-temperature",
     "raw_name": "air_temperature",
     "status": "pending",
     "uid": "ccddb495-116a-4e4f-861b-59923da351aa"

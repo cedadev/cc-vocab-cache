@@ -12,8 +12,8 @@
         "name": "grid_mapping",
         "type": "int"
     },
-    "idx": 2,
     "label": "grid_mapping",
+    "namespace": "ncas:amf:ncas-radar-standard-v1-variable:grid-mapping",
     "raw_name": "grid_mapping",
     "status": "pending",
     "uid": "ac21c096-4896-4042-a159-39c386530349"

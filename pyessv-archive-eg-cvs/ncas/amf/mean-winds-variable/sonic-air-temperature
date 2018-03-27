@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 6,
     "label": "sonic_air_temperature",
+    "namespace": "ncas:amf:mean-winds-variable:sonic-air-temperature",
     "raw_name": "sonic_air_temperature",
     "status": "pending",
     "uid": "e67f8fc4-161f-47cb-bae9-f82f3bf1ab40"

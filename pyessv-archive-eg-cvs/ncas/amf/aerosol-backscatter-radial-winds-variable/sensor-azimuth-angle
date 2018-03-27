@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 0,
     "label": "sensor_azimuth_angle",
+    "namespace": "ncas:amf:aerosol-backscatter-radial-winds-variable:sensor-azimuth-angle",
     "raw_name": "sensor_azimuth_angle",
     "status": "pending",
     "uid": "5a10fb9e-44be-4365-87ae-79decc389b59"

@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 3,
     "label": "platform_pitch_rate",
+    "namespace": "ncas:amf:common-air-variable:platform-pitch-rate",
     "raw_name": "platform_pitch_rate",
     "status": "pending",
     "uid": "e93df5e6-658e-492d-af36-7822bb2153d3"

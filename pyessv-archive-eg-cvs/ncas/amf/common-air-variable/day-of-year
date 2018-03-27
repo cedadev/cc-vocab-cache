@@ -11,8 +11,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 7,
     "label": "day_of_year",
+    "namespace": "ncas:amf:common-air-variable:day-of-year",
     "raw_name": "day_of_year",
     "status": "pending",
     "uid": "627a79ff-d10f-417d-afb8-7c7351539882"

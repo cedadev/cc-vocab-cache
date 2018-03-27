@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 2,
     "label": "wind_speed_of_gust",
+    "namespace": "ncas:amf:mean-winds-variable:wind-speed-of-gust",
     "raw_name": "wind_speed_of_gust",
     "status": "pending",
     "uid": "25e2f9f5-cbfe-488f-91e5-fb74d8ba60df"

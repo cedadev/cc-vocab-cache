@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 2,
     "label": "kinematic_sonic_temperature_flux",
+    "namespace": "ncas:amf:flux-estimates-variable:kinematic-sonic-temperature-flux",
     "raw_name": "kinematic_sonic_temperature_flux",
     "status": "pending",
     "uid": "12b2cba0-4360-46d6-9098-a1d102823737"

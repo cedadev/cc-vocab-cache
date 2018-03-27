@@ -1,8 +1,8 @@
 {
-    "_type": "term", 
-    "canonical_name": "land-gcm", 
-    "create_date": "2018-03-22 15:45:36.922170+00:00", 
-    "namespace": "ukcp:ukcp18:collection:land-gcm", 
-    "status": "pending", 
-    "uid": "c6366858-3362-4b79-934a-13dcb6a84351"
+    "_type": "term",
+    "canonical_name": "land-gcm",
+    "create_date": "2018-03-26 11:31:41.770050",
+    "namespace": "ukcp:ukcp18:collection:land-gcm",
+    "status": "pending",
+    "uid": "372fc6d0-13a8-47cc-b4c9-34242df186d7"
 }

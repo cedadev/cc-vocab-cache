@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 4,
     "label": "northward_wind",
+    "namespace": "ncas:amf:snr-winds-variable:northward-wind",
     "raw_name": "northward_wind",
     "status": "pending",
     "uid": "ad7a3054-4bc0-4140-9bb8-1962395ec62e"

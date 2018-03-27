@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 7,
     "label": "qc_flag_noy",
+    "namespace": "ncas:amf:nox-noxy-concentration-variable:qc-flag-noy",
     "raw_name": "qc_flag_noy",
     "status": "pending",
     "uid": "821ff02c-7d26-4536-a01d-7e5357e4c91c"

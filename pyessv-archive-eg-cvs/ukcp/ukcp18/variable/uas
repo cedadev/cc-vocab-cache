@@ -1,40 +1,40 @@
 {
-    "_type": "term", 
-    "canonical_name": "uas", 
-    "create_date": "2018-03-22 15:45:36.922170+00:00", 
+    "_type": "term",
+    "canonical_name": "uas",
+    "create_date": "2018-03-26 11:31:41.770050",
     "data": {
         "cmip6_cmor_tables_row_id": [
-            "1909", 
+            "1909",
             "1914"
-        ], 
-        "cmip6_name": "uas", 
-        "cmip6_standard_name": "eastward_wind", 
-        "label_units": "m s-1", 
-        "level": "10m", 
-        "long_name": "Eastward wind component", 
-        "plot_label": "Eastward wind at 10m (m s-1)", 
-        "standard_name": "eastward_wind", 
+        ],
+        "cmip6_name": "uas",
+        "cmip6_standard_name": "eastward_wind",
+        "label_units": "m s-1",
+        "level": "10m",
+        "long_name": "Eastward wind component",
+        "plot_label": "Eastward wind at 10m (m s-1)",
+        "standard_name": "eastward_wind",
         "strand": [
-            "land strand 1", 
-            "land strand 2", 
-            "land strand 3 12km", 
-            "land strand 3 2km", 
-            "marine", 
+            "land strand 1",
+            "land strand 2",
+            "land strand 3 12km",
+            "land strand 3 2km",
+            "marine",
             "observations"
-        ], 
+        ],
         "time_averaging": [
-            "instantaneous", 
+            "instantaneous",
             "mean"
-        ], 
+        ],
         "time_step": [
-            "3hr", 
+            "3hr",
             "day"
-        ], 
-        "um_stash": "30201", 
+        ],
+        "um_stash": "30201",
         "units": "m s-1"
-    }, 
-    "description": "Eastward wind", 
-    "namespace": "ukcp:ukcp18:variable:uas", 
-    "status": "pending", 
-    "uid": "54135500-ea77-483f-8bc7-0c78136c9093"
+    },
+    "description": "Eastward wind",
+    "namespace": "ukcp:ukcp18:variable:uas",
+    "status": "pending",
+    "uid": "ea98607c-c922-4bff-81ee-e64a157ab735"
 }

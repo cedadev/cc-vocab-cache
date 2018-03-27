@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 7,
     "label": "qc_flag_wind_component_eastward",
+    "namespace": "ncas:amf:mean-winds-variable:qc-flag-wind-component-eastward",
     "raw_name": "qc_flag_wind_component_eastward",
     "status": "pending",
     "uid": "1a0d6ddb-1608-45f6-b6b8-1f4ed92346bb"

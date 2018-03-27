@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 2,
     "label": "solar_actinic_flux",
+    "namespace": "ncas:amf:solar-actinic-flux-variable:solar-actinic-flux",
     "raw_name": "solar_actinic_flux",
     "status": "pending",
     "uid": "7a530014-c8c8-46f8-9c37-9cf147d1e7e4"

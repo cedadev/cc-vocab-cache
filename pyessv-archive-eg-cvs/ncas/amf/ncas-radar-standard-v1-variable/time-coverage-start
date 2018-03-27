@@ -9,8 +9,8 @@
         "name": "time_coverage_start",
         "type": "char"
     },
-    "idx": 13,
     "label": "time_coverage_start",
+    "namespace": "ncas:amf:ncas-radar-standard-v1-variable:time-coverage-start",
     "raw_name": "time_coverage_start",
     "status": "pending",
     "uid": "01575d9b-7813-4ec5-be1d-7f9c25630c1d"

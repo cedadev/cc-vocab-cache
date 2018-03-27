@@ -13,8 +13,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 16,
     "label": "number_of_samples_in_run",
+    "namespace": "ncas:amf:flux-estimates-variable:number-of-samples-in-run",
     "raw_name": "number_of_samples_in_run",
     "status": "pending",
     "uid": "ff8fbf33-7831-4099-92a4-1e982233d60e"

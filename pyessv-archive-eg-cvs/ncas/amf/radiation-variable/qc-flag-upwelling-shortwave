@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 6,
     "label": "qc_flag_upwelling_shortwave",
+    "namespace": "ncas:amf:radiation-variable:qc-flag-upwelling-shortwave",
     "raw_name": "qc_flag_upwelling_shortwave",
     "status": "pending",
     "uid": "38331f42-59cf-497d-954c-a0deadd6d77a"

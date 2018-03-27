@@ -1,8 +1,8 @@
 {
-    "_type": "term", 
-    "canonical_name": "1hr", 
-    "create_date": "2018-03-22 15:45:36.922170+00:00", 
-    "namespace": "ukcp:ukcp18:frequency:1hr", 
-    "status": "pending", 
-    "uid": "ec741e79-86df-47fa-ae4b-200bc7e20bbc"
+    "_type": "term",
+    "canonical_name": "1hr",
+    "create_date": "2018-03-26 11:31:41.770050",
+    "namespace": "ukcp:ukcp18:frequency:1hr",
+    "status": "pending",
+    "uid": "8b65bce0-dd25-412a-b329-30467fef56a7"
 }

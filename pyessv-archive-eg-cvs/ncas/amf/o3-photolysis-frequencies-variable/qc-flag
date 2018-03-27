@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 0,
     "label": "qc_flag",
+    "namespace": "ncas:amf:o3-photolysis-frequencies-variable:qc-flag",
     "raw_name": "qc_flag",
     "status": "pending",
     "uid": "896de795-e35f-4964-8a89-502629833fe7"

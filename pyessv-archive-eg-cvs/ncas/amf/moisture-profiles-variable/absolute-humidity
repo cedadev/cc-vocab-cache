@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 4,
     "label": "absolute_humidity",
+    "namespace": "ncas:amf:moisture-profiles-variable:absolute-humidity",
     "raw_name": "absolute_humidity",
     "status": "pending",
     "uid": "9f0b79b1-30b3-426b-be97-e4e8fc3c275d"

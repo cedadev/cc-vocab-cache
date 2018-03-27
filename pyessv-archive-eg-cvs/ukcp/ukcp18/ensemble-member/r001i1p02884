@@ -1,8 +1,8 @@
 {
-    "_type": "term", 
-    "canonical_name": "r001i1p02884", 
-    "create_date": "2018-03-22 15:45:36.922170+00:00", 
-    "namespace": "ukcp:ukcp18:ensemble-member:r001i1p02884", 
-    "status": "pending", 
-    "uid": "4f79e03f-bf70-4e8e-b3db-bdae9c9208c1"
+    "_type": "term",
+    "canonical_name": "r001i1p02884",
+    "create_date": "2018-03-26 11:31:41.770050",
+    "namespace": "ukcp:ukcp18:ensemble-member:r001i1p02884",
+    "status": "pending",
+    "uid": "a7b8009b-1e16-4dbb-9104-22ff988db9c1"
 }

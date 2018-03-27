@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 2,
     "label": "platform_orientation",
+    "namespace": "ncas:amf:common-sea-variable:platform-orientation",
     "raw_name": "platform_orientation",
     "status": "pending",
     "uid": "6e434d35-e319-498d-8f28-5a8dbbbc719b"

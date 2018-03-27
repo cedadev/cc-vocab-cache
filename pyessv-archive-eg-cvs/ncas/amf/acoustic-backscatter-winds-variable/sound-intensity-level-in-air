@@ -15,8 +15,8 @@
         "valid_max": "<derived form file>",
         "valid_min": "<derived form file>"
     },
-    "idx": 9,
     "label": "sound_intensity_level_in_air",
+    "namespace": "ncas:amf:acoustic-backscatter-winds-variable:sound-intensity-level-in-air",
     "raw_name": "sound_intensity_level_in_air",
     "status": "pending",
     "uid": "da4fedba-715e-4a3a-8416-39153e03911d"

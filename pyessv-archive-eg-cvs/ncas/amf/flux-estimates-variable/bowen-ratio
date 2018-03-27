@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 0,
     "label": "bowen_ratio",
+    "namespace": "ncas:amf:flux-estimates-variable:bowen-ratio",
     "raw_name": "bowen_ratio",
     "status": "pending",
     "uid": "7a791262-9ecc-48a7-a176-e21d1ddc487a"

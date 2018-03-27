@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 5,
     "label": "window_contamination",
+    "namespace": "ncas:amf:aerosol-backscatter-variable:window-contamination",
     "raw_name": "window_contamination",
     "status": "pending",
     "uid": "76b8c060-bd7a-4c05-a325-fff217175d6b"

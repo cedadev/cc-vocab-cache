@@ -16,8 +16,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 1,
     "label": "mole_fraction_of_nitrous_oxide_in_air",
+    "namespace": "ncas:amf:n2o-sf6-concentration-variable:mole-fraction-of-nitrous-oxide-in-air",
     "raw_name": "mole_fraction_of_nitrous_oxide_in_air",
     "status": "pending",
     "uid": "7f3c3993-4de8-4024-8d7b-7aedf5b1111e"

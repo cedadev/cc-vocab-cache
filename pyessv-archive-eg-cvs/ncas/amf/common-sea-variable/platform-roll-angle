@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 0,
     "label": "platform_roll_angle",
+    "namespace": "ncas:amf:common-sea-variable:platform-roll-angle",
     "raw_name": "platform_roll_angle",
     "status": "pending",
     "uid": "d6d278a5-06d8-416b-9f46-d211a4449796"

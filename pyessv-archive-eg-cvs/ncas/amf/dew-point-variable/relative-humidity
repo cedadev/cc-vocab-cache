@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 3,
     "label": "relative_humidity",
+    "namespace": "ncas:amf:dew-point-variable:relative-humidity",
     "raw_name": "relative_humidity",
     "status": "pending",
     "uid": "5b5af34b-06b1-43e7-bd7f-0aa830288cb0"

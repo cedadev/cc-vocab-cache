@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 19,
     "label": "qc_flag_channel_9_failure",
+    "namespace": "ncas:amf:full-troposphere-temperature-profiles-variable:qc-flag-channel-9-failure",
     "raw_name": "qc_flag_channel_9_failure",
     "status": "pending",
     "uid": "45495b73-19cc-4ff4-9d41-75441f9d9c79"

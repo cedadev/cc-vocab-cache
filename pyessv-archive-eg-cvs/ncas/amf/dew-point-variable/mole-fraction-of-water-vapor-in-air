@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 2,
     "label": "mole_fraction_of_water_vapor_in_air",
+    "namespace": "ncas:amf:dew-point-variable:mole-fraction-of-water-vapor-in-air",
     "raw_name": "mole_fraction_of_water_vapor_in_air",
     "status": "pending",
     "uid": "acef5442-d6fd-4a80-996e-e43eb4b74e89"

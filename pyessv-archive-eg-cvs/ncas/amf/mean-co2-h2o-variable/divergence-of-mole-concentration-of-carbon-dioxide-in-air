@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 14,
     "label": "divergence_of_mole_concentration_of_carbon_dioxide_in_air",
+    "namespace": "ncas:amf:mean-co2-h2o-variable:divergence-of-mole-concentration-of-carbon-dioxide-in-air",
     "raw_name": "divergence_of_mole_concentration_of_carbon_dioxide_in_air",
     "status": "pending",
     "uid": "031e088b-4118-45d9-9ebf-92a86471875f"

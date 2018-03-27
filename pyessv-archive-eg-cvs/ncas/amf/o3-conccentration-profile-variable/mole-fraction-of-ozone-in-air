@@ -16,8 +16,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 2,
     "label": "mole_fraction_of_ozone_in_air",
+    "namespace": "ncas:amf:o3-conccentration-profile-variable:mole-fraction-of-ozone-in-air",
     "raw_name": "mole_fraction_of_ozone_in_air",
     "status": "pending",
     "uid": "7f3b57f3-9570-46a9-bf01-bebe529c2283"

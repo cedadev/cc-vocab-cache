@@ -11,9 +11,7 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 2,
-    "label": "year",
-    "raw_name": "year",
+    "namespace": "ncas:amf:common-air-variable:year",
     "status": "pending",
     "uid": "aa8b173f-ca5c-401d-a98a-78ba40471aa1"
 }

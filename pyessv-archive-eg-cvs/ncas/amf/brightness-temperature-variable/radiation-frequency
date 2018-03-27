@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 15,
     "label": "radiation_frequency",
+    "namespace": "ncas:amf:brightness-temperature-variable:radiation-frequency",
     "raw_name": "radiation_frequency",
     "status": "pending",
     "uid": "436beaf8-24c8-442b-99d6-0fc49e83d1d5"

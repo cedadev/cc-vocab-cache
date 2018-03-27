@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 11,
     "label": "size_of_gate",
+    "namespace": "ncas:amf:snr-winds-variable:size-of-gate",
     "raw_name": "size_of_gate",
     "status": "pending",
     "uid": "863d3b78-0a93-484e-8133-ae2d451c1167"

@@ -10,8 +10,8 @@
         "type": "double",
         "units": "m"
     },
-    "idx": 11,
     "label": "altitude_agl",
+    "namespace": "ncas:amf:ncas-radar-standard-v1-variable:altitude-agl",
     "raw_name": "altitude_agl",
     "status": "pending",
     "uid": "05678ad4-a59d-4562-a60e-9f7e35b85e09"

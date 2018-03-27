@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 1,
     "label": "molecular_oxygen_molecular_nitrogen_ratio_in_air",
+    "namespace": "ncas:amf:o2n2-concentration-ratio-variable:molecular-oxygen-molecular-nitrogen-ratio-in-air",
     "raw_name": "molecular_oxygen_molecular_nitrogen_ratio_in_air",
     "status": "pending",
     "uid": "e40243dd-7dbd-4419-bc93-1ebda83c4204"

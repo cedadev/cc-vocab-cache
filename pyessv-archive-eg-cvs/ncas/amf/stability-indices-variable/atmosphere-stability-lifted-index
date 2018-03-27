@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 1,
     "label": "atmosphere_stability_lifted_index",
+    "namespace": "ncas:amf:stability-indices-variable:atmosphere-stability-lifted-index",
     "raw_name": "atmosphere_stability_lifted_index",
     "status": "pending",
     "uid": "b11a5a6c-f8a8-45c0-b248-cb0e8b236a0b"

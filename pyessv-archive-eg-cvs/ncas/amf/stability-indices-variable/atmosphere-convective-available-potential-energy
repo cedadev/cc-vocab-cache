@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 9,
     "label": "atmosphere_convective_available_potential_energy",
+    "namespace": "ncas:amf:stability-indices-variable:atmosphere-convective-available-potential-energy",
     "raw_name": "atmosphere_convective_available_potential_energy",
     "status": "pending",
     "uid": "19a7dca5-8fc6-40e7-abab-475cbe3a3740"

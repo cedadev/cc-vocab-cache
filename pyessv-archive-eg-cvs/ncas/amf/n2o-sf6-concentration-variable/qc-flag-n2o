@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 2,
     "label": "qc_flag_n2o",
+    "namespace": "ncas:amf:n2o-sf6-concentration-variable:qc-flag-n2o",
     "raw_name": "qc_flag_n2o",
     "status": "pending",
     "uid": "550e8e01-2ea2-4db0-b95b-d9ea8eca9b72"

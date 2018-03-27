@@ -10,8 +10,8 @@
         "type": "float",
         "units": "s-1"
     },
-    "idx": 5,
     "label": "radar_rx_bandwidth",
+    "namespace": "ncas:amf:ncas-radar-standard-v1-variable:radar-rx-bandwidth",
     "raw_name": "radar_rx_bandwidth",
     "status": "pending",
     "uid": "6a1295ad-9b3f-4b30-885e-4bfb0c1afe8c"

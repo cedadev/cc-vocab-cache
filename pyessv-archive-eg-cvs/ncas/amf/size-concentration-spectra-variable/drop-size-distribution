@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 0,
     "label": "drop_size_distribution",
+    "namespace": "ncas:amf:size-concentration-spectra-variable:drop-size-distribution",
     "raw_name": "drop_size_distribution",
     "status": "pending",
     "uid": "d361e529-20f1-40a2-8619-e8f2c9cd6dfd"

@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 6,
     "label": "qc_flag",
+    "namespace": "ncas:amf:aerosol-backscatter-variable:qc-flag",
     "raw_name": "qc_flag",
     "status": "pending",
     "uid": "e9167b61-18d7-4f53-bae2-c7201cc7fb4c"

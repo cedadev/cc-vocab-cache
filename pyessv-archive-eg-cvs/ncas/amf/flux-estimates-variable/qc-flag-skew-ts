@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 14,
     "label": "qc_flag_skew_ts",
+    "namespace": "ncas:amf:flux-estimates-variable:qc-flag-skew-ts",
     "raw_name": "qc_flag_skew_ts",
     "status": "pending",
     "uid": "6f3b33f4-22b1-4d78-a3ac-60f4d8b29716"

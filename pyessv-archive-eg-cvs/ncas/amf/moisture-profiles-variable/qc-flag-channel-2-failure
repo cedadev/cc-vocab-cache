@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 12,
     "label": "qc_flag_channel_2_failure",
+    "namespace": "ncas:amf:moisture-profiles-variable:qc-flag-channel-2-failure",
     "raw_name": "qc_flag_channel_2_failure",
     "status": "pending",
     "uid": "21b5dd8e-5584-4941-aa05-e3e2175625ef"

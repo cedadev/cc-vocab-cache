@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 12,
     "label": "buoyancy_flux",
+    "namespace": "ncas:amf:flux-estimates-variable:buoyancy-flux",
     "raw_name": "buoyancy_flux",
     "status": "pending",
     "uid": "f53457e7-a740-4cc4-8b9d-35b65509efa6"

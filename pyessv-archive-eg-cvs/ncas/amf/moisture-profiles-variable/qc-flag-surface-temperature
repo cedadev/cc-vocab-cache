@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 14,
     "label": "qc_flag_surface_temperature",
+    "namespace": "ncas:amf:moisture-profiles-variable:qc-flag-surface-temperature",
     "raw_name": "qc_flag_surface_temperature",
     "status": "pending",
     "uid": "f73cd2bd-32e3-4b74-96c3-5281ee9656bd"

@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 5,
     "label": "sensor_view_angle",
+    "namespace": "ncas:amf:aerosol-backscatter-radial-winds-variable:sensor-view-angle",
     "raw_name": "sensor_view_angle",
     "status": "pending",
     "uid": "9e261181-7423-4f43-b8f5-9da38b19a890"

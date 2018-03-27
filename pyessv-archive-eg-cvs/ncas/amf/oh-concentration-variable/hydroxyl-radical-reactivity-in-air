@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 1,
     "label": "hydroxyl_radical_reactivity_in_air",
+    "namespace": "ncas:amf:oh-concentration-variable:hydroxyl-radical-reactivity-in-air",
     "raw_name": "hydroxyl_radical_reactivity_in_air",
     "status": "pending",
     "uid": "73ee66d5-e70d-4ba1-b3b9-0bebde1fe798"

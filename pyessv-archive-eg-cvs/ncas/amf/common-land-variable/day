@@ -11,9 +11,7 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 8,
-    "label": "day",
-    "raw_name": "day",
+    "namespace": "ncas:amf:common-land-variable:day",
     "status": "pending",
     "uid": "ded82a45-0044-4a6b-8f8a-f77b2bf6e6b1"
 }

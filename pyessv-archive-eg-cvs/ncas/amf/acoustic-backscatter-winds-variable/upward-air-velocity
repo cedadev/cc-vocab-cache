@@ -15,8 +15,8 @@
         "valid_max": "<derived form file>",
         "valid_min": "<derived form file>"
     },
-    "idx": 2,
     "label": "upward_air_velocity",
+    "namespace": "ncas:amf:acoustic-backscatter-winds-variable:upward-air-velocity",
     "raw_name": "upward_air_velocity",
     "status": "pending",
     "uid": "b1207e75-48cd-4586-9703-6d8853277543"

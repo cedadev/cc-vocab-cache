@@ -14,8 +14,8 @@
         "valid_max": "<derived form file>",
         "valid_min": "<derived form file>"
     },
-    "idx": 10,
     "label": "divergence_of_upward_air_velocity",
+    "namespace": "ncas:amf:acoustic-backscatter-winds-variable:divergence-of-upward-air-velocity",
     "raw_name": "divergence_of_upward_air_velocity",
     "status": "pending",
     "uid": "b3268ec2-7e27-4e2f-929c-b4f67cc2d3d1"

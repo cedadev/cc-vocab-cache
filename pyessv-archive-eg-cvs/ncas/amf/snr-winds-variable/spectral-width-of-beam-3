@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 7,
     "label": "spectral_width of beam_3",
+    "namespace": "ncas:amf:snr-winds-variable:spectral-width-of-beam-3",
     "raw_name": "spectral_width of beam_3",
     "status": "pending",
     "uid": "904658cd-ba47-4e6d-8f49-ed9844781808"

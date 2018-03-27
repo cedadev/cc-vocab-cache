@@ -10,9 +10,7 @@
         "type": "double",
         "units": "m"
     },
-    "idx": 4,
-    "label": "altitude",
-    "raw_name": "altitude",
+    "namespace": "ncas:amf:ncas-radar-standard-v1-variable:altitude",
     "status": "pending",
     "uid": "b53bb1d2-7084-47fb-bfac-6d197c54cd87"
 }

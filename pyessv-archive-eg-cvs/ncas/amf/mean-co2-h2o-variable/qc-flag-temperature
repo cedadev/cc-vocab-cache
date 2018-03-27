@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 2,
     "label": "qc_flag_temperature",
+    "namespace": "ncas:amf:mean-co2-h2o-variable:qc-flag-temperature",
     "raw_name": "qc_flag_temperature",
     "status": "pending",
     "uid": "0b2afc02-f355-49ba-9bfd-f8ffb56bb895"

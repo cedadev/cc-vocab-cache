@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 1,
     "label": "qc_flag",
+    "namespace": "ncas:amf:solar-actinic-flux-variable:qc-flag",
     "raw_name": "qc_flag",
     "status": "pending",
     "uid": "1465f686-67c5-4468-9473-16e5db89435f"

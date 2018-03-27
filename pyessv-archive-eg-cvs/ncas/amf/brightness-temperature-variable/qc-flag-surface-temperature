@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 14,
     "label": "qc_flag_surface_temperature",
+    "namespace": "ncas:amf:brightness-temperature-variable:qc-flag-surface-temperature",
     "raw_name": "qc_flag_surface_temperature",
     "status": "pending",
     "uid": "01875b5f-4133-4413-b036-fde25af6bc4c"

@@ -10,8 +10,8 @@
         "options": "radar, lidar",
         "type": "char"
     },
-    "idx": 6,
     "label": "status_xml",
+    "namespace": "ncas:amf:ncas-radar-standard-v1-variable:status-xml",
     "raw_name": "status_xml",
     "status": "pending",
     "uid": "b1fa3c10-644e-4a00-a216-621a62ed6272"

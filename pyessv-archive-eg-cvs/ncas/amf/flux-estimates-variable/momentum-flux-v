@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 1,
     "label": "momentum_flux_v",
+    "namespace": "ncas:amf:flux-estimates-variable:momentum-flux-v",
     "raw_name": "momentum_flux_v",
     "status": "pending",
     "uid": "8c646ce1-8c3f-460f-9eef-04e226dea474"

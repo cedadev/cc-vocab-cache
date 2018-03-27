@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 0,
     "label": "soil_water_potential",
+    "namespace": "ncas:amf:soil-variable:soil-water-potential",
     "raw_name": "soil_water_potential",
     "status": "pending",
     "uid": "49bcb4d1-2706-489a-b655-2f1dacc517ae"

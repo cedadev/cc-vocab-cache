@@ -1,38 +1,38 @@
 {
-    "_type": "term", 
-    "canonical_name": "ssp370sst-lowbc", 
-    "create_date": "2018-03-22 15:45:36.922170+00:00", 
+    "_type": "term",
+    "canonical_name": "ssp370sst-lowbc",
+    "create_date": "2018-03-26 11:31:41.770050",
     "data": {
         "activity_id": [
             "AerChemMIP"
-        ], 
+        ],
         "additional_allowed_model_components": [
             "CHEM"
-        ], 
-        "end_year": "2055", 
-        "experiment": "SSP3-7.0, prescribed SSTs, with low black carbon emissions", 
-        "experiment_id": "ssp370SST-lowBC", 
-        "min_number_yrs_per_sim": "41", 
+        ],
+        "end_year": "2055",
+        "experiment": "SSP3-7.0, prescribed SSTs, with low black carbon emissions",
+        "experiment_id": "ssp370SST-lowBC",
+        "min_number_yrs_per_sim": "41",
         "parent_activity_id": [
             "ScenarioMIP"
-        ], 
+        ],
         "parent_experiment_id": [
             "ssp370"
-        ], 
+        ],
         "required_model_components": [
-            "AGCM", 
+            "AGCM",
             "AER"
-        ], 
-        "start_year": "2015", 
+        ],
+        "start_year": "2015",
         "sub_experiment_id": [
             "none"
-        ], 
+        ],
         "tier": "2"
-    }, 
-    "description": "Future SSP3-7.0 with reduced black carbon emissions, prescribed SSTs", 
-    "label": "ssp370SST-lowBC", 
-    "namespace": "ukcp:ukcp18:experiment-id:ssp370sst-lowbc", 
-    "raw_name": "ssp370SST-lowBC", 
-    "status": "pending", 
-    "uid": "727dba2c-3b99-4347-8109-1f64f11d7a3f"
+    },
+    "description": "Future SSP3-7.0 with reduced black carbon emissions, prescribed SSTs",
+    "label": "ssp370SST-lowBC",
+    "namespace": "ukcp:ukcp18:experiment-id:ssp370sst-lowbc",
+    "raw_name": "ssp370SST-lowBC",
+    "status": "pending",
+    "uid": "e313b0b3-ae3b-49aa-bfdc-593a67020c0a"
 }

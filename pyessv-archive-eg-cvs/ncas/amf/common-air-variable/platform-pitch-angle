@@ -15,8 +15,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 10,
     "label": "platform_pitch_angle",
+    "namespace": "ncas:amf:common-air-variable:platform-pitch-angle",
     "raw_name": "platform_pitch_angle",
     "status": "pending",
     "uid": "8b97e679-3c66-47a9-ab33-a4cf1c837b6d"

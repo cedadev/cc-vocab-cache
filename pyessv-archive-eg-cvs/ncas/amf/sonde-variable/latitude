@@ -15,9 +15,7 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 10,
-    "label": "latitude",
-    "raw_name": "latitude",
+    "namespace": "ncas:amf:sonde-variable:latitude",
     "status": "pending",
     "uid": "96c05e44-4652-47e7-a09e-46b1376a4dad"
 }

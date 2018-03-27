@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 1,
     "label": "qc_flag",
+    "namespace": "ncas:amf:size-concentration-spectra-variable:qc-flag",
     "raw_name": "qc_flag",
     "status": "pending",
     "uid": "14197d5c-08f0-4876-bcb9-b72ba21c76a7"

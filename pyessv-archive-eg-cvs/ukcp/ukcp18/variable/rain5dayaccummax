@@ -1,32 +1,32 @@
 {
-    "_type": "term", 
-    "canonical_name": "rain5dayaccummax", 
-    "create_date": "2018-03-22 15:45:36.922170+00:00", 
+    "_type": "term",
+    "canonical_name": "rain5dayaccummax",
+    "create_date": "2018-03-26 11:31:41.770050",
     "data": {
-        "label_units": "mm", 
-        "long_name": "Rainfall accumulation", 
-        "plot_label": "Max. 5-day accumulative rainfall (mm)", 
+        "label_units": "mm",
+        "long_name": "Rainfall accumulation",
+        "plot_label": "Max. 5-day accumulative rainfall (mm)",
         "strand": [
-            "land strand 1", 
-            "land strand 2", 
-            "land strand 3 12km", 
-            "land strand 3 2km", 
-            "marine", 
+            "land strand 1",
+            "land strand 2",
+            "land strand 3 12km",
+            "land strand 3 2km",
+            "marine",
             "observations"
-        ], 
+        ],
         "time_averaging": [
             "total"
-        ], 
+        ],
         "time_step": [
             "annual"
-        ], 
-        "um_stash": "05216", 
+        ],
+        "um_stash": "05216",
         "units": "mm"
-    }, 
-    "description": "Max. 5-day accumulative rainfall", 
-    "label": "rain5DayAccumMax", 
-    "namespace": "ukcp:ukcp18:variable:rain5dayaccummax", 
-    "raw_name": "rain5DayAccumMax", 
-    "status": "pending", 
-    "uid": "8fd1f4fb-3cd4-43d6-bbda-bc96b8bb070c"
+    },
+    "description": "Max. 5-day accumulative rainfall",
+    "label": "rain5DayAccumMax",
+    "namespace": "ukcp:ukcp18:variable:rain5dayaccummax",
+    "raw_name": "rain5DayAccumMax",
+    "status": "pending",
+    "uid": "bc1c2fc3-df9e-4e6d-9371-2863366ea159"
 }

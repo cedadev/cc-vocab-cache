@@ -14,9 +14,7 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 12,
-    "label": "longitude",
-    "raw_name": "longitude",
+    "namespace": "ncas:amf:common-air-variable:longitude",
     "status": "pending",
     "uid": "8f2c22ac-a848-41e9-a0be-4177efd5b7ed"
 }

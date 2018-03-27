@@ -11,8 +11,8 @@
         "type": "byte",
         "units": "1"
     },
-    "idx": 4,
     "label": "qc_flag_cleaning",
+    "namespace": "ncas:amf:radiation-variable:qc-flag-cleaning",
     "raw_name": "qc_flag_cleaning",
     "status": "pending",
     "uid": "6845a8b2-26ce-4c44-b1f2-58e9bf85030d"

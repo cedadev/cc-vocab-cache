@@ -15,9 +15,7 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 3,
-    "label": "altitude",
-    "raw_name": "altitude",
+    "namespace": "ncas:amf:aerosol-backscatter-variable:altitude",
     "status": "pending",
     "uid": "2950822a-cde8-405b-ae8a-b9acc22db2c4"
 }

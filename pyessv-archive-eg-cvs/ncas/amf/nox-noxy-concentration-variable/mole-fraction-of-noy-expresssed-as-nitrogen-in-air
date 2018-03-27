@@ -14,8 +14,8 @@
         "valid_max": "<derived from file>",
         "valid_min": "<derived from file>"
     },
-    "idx": 3,
     "label": "mole_fraction_of_noy_expresssed_as_nitrogen_in_air",
+    "namespace": "ncas:amf:nox-noxy-concentration-variable:mole-fraction-of-noy-expresssed-as-nitrogen-in-air",
     "raw_name": "mole_fraction_of_noy_expresssed_as_nitrogen_in_air",
     "status": "pending",
     "uid": "adafcdb1-baa6-47e0-b225-c0e90a19a63b"
