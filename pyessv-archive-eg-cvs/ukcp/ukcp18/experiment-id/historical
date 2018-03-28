@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "historical",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "CMIP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "CMIP6 historical",
         "end_year": "2014",
         "experiment": "all-forcing simulation of the recent past",
         "experiment_id": "historical",
@@ -33,5 +34,5 @@
     "description": "CMIP6 historical",
     "namespace": "ukcp:ukcp18:experiment-id:historical",
     "status": "pending",
-    "uid": "510f9d6f-1cd5-4f1a-bb6f-562789944eb3"
+    "uid": "fd2b1af6-e48d-455e-94b4-568dd5252ba1"
 }

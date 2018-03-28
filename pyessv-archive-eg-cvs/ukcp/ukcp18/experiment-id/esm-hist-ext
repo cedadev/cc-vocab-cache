@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "esm-hist-ext",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "CMIP"
@@ -10,6 +10,7 @@
             "AER",
             "CHEM"
         ],
+        "description": "Extension beyond 2014 of the CMIP6 historical (CO2 emission-driven)",
         "end_year": "",
         "experiment": "post-2014 all-forcing simulation with atmospheric CO2 concentration calculated",
         "experiment_id": "esm-hist-ext",
@@ -33,5 +34,5 @@
     "description": "Extension beyond 2014 of the CMIP6 historical (CO2 emission-driven)",
     "namespace": "ukcp:ukcp18:experiment-id:esm-hist-ext",
     "status": "pending",
-    "uid": "539f1967-6b1e-4ac8-b52e-ae089981e5cc"
+    "uid": "388fd8a8-3a3e-4e0b-bd6e-4d659a69dc17"
 }

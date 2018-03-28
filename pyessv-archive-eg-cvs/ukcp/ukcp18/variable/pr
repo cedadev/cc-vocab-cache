@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "pr",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "cmip6_cmor_tables_row_id": [
             "1164",
@@ -10,6 +10,7 @@
         ],
         "cmip6_name": "pr",
         "cmip6_standard_name": "precipitation_flux",
+        "description": "Precipitation rate",
         "label_units": "mm/day",
         "long_name": "Precipitation rate",
         "notes": [
@@ -41,5 +42,5 @@
     "description": "Precipitation rate",
     "namespace": "ukcp:ukcp18:variable:pr",
     "status": "pending",
-    "uid": "29bb2548-e9fb-4d24-99e3-a06fc74c552e"
+    "uid": "914cccbc-e45b-4433-899e-84e174db6bdf"
 }

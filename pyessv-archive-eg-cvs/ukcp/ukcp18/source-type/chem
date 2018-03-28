@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "chem",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "label": "CHEM",
     "namespace": "ukcp:ukcp18:source-type:chem",
     "raw_name": "CHEM",
     "status": "pending",
-    "uid": "260f03de-503a-4389-98bd-ae320314d11a"
+    "uid": "cfed78c0-a125-45b8-ba1e-d6fa099d2e76"
 }

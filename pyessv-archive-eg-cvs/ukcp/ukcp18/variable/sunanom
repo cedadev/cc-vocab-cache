@@ -1,9 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "sunanom",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "anomaly_type": "absolute_change",
+        "description": "Sunshine hours",
         "label_units": "h",
         "long_name": "Sunshine hours",
         "notes": [
@@ -32,5 +33,5 @@
     "namespace": "ukcp:ukcp18:variable:sunanom",
     "raw_name": "sunAnom",
     "status": "pending",
-    "uid": "387526d1-95f3-44df-9e5a-4c94013e27c6"
+    "uid": "3b93c418-3391-42eb-ba52-3c154503a5f3"
 }

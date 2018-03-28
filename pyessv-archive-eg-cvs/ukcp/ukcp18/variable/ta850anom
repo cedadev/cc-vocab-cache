@@ -1,11 +1,12 @@
 {
     "_type": "term",
     "canonical_name": "ta850anom",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_name": "ta",
         "cmip6_standard_name": "air_temperature",
+        "description": "Air temperature",
         "label_units": "\u00b0c",
         "level": "850hPa",
         "long_name": "Air Temperature",
@@ -32,5 +33,5 @@
     "namespace": "ukcp:ukcp18:variable:ta850anom",
     "raw_name": "ta850Anom",
     "status": "pending",
-    "uid": "c9a639fe-ee77-4319-af82-a4e6b378db23"
+    "uid": "52ac794b-63a3-4c45-bee6-003ba9fe355b"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "highressst-lai",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "HighResMIP"
@@ -9,6 +9,7 @@
         "additional_allowed_model_components": [
             "AER"
         ],
+        "description": "Forced global atmosphere-land simulations as highresSST-present, but using an common LAI dataset across models",
         "end_year": "2014",
         "experiment": "common LAI dataset within the highresSST-present experiment",
         "experiment_id": "highresSST-LAI",
@@ -33,5 +34,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:highressst-lai",
     "raw_name": "highresSST-LAI",
     "status": "pending",
-    "uid": "0189f7fe-029e-4676-b433-ac15fcc8301e"
+    "uid": "7c3d3d19-4cdf-41a0-a67e-6d7761d785a1"
 }

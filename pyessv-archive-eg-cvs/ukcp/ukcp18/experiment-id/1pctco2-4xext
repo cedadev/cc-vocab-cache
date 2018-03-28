@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "1pctco2-4xext",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "ISMIP6"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "branched from 1pctCO2 run at year 140 and run with CO2 fixed at 4x pre-industrial concentration",
         "end_year": "",
         "experiment": "extension from year 140 of 1pctCO2 with 4xCO2",
         "experiment_id": "1pctCO2-4xext",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:1pctco2-4xext",
     "raw_name": "1pctCO2-4xext",
     "status": "pending",
-    "uid": "4e62de55-273a-4e8d-8f1b-01610df5559a"
+    "uid": "6a35c7ad-966e-40de-acdf-491a268ef54b"
 }

@@ -1,10 +1,11 @@
 {
     "_type": "term",
     "canonical_name": "ta850",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "cmip6_name": "ta",
         "cmip6_standard_name": "air_temperature",
+        "description": "Air temperature",
         "label_units": "\u00b0c",
         "level": "850hPa",
         "long_name": "Air Temperature",
@@ -29,5 +30,5 @@
     "description": "Air temperature",
     "namespace": "ukcp:ukcp18:variable:ta850",
     "status": "pending",
-    "uid": "4d9bb27b-94df-4fb7-a977-903c7b4a2cdd"
+    "uid": "17653775-7e4a-4b11-a85b-4be9a860f32e"
 }

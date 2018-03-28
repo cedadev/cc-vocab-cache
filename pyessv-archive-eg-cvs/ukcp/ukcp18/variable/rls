@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "rls",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "cmip6_cmor_tables_row_id": [
             "1317",
@@ -10,6 +10,7 @@
         ],
         "cmip6_name": "rls",
         "cmip6_standard_name": "surface_net_downward_longwave_flux",
+        "description": "Net Surface long wave flux",
         "label_units": "W m-2",
         "long_name": "Net Surface long wave flux",
         "plot_label": "Net Surface long wave flux (W m-2)",
@@ -36,5 +37,5 @@
     "description": "Net Surface long wave flux",
     "namespace": "ukcp:ukcp18:variable:rls",
     "status": "pending",
-    "uid": "c7552646-944b-4737-aab4-ab13b2c14fec"
+    "uid": "7a85c017-c920-444f-9d46-860c553279b2"
 }

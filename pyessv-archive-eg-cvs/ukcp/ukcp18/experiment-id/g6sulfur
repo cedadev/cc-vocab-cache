@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "g6sulfur",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "GeoMIP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "Using equatorial SO2 injection, return the radiative forcing from a background of the ScenarioMIP high forcing to the ScenarioMIP middle forcing",
         "end_year": "2100",
         "experiment": "stratospheric sulfate aerosol injection to reduce net forcing from SSP585 to SSP245",
         "experiment_id": "G6sulfur",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:g6sulfur",
     "raw_name": "G6sulfur",
     "status": "pending",
-    "uid": "ffb9bb45-89d7-472f-8ce7-35bc69156a72"
+    "uid": "d0b772f0-6377-4a5d-bfcf-c28f86e10dbc"
 }

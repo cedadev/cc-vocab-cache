@@ -1,12 +1,13 @@
 {
     "_type": "term",
     "canonical_name": "rad-irf",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "RFMIP"
         ],
         "additional_allowed_model_components": "",
+        "description": "Offline radiation calculations",
         "end_year": "",
         "experiment": "offline assessment of radiative transfer parmeterizations in clear skies",
         "experiment_id": "rad-irf",
@@ -29,5 +30,5 @@
     "description": "Offline radiation calculations",
     "namespace": "ukcp:ukcp18:experiment-id:rad-irf",
     "status": "pending",
-    "uid": "0b238412-83be-4e67-8571-c4a414d1d692"
+    "uid": "561e9e55-4607-4c71-82ec-db8ad5dad289"
 }

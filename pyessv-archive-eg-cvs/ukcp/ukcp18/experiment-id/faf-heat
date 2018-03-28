@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "faf-heat",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "FAFMIP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "1xCO2 experiment, parallel to piControl, forced over the ocean by surface net heat flux anomalies obtained from the CMIP5 ensemble mean of 1pctCO2 experiments at the time of 2xCO2, using a passive tracer to prevent negative climate feedback on the heat flux applied",
         "end_year": "",
         "experiment": "control plus perturbative surface flux of heat into ocean",
         "experiment_id": "faf-heat",
@@ -33,5 +34,5 @@
     "description": "1xCO2 experiment, parallel to piControl, forced over the ocean by surface net heat flux anomalies obtained from the CMIP5 ensemble mean of 1pctCO2 experiments at the time of 2xCO2, using a passive tracer to prevent negative climate feedback on the heat flux applied",
     "namespace": "ukcp:ukcp18:experiment-id:faf-heat",
     "status": "pending",
-    "uid": "5ec576f3-1625-4ed5-8895-b6250205de40"
+    "uid": "a7a33f67-f58b-4f30-b762-12b2101d161e"
 }

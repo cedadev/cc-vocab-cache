@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "lig127k",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "PMIP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "main forcings: astronomical parameters, trace gases, dust (forcing, or feedback if dust cycle represented in model)",
         "end_year": "",
         "experiment": "last interglacial (127k)",
         "experiment_id": "lig127k",
@@ -33,5 +34,5 @@
     "description": "main forcings: astronomical parameters, trace gases, dust (forcing, or feedback if dust cycle represented in model)",
     "namespace": "ukcp:ukcp18:experiment-id:lig127k",
     "status": "pending",
-    "uid": "9d0c8c1b-b429-400e-96fa-0c62c2842c0f"
+    "uid": "6ff8b842-77cd-4a71-8794-c8a9af44bb0b"
 }

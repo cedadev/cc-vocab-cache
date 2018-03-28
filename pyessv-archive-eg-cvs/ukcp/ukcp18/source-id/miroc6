@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "miroc6",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_participation": [
             ""
@@ -54,5 +54,5 @@
     "namespace": "ukcp:ukcp18:source-id:miroc6",
     "raw_name": "MIROC6",
     "status": "pending",
-    "uid": "8c579dfa-24fa-44fd-98fe-66f81555e758"
+    "uid": "220fa646-807b-43e8-a03e-4463907e3fa9"
 }

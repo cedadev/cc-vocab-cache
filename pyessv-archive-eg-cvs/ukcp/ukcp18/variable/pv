@@ -1,8 +1,9 @@
 {
     "_type": "term",
     "canonical_name": "pv",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
+        "description": "Vapour pressure",
         "label_units": "hPa",
         "long_name": "partial pressure of water vapour",
         "notes": [
@@ -29,5 +30,5 @@
     "description": "Vapour pressure",
     "namespace": "ukcp:ukcp18:variable:pv",
     "status": "pending",
-    "uid": "8cc04909-59e1-42d7-9569-0f708ced98e6"
+    "uid": "08450f28-06e3-4e97-90e2-93f0e942b82c"
 }

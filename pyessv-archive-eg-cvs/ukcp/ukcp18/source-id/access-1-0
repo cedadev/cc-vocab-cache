@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "access-1-0",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_participation": [
             "CMIP"
@@ -54,5 +54,5 @@
     "namespace": "ukcp:ukcp18:source-id:access-1-0",
     "raw_name": "ACCESS-1-0",
     "status": "pending",
-    "uid": "ea4a18fb-44fc-41c4-8e11-e76e7dc2cb1d"
+    "uid": "77ea692c-6988-475b-b340-7bc8afa3d622"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "aqua-p4k-lwoff",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "CFMIP"
@@ -10,6 +10,7 @@
             "AER",
             "CHEM"
         ],
+        "description": "As aqua-p4K experiment, but with cloud-radiative effects switched off in the LW radiation code",
         "end_year": "",
         "experiment": "aquaplanet with uniform 4K SST increase and with longwave cloud radiative effects off",
         "experiment_id": "aqua-p4K-lwoff",
@@ -34,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:aqua-p4k-lwoff",
     "raw_name": "aqua-p4K-lwoff",
     "status": "pending",
-    "uid": "9f225e52-f496-4085-9577-4aabd5ae915a"
+    "uid": "c67ff052-c82b-443a-a9b4-b13912e6186c"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ssp370sst",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "AerChemMIP"
@@ -9,6 +9,7 @@
         "additional_allowed_model_components": [
             "CHEM"
         ],
+        "description": "Future SSP3-7.0, with SSTs prescribed from ssp370",
         "end_year": "2055",
         "experiment": "SSP3-7.0, with SSTs prescribed from ssp370",
         "experiment_id": "ssp370SST",
@@ -34,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:ssp370sst",
     "raw_name": "ssp370SST",
     "status": "pending",
-    "uid": "783bc850-5f2e-41a6-8cb2-dbed8ec5ce94"
+    "uid": "6c025b09-5186-4083-9b5e-472d979fe3d5"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "picontrol-withism",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "ISMIP6"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "Pre-industrial control simulation that includes interactive ice sheets",
         "end_year": "",
         "experiment": "preindustrial control with interactive ice sheet",
         "experiment_id": "piControl-withism",
@@ -36,5 +37,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:picontrol-withism",
     "raw_name": "piControl-withism",
     "status": "pending",
-    "uid": "797b1672-fc64-45fe-a9f5-d077a273513a"
+    "uid": "98c7b769-9ab8-4089-a96e-522f8da920b1"
 }

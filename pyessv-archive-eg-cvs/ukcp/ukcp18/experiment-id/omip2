@@ -1,12 +1,13 @@
 {
     "_type": "term",
     "canonical_name": "omip2",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "OMIP"
         ],
         "additional_allowed_model_components": "",
+        "description": "Global ocean - sea-ice coupled experiment forced with the JRA-55do inter-annually varying atmospheric and river data sets for years 1958-2016. Initial ocean tracer fields are based on observations. All Priority=1 OMIP diagnostics are requested for all five cycles of the 59-year forcing to quantify drift. All OMIP diagnostics (Priority=1,2,3) are requested for the 5th cycle",
         "end_year": "",
         "experiment": "OMIP experiment forced by JRA-55do atmospheric data set and initialized with observed physical and biogeochemical ocean data",
         "experiment_id": "omip2",
@@ -29,5 +30,5 @@
     "description": "Global ocean - sea-ice coupled experiment forced with the JRA-55do inter-annually varying atmospheric and river data sets for years 1958-2016. Initial ocean tracer fields are based on observations. All Priority=1 OMIP diagnostics are requested for all five cycles of the 59-year forcing to quantify drift. All OMIP diagnostics (Priority=1,2,3) are requested for the 5th cycle",
     "namespace": "ukcp:ukcp18:experiment-id:omip2",
     "status": "pending",
-    "uid": "bf51948b-5d86-4f55-b29d-3b08c7470f46"
+    "uid": "3d74d140-8614-4d69-9a18-135524d8e21d"
 }

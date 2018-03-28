@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "hursanom",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_cmor_tables_row_id": [
@@ -11,6 +11,7 @@
         ],
         "cmip6_name": "hurs",
         "cmip6_standard_name": "relative_humidity",
+        "description": "Relative humidity",
         "label_units": "%",
         "level": "1.5m",
         "long_name": "Relative humidity",
@@ -46,5 +47,5 @@
     "namespace": "ukcp:ukcp18:variable:hursanom",
     "raw_name": "hursAnom",
     "status": "pending",
-    "uid": "3a878766-5d55-4dd5-b368-b64f8a461b6b"
+    "uid": "785fc15d-44e4-4500-8ca8-6644d1e456f4"
 }

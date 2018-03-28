@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppc-ipv-nextrop-neg",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "DCPP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "C1.9 and predictability of the hiatus and of similar long timescale variations of both signs",
         "end_year": "",
         "experiment": "idealized negative northern extratropical IPV anomaly pattern",
         "experiment_id": "dcppC-ipv-NexTrop-neg",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppc-ipv-nextrop-neg",
     "raw_name": "dcppC-ipv-NexTrop-neg",
     "status": "pending",
-    "uid": "7fca2712-ebb3-45f8-992d-93356b498992"
+    "uid": "bba6f79b-5334-4315-aea5-28fcec9a5d28"
 }

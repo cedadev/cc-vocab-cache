@@ -1,10 +1,11 @@
 {
     "_type": "term",
     "canonical_name": "tidesurgeanom",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_standard_name": "sea_surface_height_above_mean_sea_level",
+        "description": "Sea surface elevation (tide and surge)",
         "label_units": "m",
         "long_name": "Sea surface height above mean sea level due to modelled astronomical tide and meteorological surge",
         "plot_label": "Sea surface elevation (tide and surge) anomaly (m)",
@@ -28,5 +29,5 @@
     "namespace": "ukcp:ukcp18:variable:tidesurgeanom",
     "raw_name": "tideSurgeAnom",
     "status": "pending",
-    "uid": "d6da9ec8-01c5-41da-b960-b8b2dd3057d9"
+    "uid": "1f06c951-5355-418e-9f89-ad223dcabad6"
 }

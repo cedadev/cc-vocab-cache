@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "lfmip-rmlc-cruncep",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "LS3MIP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "Prescribed land conditions 30yr running mean with Land-Hist-cruNcep",
         "end_year": "2100",
         "experiment": "as LFMIP-rmLC with Land-Hist-cruNcep",
         "experiment_id": "lfmip-rmLC-cruNcep",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:lfmip-rmlc-cruncep",
     "raw_name": "lfmip-rmLC-cruNcep",
     "status": "pending",
-    "uid": "db014688-ca1c-4235-a620-5ac052097951"
+    "uid": "97a331d1-53c0-4ffc-99b5-80e35326b3a4"
 }

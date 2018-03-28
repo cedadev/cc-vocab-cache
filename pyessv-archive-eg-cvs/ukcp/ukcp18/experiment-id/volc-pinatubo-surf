@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "volc-pinatubo-surf",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "VolMIP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "As volc-pinatubo-full, but with prescribed perturbation to the shortwave flux to mimic the attenuation of solar radiation by volcanic aerosols",
         "end_year": "",
         "experiment": "Pinatubo experiment with partial radiative forcing, solar radiation scattering only",
         "experiment_id": "volc-pinatubo-surf",
@@ -33,5 +34,5 @@
     "description": "As volc-pinatubo-full, but with prescribed perturbation to the shortwave flux to mimic the attenuation of solar radiation by volcanic aerosols",
     "namespace": "ukcp:ukcp18:experiment-id:volc-pinatubo-surf",
     "status": "pending",
-    "uid": "bbe2b0b1-2696-4dae-ab8f-f7e2f55cede5"
+    "uid": "4afef9b0-450b-4a99-ba22-3d084fc9870e"
 }

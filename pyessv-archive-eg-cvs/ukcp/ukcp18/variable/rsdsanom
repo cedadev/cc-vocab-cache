@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "rsdsanom",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_cmor_tables_row_id": [
@@ -9,6 +9,7 @@
         ],
         "cmip6_name": "rsds",
         "cmip6_standard_name": "surface_downwelling_shortwave_flux_in_air",
+        "description": "Total downward shortwave flux",
         "label_units": "W m-2",
         "long_name": "Downward surface shortwave flux",
         "notes": [
@@ -38,5 +39,5 @@
     "namespace": "ukcp:ukcp18:variable:rsdsanom",
     "raw_name": "rsdsAnom",
     "status": "pending",
-    "uid": "ef6b5964-4e1c-44fb-942b-7a5535be0383"
+    "uid": "cc39a665-ede9-4724-bfa6-854f5135fbeb"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "histsst-piaer",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "AerChemMIP"
@@ -9,6 +9,7 @@
         "additional_allowed_model_components": [
             "CHEM"
         ],
+        "description": "Historical WMGHG, halocarbon concentrations and tropospheric ozone precursors emissions, 1850 aerosol precursor emissions, prescribed SSTs",
         "end_year": "2014",
         "experiment": "historical SSTs and historical forcing, but with pre-industrial aerosol emissions",
         "experiment_id": "histSST-piAer",
@@ -34,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:histsst-piaer",
     "raw_name": "histSST-piAer",
     "status": "pending",
-    "uid": "12e47f11-d400-4433-8b55-f1d7485cf65d"
+    "uid": "a6897cb2-4aac-451e-883e-e75e658f6836"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ssp370-ssp126lu",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "LUMIP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "Additional land use policy sensitivity simulation for high radiative forcing scenario, keep all forcings the same as ScenarioMIP SSP3-7 (deforestation scenario), but replace land use from SSP1-2.6 (afforestation) scenario; concentration-driven",
         "end_year": "2100",
         "experiment": "SSP3-7.0 with SSP1-2.6 land use",
         "experiment_id": "ssp370-ssp126Lu",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:ssp370-ssp126lu",
     "raw_name": "ssp370-ssp126Lu",
     "status": "pending",
-    "uid": "67daf627-1989-41b6-8742-1f5ec98392c6"
+    "uid": "772a54db-c506-4772-8059-9e43628f07f2"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "g6sst2-sulfur",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "GeoMIP"
@@ -10,6 +10,7 @@
             "AER",
             "CHEM"
         ],
+        "description": "Time slice at 2100 (G6sulfur)",
         "end_year": "",
         "experiment": "SSTs from year 2020 of SSP5-8.5; forcings and other prescribed conditions from year 2100 of G6sulfur",
         "experiment_id": "G6SST2-sulfur",
@@ -34,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:g6sst2-sulfur",
     "raw_name": "G6SST2-sulfur",
     "status": "pending",
-    "uid": "72b0d70c-1853-4667-b612-c45d62de900f"
+    "uid": "2b81e372-50a0-44a9-bb7e-226c3086639d"
 }

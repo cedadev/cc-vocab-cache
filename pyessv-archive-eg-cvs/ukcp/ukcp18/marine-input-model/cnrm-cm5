@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "cnrm-cm5",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "label": "CNRM-CM5",
     "namespace": "ukcp:ukcp18:marine-input-model:cnrm-cm5",
     "raw_name": "CNRM-CM5",
     "status": "pending",
-    "uid": "17cee120-b0bd-4d08-9c9b-25f9b9a3c4db"
+    "uid": "412fd99d-8157-428f-b55a-2a6e185064df"
 }

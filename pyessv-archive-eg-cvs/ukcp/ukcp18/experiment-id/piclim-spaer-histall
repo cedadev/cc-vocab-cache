@@ -1,12 +1,13 @@
 {
     "_type": "term",
     "canonical_name": "piclim-spaer-histall",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "RFMIP"
         ],
         "additional_allowed_model_components": "",
+        "description": "Prescribed anthropogenic aerosol optical properties. Aerosol and ozone forcings",
         "end_year": "2014",
         "experiment": "transient effective radiative forcing with specified anthropogenic aerosol optical properties, all forcings",
         "experiment_id": "piClim-spAer-histall",
@@ -31,5 +32,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:piclim-spaer-histall",
     "raw_name": "piClim-spAer-histall",
     "status": "pending",
-    "uid": "fa66fd66-05ea-490c-96a5-eec508c6194d"
+    "uid": "eae80351-8a69-4df3-b541-a575db8e648c"
 }

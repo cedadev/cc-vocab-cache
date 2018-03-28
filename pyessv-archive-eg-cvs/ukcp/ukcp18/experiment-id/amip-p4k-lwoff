@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "amip-p4k-lwoff",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "CFMIP"
@@ -10,6 +10,7 @@
             "AER",
             "CHEM"
         ],
+        "description": "As amip-p4K experiment, but with cloud-radiative effects switched off in the LW radiation code",
         "end_year": "2014",
         "experiment": "AMIP experiment with uniform 4K SST increase and with longwave cloud radiative effects off",
         "experiment_id": "amip-p4K-lwoff",
@@ -34,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:amip-p4k-lwoff",
     "raw_name": "amip-p4K-lwoff",
     "status": "pending",
-    "uid": "c97204e8-9a3e-4d73-a0c0-0b50c16e1024"
+    "uid": "e573d1ef-dce5-4c34-92be-d9823aac189b"
 }

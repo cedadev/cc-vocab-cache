@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppc-amv-pos",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "DCPP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "C1.2 Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs",
         "end_year": "",
         "experiment": "Idealized climate impact of positive AMV anomaly pattern",
         "experiment_id": "dcppC-amv-pos",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppc-amv-pos",
     "raw_name": "dcppC-amv-pos",
     "status": "pending",
-    "uid": "8065b1f3-2daf-432b-8151-9297b8ad08ca"
+    "uid": "55335e7f-4ead-49ee-aee6-c86bae86a996"
 }

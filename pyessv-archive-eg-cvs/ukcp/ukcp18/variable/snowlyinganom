@@ -1,9 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "snowlyinganom",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "anomaly_type": "absolute_change",
+        "description": "Snow lying",
         "label_units": "mm",
         "long_name": "Depth of snow lying on the ground",
         "notes": [
@@ -32,5 +33,5 @@
     "namespace": "ukcp:ukcp18:variable:snowlyinganom",
     "raw_name": "snowLyingAnom",
     "status": "pending",
-    "uid": "7c1a224e-611e-47af-8a27-37ea10a0cc04"
+    "uid": "61204467-d714-4bc1-a109-1bcc5de52046"
 }

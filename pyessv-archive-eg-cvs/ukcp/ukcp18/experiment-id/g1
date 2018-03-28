@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "g1",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "GeoMIP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "Beginning from a preindustrial control run, simultaneously quadruple the CO2 concentration and reduce the solar constant such that the TOA radiative flux remains within +/m0.1 W/m2",
         "end_year": "",
         "experiment": "abrupt quadrupling of CO2 plus reduction in total solar irradiance",
         "experiment_id": "G1",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:g1",
     "raw_name": "G1",
     "status": "pending",
-    "uid": "602f944c-bfee-460f-bced-12c68666ce33"
+    "uid": "fd8c03d3-2f45-4cbb-889c-4d8af1370abb"
 }

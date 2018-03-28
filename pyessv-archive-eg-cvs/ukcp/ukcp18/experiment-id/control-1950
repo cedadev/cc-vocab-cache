@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "control-1950",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "HighResMIP"
@@ -9,6 +9,7 @@
         "additional_allowed_model_components": [
             "AER"
         ],
+        "description": "Coupled integrations with constant 1950\"s forcing",
         "end_year": "",
         "experiment": "coupled control with fixed 1950's forcing (HighResMIP equivalent of pre-industrial control)",
         "experiment_id": "control-1950",
@@ -31,5 +32,5 @@
     "description": "Coupled integrations with constant 1950\"s forcing",
     "namespace": "ukcp:ukcp18:experiment-id:control-1950",
     "status": "pending",
-    "uid": "783a70ee-36f2-49a2-9728-f99c6e28f5ad"
+    "uid": "9bf2ad0c-73fe-4663-97c4-8b1db4401e3d"
 }

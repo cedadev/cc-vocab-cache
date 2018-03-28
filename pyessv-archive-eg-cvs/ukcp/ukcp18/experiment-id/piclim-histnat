@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "piclim-histnat",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "RFMIP"
@@ -10,6 +10,7 @@
             "AER",
             "CHEM"
         ],
+        "description": "Time-varying forcing from volcanos, solar variability, etc. SST and sea ice fixed at preindustrial control. Interactive vegetation",
         "end_year": "2100",
         "experiment": "transient effective radiative forcing by natural perturbations",
         "experiment_id": "piClim-histnat",
@@ -34,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:piclim-histnat",
     "raw_name": "piClim-histnat",
     "status": "pending",
-    "uid": "f8ef5b69-9e53-4db4-a9f6-af36ba206038"
+    "uid": "79a85bfc-061c-4cfa-9567-012ea31bfbee"
 }

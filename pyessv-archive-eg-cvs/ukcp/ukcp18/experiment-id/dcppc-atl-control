@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppc-atl-control",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "DCPP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "C1.1 Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs",
         "end_year": "",
         "experiment": "Idealized Atlantic control",
         "experiment_id": "dcppC-atl-control",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppc-atl-control",
     "raw_name": "dcppC-atl-control",
     "status": "pending",
-    "uid": "26600af0-77f3-498c-8984-57cefcc45653"
+    "uid": "d01f6acf-cbfe-4e44-8e91-806ae868fabe"
 }

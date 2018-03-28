@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "volc-pinatubo-strat",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "VolMIP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "As volc-pinatubo-full, but with prescribed perturbation to the total (LW+SW) radiative heating rates",
         "end_year": "",
         "experiment": "Pinatubo experiment with partial radiative forcing, includes only stratospheric warming",
         "experiment_id": "volc-pinatubo-strat",
@@ -33,5 +34,5 @@
     "description": "As volc-pinatubo-full, but with prescribed perturbation to the total (LW+SW) radiative heating rates",
     "namespace": "ukcp:ukcp18:experiment-id:volc-pinatubo-strat",
     "status": "pending",
-    "uid": "78f5c94f-caef-452b-aceb-a8b8990a1e69"
+    "uid": "6a46bb44-8861-429c-8ac6-590a153d8225"
 }

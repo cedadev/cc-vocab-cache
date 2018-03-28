@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "sfcwindanom",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_cmor_tables_row_id": [
@@ -12,6 +12,7 @@
         ],
         "cmip6_name": "sfcWind",
         "cmip6_standard_name": "wind_speed",
+        "description": "Wind speed",
         "label_units": "m s-1",
         "level": "10m",
         "long_name": "Wind speed at 10m",
@@ -47,5 +48,5 @@
     "namespace": "ukcp:ukcp18:variable:sfcwindanom",
     "raw_name": "sfcWindAnom",
     "status": "pending",
-    "uid": "7b0dafc3-0ae0-4eb2-a7dc-e2085ad21965"
+    "uid": "f2574616-c653-4f3a-b96c-ecee52bcad5e"
 }

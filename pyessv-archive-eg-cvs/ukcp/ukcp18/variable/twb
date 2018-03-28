@@ -1,8 +1,9 @@
 {
     "_type": "term",
     "canonical_name": "twb",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
+        "description": "Wet bulb temperature",
         "label_units": "\u00b0c",
         "level": "1.5 m???",
         "long_name": "Wet bulb temperature",
@@ -30,5 +31,5 @@
     "description": "Wet bulb temperature",
     "namespace": "ukcp:ukcp18:variable:twb",
     "status": "pending",
-    "uid": "d593a0cb-dad4-4cf8-b5a9-7df40bb48ade"
+    "uid": "580bf0d1-09b6-4db6-8f44-addbb2b53f3a"
 }

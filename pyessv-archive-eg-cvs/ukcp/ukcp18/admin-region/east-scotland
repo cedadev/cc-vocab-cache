@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "east-scotland",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "label": "east_scotland",
     "namespace": "ukcp:ukcp18:admin-region:east-scotland",
     "raw_name": "east_scotland",
     "status": "pending",
-    "uid": "3a936796-d7a1-45e8-8a1b-cc4bf626037c"
+    "uid": "f6795fec-dc49-4759-a10c-7e2331638f1f"
 }

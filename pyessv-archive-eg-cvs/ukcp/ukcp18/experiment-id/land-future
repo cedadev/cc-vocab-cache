@@ -1,12 +1,13 @@
 {
     "_type": "term",
     "canonical_name": "land-future",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "LS3MIP"
         ],
         "additional_allowed_model_components": "",
+        "description": "Land only simulations",
         "end_year": "2100",
         "experiment": "future land-only",
         "experiment_id": "land-future",
@@ -29,5 +30,5 @@
     "description": "Land only simulations",
     "namespace": "ukcp:ukcp18:experiment-id:land-future",
     "status": "pending",
-    "uid": "9e7b0eea-7e54-4ab7-95fa-c86cfa279d0d"
+    "uid": "3108d365-4ca1-49ef-a23d-5dac37eb06b9"
 }

@@ -1,12 +1,13 @@
 {
     "_type": "term",
     "canonical_name": "hist-spaer-aer",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "RFMIP"
         ],
         "additional_allowed_model_components": "",
+        "description": "Prescribed anthropogenic aerosol optical properties. Changes in aerosols only",
         "end_year": "2014",
         "experiment": "historical simulation with specified anthropogenic aerosols, no other forcings",
         "experiment_id": "hist-spAer-aer",
@@ -31,5 +32,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:hist-spaer-aer",
     "raw_name": "hist-spAer-aer",
     "status": "pending",
-    "uid": "8dac2344-7f16-41da-a858-686337e7fb53"
+    "uid": "02f4f04e-1338-4ca6-8637-23fce3279820"
 }

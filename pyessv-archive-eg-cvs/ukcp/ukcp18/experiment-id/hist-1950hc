@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "hist-1950hc",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "AerChemMIP"
@@ -9,6 +9,7 @@
         "additional_allowed_model_components": [
             "BGC"
         ],
+        "description": "Historical WMGHG concentrations and NTCF emissions, 1950 halocarbon concentrations, start 1950",
         "end_year": "2014",
         "experiment": "historical forcing, but with1950s halocarbon concentrations; initialized in 1950",
         "experiment_id": "hist-1950HC",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:hist-1950hc",
     "raw_name": "hist-1950HC",
     "status": "pending",
-    "uid": "0b7910f0-d5d5-47bc-9e98-dbaf74621e33"
+    "uid": "41cf1e96-81e0-4dea-8b52-95f347cf2254"
 }

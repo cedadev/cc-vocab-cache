@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "pslanom",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_cmor_tables_row_id": [
@@ -11,6 +11,7 @@
         ],
         "cmip6_name": "psl",
         "cmip6_standard_name": "air_pressure_at_sea_level",
+        "description": "Sea level pressure",
         "label_units": "hPa",
         "long_name": "Pressure at mean sea level",
         "notes": [
@@ -44,5 +45,5 @@
     "namespace": "ukcp:ukcp18:variable:pslanom",
     "raw_name": "pslAnom",
     "status": "pending",
-    "uid": "eeee3f90-d395-4226-a816-e7f82ba36a2d"
+    "uid": "d49fbed5-e0ef-435e-92fb-bde0032970d0"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppc-forecast-addelchichon",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "DCPP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "C3.5 Effects of volcanoes on decadal prediction and predictability of forced and internal variability components. First full hindcast year is 2015",
         "end_year": "5 - 10 years after start year",
         "experiment": "2015 forecast with added El Chichon forcing",
         "experiment_id": "dcppC-forecast-addElChichon",
@@ -37,5 +38,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppc-forecast-addelchichon",
     "raw_name": "dcppC-forecast-addElChichon",
     "status": "pending",
-    "uid": "b8be5229-672c-4cd0-81d6-cc06b30da1b5"
+    "uid": "bd730630-33ae-4260-a9a4-e99c4477351f"
 }

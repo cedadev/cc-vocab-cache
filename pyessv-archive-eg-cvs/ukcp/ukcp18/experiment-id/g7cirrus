@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "g7cirrus",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "GeoMIP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "Against a background of the ScenarioMIP high forcing, reduce cirrus cloud optical depth by a constant amount",
         "end_year": "2100",
         "experiment": "increase cirrus ice crystal fall speed to reduce net forcing in SSP585 by 1 W m-2",
         "experiment_id": "G7cirrus",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:g7cirrus",
     "raw_name": "G7cirrus",
     "status": "pending",
-    "uid": "35d5074b-5362-4f19-b0e1-6df70ed001bf"
+    "uid": "133ed61e-9c38-4b0d-8d19-012249d50897"
 }

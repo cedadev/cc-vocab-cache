@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "esm-picontrol",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "CMIP"
@@ -10,6 +10,7 @@
             "AER",
             "CHEM"
         ],
+        "description": "DECK: control (emission-driven)",
         "end_year": "",
         "experiment": "pre-industrial control simulation with CO2 concentration calculated",
         "experiment_id": "esm-piControl",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:esm-picontrol",
     "raw_name": "esm-piControl",
     "status": "pending",
-    "uid": "fcda3f8e-4ed0-4364-a7d7-0d91ecc0771d"
+    "uid": "98016cb9-dca2-4fde-9c8e-6e766237ed7d"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "sndanom",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_cmor_tables_row_id": [
@@ -10,6 +10,7 @@
         ],
         "cmip6_name": "snd",
         "cmip6_standard_name": "surface_snow_thickness",
+        "description": "Snow depth",
         "label_units": "mm",
         "long_name": "Snow depth",
         "plot_label": "Snow depth anomaly (mm)",
@@ -34,5 +35,5 @@
     "namespace": "ukcp:ukcp18:variable:sndanom",
     "raw_name": "sndAnom",
     "status": "pending",
-    "uid": "41ee3cdd-aa54-4bbc-9d3a-d6396582254a"
+    "uid": "42c41345-5ea9-434b-87bf-2a7fd568348e"
 }

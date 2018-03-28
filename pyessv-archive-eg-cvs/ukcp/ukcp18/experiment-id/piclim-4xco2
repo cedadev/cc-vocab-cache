@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "piclim-4xco2",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "RFMIP"
@@ -10,6 +10,7 @@
             "AER",
             "CHEM"
         ],
+        "description": "As in RFMIP-ERF-PI-Cntrl but with 4xCO2",
         "end_year": "",
         "experiment": "effective radiative forcing by 4xCO2",
         "experiment_id": "piClim-4xCO2",
@@ -34,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:piclim-4xco2",
     "raw_name": "piClim-4xCO2",
     "status": "pending",
-    "uid": "504001fe-0218-46f2-bf40-1e9808241d7e"
+    "uid": "751c68b6-67fa-4777-b70a-62c62c738c61"
 }

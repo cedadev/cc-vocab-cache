@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "rssanom",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_cmor_tables_row_id": [
@@ -11,6 +11,7 @@
         ],
         "cmip6_name": "rss",
         "cmip6_standard_name": "surface_net_downward_shortwave_flux",
+        "description": "Net Surface short wave flux",
         "label_units": "W m-2",
         "long_name": "Net Surface short wave flux",
         "plot_label": "Net Surface short wave flux anomaly (W m-2)",
@@ -39,5 +40,5 @@
     "namespace": "ukcp:ukcp18:variable:rssanom",
     "raw_name": "rssAnom",
     "status": "pending",
-    "uid": "a4294869-0497-4b03-bd5f-2de711e8f162"
+    "uid": "ab8499c7-4520-44cd-aa9b-688b904ba7a5"
 }

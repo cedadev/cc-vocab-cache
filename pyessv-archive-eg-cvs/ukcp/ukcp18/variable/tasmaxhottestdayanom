@@ -1,9 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "tasmaxhottestdayanom",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "anomaly_type": "absolute_change",
+        "description": "Maximum air temperature on the hottest day",
         "label_units": "\u00b0c",
         "level": "1.5m",
         "long_name": "Maximum air temperature on the hottest day",
@@ -31,5 +32,5 @@
     "namespace": "ukcp:ukcp18:variable:tasmaxhottestdayanom",
     "raw_name": "tasmaxHottestDayAnom",
     "status": "pending",
-    "uid": "35643ddb-b45d-4694-b0f4-6d55c9fc4154"
+    "uid": "16da04fa-f9a3-4456-b9b1-71606118f80a"
 }

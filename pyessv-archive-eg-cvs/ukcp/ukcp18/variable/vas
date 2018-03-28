@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "vas",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "cmip6_cmor_tables_row_id": [
             "1957",
@@ -9,6 +9,7 @@
         ],
         "cmip6_name": "vas",
         "cmip6_standard_name": "northward_wind",
+        "description": "Northward wind",
         "label_units": "m s-1",
         "level": "10m",
         "long_name": "Northward wind component",
@@ -36,5 +37,5 @@
     "description": "Northward wind",
     "namespace": "ukcp:ukcp18:variable:vas",
     "status": "pending",
-    "uid": "972bf896-00aa-44a5-91e0-3e29315e6e89"
+    "uid": "08d6cdf5-c3e3-4499-9e6b-c8e8df2d171a"
 }

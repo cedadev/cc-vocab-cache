@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppc-amv-extrop-neg",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "DCPP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "C1.7 Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs",
         "end_year": "",
         "experiment": "Idealized climate impact of negative extratropical AMV anomaly pattern",
         "experiment_id": "dcppC-amv-ExTrop-neg",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppc-amv-extrop-neg",
     "raw_name": "dcppC-amv-ExTrop-neg",
     "status": "pending",
-    "uid": "2f42f784-3701-48ce-af17-ca3ba3d9a90d"
+    "uid": "3ee02796-2ff6-493e-80b7-ad654847199a"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "midpliocene-eoi400",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "PMIP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "main forcings: trace gases, orography, ice-sheet",
         "end_year": "",
         "experiment": "mid-Pliocene warm period",
         "experiment_id": "midPliocene-eoi400",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:midpliocene-eoi400",
     "raw_name": "midPliocene-eoi400",
     "status": "pending",
-    "uid": "50a5df8c-675d-43fb-b092-ef7c4308d361"
+    "uid": "f1b9ffa9-dc99-400b-bd01-223436d9faae"
 }

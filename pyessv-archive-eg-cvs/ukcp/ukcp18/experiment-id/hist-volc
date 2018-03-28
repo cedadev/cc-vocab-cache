@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "hist-volc",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "DAMIP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "Historical volcanic-only run",
         "end_year": "2020",
         "experiment": "historical volcanic-only run",
         "experiment_id": "hist-volc",
@@ -33,5 +34,5 @@
     "description": "Historical volcanic-only run",
     "namespace": "ukcp:ukcp18:experiment-id:hist-volc",
     "status": "pending",
-    "uid": "ef7d3fe2-2a1d-42e6-927e-e8d5cade23ba"
+    "uid": "b136c8bb-c583-4310-ae09-3683f0a367f0"
 }

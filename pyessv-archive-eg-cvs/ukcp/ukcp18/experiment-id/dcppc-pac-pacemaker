@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppc-pac-pacemaker",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "DCPP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "C1.10 Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs. First full hindcast year is 2015",
         "end_year": "2014",
         "experiment": "pacemaker Pacific experiment",
         "experiment_id": "dcppC-pac-pacemaker",
@@ -36,5 +37,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppc-pac-pacemaker",
     "raw_name": "dcppC-pac-pacemaker",
     "status": "pending",
-    "uid": "72b053db-fe2d-4e79-a86a-df3b04b4265d"
+    "uid": "57c2708e-0c44-4cd7-ba40-1b891efdb8d1"
 }

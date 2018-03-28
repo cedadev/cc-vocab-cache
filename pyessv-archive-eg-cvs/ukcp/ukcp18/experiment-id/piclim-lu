@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "piclim-lu",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "RFMIP"
@@ -10,6 +10,7 @@
             "AER",
             "CHEM"
         ],
+        "description": "As in RFMIP-ERF-PI-Cntrl but with present-day land use",
         "end_year": "",
         "experiment": "effective radiative forcing by present-day land use",
         "experiment_id": "piClim-lu",
@@ -34,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:piclim-lu",
     "raw_name": "piClim-lu",
     "status": "pending",
-    "uid": "9b9aaa97-a32c-40b2-be5a-d2197743316c"
+    "uid": "13d08d55-bbbd-4412-b41b-dbc1b9cd8408"
 }

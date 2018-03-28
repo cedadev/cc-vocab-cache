@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "piclim-control",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "RFMIP",
@@ -11,6 +11,7 @@
             "AER",
             "CHEM"
         ],
+        "description": "30-year atmosphere only integration using preindustrial sea-surface temperature and sea-ice climatology. Interactive vegetation",
         "end_year": "",
         "experiment": "effective radiative forcing in present-day",
         "experiment_id": "piClim-control",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:piclim-control",
     "raw_name": "piClim-control",
     "status": "pending",
-    "uid": "9d736d63-5b36-46b9-a9e3-cd1876c5fc45"
+    "uid": "b63d9d4d-db75-4be2-81fa-7a7d469a70cc"
 }

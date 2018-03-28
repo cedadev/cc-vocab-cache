@@ -1,11 +1,12 @@
 {
     "_type": "term",
     "canonical_name": "ta250anom",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_name": "ta",
         "cmip6_standard_name": "air_temperature",
+        "description": "Air temperature",
         "label_units": "\u00b0c",
         "level": "250hPa",
         "long_name": "Air Temperature",
@@ -32,5 +33,5 @@
     "namespace": "ukcp:ukcp18:variable:ta250anom",
     "raw_name": "ta250Anom",
     "status": "pending",
-    "uid": "d0d88d2b-a232-4a30-ba56-c5281290c0e5"
+    "uid": "d5abe424-df22-4018-85d8-8a71e21fbccd"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppb-forecast",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "DCPP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "B1 (and B2.1, B2.2) Ongoing decadal forecasts. First full forecast year follows start year (e.g., for s2017, first full forecast year is 2018)",
         "end_year": "5 years after start year",
         "experiment": "forecast initialized from observations with forcing from ssp245",
         "experiment_id": "dcppB-forecast",
@@ -49,5 +50,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppb-forecast",
     "raw_name": "dcppB-forecast",
     "status": "pending",
-    "uid": "bc6637ce-af4a-432a-91ca-26956721d7b2"
+    "uid": "4bdfda15-8d5b-4a0d-a583-a3ac6d398cc3"
 }

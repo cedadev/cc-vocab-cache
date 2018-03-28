@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ssp585-bgc",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "C4MIP"
@@ -10,6 +10,7 @@
             "AER",
             "CHEM"
         ],
+        "description": "Concentration-driven future scenario simulation, biogeochemically-coupled. This simulation should optionally be extended to year 2300",
         "end_year": "2100 or 2300",
         "experiment": "biogeochemically-coupled version of the RCP8.5 based on SSP5",
         "experiment_id": "ssp585-bgc",
@@ -33,5 +34,5 @@
     "description": "Concentration-driven future scenario simulation, biogeochemically-coupled. This simulation should optionally be extended to year 2300",
     "namespace": "ukcp:ukcp18:experiment-id:ssp585-bgc",
     "status": "pending",
-    "uid": "920cd7df-ef32-4b6d-8519-40f47a1e0817"
+    "uid": "c75aea45-4c6f-46f1-b588-e4187e017d90"
 }

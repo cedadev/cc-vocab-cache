@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "tasminanom",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_cmor_tables_row_id": [
@@ -10,6 +10,7 @@
         ],
         "cmip6_name": "tasmin",
         "cmip6_standard_name": "air_temperature",
+        "description": "Minimum air temperature",
         "label_units": "\u00b0c",
         "level": "1.5m",
         "long_name": "Minimum air temperature",
@@ -42,5 +43,5 @@
     "namespace": "ukcp:ukcp18:variable:tasminanom",
     "raw_name": "tasminAnom",
     "status": "pending",
-    "uid": "aeb2169f-f88b-461e-b83c-4ee1009f1eea"
+    "uid": "e90736c8-f0c9-4fdc-9a63-8a6d4ed8e8c7"
 }

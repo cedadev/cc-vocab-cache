@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "hist-all-aer2",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "DAMIP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "Historical ALL forcing run with alternate estimates of aerosol concentrations/emissions",
         "end_year": "2020",
         "experiment": "historical ALL-forcing run with alternate estimates of aerosol forcing",
         "experiment_id": "hist-all-aer2",
@@ -33,5 +34,5 @@
     "description": "Historical ALL forcing run with alternate estimates of aerosol concentrations/emissions",
     "namespace": "ukcp:ukcp18:experiment-id:hist-all-aer2",
     "status": "pending",
-    "uid": "9a5f534d-93f8-424c-a26d-93ad397e7d10"
+    "uid": "0e7e35fe-3d7d-454b-9225-52a14925de1d"
 }

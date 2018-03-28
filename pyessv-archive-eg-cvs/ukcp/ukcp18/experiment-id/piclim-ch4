@@ -1,12 +1,13 @@
 {
     "_type": "term",
     "canonical_name": "piclim-ch4",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "AerChemMIP"
         ],
         "additional_allowed_model_components": "",
+        "description": "Perturbation from 1850 control using 2014 CH4 concentrations",
         "end_year": "",
         "experiment": "pre-industrial climatological SSTs and forcing, but with 2014 methane concentrations (including chemistry)",
         "experiment_id": "piClim-CH4",
@@ -33,5 +34,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:piclim-ch4",
     "raw_name": "piClim-CH4",
     "status": "pending",
-    "uid": "e89060c6-22c6-46b6-9787-df5a9ceb2a21"
+    "uid": "0af3488f-681a-4fdf-aca7-118ffa940e54"
 }

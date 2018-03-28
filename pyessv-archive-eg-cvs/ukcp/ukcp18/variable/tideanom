@@ -1,10 +1,11 @@
 {
     "_type": "term",
     "canonical_name": "tideanom",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_standard_name": "sea_surface_height_above_mean_sea_level",
+        "description": "Sea surface elevation (tide)",
         "label_units": "m",
         "long_name": "Sea surface height above mean sea level due to modelled astronomical tide only'",
         "plot_label": "Sea surface elevation (tide) anomaly (m)",
@@ -28,5 +29,5 @@
     "namespace": "ukcp:ukcp18:variable:tideanom",
     "raw_name": "tideAnom",
     "status": "pending",
-    "uid": "338d01f4-87fe-4ebe-a3a0-54a07257c3ac"
+    "uid": "40a310bb-bea7-4ff1-888d-90203c2852b1"
 }

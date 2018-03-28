@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "wsgmax10manom",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_cmor_tables_row_id": [
@@ -9,6 +9,7 @@
         ],
         "cmip6_name": "wsgmax10m",
         "cmip6_standard_name": "wind_speed_of_gust",
+        "description": "Wind gust",
         "label_units": "m s-1",
         "level": "10m",
         "long_name": "Maximum Wind Speed of Gust at 10m",
@@ -36,5 +37,5 @@
     "namespace": "ukcp:ukcp18:variable:wsgmax10manom",
     "raw_name": "wsgmax10mAnom",
     "status": "pending",
-    "uid": "fc9dfb26-388d-4214-8f4e-9fbb5417c1de"
+    "uid": "f4a0e91c-2dfb-4e7f-85cf-0caa429adf46"
 }

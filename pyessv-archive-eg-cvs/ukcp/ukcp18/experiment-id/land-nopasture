@@ -1,12 +1,13 @@
 {
     "_type": "term",
     "canonical_name": "land-nopasture",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "LUMIP"
         ],
         "additional_allowed_model_components": "",
+        "description": "Same as land-hist but with grazing and other management on pastureland held at 1850 levels/distribution, i.e. all new pastureland is treated as unmanaged grassland (as in land-crop-grass)",
         "end_year": "2014",
         "experiment": "historical land-only with constant pastureland",
         "experiment_id": "land-noPasture",
@@ -31,5 +32,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:land-nopasture",
     "raw_name": "land-noPasture",
     "status": "pending",
-    "uid": "d4247099-e0d4-47c5-b715-08fbd0e085f3"
+    "uid": "1e3dffdb-143b-4e84-8c07-91cf428efc98"
 }

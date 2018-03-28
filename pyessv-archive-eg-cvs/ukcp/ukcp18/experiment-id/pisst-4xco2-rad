@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "pisst-4xco2-rad",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "CFMIP"
@@ -10,6 +10,7 @@
             "AER",
             "CHEM"
         ],
+        "description": "Same as piSST but CO2 as seen by the radiation scheme is quadrupled",
         "end_year": "",
         "experiment": "as piSST with radiation-only seeing 4xCO2",
         "experiment_id": "piSST-4xCO2-rad",
@@ -34,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:pisst-4xco2-rad",
     "raw_name": "piSST-4xCO2-rad",
     "status": "pending",
-    "uid": "60db5565-863a-426f-bbf8-1a02252e2f2c"
+    "uid": "0967504f-a8d3-420d-95bb-8d01b6b04368"
 }

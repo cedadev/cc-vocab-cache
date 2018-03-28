@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "piclim-nh3",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "AerChemMIP"
@@ -9,6 +9,7 @@
         "additional_allowed_model_components": [
             "CHEM"
         ],
+        "description": "Perturbation from 1850 control using 2014 NH3 emissions",
         "end_year": "",
         "experiment": "pre-industrial climatological SSTs and forcing, but with 2014 ammonia emissions",
         "experiment_id": "piClim-NH3",
@@ -34,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:piclim-nh3",
     "raw_name": "piClim-NH3",
     "status": "pending",
-    "uid": "4d843132-558b-4800-a72a-a88a25b7460e"
+    "uid": "dc475bd7-7fea-45e9-a052-844ed781def6"
 }

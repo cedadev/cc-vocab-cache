@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "nicam16-9d-l78",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_participation": [
             ""
@@ -54,5 +54,5 @@
     "namespace": "ukcp:ukcp18:source-id:nicam16-9d-l78",
     "raw_name": "NICAM16-9D-L78",
     "status": "pending",
-    "uid": "f7a48d0e-2d13-4211-82de-c21106f64124"
+    "uid": "101d197b-7f0e-4cda-8f15-ec9356a7750a"
 }

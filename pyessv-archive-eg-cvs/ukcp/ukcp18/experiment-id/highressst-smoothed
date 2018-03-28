@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "highressst-smoothed",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "HighResMIP"
@@ -9,6 +9,7 @@
         "additional_allowed_model_components": [
             "AER"
         ],
+        "description": "Forced global atmosphere-land simulations as highresSST-present, but using smoothed SST to investigate impact of SST variability",
         "end_year": "2014",
         "experiment": "smoothed SST version of highresSST-present",
         "experiment_id": "highresSST-smoothed",
@@ -33,5 +34,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:highressst-smoothed",
     "raw_name": "highresSST-smoothed",
     "status": "pending",
-    "uid": "ac00209b-0bd7-4b98-9234-5b03ce8d6eb7"
+    "uid": "fbd9322d-edb8-43e3-87e2-f5cf4dc36539"
 }

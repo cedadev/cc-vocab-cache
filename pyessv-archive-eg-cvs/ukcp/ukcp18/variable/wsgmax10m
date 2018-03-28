@@ -1,13 +1,14 @@
 {
     "_type": "term",
     "canonical_name": "wsgmax10m",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "cmip6_cmor_tables_row_id": [
             "2037"
         ],
         "cmip6_name": "wsgmax10m",
         "cmip6_standard_name": "wind_speed_of_gust",
+        "description": "Wind gust",
         "label_units": "m s-1",
         "level": "10m",
         "long_name": "Maximum Wind Speed of Gust at 10m",
@@ -33,5 +34,5 @@
     "description": "Wind gust",
     "namespace": "ukcp:ukcp18:variable:wsgmax10m",
     "status": "pending",
-    "uid": "4e6bb634-363e-490b-ba75-2249164faec6"
+    "uid": "a8b6b1b2-dd57-49de-800d-682a6736ae2f"
 }

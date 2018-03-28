@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "rss",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "cmip6_cmor_tables_row_id": [
             "1399",
@@ -10,6 +10,7 @@
         ],
         "cmip6_name": "rss",
         "cmip6_standard_name": "surface_net_downward_shortwave_flux",
+        "description": "Net Surface short wave flux",
         "label_units": "W m-2",
         "long_name": "Net Surface short wave flux",
         "plot_label": "Net Surface short wave flux (W m-2)",
@@ -36,5 +37,5 @@
     "description": "Net Surface short wave flux",
     "namespace": "ukcp:ukcp18:variable:rss",
     "status": "pending",
-    "uid": "c411f24b-a693-4671-ac5f-252aff1c8b4c"
+    "uid": "f6e82504-3aff-4f38-bc67-f9dbb225b8dd"
 }

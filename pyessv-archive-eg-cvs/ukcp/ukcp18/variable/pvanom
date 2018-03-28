@@ -1,9 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "pvanom",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "anomaly_type": "absolute_change",
+        "description": "Vapour pressure",
         "label_units": "hPa",
         "long_name": "partial pressure of water vapour",
         "notes": [
@@ -32,5 +33,5 @@
     "namespace": "ukcp:ukcp18:variable:pvanom",
     "raw_name": "pvAnom",
     "status": "pending",
-    "uid": "c0bb1a6c-ebcb-43cb-bbbf-1e6fe97daa94"
+    "uid": "54e3afa6-da93-4d68-849f-83d23c99310d"
 }

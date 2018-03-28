@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "amip-lfmip-pobs",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "LS3MIP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "Land-hist land conditions; AMIP SSTs",
         "end_year": "2014",
         "experiment": "prescribed land (from pseudo-observations) and AMIP SSTs",
         "experiment_id": "amip-lfmip-pObs",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:amip-lfmip-pobs",
     "raw_name": "amip-lfmip-pObs",
     "status": "pending",
-    "uid": "b0634000-3bdd-4479-a310-0519025a5e63"
+    "uid": "f29313e8-04c4-45a4-894b-b31a65b6d3a7"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "amip-lwoff",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "CFMIP"
@@ -10,6 +10,7 @@
             "AER",
             "CHEM"
         ],
+        "description": "As amip experiment, but with cloud-radiative effects switched off in the LW radiation code",
         "end_year": "2014",
         "experiment": "AMIP experiment with longwave cloud-radiative effects off",
         "experiment_id": "amip-lwoff",
@@ -32,5 +33,5 @@
     "description": "As amip experiment, but with cloud-radiative effects switched off in the LW radiation code",
     "namespace": "ukcp:ukcp18:experiment-id:amip-lwoff",
     "status": "pending",
-    "uid": "6e36b7b2-b2e8-42dc-bd61-94740fd7103b"
+    "uid": "9a541d24-37f3-40eb-a031-ce6e8140e8d2"
 }

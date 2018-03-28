@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "hist-resamo",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "GMMIP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "Pacemaker 20th century historical run that includes all forcing as used in CMIP6 Historical Simulation, and the observational historical SST is restored in the AMO domain (0deg-70degN, 70degW-0deg)",
         "end_year": "2014",
         "experiment": "initialized from \"historical\" run year 1870 and SSTs in the AMO domain (0deg-70degN, 70degW-0deg) restored to AMIP SSTs with historical forcings",
         "experiment_id": "hist-resAMO",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:hist-resamo",
     "raw_name": "hist-resAMO",
     "status": "pending",
-    "uid": "3dbe54e6-8614-4a1a-9d89-594db3ae23ff"
+    "uid": "7dcf906a-0b4d-4d53-a51d-5007d195a1d5"
 }

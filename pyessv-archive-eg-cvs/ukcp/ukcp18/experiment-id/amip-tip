@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "amip-tip",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "GMMIP"
@@ -10,6 +10,7 @@
             "AER",
             "CHEM"
         ],
+        "description": "The topography of the TIP is modified by setting surface elevations to 500m; to understand the combined thermal and mechanical forcing of the TIP. Same model as DECK",
         "end_year": "2014",
         "experiment": "same as \"amip\" run, but surface elevations of the Tibetan-Iranian Plateau and Himalayas reduced to 500m",
         "experiment_id": "amip-TIP",
@@ -34,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:amip-tip",
     "raw_name": "amip-TIP",
     "status": "pending",
-    "uid": "5864004d-bc3c-402d-b057-a02eda74f772"
+    "uid": "56dd7f1e-bcbe-4592-9b88-bfb4d6d6299f"
 }

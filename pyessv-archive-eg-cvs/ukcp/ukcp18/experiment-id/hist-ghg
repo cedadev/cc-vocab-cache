@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "hist-ghg",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "DAMIP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "Historical well-mixed GHG-only run. Models with interactive chemistry schemes should either turn off the chemistry or use a preindustrial climatology of stratospheric and tropospheric ozone in their radiation schemes. This will ensure that ozone is fixed in all these simulations, and simulated responses in models with and without coupled chemistry are comparable",
         "end_year": "2020",
         "experiment": "historical well-mixed GHG-only run",
         "experiment_id": "hist-GHG",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:hist-ghg",
     "raw_name": "hist-GHG",
     "status": "pending",
-    "uid": "38339018-9512-4a97-ab33-225e6ca7f2f8"
+    "uid": "d248bae8-f89c-4c6a-aee1-859c450d934e"
 }

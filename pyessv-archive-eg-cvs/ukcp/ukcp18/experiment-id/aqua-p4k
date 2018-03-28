@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "aqua-p4k",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "CFMIP"
@@ -10,6 +10,7 @@
             "AER",
             "CHEM"
         ],
+        "description": "Extended version of CMIP5/CFMIP-2 aqua4K experiment. Aquaplanet experiment where SSTs are subject to a uniform warming of 4K",
         "end_year": "",
         "experiment": "aquaplanet with uniform 4K SST increase",
         "experiment_id": "aqua-p4K",
@@ -34,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:aqua-p4k",
     "raw_name": "aqua-p4K",
     "status": "pending",
-    "uid": "0334e74f-a72f-4df4-9e4d-355f8f9ed775"
+    "uid": "859b4073-6d44-4c76-b03d-ad9b25d246b0"
 }

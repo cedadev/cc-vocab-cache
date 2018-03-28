@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "hist-nat",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "DAMIP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "Historical natural-only run",
         "end_year": "2020",
         "experiment": "historical natural-only run",
         "experiment_id": "hist-nat",
@@ -33,5 +34,5 @@
     "description": "Historical natural-only run",
     "namespace": "ukcp:ukcp18:experiment-id:hist-nat",
     "status": "pending",
-    "uid": "ff8729df-558c-47dc-afae-813020923993"
+    "uid": "17936f95-ebda-4a82-896f-7a12a14b27ba"
 }

@@ -1,12 +1,13 @@
 {
     "_type": "term",
     "canonical_name": "land-crop-noirrig",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "LUMIP"
         ],
         "additional_allowed_model_components": "",
+        "description": "Same as land-hist but with irrigated area held at 1850 levels",
         "end_year": "2014",
         "experiment": "historical land-only with no irrigation",
         "experiment_id": "land-crop-noIrrig",
@@ -31,5 +32,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:land-crop-noirrig",
     "raw_name": "land-crop-noIrrig",
     "status": "pending",
-    "uid": "6ed0ea3f-f3e2-42bd-85f1-bccd1ae55312"
+    "uid": "c2cfd84a-9c72-4daf-bcd2-172e36371e88"
 }

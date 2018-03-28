@@ -1,8 +1,9 @@
 {
     "_type": "term",
     "canonical_name": "fog",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
+        "description": "Fog",
         "label_units": "1",
         "long_name": "??",
         "notes": [
@@ -29,5 +30,5 @@
     "description": "Fog",
     "namespace": "ukcp:ukcp18:variable:fog",
     "status": "pending",
-    "uid": "f87e2db1-0f02-4267-83c7-b70c2da627ad"
+    "uid": "fbeec99d-40d2-494d-a2fc-75332e0366d7"
 }

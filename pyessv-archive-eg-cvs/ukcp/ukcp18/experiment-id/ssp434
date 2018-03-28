@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ssp434",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "ScenarioMIP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "Future scenario with low radiative forcing by the end of century. Reaches about 3.4 W/m2 by 2100; fills gap in RCP forcing pathways between 4.5 and 2.6 W/m2. Concentration-driven",
         "end_year": "2100",
         "experiment": "gap-filling scenario reaching 3.4 based on SSP4",
         "experiment_id": "ssp434",
@@ -33,5 +34,5 @@
     "description": "Future scenario with low radiative forcing by the end of century. Reaches about 3.4 W/m2 by 2100; fills gap in RCP forcing pathways between 4.5 and 2.6 W/m2. Concentration-driven",
     "namespace": "ukcp:ukcp18:experiment-id:ssp434",
     "status": "pending",
-    "uid": "b3b7077f-66a1-4ab4-b025-c6ab3aa71b7a"
+    "uid": "5ad70b47-15c1-47cf-aca0-7ac69f629495"
 }

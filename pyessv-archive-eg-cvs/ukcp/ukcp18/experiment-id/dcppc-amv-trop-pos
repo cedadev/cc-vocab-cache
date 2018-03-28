@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppc-amv-trop-pos",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "DCPP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "C1.8 Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs",
         "end_year": "",
         "experiment": "idealized positive tropical AMV anomaly pattern",
         "experiment_id": "dcppC-amv-Trop-pos",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppc-amv-trop-pos",
     "raw_name": "dcppC-amv-Trop-pos",
     "status": "pending",
-    "uid": "d4a013d6-b50d-485f-b56f-6a2a7e5070e0"
+    "uid": "0267b389-1b81-4692-aabd-500314c30a19"
 }

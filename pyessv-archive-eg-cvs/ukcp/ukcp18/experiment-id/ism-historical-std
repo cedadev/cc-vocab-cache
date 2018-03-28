@@ -1,12 +1,13 @@
 {
     "_type": "term",
     "canonical_name": "ism-historical-std",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "ISMIP6"
         ],
         "additional_allowed_model_components": "",
+        "description": "Historical simulation using \"offline\" ice sheet models. Forcing for ice sheet model is the standard dataset based on CMIP6 AOGCM historical",
         "end_year": "2014",
         "experiment": "offline ice sheet forced by ISMIP6-specified AOGCM historical output",
         "experiment_id": "ism-historical-std",
@@ -29,5 +30,5 @@
     "description": "Historical simulation using \"offline\" ice sheet models. Forcing for ice sheet model is the standard dataset based on CMIP6 AOGCM historical",
     "namespace": "ukcp:ukcp18:experiment-id:ism-historical-std",
     "status": "pending",
-    "uid": "f0b661ce-df49-411d-bb7b-26489c36ba19"
+    "uid": "80c38905-2fbf-4c36-8114-e88a164a5291"
 }

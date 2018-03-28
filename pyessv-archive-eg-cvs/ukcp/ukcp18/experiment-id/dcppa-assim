@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppa-assim",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "DCPP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "A2.3 Assimilation runs used to generate initial conditions for hindcasts",
         "end_year": "2016",
         "experiment": "Assimilation run paralleling the historical simulation, which may be used to generate hindcast initial conditions",
         "experiment_id": "dcppA-assim",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppa-assim",
     "raw_name": "dcppA-assim",
     "status": "pending",
-    "uid": "b2b2a9e1-7ed2-48c8-b028-be01eafef762"
+    "uid": "77285fb2-a109-4755-943e-b6f7a4f4349f"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppa-hindcast-niff",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "DCPP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "A4.1 Decadal hindcasts begun near the end of each year from 1960 to 2016, or every other year at minimum, but with no information from the future. First full hindcast year follows start year (e.g., for s1960, first full hindcast year is 1961)",
         "end_year": "5 - 10 years after start year",
         "experiment": "hindcast initialized based on observations but without using knowledge of subsequent historical forcing",
         "experiment_id": "dcppA-hindcast-niff",
@@ -93,5 +94,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppa-hindcast-niff",
     "raw_name": "dcppA-hindcast-niff",
     "status": "pending",
-    "uid": "9261c005-38b9-4dbb-a438-56e2bbf58c07"
+    "uid": "539866da-bbf3-482b-a4e7-1d409bd6ce67"
 }

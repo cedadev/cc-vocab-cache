@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "picontrol-spinup",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "CMIP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "DECK: spin-up portion of the control",
         "end_year": "",
         "experiment": "pre-industrial control (spin-up)",
         "experiment_id": "piControl-spinup",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:picontrol-spinup",
     "raw_name": "piControl-spinup",
     "status": "pending",
-    "uid": "2e564bc0-770c-437a-bb2c-70d76beef333"
+    "uid": "f43d6a7f-0825-4a46-aa89-c30afe667382"
 }

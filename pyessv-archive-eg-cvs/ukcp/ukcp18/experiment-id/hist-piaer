@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "hist-piaer",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "AerChemMIP"
@@ -10,6 +10,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "Historical WMGHG, halocarbon concentrations and O3 precursor emissions, 1850 aerosol precursor emissions",
         "end_year": "2014",
         "experiment": "historical forcing, but with pre-industrial aerosol emissions",
         "experiment_id": "hist-piAer",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:hist-piaer",
     "raw_name": "hist-piAer",
     "status": "pending",
-    "uid": "5cc4324d-3a1a-4b10-aa66-134be9227d2f"
+    "uid": "56192e01-3561-4c25-ad64-668cd6560889"
 }

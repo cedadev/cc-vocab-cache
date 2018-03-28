@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "snd",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "cmip6_cmor_tables_row_id": [
             "1616",
@@ -9,6 +9,7 @@
         ],
         "cmip6_name": "snd",
         "cmip6_standard_name": "surface_snow_thickness",
+        "description": "Snow depth",
         "label_units": "mm",
         "long_name": "Snow depth",
         "plot_label": "Snow depth (mm)",
@@ -31,5 +32,5 @@
     "description": "Snow depth",
     "namespace": "ukcp:ukcp18:variable:snd",
     "status": "pending",
-    "uid": "0d314111-6c02-4665-b106-4ee16fc246ca"
+    "uid": "5081e18c-8b34-4396-a222-ad8e033b0fe5"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "histsst",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "AerChemMIP"
@@ -9,6 +9,7 @@
         "additional_allowed_model_components": [
             "CHEM"
         ],
+        "description": "Historical transient with SSTs prescribed from historical",
         "end_year": "2014",
         "experiment": "historical prescribed SSTs and historical forcing",
         "experiment_id": "histSST",
@@ -34,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:histsst",
     "raw_name": "histSST",
     "status": "pending",
-    "uid": "2fbd5d12-589b-4314-a624-519404d0392c"
+    "uid": "867c3812-3b83-412d-81b6-e62bb19f70b2"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppc-atl-pacemaker",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "DCPP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "C1.11 Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs",
         "end_year": "2014",
         "experiment": "pacemaker Atlantic experiment",
         "experiment_id": "dcppC-atl-pacemaker",
@@ -36,5 +37,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppc-atl-pacemaker",
     "raw_name": "dcppC-atl-pacemaker",
     "status": "pending",
-    "uid": "3c5807c0-46a7-4825-81a7-8ae5fa756936"
+    "uid": "715e556e-09e3-4ae7-944c-aa6eec40d1a1"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "histsst-pin2o",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "AerChemMIP"
@@ -9,6 +9,7 @@
         "additional_allowed_model_components": [
             "BGC"
         ],
+        "description": "Historical (non-N2O) WMGHG concentrations and NTCF emissions, 1850 N2O concentrations",
         "end_year": "2014",
         "experiment": "historical SSTs and historical forcings, but with pre-industrial N2O concentrations",
         "experiment_id": "histSST-piN2O",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:histsst-pin2o",
     "raw_name": "histSST-piN2O",
     "status": "pending",
-    "uid": "dabf0db9-9056-478a-83eb-e85dd3189dfc"
+    "uid": "b8c77da3-bd12-4142-8471-a41f8627da5b"
 }

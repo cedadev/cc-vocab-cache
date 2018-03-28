@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "piclim-ntcf",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "AerChemMIP"
@@ -10,6 +10,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "Perturbation from 1850 control using 2014 aerosol and ozone precursor emissions",
         "end_year": "",
         "experiment": "pre-industrial climatological SSTs and forcing, but with 2014 NTCF emissions",
         "experiment_id": "piClim-NTCF",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:piclim-ntcf",
     "raw_name": "piClim-NTCF",
     "status": "pending",
-    "uid": "ca182f66-fbba-4db7-ba09-4de0263ba2e0"
+    "uid": "b05dcb0a-e746-4caa-a844-a1fcdaebdf61"
 }

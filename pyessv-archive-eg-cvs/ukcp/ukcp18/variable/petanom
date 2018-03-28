@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "petanom",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_cmor_tables_row_id": [
@@ -9,6 +9,7 @@
         ],
         "cmip6_name": "??",
         "cmip6_standard_name": "??",
+        "description": "Potential evapotranspiration rate",
         "label_units": "%",
         "long_name": "Potential evapotranspiration rate",
         "notes": [
@@ -37,5 +38,5 @@
     "namespace": "ukcp:ukcp18:variable:petanom",
     "raw_name": "petAnom",
     "status": "pending",
-    "uid": "e23024ee-bc35-4631-8bb6-a9a0dd4cc18d"
+    "uid": "b975a1ea-8706-4738-bed7-2feaa6bd1494"
 }

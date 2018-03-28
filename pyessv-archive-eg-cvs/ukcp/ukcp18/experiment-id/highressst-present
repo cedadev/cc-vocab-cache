@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "highressst-present",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "HighResMIP"
@@ -9,6 +9,7 @@
         "additional_allowed_model_components": [
             "AER"
         ],
+        "description": "Forced global atmosphere-land simulations using daily 1/4 degree SST and sea-ice forcings, and aerosol optical properties (not emissions) to constrain model spread",
         "end_year": "2014",
         "experiment": "forced atmosphere experiment for 1950-2014",
         "experiment_id": "highresSST-present",
@@ -33,5 +34,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:highressst-present",
     "raw_name": "highresSST-present",
     "status": "pending",
-    "uid": "6d17a718-56be-4619-8548-9d510ec9cabf"
+    "uid": "50f86583-7e3d-4e63-ba8e-18972f0392a6"
 }

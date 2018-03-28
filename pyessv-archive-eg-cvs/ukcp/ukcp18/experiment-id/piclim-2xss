@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "piclim-2xss",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "AerChemMIP"
@@ -9,6 +9,7 @@
         "additional_allowed_model_components": [
             "CHEM"
         ],
+        "description": "1850 control with doubled sea salt emissions",
         "end_year": "",
         "experiment": "pre-industrial climatological SSTs and forcing, but with doubled emissions of sea salt",
         "experiment_id": "piClim-2xss",
@@ -34,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:piclim-2xss",
     "raw_name": "piClim-2xss",
     "status": "pending",
-    "uid": "444aa942-75c4-455c-9902-3db64a2be693"
+    "uid": "f5baee94-6a55-4aa0-bf46-93ea2deceb21"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "lfmip-pdlc",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "LS3MIP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "Prescribed land conditions 1980-2014 climate",
         "end_year": "2100",
         "experiment": "prescribed land conditions (from current climate climatology) and initialized from \"historical\" run year 1980",
         "experiment_id": "lfmip-pdLC",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:lfmip-pdlc",
     "raw_name": "lfmip-pdLC",
     "status": "pending",
-    "uid": "e112995a-3d5c-48af-b433-1ea1280863a7"
+    "uid": "a45c1239-25ce-4640-8576-c2dbaaa0ff8c"
 }

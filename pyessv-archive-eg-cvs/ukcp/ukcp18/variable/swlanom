@@ -1,9 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "swlanom",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "anomaly_type": "absolute_change",
+        "description": "Mean sea level",
         "label_units": "m",
         "long_name": "Sea water level",
         "plot_label": "Mean sea level anomaly (m)",
@@ -24,5 +25,5 @@
     "namespace": "ukcp:ukcp18:variable:swlanom",
     "raw_name": "swlAnom",
     "status": "pending",
-    "uid": "c78ff63c-254f-4ef7-a83c-1119a3b17db2"
+    "uid": "7113e1d5-e89d-45f8-b493-fbd6fac4e11a"
 }

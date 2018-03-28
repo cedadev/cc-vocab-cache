@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "amip-m4k",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "CFMIP"
@@ -10,6 +10,7 @@
             "AER",
             "CHEM"
         ],
+        "description": "As amip experiment but SSTs are subject to a uniform cooling of 4K",
         "end_year": "2014",
         "experiment": "AMIP with uniform 4K SST decrease",
         "experiment_id": "amip-m4K",
@@ -34,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:amip-m4k",
     "raw_name": "amip-m4K",
     "status": "pending",
-    "uid": "2f297d5c-c280-4cde-8d48-807333b0e88b"
+    "uid": "af83394a-5dfa-4c6f-a475-976455640b3a"
 }

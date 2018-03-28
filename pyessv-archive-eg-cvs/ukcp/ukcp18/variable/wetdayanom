@@ -1,9 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "wetdayanom",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "anomaly_type": "absolute_change",
+        "description": "Wettest day",
         "long_name": "Wettest day",
         "plot_label": "Wettest day anomaly ()",
         "strand": [
@@ -27,5 +28,5 @@
     "namespace": "ukcp:ukcp18:variable:wetdayanom",
     "raw_name": "wetdayAnom",
     "status": "pending",
-    "uid": "4d43b3b8-4c66-44b1-9ea7-d8dff36fb5f5"
+    "uid": "3375cfa9-b4ab-40e4-a6db-544caf81e0f9"
 }

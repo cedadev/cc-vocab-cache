@@ -1,9 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "sseanom",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "anomaly_type": "absolute_change",
+        "description": "Sea surface elevation above the mean level",
         "label_units": "m",
         "long_name": "Sea surface elevation",
         "notes": [
@@ -29,5 +30,5 @@
     "namespace": "ukcp:ukcp18:variable:sseanom",
     "raw_name": "sseAnom",
     "status": "pending",
-    "uid": "29731d73-6162-45f8-b0e0-5baf456143f6"
+    "uid": "361e7249-a595-4752-b2a5-dffdfddf788b"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppc-pac-control",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "DCPP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "C1.4 Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs",
         "end_year": "",
         "experiment": "idealized Pacific control",
         "experiment_id": "dcppC-pac-control",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppc-pac-control",
     "raw_name": "dcppC-pac-control",
     "status": "pending",
-    "uid": "8f3586cb-8548-47f8-a67c-7d16a48a9d36"
+    "uid": "c81eaaca-7212-4f82-9899-51b730a102bb"
 }

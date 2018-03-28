@@ -1,12 +1,13 @@
 {
     "_type": "term",
     "canonical_name": "land-crop-nofert",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "LUMIP"
         ],
         "additional_allowed_model_components": "",
+        "description": "Same as land-hist but with fertilization rates and area held at 1850 levels/distribution",
         "end_year": "2014",
         "experiment": "historical land-only with no fertilizer",
         "experiment_id": "land-crop-noFert",
@@ -31,5 +32,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:land-crop-nofert",
     "raw_name": "land-crop-noFert",
     "status": "pending",
-    "uid": "dfbf78d3-a306-47b1-80b7-eb4668b6c585"
+    "uid": "4c3efd31-8d2a-4326-968e-72c9fa392ce5"
 }

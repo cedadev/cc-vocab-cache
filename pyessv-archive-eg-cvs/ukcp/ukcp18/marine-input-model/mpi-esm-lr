@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "mpi-esm-lr",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "label": "MPI-ESM-LR",
     "namespace": "ukcp:ukcp18:marine-input-model:mpi-esm-lr",
     "raw_name": "MPI-ESM-LR",
     "status": "pending",
-    "uid": "6cacbd27-2b3e-45e0-9a86-3370cc533b0f"
+    "uid": "712beccb-de21-46d4-bc98-7611a87c0cf9"
 }

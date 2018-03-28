@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ssp534-over",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "ScenarioMIP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "21st century overshoot scenario relative to SSP5_34. Branches from SS5_85 at 2040 with emissions reduced to zero by 2070 and negative thereafter. This simulation should optionally be extended to year 2300",
         "end_year": "2100 or 2300",
         "experiment": "overshoot of 3.4 W/m**2 branching from ssp585 in 2040",
         "experiment_id": "ssp534-over",
@@ -33,5 +34,5 @@
     "description": "21st century overshoot scenario relative to SSP5_34. Branches from SS5_85 at 2040 with emissions reduced to zero by 2070 and negative thereafter. This simulation should optionally be extended to year 2300",
     "namespace": "ukcp:ukcp18:experiment-id:ssp534-over",
     "status": "pending",
-    "uid": "45761129-fce3-4e7c-8af4-6ac775c3244a"
+    "uid": "6b57d195-4d51-4f78-918e-37cfb672463d"
 }

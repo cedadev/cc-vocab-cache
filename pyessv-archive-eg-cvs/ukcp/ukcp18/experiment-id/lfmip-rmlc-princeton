@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "lfmip-rmlc-princeton",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "LS3MIP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "Prescribed land conditions 30yr running mean with Land-Hist-princeton",
         "end_year": "2100",
         "experiment": "as LFMIP-rmLC with Land-Hist-princeton",
         "experiment_id": "lfmip-rmLC-princeton",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:lfmip-rmlc-princeton",
     "raw_name": "lfmip-rmLC-princeton",
     "status": "pending",
-    "uid": "6cf32707-a124-4f2f-8b87-a0daf6f2f231"
+    "uid": "6487001c-0f63-4ee6-a949-8fa1a6c5c741"
 }

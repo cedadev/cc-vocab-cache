@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppc-hindcast-noagung",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "DCPP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "C3.3 Effects of volcanoes on decadal prediction and predictability of forced and internal variability components. First full hindcast year is 1962",
         "end_year": "5 - 10 years after start year",
         "experiment": "hindcast but with only background volcanic forcing to be the same as that used in the 2015 forecast",
         "experiment_id": "dcppC-hindcast-noAgung",
@@ -37,5 +38,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppc-hindcast-noagung",
     "raw_name": "dcppC-hindcast-noAgung",
     "status": "pending",
-    "uid": "c7864f9e-0b52-482b-a916-57c262636568"
+    "uid": "260e2bb1-feba-453e-a381-222c5092b12c"
 }

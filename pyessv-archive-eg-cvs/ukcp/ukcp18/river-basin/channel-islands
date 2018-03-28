@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "channel-islands",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "label": "channel_islands",
     "namespace": "ukcp:ukcp18:river-basin:channel-islands",
     "raw_name": "channel_islands",
     "status": "pending",
-    "uid": "bf76244c-f60b-4c63-94be-c490e031ad4e"
+    "uid": "88aa707f-5fe6-4b90-8415-665f787f0fe5"
 }

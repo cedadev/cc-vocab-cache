@@ -1,12 +1,13 @@
 {
     "_type": "term",
     "canonical_name": "histsst-pich4",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "AerChemMIP"
         ],
         "additional_allowed_model_components": "",
+        "description": "Historical (non-CH4) WMGHG concentrations and NTCF emissions, 1850 CH4 concentrations",
         "end_year": "2014",
         "experiment": "historical SSTs and historical forcing, but with pre-industrial methane concentrations",
         "experiment_id": "histSST-piCH4",
@@ -33,5 +34,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:histsst-pich4",
     "raw_name": "histSST-piCH4",
     "status": "pending",
-    "uid": "db8162b5-838f-48e2-ba47-a5b36d32b397"
+    "uid": "a323aace-3bb3-4ce8-80d1-976933ac6f7e"
 }

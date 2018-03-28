@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppc-atl-spg",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "DCPP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "C2.1 (and C2.2) Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs. First full hindcast year follows start year (e.g., for s1992, first full hindcast year is 1993)",
         "end_year": "5 - 10 years after start year",
         "experiment": "predictability of 1990s warming of Atlantic sub-polar gyre",
         "experiment_id": "dcppC-atl-spg",
@@ -42,5 +43,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppc-atl-spg",
     "raw_name": "dcppC-atl-spg",
     "status": "pending",
-    "uid": "fc5e1ebc-9858-495f-80f6-781dbbcd05b5"
+    "uid": "d6672d1f-f997-4c74-90dd-0a648a83e97c"
 }

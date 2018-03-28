@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "volc-pinatubo-slab",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "VolMIP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "As volc-pinatubo-full, but with a slab ocean",
         "end_year": "",
         "experiment": "Pinatubo experiment with slab ocean",
         "experiment_id": "volc-pinatubo-slab",
@@ -34,5 +35,5 @@
     "description": "As volc-pinatubo-full, but with a slab ocean",
     "namespace": "ukcp:ukcp18:experiment-id:volc-pinatubo-slab",
     "status": "pending",
-    "uid": "1002730a-c5e6-43cf-98ae-49e0b3f74c22"
+    "uid": "8b7423d6-9e78-47bf-ac8c-77c2aad6339d"
 }

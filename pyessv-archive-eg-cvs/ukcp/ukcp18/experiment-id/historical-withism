@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "historical-withism",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "ISMIP6"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "Historical simulation that includes interactive ice sheets. Set up follows the historical experiment",
         "end_year": "2014",
         "experiment": "historical with interactive ice sheet",
         "experiment_id": "historical-withism",
@@ -34,5 +35,5 @@
     "description": "Historical simulation that includes interactive ice sheets. Set up follows the historical experiment",
     "namespace": "ukcp:ukcp18:experiment-id:historical-withism",
     "status": "pending",
-    "uid": "c0664120-099e-43f0-97f4-9f9335a8f5fe"
+    "uid": "e2d9c9cb-c517-4739-960c-7683da763ea4"
 }

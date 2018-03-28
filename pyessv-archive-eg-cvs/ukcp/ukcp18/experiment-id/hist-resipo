@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "hist-resipo",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "GMMIP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "Pacemaker 20th century historical run that includes all forcing as used in CMIP6 Historical Simulation, and the observational historical SST is restored in the tropical lobe of the IPO domain (20degS-20degN, 175degE-75degW)",
         "end_year": "2014",
         "experiment": "initialized from \"historical\" run year 1870 and SSTs in tropical lobe of the IPO domain (20degS-20degN, 175degE-75degW) restored to AMIP SSTs with historical forcings",
         "experiment_id": "hist-resIPO",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:hist-resipo",
     "raw_name": "hist-resIPO",
     "status": "pending",
-    "uid": "2bad35ad-2f99-4ef4-9fe7-a98e865a5027"
+    "uid": "2ad75b18-2cfe-4a08-8a14-d6977e3c3c2d"
 }

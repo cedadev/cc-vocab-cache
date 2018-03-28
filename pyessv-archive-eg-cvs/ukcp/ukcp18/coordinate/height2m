@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "height2m",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "axis": "Z",
         "bounds_values": "",
@@ -20,5 +20,5 @@
     },
     "namespace": "ukcp:ukcp18:coordinate:height2m",
     "status": "pending",
-    "uid": "6ac67bbc-186e-43ff-b303-f462e9cfd96a"
+    "uid": "edbf3af3-65f3-42df-9142-9287ceffa62f"
 }

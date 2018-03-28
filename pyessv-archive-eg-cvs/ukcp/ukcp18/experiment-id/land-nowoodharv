@@ -1,12 +1,13 @@
 {
     "_type": "term",
     "canonical_name": "land-nowoodharv",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "LUMIP"
         ],
         "additional_allowed_model_components": "",
+        "description": "Same as land-hist but with wood harvest maintained at 1850 amounts/areas",
         "end_year": "2014",
         "experiment": "historical land-only with no wood harvest",
         "experiment_id": "land-noWoodHarv",
@@ -31,5 +32,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:land-nowoodharv",
     "raw_name": "land-noWoodHarv",
     "status": "pending",
-    "uid": "7b390c6a-dcd1-4285-b143-3530dfc73065"
+    "uid": "76067504-7e0a-4687-a4c5-bb140a800888"
 }

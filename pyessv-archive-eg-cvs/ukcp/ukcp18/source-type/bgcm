@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "bgcm",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "label": "BGCM",
     "namespace": "ukcp:ukcp18:source-type:bgcm",
     "raw_name": "BGCM",
     "status": "pending",
-    "uid": "0543aa5c-8bc4-4905-baf9-5861b15a38f0"
+    "uid": "6b286564-251e-4363-88dc-5aedd8ba7c89"
 }

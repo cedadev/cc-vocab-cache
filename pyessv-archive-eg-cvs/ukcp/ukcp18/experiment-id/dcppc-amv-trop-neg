@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppc-amv-trop-neg",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "DCPP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "C1.8 Mechanisms and predictability of the hiatus and of similar long timescale variations of both signs",
         "end_year": "",
         "experiment": "Idealized climate impact of negative tropical AMV anomaly pattern",
         "experiment_id": "dcppC-amv-Trop-neg",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppc-amv-trop-neg",
     "raw_name": "dcppC-amv-Trop-neg",
     "status": "pending",
-    "uid": "f8409167-618d-4907-b9c4-ca90446c2660"
+    "uid": "3e77b9ce-eb40-41d6-8b99-a921009be5f4"
 }

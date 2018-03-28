@@ -1,13 +1,14 @@
 {
     "_type": "term",
     "canonical_name": "rsds",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "cmip6_cmor_tables_row_id": [
             "1371"
         ],
         "cmip6_name": "rsds",
         "cmip6_standard_name": "surface_downwelling_shortwave_flux_in_air",
+        "description": "Total downward shortwave flux",
         "label_units": "W m-2",
         "long_name": "Downward surface shortwave flux",
         "notes": [
@@ -35,5 +36,5 @@
     "description": "Total downward shortwave flux",
     "namespace": "ukcp:ukcp18:variable:rsds",
     "status": "pending",
-    "uid": "751b72fa-d70d-4289-b8b5-dfbe25f177f9"
+    "uid": "32b01c22-0237-4ee3-8417-8d7633b86dee"
 }

@@ -1,12 +1,13 @@
 {
     "_type": "term",
     "canonical_name": "ism-bsmb-std",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "ISMIP6"
         ],
         "additional_allowed_model_components": "",
+        "description": "Offline ice sheet simulation with synthetic oceanic dataset to explore the uncertainty in sea level due to ice sheet initialization",
         "end_year": "",
         "experiment": "offline ice sheet forced by initMIP synthetic oceanic experiment",
         "experiment_id": "ism-bsmb-std",
@@ -29,5 +30,5 @@
     "description": "Offline ice sheet simulation with synthetic oceanic dataset to explore the uncertainty in sea level due to ice sheet initialization",
     "namespace": "ukcp:ukcp18:experiment-id:ism-bsmb-std",
     "status": "pending",
-    "uid": "1bc62ee0-0588-41b2-8f0f-af6f789ff5d2"
+    "uid": "bed19e73-c113-4196-9d3c-8b8624d2bf9c"
 }

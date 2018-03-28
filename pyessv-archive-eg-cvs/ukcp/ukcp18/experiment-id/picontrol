@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "picontrol",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "CMIP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "DECK: control",
         "end_year": "",
         "experiment": "pre-industrial control",
         "experiment_id": "piControl",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:picontrol",
     "raw_name": "piControl",
     "status": "pending",
-    "uid": "4e3f5a6e-6c21-4cf0-bf05-617d091a853c"
+    "uid": "3055c1e8-8951-4212-a8bb-02868d1b1f00"
 }

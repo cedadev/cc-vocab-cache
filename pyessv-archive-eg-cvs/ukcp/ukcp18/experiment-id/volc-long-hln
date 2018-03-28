@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "volc-long-hln",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "VolMIP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "Idealized Northern Hemisphere high-latitude eruption emitting 28.1 Tg of SO2. Experiment initialized from PiControl",
         "end_year": "",
         "experiment": "idealized Northern Hemisphere high-latitude eruption emitting 28.1 Tg of SO2",
         "experiment_id": "volc-long-hlN",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:volc-long-hln",
     "raw_name": "volc-long-hlN",
     "status": "pending",
-    "uid": "42d6105f-6e02-40f4-adab-ef872f60e90b"
+    "uid": "5a5887b3-c78f-443f-9f23-43fdc95b6945"
 }

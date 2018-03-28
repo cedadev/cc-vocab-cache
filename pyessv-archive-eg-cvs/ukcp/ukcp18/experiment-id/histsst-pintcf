@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "histsst-pintcf",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "AerChemMIP"
@@ -10,6 +10,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "Historical WMGHG concentrations and halocarbons emissions, 1850 NTCF emissions, prescribed SSTs",
         "end_year": "2014",
         "experiment": "historical SSTs and historical forcing, but with pre-industrial NTCF emissions",
         "experiment_id": "histSST-piNTCF",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:histsst-pintcf",
     "raw_name": "histSST-piNTCF",
     "status": "pending",
-    "uid": "60870c8e-8044-41f8-9250-1b2a954bb5e4"
+    "uid": "87138fa3-152b-44a5-8bbc-02ccf86a29a6"
 }

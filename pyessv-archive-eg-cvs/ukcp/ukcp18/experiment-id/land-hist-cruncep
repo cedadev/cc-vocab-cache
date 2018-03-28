@@ -1,12 +1,13 @@
 {
     "_type": "term",
     "canonical_name": "land-hist-cruncep",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "LS3MIP"
         ],
         "additional_allowed_model_components": "",
+        "description": "Land only simulations",
         "end_year": "2014",
         "experiment": "as land-hist with CRU-NCEP forcings",
         "experiment_id": "land-hist-cruNcep",
@@ -31,5 +32,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:land-hist-cruncep",
     "raw_name": "land-hist-cruNcep",
     "status": "pending",
-    "uid": "d735f4a9-945c-4ef4-bc01-75db06421ad8"
+    "uid": "ec2aa4bd-e340-4361-805a-e64727bf15d6"
 }

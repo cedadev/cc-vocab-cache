@@ -1,12 +1,13 @@
 {
     "_type": "term",
     "canonical_name": "piclim-n2o",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "AerChemMIP"
         ],
         "additional_allowed_model_components": "",
+        "description": "Perturbation from 1850 control using 2014 N2O concentrations",
         "end_year": "",
         "experiment": "pre-industrial climatological SSTs and forcing, but with 2014 N2O concentrations (including chemistry)",
         "experiment_id": "piClim-N2O",
@@ -33,5 +34,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:piclim-n2o",
     "raw_name": "piClim-N2O",
     "status": "pending",
-    "uid": "c8ff896f-7c8f-4164-9f56-1b5782e9d925"
+    "uid": "1b52b7c7-11bf-4cce-a6d8-8fb4415d29b3"
 }

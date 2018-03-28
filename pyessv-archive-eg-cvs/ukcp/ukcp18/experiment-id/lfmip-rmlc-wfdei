@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "lfmip-rmlc-wfdei",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "LS3MIP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "Prescribed land conditions 30yr running mean with Land-Hist-wfdei",
         "end_year": "2100",
         "experiment": "as LFMIP-rmLC with Land-Hist-wfdei",
         "experiment_id": "lfmip-rmLC-wfdei",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:lfmip-rmlc-wfdei",
     "raw_name": "lfmip-rmLC-wfdei",
     "status": "pending",
-    "uid": "0537423c-5e46-41a4-ac45-f44e7d4f12f2"
+    "uid": "b01d92fb-785c-45e9-9a30-1ef1aca7bf76"
 }

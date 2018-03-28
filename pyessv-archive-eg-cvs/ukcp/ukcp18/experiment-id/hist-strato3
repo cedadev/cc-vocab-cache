@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "hist-strato3",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "DAMIP"
@@ -10,6 +10,7 @@
             "AER",
             "BGC"
         ],
+        "description": "Historical stratospheric-ozone-only. In models with coupled chemistry, the chemistry scheme should be turned off, and the simulated ensemble mean monthly mean 3D stratospheric ozone concentrations from the CMIP6 historical simulations should be prescribed. Tropospheric ozone should be fixed at 3D long-term monthly mean piControl values, with a value of 100 ppbv ozone concentration in this piControl climatology used to separate the troposphere from the stratosphere. In models without coupled chemistry the same stratospheric ozone prescribed in the CMIP6 historical simulations should be prescribed. Stratospheric ozone concentrations will be provided by CCMI",
         "end_year": "2020",
         "experiment": "historical stratospheric-ozone-only run",
         "experiment_id": "hist-stratO3",
@@ -34,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:hist-strato3",
     "raw_name": "hist-stratO3",
     "status": "pending",
-    "uid": "5efc0d17-dc64-4a80-a4f5-7246c2aa0893"
+    "uid": "6fa2ac3d-93a4-4099-abba-23ac28b5f550"
 }

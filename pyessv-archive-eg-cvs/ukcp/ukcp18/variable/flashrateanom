@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "flashrateanom",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_cmor_tables_row_id": [
@@ -9,6 +9,7 @@
         ],
         "cmip6_name": "flashrate",
         "cmip6_standard_name": "lightning_flash_rate",
+        "description": "Lightning",
         "label_units": "1",
         "long_name": "Lightning flash rate??",
         "notes": [
@@ -38,5 +39,5 @@
     "namespace": "ukcp:ukcp18:variable:flashrateanom",
     "raw_name": "flashrateAnom",
     "status": "pending",
-    "uid": "0e9b787f-3d43-44b3-b102-2e29633e7906"
+    "uid": "f551e475-6030-43b8-99fb-e8f781cda99b"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "g7sst2-cirrus",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "GeoMIP"
@@ -10,6 +10,7 @@
             "AER",
             "CHEM"
         ],
+        "description": "Time slice at 2100 (ScenarioMIP Tier 1 high forcing scenario and cirrus thinning according to G7cirrus)",
         "end_year": "",
         "experiment": "SSTs from year 2100 of SSP5-8.5; forcings and other prescribed conditions from year 2100 of G7cirrus",
         "experiment_id": "G7SST2-cirrus",
@@ -34,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:g7sst2-cirrus",
     "raw_name": "G7SST2-cirrus",
     "status": "pending",
-    "uid": "7cb8cabd-a27d-4f4b-a203-ceb50ee10dc9"
+    "uid": "ac535150-473f-4cbf-a12a-3a01556f4b37"
 }

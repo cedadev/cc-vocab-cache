@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "lfmip-rmlc",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "LS3MIP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "Prescribed land conditions 30yr running mean",
         "end_year": "2100",
         "experiment": "prescribed land conditions (from running mean climatology) and initialized from \"historical\" run year 1980",
         "experiment_id": "lfmip-rmLC",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:lfmip-rmlc",
     "raw_name": "lfmip-rmLC",
     "status": "pending",
-    "uid": "4edfec42-0761-48a9-bf5e-f0ac3a079368"
+    "uid": "019e37a3-ba48-4c0d-9413-ab6c3bbf2882"
 }

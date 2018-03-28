@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "piclim-bc",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "AerChemMIP"
@@ -9,6 +9,7 @@
         "additional_allowed_model_components": [
             "CHEM"
         ],
+        "description": "Perturbation from 1850 control using 2014 BC emissions",
         "end_year": "",
         "experiment": "pre-industrial climatological SSTs and forcing, but with 2014 black carbon emissions",
         "experiment_id": "piClim-BC",
@@ -34,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:piclim-bc",
     "raw_name": "piClim-BC",
     "status": "pending",
-    "uid": "aa5a87c4-d7bc-4d6e-9863-4980c62ba2d5"
+    "uid": "eaf96b23-57af-42b0-b466-00cc79ad3f12"
 }

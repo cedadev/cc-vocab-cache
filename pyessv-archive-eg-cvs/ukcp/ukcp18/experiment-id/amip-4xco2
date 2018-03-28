@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "amip-4xco2",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "CFMIP"
@@ -10,6 +10,7 @@
             "AER",
             "CHEM"
         ],
+        "description": "As CMIP5/CFMIP-2 amip4xCO2 experiment. AMIP experiment where SSTs are held at control values and the CO2 seen by the radiation scheme is quadrupled",
         "end_year": "2014",
         "experiment": "AMIP SSTs with 4xCO2",
         "experiment_id": "amip-4xCO2",
@@ -34,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:amip-4xco2",
     "raw_name": "amip-4xCO2",
     "status": "pending",
-    "uid": "9fd5f577-7c24-49a5-bfa3-c5273cdd37bd"
+    "uid": "a3fadffa-e4fd-4a86-b189-cc29f6726705"
 }

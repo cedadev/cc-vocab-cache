@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "lfmip-initlc",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "LS3MIP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "Initialized pseudo-observations land",
         "end_year": "2014",
         "experiment": "initialized from \"historical\" run year 1980, but with land conditions initialized from pseudo-observations",
         "experiment_id": "lfmip-initLC",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:lfmip-initlc",
     "raw_name": "lfmip-initLC",
     "status": "pending",
-    "uid": "d191dde6-992d-4042-a387-12a78e2ce1d2"
+    "uid": "3b2f7946-a0c8-434c-907a-27b853f4c212"
 }

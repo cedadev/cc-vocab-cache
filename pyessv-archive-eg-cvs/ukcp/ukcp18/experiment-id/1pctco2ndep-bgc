@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "1pctco2ndep-bgc",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "C4MIP"
@@ -10,6 +10,7 @@
             "AER",
             "CHEM"
         ],
+        "description": "Biogeochemically-coupled specified concentration simulation in which CO2 increases at a rate of 1% per year until quadrupling, plus an additional scenario of anthropogenic nitrogen deposition",
         "end_year": "",
         "experiment": "biogeochemically-coupled version of 1 percent per year increasing CO2 experiment with increasing N-deposition",
         "experiment_id": "1pctCO2Ndep-bgc",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:1pctco2ndep-bgc",
     "raw_name": "1pctCO2Ndep-bgc",
     "status": "pending",
-    "uid": "954507d2-f03c-4caf-9758-cc67c4e6e141"
+    "uid": "f03edc1d-4ec5-4bea-8537-c7c994646ee4"
 }

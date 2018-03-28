@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ec-earth3",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_participation": [
             ""
@@ -54,5 +54,5 @@
     "namespace": "ukcp:ukcp18:source-id:ec-earth3",
     "raw_name": "EC-Earth3",
     "status": "pending",
-    "uid": "763465bb-fb5e-4d11-8853-79224f536e5e"
+    "uid": "e9ad1f2c-fd44-4d0f-989b-5ac31dd76d32"
 }

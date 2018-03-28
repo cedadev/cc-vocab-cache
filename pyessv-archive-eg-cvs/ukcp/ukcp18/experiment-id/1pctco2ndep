@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "1pctco2ndep",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "C4MIP"
@@ -10,6 +10,7 @@
             "AER",
             "CHEM"
         ],
+        "description": "Fully-coupled specified concentration simulation in which CO2 increases at a rate of 1% per year until quadrupling, plus an additional scenario of anthropogenic nitrogen deposition",
         "end_year": "",
         "experiment": "1 percent per year increasing CO2 experiment with increasing N-deposition",
         "experiment_id": "1pctCO2Ndep",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:1pctco2ndep",
     "raw_name": "1pctCO2Ndep",
     "status": "pending",
-    "uid": "55d8addd-3d78-4d46-9eb4-c77868f95016"
+    "uid": "ed45551e-0286-472f-82cd-e0f36a3e7212"
 }

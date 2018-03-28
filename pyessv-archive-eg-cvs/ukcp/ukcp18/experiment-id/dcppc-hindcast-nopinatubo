@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppc-hindcast-nopinatubo",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "DCPP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "C3.1 Effects of volcanoes on decadal prediction and predictability of forced and internal variability components. First full hindcast year is 1991",
         "end_year": "5 - 10 years after start year",
         "experiment": "hindcast but with only background volcanic forcing to be the same as that used in the 2015 forecast",
         "experiment_id": "dcppC-hindcast-noPinatubo",
@@ -37,5 +38,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppc-hindcast-nopinatubo",
     "raw_name": "dcppC-hindcast-noPinatubo",
     "status": "pending",
-    "uid": "2be47153-75e1-4a4b-a7c9-b7aab3a965c8"
+    "uid": "a8e6d72e-b354-45dc-be37-e534e712aca2"
 }

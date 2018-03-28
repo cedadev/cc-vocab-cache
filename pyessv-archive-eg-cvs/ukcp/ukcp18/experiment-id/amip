@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "amip",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "CMIP"
@@ -10,6 +10,7 @@
             "AER",
             "CHEM"
         ],
+        "description": "DECK: AMIP",
         "end_year": "2014",
         "experiment": "AMIP",
         "experiment_id": "amip",
@@ -32,5 +33,5 @@
     "description": "DECK: AMIP",
     "namespace": "ukcp:ukcp18:experiment-id:amip",
     "status": "pending",
-    "uid": "926d48db-98b4-41e8-9a71-51714118a699"
+    "uid": "c91cf59b-acf1-47bc-a6fb-1286a94d1161"
 }

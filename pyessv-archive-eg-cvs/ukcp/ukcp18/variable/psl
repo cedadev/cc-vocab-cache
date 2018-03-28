@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "psl",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "cmip6_cmor_tables_row_id": [
             "1235",
@@ -10,6 +10,7 @@
         ],
         "cmip6_name": "psl",
         "cmip6_standard_name": "air_pressure_at_sea_level",
+        "description": "Sea level pressure",
         "label_units": "hPa",
         "long_name": "Pressure at mean sea level",
         "notes": [
@@ -41,5 +42,5 @@
     "description": "Sea level pressure",
     "namespace": "ukcp:ukcp18:variable:psl",
     "status": "pending",
-    "uid": "15fab73a-34b2-470a-bf4a-42787efb15b2"
+    "uid": "2902ca7a-4fd0-4331-b5c5-3601152b7887"
 }

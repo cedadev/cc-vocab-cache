@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "rlsanom",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_cmor_tables_row_id": [
@@ -11,6 +11,7 @@
         ],
         "cmip6_name": "rls",
         "cmip6_standard_name": "surface_net_downward_longwave_flux",
+        "description": "Net Surface long wave flux",
         "label_units": "W m-2",
         "long_name": "Net Surface long wave flux",
         "plot_label": "Net Surface long wave flux anomaly (W m-2)",
@@ -39,5 +40,5 @@
     "namespace": "ukcp:ukcp18:variable:rlsanom",
     "raw_name": "rlsAnom",
     "status": "pending",
-    "uid": "478aeb98-3a44-4666-b650-dcc1a9f3261c"
+    "uid": "6cba3f0c-5891-43ec-8416-1a70fc664717"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "a4sstice",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "CFMIP"
@@ -10,6 +10,7 @@
             "AER",
             "CHEM"
         ],
+        "description": "As piSST, but with monthly-varying SSTs and sea-ice taken from years 111-140 of each model's own abrupt4xCO2 experiment instead of from piControl",
         "end_year": "",
         "experiment": "as piSST but with SSTs and sea ice from abrupt4xCO2",
         "experiment_id": "a4SSTice",
@@ -34,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:a4sstice",
     "raw_name": "a4SSTice",
     "status": "pending",
-    "uid": "34b593ee-c906-46c6-aa5f-284d2200d9a6"
+    "uid": "ec84d221-966e-460b-a11d-8a74dd8b58f9"
 }

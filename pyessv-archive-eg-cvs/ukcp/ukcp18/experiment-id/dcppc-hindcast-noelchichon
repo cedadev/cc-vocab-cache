@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppc-hindcast-noelchichon",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "DCPP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "C3.2 Effects of volcanoes on decadal prediction and predictability of forced and internal variability components. First full hindcast year is 1982",
         "end_year": "5 - 10 years after start year",
         "experiment": "hindcast but with only background volcanic forcing to be the same as that used in the 2015 forecast",
         "experiment_id": "dcppC-hindcast-noElChichon",
@@ -37,5 +38,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppc-hindcast-noelchichon",
     "raw_name": "dcppC-hindcast-noElChichon",
     "status": "pending",
-    "uid": "5911d3c4-03e4-4cab-8ad5-9bb5297e6f8b"
+    "uid": "df14a5dc-2fac-445b-9700-7f89002a4991"
 }

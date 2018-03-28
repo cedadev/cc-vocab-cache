@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "piclim-2xdust",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "AerChemMIP"
@@ -9,6 +9,7 @@
         "additional_allowed_model_components": [
             "CHEM"
         ],
+        "description": "1850 control with doubled dust emissions",
         "end_year": "",
         "experiment": "pre-industrial climatological SSTs and forcing, but with doubled emissions of dust",
         "experiment_id": "piClim-2xdust",
@@ -34,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:piclim-2xdust",
     "raw_name": "piClim-2xdust",
     "status": "pending",
-    "uid": "3f50e677-8e1b-4b21-8359-0428234ddb7f"
+    "uid": "5881edf7-a71b-48b7-a076-3831e8ebb8fc"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "control-slab",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "VolMIP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "slab control run for volc-pinatubo-slab",
         "end_year": "",
         "experiment": "control with slab ocean",
         "experiment_id": "control-slab",
@@ -34,5 +35,5 @@
     "description": "slab control run for volc-pinatubo-slab",
     "namespace": "ukcp:ukcp18:experiment-id:control-slab",
     "status": "pending",
-    "uid": "b0de027b-c898-471a-8741-f71d78a4cb67"
+    "uid": "d74598d0-4235-409a-8018-373c87755d4d"
 }

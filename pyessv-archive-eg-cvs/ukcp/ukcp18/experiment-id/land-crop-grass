@@ -1,12 +1,13 @@
 {
     "_type": "term",
     "canonical_name": "land-crop-grass",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "LUMIP"
         ],
         "additional_allowed_model_components": "",
+        "description": "Same as land-hist but with all new crop and pastureland treated as unmanaged grassland",
         "end_year": "2014",
         "experiment": "historical land-only with cropland as natural grassland",
         "experiment_id": "land-crop-grass",
@@ -29,5 +30,5 @@
     "description": "Same as land-hist but with all new crop and pastureland treated as unmanaged grassland",
     "namespace": "ukcp:ukcp18:experiment-id:land-crop-grass",
     "status": "pending",
-    "uid": "919eff0b-8e85-41fd-93ac-b148d244f665"
+    "uid": "e5a88587-390f-48d9-87c1-f39dbc1fc6e6"
 }

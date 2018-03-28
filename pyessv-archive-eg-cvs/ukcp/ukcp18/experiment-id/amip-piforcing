@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "amip-piforcing",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "CFMIP"
@@ -10,6 +10,7 @@
             "AER",
             "CHEM"
         ],
+        "description": "Identical to standard AMIP experiment but from 1870-present with constant pre-industrial forcing levels (anthropogenic and natural)",
         "end_year": "2014",
         "experiment": "AMIP SSTs with pre-industrial anthropogenic and natural forcing",
         "experiment_id": "amip-piForcing",
@@ -34,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:amip-piforcing",
     "raw_name": "amip-piForcing",
     "status": "pending",
-    "uid": "8cc11dcb-090a-422f-8f48-e5ad5b9b0664"
+    "uid": "eed0e49d-a944-4039-96da-d920bd3a755a"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "cltanom",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_cmor_tables_row_id": [
@@ -10,6 +10,7 @@
         ],
         "cmip6_name": "clt",
         "cmip6_standard_name": "cloud_area_fraction",
+        "description": "Total cloud",
         "label_units": "%",
         "long_name": "Cloud area fraction",
         "notes": [
@@ -40,5 +41,5 @@
     "namespace": "ukcp:ukcp18:variable:cltanom",
     "raw_name": "cltAnom",
     "status": "pending",
-    "uid": "775763f6-1c57-48c8-aef4-b5c002039c8a"
+    "uid": "b7b414ea-7183-4b32-9c04-4c076711762d"
 }

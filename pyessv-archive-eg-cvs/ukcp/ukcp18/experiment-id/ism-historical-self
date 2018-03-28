@@ -1,12 +1,13 @@
 {
     "_type": "term",
     "canonical_name": "ism-historical-self",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "ISMIP6"
         ],
         "additional_allowed_model_components": "",
+        "description": "Historical simulation using \"offline\" ice sheet models. Forcing for ice sheet model is from its own AOGCM",
         "end_year": "2014",
         "experiment": "offline ice sheet forced by ISM's own AOGCM historical output",
         "experiment_id": "ism-historical-self",
@@ -29,5 +30,5 @@
     "description": "Historical simulation using \"offline\" ice sheet models. Forcing for ice sheet model is from its own AOGCM",
     "namespace": "ukcp:ukcp18:experiment-id:ism-historical-self",
     "status": "pending",
-    "uid": "f53f7697-39ff-40d2-a43c-9b059e35b20c"
+    "uid": "4c13dff3-e05e-480d-9817-7e5926011a01"
 }

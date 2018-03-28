@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "hussanom",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_cmor_tables_row_id": [
@@ -11,6 +11,7 @@
         ],
         "cmip6_name": "huss",
         "cmip6_standard_name": "specific_humidity",
+        "description": "Specific humidity",
         "label_units": "%",
         "level": "1.5m",
         "long_name": "Specific humidity",
@@ -41,5 +42,5 @@
     "namespace": "ukcp:ukcp18:variable:hussanom",
     "raw_name": "hussAnom",
     "status": "pending",
-    "uid": "05c66610-ea54-4a45-a502-0106c51dc508"
+    "uid": "748cd051-a746-4278-841f-e7fc1d60d340"
 }

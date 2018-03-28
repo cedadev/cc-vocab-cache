@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ssp534-over-bgc",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "C4MIP"
@@ -10,6 +10,7 @@
             "AER",
             "CHEM"
         ],
+        "description": "This simulation should optionally be extended to year 2300",
         "end_year": "2100 or 2300",
         "experiment": "biogeochemically-coupled version of the RCP3.4-overshoot based on SSP5",
         "experiment_id": "ssp534-over-bgc",
@@ -33,5 +34,5 @@
     "description": "This simulation should optionally be extended to year 2300",
     "namespace": "ukcp:ukcp18:experiment-id:ssp534-over-bgc",
     "status": "pending",
-    "uid": "813a408b-cfbc-4942-a7c3-61cb65835f8f"
+    "uid": "649876da-8a9d-459b-ad7d-4ef8da4394a9"
 }

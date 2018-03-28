@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "volc-cluster-21c",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "VolMIP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "Parallel experiment to volc-cluster-ctrl, using restart files from the end of the historical simulation instead of from piControl, and boundary conditions from the 21st century SSP2-4.5 scenario experiment of ScenarioMIP",
         "end_year": "2100",
         "experiment": "volcanic cluster experiment under 21st century SSP2-4.5 scenario",
         "experiment_id": "volc-cluster-21C",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:volc-cluster-21c",
     "raw_name": "volc-cluster-21C",
     "status": "pending",
-    "uid": "b503cf46-4263-42f9-b068-f6001d5cd356"
+    "uid": "4e603441-d34e-421d-b705-6801a7eb72dd"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ssp585-withism",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "ISMIP6"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "Future climate from ScenarioMIP SSP5-8.5 simulation that includes interactive ice sheets. Set up follows the standard SSP5-8.5 experiment",
         "end_year": "2300",
         "experiment": "ssp585 with interactive ice sheet",
         "experiment_id": "ssp585-withism",
@@ -34,5 +35,5 @@
     "description": "Future climate from ScenarioMIP SSP5-8.5 simulation that includes interactive ice sheets. Set up follows the standard SSP5-8.5 experiment",
     "namespace": "ukcp:ukcp18:experiment-id:ssp585-withism",
     "status": "pending",
-    "uid": "db14dc59-be0d-47fd-a461-92e78989ccea"
+    "uid": "eff6a895-07cb-4547-be3b-68d8303e3549"
 }

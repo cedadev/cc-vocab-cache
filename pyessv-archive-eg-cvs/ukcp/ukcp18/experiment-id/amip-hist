@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "amip-hist",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "GMMIP"
@@ -10,6 +10,7 @@
             "AER",
             "CHEM"
         ],
+        "description": "Extended AMIP run that covers 1870-2014. All natural and anthropogenic historical forcings as used in CMIP6 Historical Simulation will be included. AGCM resolution as CMIP6 Historical Simulation. The HadISST data will be used",
         "end_year": "2014",
         "experiment": "AMIP-style simulation covering the period 1870-2014",
         "experiment_id": "amip-hist",
@@ -32,5 +33,5 @@
     "description": "Extended AMIP run that covers 1870-2014. All natural and anthropogenic historical forcings as used in CMIP6 Historical Simulation will be included. AGCM resolution as CMIP6 Historical Simulation. The HadISST data will be used",
     "namespace": "ukcp:ukcp18:experiment-id:amip-hist",
     "status": "pending",
-    "uid": "ed9b5533-3d83-4655-b0a9-2a590f5018f2"
+    "uid": "76287822-350a-48c2-b220-7b98a1d3e7b9"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "pisst-4xco2-solar",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "GeoMIP"
@@ -10,6 +10,7 @@
             "AER",
             "CHEM"
         ],
+        "description": "Time slice at 1850 (picontrol) for G1ext to examine radiative forcing of abrupt4xCO2",
         "end_year": "",
         "experiment": "preindustrial control SSTs with quadrupled CO2 and solar reduction",
         "experiment_id": "piSST-4xCO2-solar",
@@ -34,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:pisst-4xco2-solar",
     "raw_name": "piSST-4xCO2-solar",
     "status": "pending",
-    "uid": "2766ea35-fbbb-4c26-a49c-f3b4dba19836"
+    "uid": "00628c8e-1b3a-4230-b149-8a382370d0ce"
 }

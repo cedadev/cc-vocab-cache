@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "piclim-ghg",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "RFMIP"
@@ -10,6 +10,7 @@
             "AER",
             "CHEM"
         ],
+        "description": "As in RFMIP-ERF-PI-Cntrl but with present-day greenhouse gases",
         "end_year": "",
         "experiment": "effective radiative forcing by present-day greenhouse gases",
         "experiment_id": "piClim-ghg",
@@ -34,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:piclim-ghg",
     "raw_name": "piClim-ghg",
     "status": "pending",
-    "uid": "2f8ea1d1-d001-4294-b2aa-46b9359538ad"
+    "uid": "60652309-0a4e-4039-b26b-bbfcaa52367d"
 }

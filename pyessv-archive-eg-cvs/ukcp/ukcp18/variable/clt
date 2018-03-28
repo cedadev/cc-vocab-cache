@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "clt",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "cmip6_cmor_tables_row_id": [
             "206",
@@ -9,6 +9,7 @@
         ],
         "cmip6_name": "clt",
         "cmip6_standard_name": "cloud_area_fraction",
+        "description": "Total cloud",
         "label_units": "%",
         "long_name": "Cloud area fraction",
         "notes": [
@@ -37,5 +38,5 @@
     "description": "Total cloud",
     "namespace": "ukcp:ukcp18:variable:clt",
     "status": "pending",
-    "uid": "0effb555-d36f-41c3-bf9f-a2e0e619efab"
+    "uid": "23e94862-2056-4c76-abac-0371c8a97e7d"
 }

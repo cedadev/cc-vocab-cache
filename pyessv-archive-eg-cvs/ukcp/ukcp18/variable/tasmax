@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "tasmax",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "cmip6_cmor_tables_row_id": [
             "1718",
@@ -9,6 +9,7 @@
         ],
         "cmip6_name": "tasmax",
         "cmip6_standard_name": "air_temperature",
+        "description": "Maximum air temperature",
         "label_units": "\u00b0c",
         "level": "1.5m",
         "long_name": "Maximum air temperature",
@@ -39,5 +40,5 @@
     "description": "Maximum air temperature",
     "namespace": "ukcp:ukcp18:variable:tasmax",
     "status": "pending",
-    "uid": "6618175f-9337-4b00-aacc-89a10e067be6"
+    "uid": "bc65ea6e-3ddc-4fcd-95ef-7cb99347bb23"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "abrupt-2xco2",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "CFMIP"
@@ -11,6 +11,7 @@
             "CHEM",
             "BGC"
         ],
+        "description": "Identical to the DECK abrupt-4xCO2, but at 2xCO2",
         "end_year": "",
         "experiment": "abrupt doubling of CO2",
         "experiment_id": "abrupt-2xCO2",
@@ -35,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:abrupt-2xco2",
     "raw_name": "abrupt-2xCO2",
     "status": "pending",
-    "uid": "a88c43c6-7174-46b5-826c-0a87cf5293e7"
+    "uid": "d126c0a3-1871-463c-add0-8cf10c3a711c"
 }

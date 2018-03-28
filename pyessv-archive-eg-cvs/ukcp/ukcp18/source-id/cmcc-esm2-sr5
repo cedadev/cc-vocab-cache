@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "cmcc-esm2-sr5",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_participation": [
             "C4MIP",
@@ -57,5 +57,5 @@
     "namespace": "ukcp:ukcp18:source-id:cmcc-esm2-sr5",
     "raw_name": "CMCC-ESM2-SR5",
     "status": "pending",
-    "uid": "dbc0c55d-5ede-44b4-8438-6ce74578c1b0"
+    "uid": "438adc1b-3b97-41ae-85fe-d97dfa00d424"
 }

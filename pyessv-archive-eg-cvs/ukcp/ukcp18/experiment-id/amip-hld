@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "amip-hld",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "GMMIP"
@@ -10,6 +10,7 @@
             "AER",
             "CHEM"
         ],
+        "description": "The topography of the highlands in Africa, N. America and S. America TP is modified by setting surface elevations to a certain height (500m). Same model as DECK",
         "end_year": "2014",
         "experiment": "same as \"amip\" run, but surface elevations of the East African Highlands in Africa, Sierra Madre in N. America and Andes in S. America reduced to 500m",
         "experiment_id": "amip-hld",
@@ -32,5 +33,5 @@
     "description": "The topography of the highlands in Africa, N. America and S. America TP is modified by setting surface elevations to a certain height (500m). Same model as DECK",
     "namespace": "ukcp:ukcp18:experiment-id:amip-hld",
     "status": "pending",
-    "uid": "e34f08e4-b2ea-46a3-86cf-181fbeb14ae1"
+    "uid": "f6d250c9-8216-4b25-a917-d22dc17c6e2d"
 }

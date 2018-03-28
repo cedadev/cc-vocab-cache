@@ -1,12 +1,13 @@
 {
     "_type": "term",
     "canonical_name": "land-nofire",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "LUMIP"
         ],
         "additional_allowed_model_components": "",
+        "description": "Same as land-hist but with anthropogenic ignition and suppression held to 1850 levels",
         "end_year": "2014",
         "experiment": "historical land-only with no human fire management",
         "experiment_id": "land-noFire",
@@ -31,5 +32,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:land-nofire",
     "raw_name": "land-noFire",
     "status": "pending",
-    "uid": "8204873c-1dd3-4473-9c7a-00fe38cc1bda"
+    "uid": "6881d3f6-0803-430f-8485-dd12aa2ed420"
 }

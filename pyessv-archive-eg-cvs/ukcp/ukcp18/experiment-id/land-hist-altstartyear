@@ -1,12 +1,13 @@
 {
     "_type": "term",
     "canonical_name": "land-hist-altstartyear",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "LUMIP"
         ],
         "additional_allowed_model_components": "",
+        "description": "Same as land-hist except starting from either 1700 (for models that typically start in 1850) or 1850 (for models that typically start in 1700)",
         "end_year": "2014",
         "experiment": "historical land-only alternate start year",
         "experiment_id": "land-hist-altStartYear",
@@ -31,5 +32,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:land-hist-altstartyear",
     "raw_name": "land-hist-altStartYear",
     "status": "pending",
-    "uid": "7d4b421c-da4a-41d7-8620-2b06705c4e86"
+    "uid": "4bce7dba-dbed-4b3a-9fe8-e4ef6a4622b7"
 }

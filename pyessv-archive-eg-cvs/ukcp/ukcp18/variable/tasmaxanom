@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "tasmaxanom",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_cmor_tables_row_id": [
@@ -10,6 +10,7 @@
         ],
         "cmip6_name": "tasmax",
         "cmip6_standard_name": "air_temperature",
+        "description": "Maximum air temperature",
         "label_units": "\u00b0c",
         "level": "1.5m",
         "long_name": "Maximum air temperature",
@@ -42,5 +43,5 @@
     "namespace": "ukcp:ukcp18:variable:tasmaxanom",
     "raw_name": "tasmaxAnom",
     "status": "pending",
-    "uid": "4e6e7923-6bd7-4bb8-b745-364a6cc18aad"
+    "uid": "02134dce-1f82-49ac-96c3-38320c4e0bf2"
 }

@@ -1,10 +1,11 @@
 {
     "_type": "term",
     "canonical_name": "ta500",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "cmip6_name": "ta",
         "cmip6_standard_name": "air_temperature",
+        "description": "Air temperature",
         "label_units": "\u00b0c",
         "level": "500hPa",
         "long_name": "Air Temperature",
@@ -29,5 +30,5 @@
     "description": "Air temperature",
     "namespace": "ukcp:ukcp18:variable:ta500",
     "status": "pending",
-    "uid": "b0eaad36-fd35-4119-87c4-b8864b427b9d"
+    "uid": "46165168-9e3b-4578-ae93-5f84e3dcaad0"
 }

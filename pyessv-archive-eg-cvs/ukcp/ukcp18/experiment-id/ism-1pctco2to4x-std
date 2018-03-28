@@ -1,12 +1,13 @@
 {
     "_type": "term",
     "canonical_name": "ism-1pctco2to4x-std",
-    "create_date": "2018-03-27 14:25:41.299475+00:00",
+    "create_date": "2018-03-28 09:32:50.117920",
     "data": {
         "activity_id": [
             "ISMIP6"
         ],
         "additional_allowed_model_components": "",
+        "description": "Idealized 1%/yr CO2 increase to 4xC02 over 140yrs and kept constant at 4xCO2 for an additional 200 to 400 yrs simulation with ice sheets forced \"offline\" with DECK 1pctCO2 using a standard forcing",
         "end_year": "",
         "experiment": "offline ice sheet model forced by ISMIP6-specified AOGCM 1pctCO2to4x output",
         "experiment_id": "ism-1pctCO2to4x-std",
@@ -31,5 +32,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:ism-1pctco2to4x-std",
     "raw_name": "ism-1pctCO2to4x-std",
     "status": "pending",
-    "uid": "0005c836-13bd-471e-b727-1ea19f5b2f41"
+    "uid": "e9f9f6b6-7216-4f4b-825c-4eadf0f8ab5a"
 }
