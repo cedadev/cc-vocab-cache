@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "locparamtrend",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "description": "Trend in skew surge location parameter",
         "label_units": "m y-1",
@@ -25,5 +25,5 @@
     "namespace": "ukcp:ukcp18:variable:locparamtrend",
     "raw_name": "locParamTrend",
     "status": "pending",
-    "uid": "9e4f7bf3-5893-4502-9548-cb7e4a4f782c"
+    "uid": "bf16f39a-1856-46eb-9baf-75825973e1a4"
 }

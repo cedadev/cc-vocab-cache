@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "hadgem3-gc31-hm",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_participation": [
             ""
@@ -54,5 +54,5 @@
     "namespace": "ukcp:ukcp18:source-id:hadgem3-gc31-hm",
     "raw_name": "HadGEM3-GC31-HM",
     "status": "pending",
-    "uid": "494ecdd9-8bec-48ba-9916-51cb992eee57"
+    "uid": "b2a10ed4-6321-41cb-9a1d-cdc8131bb976"
 }

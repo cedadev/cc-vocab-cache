@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "gfdl-esm4",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_participation": [
             "AerChemMIP",
@@ -64,5 +64,5 @@
     "namespace": "ukcp:ukcp18:source-id:gfdl-esm4",
     "raw_name": "GFDL-ESM4",
     "status": "pending",
-    "uid": "c1d6dc98-22e1-43c1-85bc-55c144df2bf8"
+    "uid": "2573ae89-192d-4d8e-b54e-b65fc4b56884"
 }

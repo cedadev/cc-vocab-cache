@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "rsdsanom",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_cmor_tables_row_id": [
@@ -39,5 +39,5 @@
     "namespace": "ukcp:ukcp18:variable:rsdsanom",
     "raw_name": "rsdsAnom",
     "status": "pending",
-    "uid": "cc39a665-ede9-4724-bfa6-854f5135fbeb"
+    "uid": "0d64f4f9-88f2-4c1f-8cfc-5535b98a0c95"
 }

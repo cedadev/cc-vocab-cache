@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "giss-e2-1g",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_participation": [
             ""
@@ -54,5 +54,5 @@
     "namespace": "ukcp:ukcp18:source-id:giss-e2-1g",
     "raw_name": "GISS-E2-1G",
     "status": "pending",
-    "uid": "6c9f5cc8-94dd-4d50-ae96-422b5f59b0b4"
+    "uid": "393fdfe1-027e-4f49-a837-b97a24c09514"
 }

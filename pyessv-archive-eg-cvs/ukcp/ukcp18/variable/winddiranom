@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "winddiranom",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "anomaly_type": "absolute_change",
         "description": "Wind direction",
@@ -27,5 +27,5 @@
     "namespace": "ukcp:ukcp18:variable:winddiranom",
     "raw_name": "windDirAnom",
     "status": "pending",
-    "uid": "55e0895d-b99c-44e6-8c16-e39ca9044d28"
+    "uid": "620bbfe8-7b79-4bad-b56f-3a8a5a00bf68"
 }

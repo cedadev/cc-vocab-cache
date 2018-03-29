@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "slab",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "label": "SLAB",
     "namespace": "ukcp:ukcp18:source-type:slab",
     "raw_name": "SLAB",
     "status": "pending",
-    "uid": "f586b795-5c56-4097-8f16-638f8b033a26"
+    "uid": "24135f92-0009-4560-afc6-c02bb59d3033"
 }

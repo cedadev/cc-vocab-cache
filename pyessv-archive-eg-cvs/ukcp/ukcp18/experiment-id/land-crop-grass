@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "land-crop-grass",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_id": [
             "LUMIP"
@@ -30,5 +30,5 @@
     "description": "Same as land-hist but with all new crop and pastureland treated as unmanaged grassland",
     "namespace": "ukcp:ukcp18:experiment-id:land-crop-grass",
     "status": "pending",
-    "uid": "e5a88587-390f-48d9-87c1-f39dbc1fc6e6"
+    "uid": "d91f54e8-b6dc-49cc-9a10-0b0114803ed8"
 }

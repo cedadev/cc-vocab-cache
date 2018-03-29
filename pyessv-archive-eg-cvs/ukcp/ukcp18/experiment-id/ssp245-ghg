@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ssp245-ghg",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_id": [
             "DAMIP"
@@ -36,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:ssp245-ghg",
     "raw_name": "ssp245-GHG",
     "status": "pending",
-    "uid": "6b759a35-f5af-4538-a779-82e5aa3ed2c9"
+    "uid": "6776275e-48c6-4548-b61a-4715095db11f"
 }

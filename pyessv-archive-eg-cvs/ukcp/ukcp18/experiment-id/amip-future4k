@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "amip-future4k",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_id": [
             "CFMIP"
@@ -35,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:amip-future4k",
     "raw_name": "amip-future4K",
     "status": "pending",
-    "uid": "c4fe7113-59a5-418e-8dc5-50e32d194f4a"
+    "uid": "32614f4d-31c8-48cd-8045-02985ea8609a"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "cmcc-esm2-hr5",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_participation": [
             "CMIP",
@@ -55,5 +55,5 @@
     "namespace": "ukcp:ukcp18:source-id:cmcc-esm2-hr5",
     "raw_name": "CMCC-ESM2-HR5",
     "status": "pending",
-    "uid": "a8a58ec3-b4ae-4ab5-8f17-06b1e47d74bc"
+    "uid": "92cf2178-4704-4713-ac32-5bf8def1faaf"
 }

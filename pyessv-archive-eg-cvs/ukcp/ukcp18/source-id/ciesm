@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ciesm",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_participation": [
             "CFMIP",
@@ -60,5 +60,5 @@
     "namespace": "ukcp:ukcp18:source-id:ciesm",
     "raw_name": "CIESM",
     "status": "pending",
-    "uid": "752fde5a-d195-4c05-afec-616f86602269"
+    "uid": "e235fbd0-8fc5-4fff-a0a5-0d809f9c5b6d"
 }

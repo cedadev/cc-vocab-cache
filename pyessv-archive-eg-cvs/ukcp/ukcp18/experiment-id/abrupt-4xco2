@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "abrupt-4xco2",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_id": [
             "CMIP"
@@ -36,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:abrupt-4xco2",
     "raw_name": "abrupt-4xCO2",
     "status": "pending",
-    "uid": "d8637c95-149b-4ab0-9453-1a761066d586"
+    "uid": "1d12dfa4-e006-4592-824b-4820785cdd83"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "piclim-bc",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_id": [
             "AerChemMIP"
@@ -35,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:piclim-bc",
     "raw_name": "piClim-BC",
     "status": "pending",
-    "uid": "eaf96b23-57af-42b0-b466-00cc79ad3f12"
+    "uid": "631fe640-6f57-4ac2-a6b1-86a25717bd24"
 }

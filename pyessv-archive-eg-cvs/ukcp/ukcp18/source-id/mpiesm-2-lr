@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "mpiesm-2-lr",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_participation": [
             ""
@@ -54,5 +54,5 @@
     "namespace": "ukcp:ukcp18:source-id:mpiesm-2-lr",
     "raw_name": "MPIESM-2-LR",
     "status": "pending",
-    "uid": "c5b87853-e883-43ac-b818-69c76727acef"
+    "uid": "e5db7824-f98d-4f06-8349-a89852b0f66e"
 }

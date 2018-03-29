@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "land-nolu",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_id": [
             "LUMIP"
@@ -32,5 +32,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:land-nolu",
     "raw_name": "land-noLu",
     "status": "pending",
-    "uid": "b0066bdf-c204-48d7-94dc-072a5aed787a"
+    "uid": "a074587f-c0b2-4207-993d-1c67f53e0b36"
 }

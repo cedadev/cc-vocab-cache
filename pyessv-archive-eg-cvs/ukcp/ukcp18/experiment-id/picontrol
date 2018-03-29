@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "picontrol",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_id": [
             "CMIP"
@@ -36,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:picontrol",
     "raw_name": "piControl",
     "status": "pending",
-    "uid": "3055c1e8-8951-4212-a8bb-02868d1b1f00"
+    "uid": "5996976d-26b7-4628-86ac-d1d4266b9475"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "cnrm-cm6-1-hr",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_participation": [
             ""
@@ -54,5 +54,5 @@
     "namespace": "ukcp:ukcp18:source-id:cnrm-cm6-1-hr",
     "raw_name": "CNRM-CM6-1-HR",
     "status": "pending",
-    "uid": "e9edfb87-49d6-4a22-ab8c-721e2b74d5de"
+    "uid": "4e0b5975-4023-44c1-a931-bcb395efa858"
 }

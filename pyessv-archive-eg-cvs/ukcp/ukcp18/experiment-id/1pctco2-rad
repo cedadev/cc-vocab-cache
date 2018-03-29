@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "1pctco2-rad",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_id": [
             "C4MIP"
@@ -36,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:1pctco2-rad",
     "raw_name": "1pctCO2-rad",
     "status": "pending",
-    "uid": "c0fde048-16f1-4796-817a-58d9a07955d9"
+    "uid": "ef9826f5-5cea-48e3-9f36-c1b9b932b4b3"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "amip-a4sst-4xco2",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_id": [
             "CFMIP"
@@ -35,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:amip-a4sst-4xco2",
     "raw_name": "amip-a4SST-4xCO2",
     "status": "pending",
-    "uid": "51bf736a-57d4-4275-be0a-c30ee9af8f8e"
+    "uid": "a16e4217-c60d-4e17-8b49-bd354f5faf46"
 }

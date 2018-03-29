@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "latitude",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "axis": "Y",
         "bounds_values": "",
@@ -20,5 +20,5 @@
     },
     "namespace": "ukcp:ukcp18:coordinate:latitude",
     "status": "pending",
-    "uid": "c5b3ea40-6077-46c8-9583-8185d8f3e72c"
+    "uid": "75b1f02b-2218-427d-a9ee-f3315bffe0b3"
 }

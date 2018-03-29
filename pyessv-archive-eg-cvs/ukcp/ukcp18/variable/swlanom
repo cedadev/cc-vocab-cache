@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "swlanom",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "anomaly_type": "absolute_change",
         "description": "Mean sea level",
@@ -25,5 +25,5 @@
     "namespace": "ukcp:ukcp18:variable:swlanom",
     "raw_name": "swlAnom",
     "status": "pending",
-    "uid": "7113e1d5-e89d-45f8-b493-fbd6fac4e11a"
+    "uid": "1f6f4b36-e5de-41ca-8818-4bd28d32936d"
 }

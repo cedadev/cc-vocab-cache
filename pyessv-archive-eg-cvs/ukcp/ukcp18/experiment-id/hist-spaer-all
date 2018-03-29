@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "hist-spaer-all",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_id": [
             "RFMIP"
@@ -32,5 +32,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:hist-spaer-all",
     "raw_name": "hist-spAer-all",
     "status": "pending",
-    "uid": "59148785-9f40-4e50-95f4-6fab38e67c41"
+    "uid": "fb8092d4-eea4-48cf-8f3e-dd962929ed1f"
 }

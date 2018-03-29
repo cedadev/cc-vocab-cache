@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "bnu-esm-1-1",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_participation": [
             "C4MIP",
@@ -59,5 +59,5 @@
     "namespace": "ukcp:ukcp18:source-id:bnu-esm-1-1",
     "raw_name": "BNU-ESM-1-1",
     "status": "pending",
-    "uid": "8ca52297-a312-4570-8e85-69e4697ccad5"
+    "uid": "47fab160-460c-4387-9882-4f05e446285c"
 }

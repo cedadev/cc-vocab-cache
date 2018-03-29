@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "height10m",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "axis": "Z",
         "bounds_values": "",
@@ -20,5 +20,5 @@
     },
     "namespace": "ukcp:ukcp18:coordinate:height10m",
     "status": "pending",
-    "uid": "9816beb8-5a22-4a14-a468-dfd2213fd67d"
+    "uid": "3f9021f0-f4b6-4264-9df1-dd496db438b2"
 }

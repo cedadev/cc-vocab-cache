@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppa-assim",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_id": [
             "DCPP"
@@ -36,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppa-assim",
     "raw_name": "dcppA-assim",
     "status": "pending",
-    "uid": "77285fb2-a109-4755-943e-b6f7a4f4349f"
+    "uid": "39a3708a-b04f-4c1c-a017-601e0dff6378"
 }

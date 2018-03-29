@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "tasmax",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "cmip6_cmor_tables_row_id": [
             "1718",
@@ -40,5 +40,5 @@
     "description": "Maximum air temperature",
     "namespace": "ukcp:ukcp18:variable:tasmax",
     "status": "pending",
-    "uid": "bc65ea6e-3ddc-4fcd-95ef-7cb99347bb23"
+    "uid": "4e1359a7-66af-4608-8e26-24ec2a64df19"
 }

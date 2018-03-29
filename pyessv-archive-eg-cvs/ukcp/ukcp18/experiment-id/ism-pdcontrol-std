@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ism-pdcontrol-std",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_id": [
             "ISMIP6"
@@ -32,5 +32,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:ism-pdcontrol-std",
     "raw_name": "ism-pdControl-std",
     "status": "pending",
-    "uid": "c87f0b05-f0bd-4e31-bbbd-433a2c984ca8"
+    "uid": "36f1ed3a-a801-410b-a579-d3016fd2436d"
 }

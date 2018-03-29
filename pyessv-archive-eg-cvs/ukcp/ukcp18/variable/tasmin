@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "tasmin",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "cmip6_cmor_tables_row_id": [
             "1722",
@@ -40,5 +40,5 @@
     "description": "Minimum air temperature",
     "namespace": "ukcp:ukcp18:variable:tasmin",
     "status": "pending",
-    "uid": "012c1dd5-2280-45f5-93e4-76f7144afb79"
+    "uid": "e495471b-a34c-47e6-a275-1856ded5f416"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "geo-region",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "axis": "",
         "bounds_values": "",
@@ -22,5 +22,5 @@
     "namespace": "ukcp:ukcp18:coordinate:geo-region",
     "raw_name": "geo_region",
     "status": "pending",
-    "uid": "24ba65ec-eded-4584-aefc-ee6582b24b27"
+    "uid": "91262bfc-2ba4-45f2-897e-4b18a9b5c60d"
 }

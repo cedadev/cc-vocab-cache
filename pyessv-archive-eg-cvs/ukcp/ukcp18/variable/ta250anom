@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ta250anom",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_name": "ta",
@@ -33,5 +33,5 @@
     "namespace": "ukcp:ukcp18:variable:ta250anom",
     "raw_name": "ta250Anom",
     "status": "pending",
-    "uid": "d5abe424-df22-4018-85d8-8a71e21fbccd"
+    "uid": "852f50db-e675-4895-b64f-c7904bec469c"
 }

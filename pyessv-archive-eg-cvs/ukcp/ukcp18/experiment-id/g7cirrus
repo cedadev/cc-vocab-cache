@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "g7cirrus",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_id": [
             "GeoMIP"
@@ -36,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:g7cirrus",
     "raw_name": "G7cirrus",
     "status": "pending",
-    "uid": "133ed61e-9c38-4b0d-8d19-012249d50897"
+    "uid": "0208b815-d866-427b-8d56-2cf5586a6926"
 }

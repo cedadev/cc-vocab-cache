@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppc-amv-trop-pos",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_id": [
             "DCPP"
@@ -36,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppc-amv-trop-pos",
     "raw_name": "dcppC-amv-Trop-pos",
     "status": "pending",
-    "uid": "0267b389-1b81-4692-aabd-500314c30a19"
+    "uid": "e5dd3296-6cd5-4655-af85-94f01f44e58e"
 }

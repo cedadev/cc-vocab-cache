@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "isle-of-man",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "label": "isle_of_man",
     "namespace": "ukcp:ukcp18:admin-region:isle-of-man",
     "raw_name": "isle_of_man",
     "status": "pending",
-    "uid": "db3c55ec-dcf8-4df1-81b5-05d8370151e8"
+    "uid": "c62400e3-c849-4afd-9cba-f87a0b1acc51"
 }

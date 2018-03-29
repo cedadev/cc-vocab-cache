@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "hist-nolu",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_id": [
             "LUMIP"
@@ -36,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:hist-nolu",
     "raw_name": "hist-noLu",
     "status": "pending",
-    "uid": "28eb0bee-be7e-4b3b-838c-1cfb534698ef"
+    "uid": "7b87cc95-fe16-42d8-babf-7ac66e470bb5"
 }

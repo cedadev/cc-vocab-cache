@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "north-highland",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "label": "north_highland",
     "namespace": "ukcp:ukcp18:river-basin:north-highland",
     "raw_name": "north_highland",
     "status": "pending",
-    "uid": "dface139-4444-4c3d-bba4-1e018eecf967"
+    "uid": "fc06b544-4ab6-4eb4-b19b-84e262f76ae2"
 }

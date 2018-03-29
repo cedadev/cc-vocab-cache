@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "uasanom",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_cmor_tables_row_id": [
@@ -40,5 +40,5 @@
     "namespace": "ukcp:ukcp18:variable:uasanom",
     "raw_name": "uasAnom",
     "status": "pending",
-    "uid": "32180c05-c849-4ba9-bfac-79bfb56a6063"
+    "uid": "555443cb-001d-4fcd-acf9-c20dc946583d"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "historical",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_id": [
             "CMIP"
@@ -34,5 +34,5 @@
     "description": "CMIP6 historical",
     "namespace": "ukcp:ukcp18:experiment-id:historical",
     "status": "pending",
-    "uid": "fd2b1af6-e48d-455e-94b4-568dd5252ba1"
+    "uid": "07bd7a91-ac83-4a8a-ae93-0e84bc7b3a5a"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "esm-ssp585",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_id": [
             "C4MIP"
@@ -34,5 +34,5 @@
     "description": "Emissions-driven future scenario simulation",
     "namespace": "ukcp:ukcp18:experiment-id:esm-ssp585",
     "status": "pending",
-    "uid": "61cfe205-4286-4a6e-bda7-2bcde6045181"
+    "uid": "94e86902-facf-4b4b-8430-a47d29b54560"
 }

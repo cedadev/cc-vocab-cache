@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "besm-2-7",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_participation": [
             "CMIP",
@@ -57,5 +57,5 @@
     "namespace": "ukcp:ukcp18:source-id:besm-2-7",
     "raw_name": "BESM-2-7",
     "status": "pending",
-    "uid": "8453c054-6280-476d-8a8b-48239a109e22"
+    "uid": "db85f00c-a78d-4c95-a7f3-0559bc6d4cf3"
 }

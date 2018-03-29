@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "land-nopasture",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_id": [
             "LUMIP"
@@ -32,5 +32,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:land-nopasture",
     "raw_name": "land-noPasture",
     "status": "pending",
-    "uid": "1e3dffdb-143b-4e84-8c07-91cf428efc98"
+    "uid": "a0310259-ad23-4560-9b7c-3a797614fffd"
 }

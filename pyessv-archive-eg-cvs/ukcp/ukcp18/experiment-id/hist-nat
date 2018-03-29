@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "hist-nat",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_id": [
             "DAMIP"
@@ -34,5 +34,5 @@
     "description": "Historical natural-only run",
     "namespace": "ukcp:ukcp18:experiment-id:hist-nat",
     "status": "pending",
-    "uid": "17936f95-ebda-4a82-896f-7a12a14b27ba"
+    "uid": "17fd8fcc-fbbe-4e51-9c82-7dd7762dd94d"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "wsgmax10m",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "cmip6_cmor_tables_row_id": [
             "2037"
@@ -34,5 +34,5 @@
     "description": "Wind gust",
     "namespace": "ukcp:ukcp18:variable:wsgmax10m",
     "status": "pending",
-    "uid": "a8b6b1b2-dd57-49de-800d-682a6736ae2f"
+    "uid": "0c2cfa89-879c-4b00-bcb5-5f43b03871ed"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ssp126",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_id": [
             "ScenarioMIP"
@@ -34,5 +34,5 @@
     "description": "Future scenario with low radiative forcing by the end of century. Following approximately RCP2.6 global forcing pathway but with new forcing based on SSP1. Concentration-driven. As a tier 2 option, this simulation should be extended to year 2300",
     "namespace": "ukcp:ukcp18:experiment-id:ssp126",
     "status": "pending",
-    "uid": "41718d9a-e280-44a9-a86d-80ad2ca2f860"
+    "uid": "c36d0d0c-6639-47b5-85d3-ea9852700ba1"
 }

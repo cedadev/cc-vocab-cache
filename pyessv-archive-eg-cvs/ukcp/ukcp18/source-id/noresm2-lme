@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "noresm2-lme",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_participation": [
             "C4MIP",
@@ -58,5 +58,5 @@
     "namespace": "ukcp:ukcp18:source-id:noresm2-lme",
     "raw_name": "NorESM2-LME",
     "status": "pending",
-    "uid": "5fedbd75-83d6-4f75-aeb4-7c5335ed16e9"
+    "uid": "92964829-54a0-4fb5-8fb3-d5cba412d0c1"
 }

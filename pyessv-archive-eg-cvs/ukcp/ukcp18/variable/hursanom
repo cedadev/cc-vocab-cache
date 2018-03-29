@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "hursanom",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_cmor_tables_row_id": [
@@ -47,5 +47,5 @@
     "namespace": "ukcp:ukcp18:variable:hursanom",
     "raw_name": "hursAnom",
     "status": "pending",
-    "uid": "785fc15d-44e4-4500-8ca8-6644d1e456f4"
+    "uid": "a86c6516-e313-48dc-afe7-e4c8ea1d0b72"
 }

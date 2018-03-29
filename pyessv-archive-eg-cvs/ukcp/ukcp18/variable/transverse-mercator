@@ -1,0 +1,21 @@
+{
+    "_type": "term",
+    "canonical_name": "transverse-mercator",
+    "create_date": "2018-03-28 19:52:17.258367",
+    "data": {
+        "false_easting": 400000.0,
+        "false_northing": -100000.0,
+        "grid_mapping_name": "transverse_mercator",
+        "latitude_of_projection_origin": 49.0,
+        "longitude_of_central_meridian": -2.0,
+        "longitude_of_prime_meridian": 0.0,
+        "scale_factor_at_central_meridian": 0.9996012717,
+        "semi_major_axis": 6377563.396,
+        "semi_minor_axis": 6356256.909
+    },
+    "label": "transverse_mercator",
+    "namespace": "ukcp:ukcp18:variable:transverse-mercator",
+    "raw_name": "transverse_mercator",
+    "status": "pending",
+    "uid": "6a03b66a-faba-4a76-88ca-567e825edad3"
+}

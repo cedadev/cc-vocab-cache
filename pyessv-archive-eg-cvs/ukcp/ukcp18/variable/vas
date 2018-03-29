@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "vas",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "cmip6_cmor_tables_row_id": [
             "1957",
@@ -37,5 +37,5 @@
     "description": "Northward wind",
     "namespace": "ukcp:ukcp18:variable:vas",
     "status": "pending",
-    "uid": "08d6cdf5-c3e3-4499-9e6b-c8e8df2d171a"
+    "uid": "291c86a8-ab62-4eb0-8a34-769743173d5e"
 }

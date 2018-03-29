@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "emac-2-53-aerchem",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_participation": [
             "AerChemMIP",
@@ -55,5 +55,5 @@
     "namespace": "ukcp:ukcp18:source-id:emac-2-53-aerchem",
     "raw_name": "EMAC-2-53-AerChem",
     "status": "pending",
-    "uid": "bdca5d2e-0f45-4eca-a4e8-1b36874ce1cd"
+    "uid": "cecc4115-b0fc-4dfc-9782-eba66c1d56fa"
 }

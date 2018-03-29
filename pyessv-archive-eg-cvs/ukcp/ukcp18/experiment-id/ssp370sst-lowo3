@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ssp370sst-lowo3",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_id": [
             "AerChemMIP"
@@ -34,5 +34,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:ssp370sst-lowo3",
     "raw_name": "ssp370SST-lowO3",
     "status": "pending",
-    "uid": "1e4370c9-728c-4df9-ad12-a06f03617b45"
+    "uid": "b62eb0e1-bc48-4849-a72b-671f2da4586a"
 }

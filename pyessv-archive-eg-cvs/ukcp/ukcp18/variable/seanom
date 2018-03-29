@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "seanom",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "anomaly_type": "absolute_change",
         "description": "Surface evaporation",
@@ -33,5 +33,5 @@
     "namespace": "ukcp:ukcp18:variable:seanom",
     "raw_name": "seAnom",
     "status": "pending",
-    "uid": "d4832e68-e058-4d33-902b-8607a2b5b6db"
+    "uid": "37fa1738-0929-4866-8c79-79b69bef2200"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppc-pac-pacemaker",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_id": [
             "DCPP"
@@ -37,5 +37,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppc-pac-pacemaker",
     "raw_name": "dcppC-pac-pacemaker",
     "status": "pending",
-    "uid": "57c2708e-0c44-4cd7-ba40-1b891efdb8d1"
+    "uid": "47e5636b-e05f-4324-8586-a4469a9bc3c0"
 }

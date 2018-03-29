@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "ukcp18",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "label": "UKCP18",
     "namespace": "ukcp:ukcp18:activity-id:ukcp18",
     "raw_name": "UKCP18",
     "status": "pending",
-    "uid": "0b23e80b-55ed-4cb2-b78c-f3d5d5cd1879"
+    "uid": "81256543-581d-4e76-99d6-07c26b31f729"
 }

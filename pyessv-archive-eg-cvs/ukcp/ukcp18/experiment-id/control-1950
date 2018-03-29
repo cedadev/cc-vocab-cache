@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "control-1950",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_id": [
             "HighResMIP"
@@ -32,5 +32,5 @@
     "description": "Coupled integrations with constant 1950\"s forcing",
     "namespace": "ukcp:ukcp18:experiment-id:control-1950",
     "status": "pending",
-    "uid": "9bf2ad0c-73fe-4663-97c4-8b1db4401e3d"
+    "uid": "c47e0375-5b79-4aea-8cd4-8e7e5e9cf8b2"
 }

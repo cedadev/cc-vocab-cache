@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ssp245-nat",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_id": [
             "DAMIP"
@@ -34,5 +34,5 @@
     "description": "Extension of natural-only run under SSP2-4.5",
     "namespace": "ukcp:ukcp18:experiment-id:ssp245-nat",
     "status": "pending",
-    "uid": "83cd08b8-d557-4c87-ad55-13909a533bda"
+    "uid": "1937a40f-10cf-4110-ae59-b31042fc9910"
 }

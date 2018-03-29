@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "faf-passiveheat",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_id": [
             "FAFMIP"
@@ -34,5 +34,5 @@
     "description": "1xCO2 experiment, parallel to piControl, with a flux of passive tracer added at the ocean surface at the same rate as the surface net heat flux anomaly applied in the FAFMIP heat experiment",
     "namespace": "ukcp:ukcp18:experiment-id:faf-passiveheat",
     "status": "pending",
-    "uid": "536e1240-1a2d-4bff-9d27-61c78cdcadf6"
+    "uid": "ba962ff4-9f48-464e-a234-f37185a1c0d1"
 }

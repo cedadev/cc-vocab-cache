@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "pcmdi-test-1-0",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_participation": [
             "CMIP"
@@ -54,5 +54,5 @@
     "namespace": "ukcp:ukcp18:source-id:pcmdi-test-1-0",
     "raw_name": "PCMDI-test-1-0",
     "status": "pending",
-    "uid": "4a782fba-3d83-4be1-ac98-d8df6efb561a"
+    "uid": "d46a72c3-fca4-4468-954e-54295ed2c67e"
 }

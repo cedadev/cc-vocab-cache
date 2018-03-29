@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "east-midlands",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "label": "east_midlands",
     "namespace": "ukcp:ukcp18:admin-region:east-midlands",
     "raw_name": "east_midlands",
     "status": "pending",
-    "uid": "65546c3e-b060-4c8d-b9e9-aaa81467e3e8"
+    "uid": "13dc2346-42ff-4a48-a2fc-196e6efb16ac"
 }

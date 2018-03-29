@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "pslanom",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_cmor_tables_row_id": [
@@ -45,5 +45,5 @@
     "namespace": "ukcp:ukcp18:variable:pslanom",
     "raw_name": "pslAnom",
     "status": "pending",
-    "uid": "d49fbed5-e0ef-435e-92fb-bde0032970d0"
+    "uid": "a5bdfd8e-611e-4c3c-a55e-925dfca824f3"
 }

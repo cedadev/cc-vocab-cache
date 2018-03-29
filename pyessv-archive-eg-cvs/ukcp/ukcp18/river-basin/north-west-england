@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "north-west-england",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "label": "north_west_england",
     "namespace": "ukcp:ukcp18:river-basin:north-west-england",
     "raw_name": "north_west_england",
     "status": "pending",
-    "uid": "1ca0f745-cd01-430a-9c4a-a0b5c28477a5"
+    "uid": "f80fd5c0-3de0-4f6e-b4f1-45d73af0dc53"
 }

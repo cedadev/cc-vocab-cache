@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "a4sstice",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_id": [
             "CFMIP"
@@ -35,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:a4sstice",
     "raw_name": "a4SSTice",
     "status": "pending",
-    "uid": "ec84d221-966e-460b-a11d-8a74dd8b58f9"
+    "uid": "6bf09724-2d02-4cd3-ad0b-d2a0fa269b40"
 }

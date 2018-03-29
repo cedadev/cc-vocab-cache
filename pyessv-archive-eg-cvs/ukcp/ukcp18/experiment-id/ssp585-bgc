@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ssp585-bgc",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_id": [
             "C4MIP"
@@ -34,5 +34,5 @@
     "description": "Concentration-driven future scenario simulation, biogeochemically-coupled. This simulation should optionally be extended to year 2300",
     "namespace": "ukcp:ukcp18:experiment-id:ssp585-bgc",
     "status": "pending",
-    "uid": "c75aea45-4c6f-46f1-b588-e4187e017d90"
+    "uid": "e43c4e7e-4779-44dd-9679-9fe20f379752"
 }

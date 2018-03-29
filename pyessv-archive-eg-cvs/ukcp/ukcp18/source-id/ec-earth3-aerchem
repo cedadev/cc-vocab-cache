@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ec-earth3-aerchem",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_participation": [
             ""
@@ -54,5 +54,5 @@
     "namespace": "ukcp:ukcp18:source-id:ec-earth3-aerchem",
     "raw_name": "EC-Earth3-AerChem",
     "status": "pending",
-    "uid": "d66f45d7-dc4f-44cd-9d3d-a623b1844314"
+    "uid": "399dbcfc-c61b-4511-a112-174eac2e6beb"
 }

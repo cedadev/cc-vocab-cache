@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "winddir",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "description": "Wind direction",
         "label_units": "degrees",
@@ -26,5 +26,5 @@
     "namespace": "ukcp:ukcp18:variable:winddir",
     "raw_name": "windDir",
     "status": "pending",
-    "uid": "ae621c99-f463-4b4c-843e-fc79e04558ec"
+    "uid": "c3a68c69-39ad-49d3-8557-8c8daccdbfbc"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "awi-cm-1-0-hr",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_participation": [
             "CORDEX",
@@ -58,5 +58,5 @@
     "namespace": "ukcp:ukcp18:source-id:awi-cm-1-0-hr",
     "raw_name": "AWI-CM-1-0-HR",
     "status": "pending",
-    "uid": "3e8e9ead-5157-46ef-90c6-afa6eeb93c64"
+    "uid": "1ab6ea6d-a49a-413c-b748-876fa4935c59"
 }

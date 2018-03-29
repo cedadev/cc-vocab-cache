@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "south-west-england",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "label": "south_west_england",
     "namespace": "ukcp:ukcp18:admin-region:south-west-england",
     "raw_name": "south_west_england",
     "status": "pending",
-    "uid": "2942fc5d-2b25-4d66-a5e8-d7cd8a849300"
+    "uid": "41a074fd-3205-47cb-a4f4-fe917f8bdfb9"
 }

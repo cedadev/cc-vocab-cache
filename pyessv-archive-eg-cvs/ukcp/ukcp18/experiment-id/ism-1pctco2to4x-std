@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ism-1pctco2to4x-std",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_id": [
             "ISMIP6"
@@ -32,5 +32,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:ism-1pctco2to4x-std",
     "raw_name": "ism-1pctCO2to4x-std",
     "status": "pending",
-    "uid": "e9f9f6b6-7216-4f4b-825c-4eadf0f8ab5a"
+    "uid": "5be2977e-cad0-4c0e-8638-e3e7d96cdeb8"
 }

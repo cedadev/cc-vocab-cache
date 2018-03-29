@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ukesm1-0-ll",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "data": {
         "activity_participation": [
             ""
@@ -55,5 +55,5 @@
     "namespace": "ukcp:ukcp18:source-id:ukesm1-0-ll",
     "raw_name": "UKESM1-0-LL",
     "status": "pending",
-    "uid": "40ca1564-79a1-4248-97f0-60a3b032a39f"
+    "uid": "f7ace1e9-7a38-4e40-9bb0-2bdc2fcacb27"
 }

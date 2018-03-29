@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "transverse-mercator",
-    "create_date": "2018-03-28 09:32:50.117920",
+    "create_date": "2018-03-28 19:52:17.258367",
     "label": "transverse_mercator",
     "namespace": "ukcp:ukcp18:projection:transverse-mercator",
     "raw_name": "transverse_mercator",
     "status": "pending",
-    "uid": "76e67cc2-ff2c-46d2-b77a-ee528a5fd146"
+    "uid": "f99bc062-f43a-4c89-b4f2-445c228d04e7"
 }
