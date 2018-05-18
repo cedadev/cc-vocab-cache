@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "time",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "axis": "T",
         "bounds_values": "",
@@ -21,5 +21,5 @@
     },
     "namespace": "ukcp:ukcp18:coordinate:time",
     "status": "pending",
-    "uid": "e2f6166f-ee47-4e24-a5c3-2d6a6209b095"
+    "uid": "fcab704b-fbac-4bef-8cbc-682615050a94"
 }

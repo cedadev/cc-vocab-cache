@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "uas",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "cmip6_cmor_tables_row_id": [
             "1909",
@@ -37,5 +37,5 @@
     "description": "Eastward wind",
     "namespace": "ukcp:ukcp18:variable:uas",
     "status": "pending",
-    "uid": "3e305337-4ee3-42b4-b69c-c96309dbd646"
+    "uid": "893a7b10-eb12-445f-894e-a358dfe081e1"
 }

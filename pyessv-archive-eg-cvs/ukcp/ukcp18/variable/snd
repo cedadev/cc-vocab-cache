@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "snd",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "cmip6_cmor_tables_row_id": [
             "1616",
@@ -32,5 +32,5 @@
     "description": "Snow depth",
     "namespace": "ukcp:ukcp18:variable:snd",
     "status": "pending",
-    "uid": "97d2c3f3-9ab4-482a-8ad6-3d2e845df368"
+    "uid": "0166b6de-407f-452e-bb4c-fc9d2769694c"
 }

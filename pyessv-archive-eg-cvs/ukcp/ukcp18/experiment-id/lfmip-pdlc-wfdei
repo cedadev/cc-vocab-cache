@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "lfmip-pdlc-wfdei",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "activity_id": [
             "LS3MIP"
@@ -36,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:lfmip-pdlc-wfdei",
     "raw_name": "lfmip-pdLC-wfdei",
     "status": "pending",
-    "uid": "3fbea39f-1747-4a1f-ba38-e7eb4e5bcc27"
+    "uid": "1169d3e9-a360-4e21-992d-8895530e3023"
 }

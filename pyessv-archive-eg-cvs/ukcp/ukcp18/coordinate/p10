@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "p10",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "axis": "Z",
         "bounds_values": "",
@@ -20,5 +20,5 @@
     },
     "namespace": "ukcp:ukcp18:coordinate:p10",
     "status": "pending",
-    "uid": "78924479-ba11-4cfd-9228-5382d86ecdff"
+    "uid": "686a27e6-8c5c-4cba-a5eb-c26d1e69387b"
 }

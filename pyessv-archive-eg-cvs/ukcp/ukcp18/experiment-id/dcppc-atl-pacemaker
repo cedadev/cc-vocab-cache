@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppc-atl-pacemaker",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "activity_id": [
             "DCPP"
@@ -37,5 +37,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppc-atl-pacemaker",
     "raw_name": "dcppC-atl-pacemaker",
     "status": "pending",
-    "uid": "5cefadd4-67c7-422c-a7b6-5c667a0b9bf9"
+    "uid": "60856569-86b5-4b53-a2a7-0bc582f44fec"
 }

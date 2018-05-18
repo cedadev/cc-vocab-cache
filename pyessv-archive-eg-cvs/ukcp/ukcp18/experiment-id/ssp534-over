@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ssp534-over",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "activity_id": [
             "ScenarioMIP"
@@ -34,5 +34,5 @@
     "description": "21st century overshoot scenario relative to SSP5_34. Branches from SS5_85 at 2040 with emissions reduced to zero by 2070 and negative thereafter. This simulation should optionally be extended to year 2300",
     "namespace": "ukcp:ukcp18:experiment-id:ssp534-over",
     "status": "pending",
-    "uid": "0c8892a3-16c4-4c6c-b738-28ddc9a5ce5b"
+    "uid": "06d000f7-44b8-46fc-a964-42434e36dd5e"
 }

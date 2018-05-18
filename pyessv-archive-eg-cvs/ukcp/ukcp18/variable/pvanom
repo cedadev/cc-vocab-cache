@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "pvanom",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "anomaly_type": "absolute_change",
         "description": "Vapour pressure",
@@ -33,5 +33,5 @@
     "namespace": "ukcp:ukcp18:variable:pvanom",
     "raw_name": "pvAnom",
     "status": "pending",
-    "uid": "491fae06-cc82-4c88-b556-ee74f0d29749"
+    "uid": "11d18c0d-dda6-418e-abf3-4ab9273f77aa"
 }

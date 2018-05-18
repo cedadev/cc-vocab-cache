@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "england-and-wales",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "label": "england_and_wales",
     "namespace": "ukcp:ukcp18:country:england-and-wales",
     "raw_name": "england_and_wales",
     "status": "pending",
-    "uid": "ef2aa3bb-7bb2-45e2-b508-81216f4f3e81"
+    "uid": "4cde3d72-fdd9-41af-9637-e9c042a42179"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "piclim-ntcf",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "activity_id": [
             "AerChemMIP"
@@ -36,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:piclim-ntcf",
     "raw_name": "piClim-NTCF",
     "status": "pending",
-    "uid": "04160c2f-2124-4d15-a0e3-1afad09000f2"
+    "uid": "9e4fa89a-c1b4-4d77-8960-052315acc225"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "abrupt-solp4p",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "activity_id": [
             "CFMIP"
@@ -34,5 +34,5 @@
     "description": "Conceptually similar to abrupt 4xCO2 DECK experiment, except that the solar constant rather than CO2 is abruptly increased by 4%",
     "namespace": "ukcp:ukcp18:experiment-id:abrupt-solp4p",
     "status": "pending",
-    "uid": "8e7beb2b-12c5-4477-8df9-b0adb624f5f9"
+    "uid": "439754b7-a45c-4a56-adfd-cd4e4ebf9c18"
 }

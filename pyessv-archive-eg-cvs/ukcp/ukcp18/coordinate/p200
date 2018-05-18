@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "p200",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "axis": "Z",
         "bounds_values": "",
@@ -20,5 +20,5 @@
     },
     "namespace": "ukcp:ukcp18:coordinate:p200",
     "status": "pending",
-    "uid": "0fcb3eba-1d3f-4f8d-aec8-1300180c2984"
+    "uid": "802810f6-7ea5-4a6f-a704-a9e47467e8a6"
 }

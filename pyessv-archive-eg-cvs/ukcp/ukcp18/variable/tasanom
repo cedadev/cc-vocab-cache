@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "tasanom",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_cmor_tables_row_id": [
@@ -46,5 +46,5 @@
     "namespace": "ukcp:ukcp18:variable:tasanom",
     "raw_name": "tasAnom",
     "status": "pending",
-    "uid": "55a9d822-ad7d-435d-b157-16d27ebb9681"
+    "uid": "97fdda25-6bda-4509-b14a-2a8f1a24bd6b"
 }

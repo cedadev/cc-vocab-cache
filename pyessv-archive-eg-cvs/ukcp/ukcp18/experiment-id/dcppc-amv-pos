@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppc-amv-pos",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "activity_id": [
             "DCPP"
@@ -36,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppc-amv-pos",
     "raw_name": "dcppC-amv-pos",
     "status": "pending",
-    "uid": "d7876539-72e3-463e-a62a-3b24868770cc"
+    "uid": "87e831d6-809b-4e35-bd1a-186556dd4693"
 }

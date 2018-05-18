@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "stfc",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "postal_address": "Science and Technology Facilities Council, Rutherford Appleton Laboratory, Harwell Campus, Didcot OX11 0QX"
     },
@@ -9,5 +9,5 @@
     "namespace": "ukcp:ukcp18:institution-id:stfc",
     "raw_name": "STFC",
     "status": "pending",
-    "uid": "2838801c-0deb-4a3b-836f-1df8f9994c42"
+    "uid": "705ad43c-860f-429a-90e3-356b8d5b90a8"
 }

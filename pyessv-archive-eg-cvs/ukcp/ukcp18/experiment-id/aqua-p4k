@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "aqua-p4k",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "activity_id": [
             "CFMIP"
@@ -35,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:aqua-p4k",
     "raw_name": "aqua-p4K",
     "status": "pending",
-    "uid": "93fb916b-97cd-4265-bc25-4fc967c98c8b"
+    "uid": "bbb2d916-c38e-4fc9-9011-7f06cc50b4ec"
 }

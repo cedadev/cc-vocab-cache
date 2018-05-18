@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ssp245-aer",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "activity_id": [
             "DAMIP"
@@ -34,5 +34,5 @@
     "description": "Extension of aerosol-only run under SSP2-4.5",
     "namespace": "ukcp:ukcp18:experiment-id:ssp245-aer",
     "status": "pending",
-    "uid": "80bbaf4c-88d2-417f-9ec2-4973b144a556"
+    "uid": "32336649-e98c-4e22-b6f0-52a4de7f9ce5"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "snowlying",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "description": "Snow lying",
         "label_units": "mm",
@@ -32,5 +32,5 @@
     "namespace": "ukcp:ukcp18:variable:snowlying",
     "raw_name": "snowLying",
     "status": "pending",
-    "uid": "c8f8384b-1c70-4a56-8bb1-01256c5630ff"
+    "uid": "f6a64470-ac4c-45a8-b1c5-f20c79f63cf9"
 }

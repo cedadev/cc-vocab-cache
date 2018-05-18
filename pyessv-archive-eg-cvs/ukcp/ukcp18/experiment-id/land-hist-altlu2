@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "land-hist-altlu2",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "activity_id": [
             "LUMIP"
@@ -32,5 +32,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:land-hist-altlu2",
     "raw_name": "land-hist-altLu2",
     "status": "pending",
-    "uid": "d5c9e9aa-9e84-4174-8c08-d1899d992dc7"
+    "uid": "7361f79d-23be-4520-a7cd-9b21d8a7d8e6"
 }

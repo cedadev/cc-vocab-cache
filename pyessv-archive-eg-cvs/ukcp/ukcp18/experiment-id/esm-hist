@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "esm-hist",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "activity_id": [
             "CMIP"
@@ -34,5 +34,5 @@
     "description": "CMIP6 historical (CO2 emission-driven)",
     "namespace": "ukcp:ukcp18:experiment-id:esm-hist",
     "status": "pending",
-    "uid": "c9e6cb3c-e0d2-4332-8f90-f75ce3c9a9e2"
+    "uid": "266268db-c0c3-4d65-941c-43bc57c63169"
 }

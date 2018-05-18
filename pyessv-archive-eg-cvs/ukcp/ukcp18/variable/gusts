@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "gusts",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "cmip6_name": "wsgmax10m",
         "cmip6_standard_name": "wind_speed_of_gust",
@@ -31,5 +31,5 @@
     "description": "Wind speed gust maximum at 10m",
     "namespace": "ukcp:ukcp18:variable:gusts",
     "status": "pending",
-    "uid": "0dbf18db-c0be-420a-a69d-18aae21b4151"
+    "uid": "eb8f6f58-314a-4120-9c7d-4444b51cf6a4"
 }

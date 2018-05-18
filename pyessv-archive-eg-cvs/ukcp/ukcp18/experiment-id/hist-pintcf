@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "hist-pintcf",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "activity_id": [
             "AerChemMIP"
@@ -36,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:hist-pintcf",
     "raw_name": "hist-piNTCF",
     "status": "pending",
-    "uid": "33356878-6baf-4a62-9d04-620b62e948ba"
+    "uid": "e5376f88-576d-4686-9bb4-c51dc0c379cb"
 }

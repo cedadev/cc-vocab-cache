@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "volc-pinatubo-full",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "activity_id": [
             "VolMIP"
@@ -34,5 +34,5 @@
     "description": "1991 Pinatubo forcing as used in the CMIP6 historical simulations. Requires special diagnostics of radiative and latent heating rates. A large number of ensemble members is required to address internal atmospheric variability",
     "namespace": "ukcp:ukcp18:experiment-id:volc-pinatubo-full",
     "status": "pending",
-    "uid": "d07471c9-0335-4786-9c21-67314daca512"
+    "uid": "f8093039-fddd-41a3-8a53-d8545a9282ac"
 }

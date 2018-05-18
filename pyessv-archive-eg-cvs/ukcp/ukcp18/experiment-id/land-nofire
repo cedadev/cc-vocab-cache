@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "land-nofire",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "activity_id": [
             "LUMIP"
@@ -32,5 +32,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:land-nofire",
     "raw_name": "land-noFire",
     "status": "pending",
-    "uid": "81183633-f9db-4585-b021-a16bd176ffac"
+    "uid": "01d1e6a4-ce1e-40f3-83de-976f5d8c7b34"
 }

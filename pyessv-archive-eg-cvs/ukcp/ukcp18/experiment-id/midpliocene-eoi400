@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "midpliocene-eoi400",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "activity_id": [
             "PMIP"
@@ -36,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:midpliocene-eoi400",
     "raw_name": "midPliocene-eoi400",
     "status": "pending",
-    "uid": "5ef257ae-902a-4be1-8098-ad8957170388"
+    "uid": "a4c505af-9845-40f2-8582-326abcdb43e8"
 }

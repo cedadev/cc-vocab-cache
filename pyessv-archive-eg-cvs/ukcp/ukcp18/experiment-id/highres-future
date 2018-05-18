@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "highres-future",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "activity_id": [
             "HighResMIP"
@@ -32,5 +32,5 @@
     "description": "Coupled integrations with SSP5 forcing (nearest to CMIP5 RCP8.5 (as in highresSST-future)",
     "namespace": "ukcp:ukcp18:experiment-id:highres-future",
     "status": "pending",
-    "uid": "da5a243e-bedc-4ee1-857d-5afdf1588f89"
+    "uid": "d0d73112-574f-4ea0-bca1-28f4943edede"
 }

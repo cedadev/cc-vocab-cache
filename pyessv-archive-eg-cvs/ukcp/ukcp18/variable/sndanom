@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "sndanom",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_cmor_tables_row_id": [
@@ -35,5 +35,5 @@
     "namespace": "ukcp:ukcp18:variable:sndanom",
     "raw_name": "sndAnom",
     "status": "pending",
-    "uid": "5e545dce-3c85-4837-845f-6f1e4dbb3c26"
+    "uid": "f8266892-adaf-45d9-a6bf-e6244582db92"
 }

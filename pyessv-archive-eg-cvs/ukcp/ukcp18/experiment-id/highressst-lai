@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "highressst-lai",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "activity_id": [
             "HighResMIP"
@@ -34,5 +34,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:highressst-lai",
     "raw_name": "highresSST-LAI",
     "status": "pending",
-    "uid": "3cb8cd98-ab19-4dc8-8748-98b671d84e6a"
+    "uid": "9a1e3e7a-1b30-4eaf-9b86-db1484267cfa"
 }

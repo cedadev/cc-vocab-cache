@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "1pctco2-bgc",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "activity_id": [
             "C4MIP"
@@ -36,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:1pctco2-bgc",
     "raw_name": "1pctCO2-bgc",
     "status": "pending",
-    "uid": "439c96eb-423b-4a43-a4fc-3541d5f924bf"
+    "uid": "f000c923-52b8-478c-a04e-913cf5dea7a3"
 }

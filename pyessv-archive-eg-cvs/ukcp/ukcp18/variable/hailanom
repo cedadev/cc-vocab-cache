@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "hailanom",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "anomaly_type": "absolute_change",
         "description": "Hail (Graupel)",
@@ -33,5 +33,5 @@
     "namespace": "ukcp:ukcp18:variable:hailanom",
     "raw_name": "hailAnom",
     "status": "pending",
-    "uid": "543cf391-ab1b-425e-b966-76ac22d728b3"
+    "uid": "e95bb4e5-f166-493d-a461-31f32bcffb4c"
 }

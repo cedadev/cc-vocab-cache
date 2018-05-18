@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "land-hist-cruncep",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "activity_id": [
             "LS3MIP"
@@ -32,5 +32,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:land-hist-cruncep",
     "raw_name": "land-hist-cruNcep",
     "status": "pending",
-    "uid": "88bdc079-1148-4421-b7c4-2fd22e69745a"
+    "uid": "066aabbb-3154-4561-b733-3ce79da5f0a5"
 }

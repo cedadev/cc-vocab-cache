@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "g6sst2-solar",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "activity_id": [
             "GeoMIP"
@@ -35,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:g6sst2-solar",
     "raw_name": "G6SST2-solar",
     "status": "pending",
-    "uid": "cdd22a06-b2c9-47df-8c4a-dcdc09a1c1a2"
+    "uid": "e75a2a44-4507-4005-9706-95e8f8d85956"
 }

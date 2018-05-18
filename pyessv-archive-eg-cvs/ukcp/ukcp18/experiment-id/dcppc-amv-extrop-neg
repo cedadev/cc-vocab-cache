@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppc-amv-extrop-neg",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "activity_id": [
             "DCPP"
@@ -36,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppc-amv-extrop-neg",
     "raw_name": "dcppC-amv-ExTrop-neg",
     "status": "pending",
-    "uid": "8a036665-3b18-4559-a5b8-89e091a0a029"
+    "uid": "2e34fab7-09d8-407f-9295-ac6c35b9b1fa"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "hist-sol",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "activity_id": [
             "DAMIP"
@@ -34,5 +34,5 @@
     "description": "Historical solar-only transient simulation using settings from CMIP6 historical simulation but fixed GHG and ODS (1850 level)",
     "namespace": "ukcp:ukcp18:experiment-id:hist-sol",
     "status": "pending",
-    "uid": "503c08b3-3222-46de-86bf-41d175fb7c32"
+    "uid": "ba247f65-6ec7-48d6-a49f-7b0c3bff40f9"
 }

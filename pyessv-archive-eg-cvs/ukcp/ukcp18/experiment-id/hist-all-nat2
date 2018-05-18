@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "hist-all-nat2",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "activity_id": [
             "DAMIP"
@@ -34,5 +34,5 @@
     "description": "Historical ALL forcing run with alternates estimate of solar and volcanic forcing",
     "namespace": "ukcp:ukcp18:experiment-id:hist-all-nat2",
     "status": "pending",
-    "uid": "d393c7f2-4588-43ec-b77d-5e5bbf351f7f"
+    "uid": "1ca851de-a6bc-442d-b9f7-d437dcf56fee"
 }

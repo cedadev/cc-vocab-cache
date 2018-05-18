@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "sealevelanom",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "anomaly_type": "absolute_change",
         "description": "Time-mean sea level",
@@ -25,5 +25,5 @@
     "namespace": "ukcp:ukcp18:variable:sealevelanom",
     "raw_name": "seaLevelAnom",
     "status": "pending",
-    "uid": "42900d90-c524-4821-9a3c-72a61c787524"
+    "uid": "a8c9d8c2-819a-428a-8736-5dd9ce7b5713"
 }

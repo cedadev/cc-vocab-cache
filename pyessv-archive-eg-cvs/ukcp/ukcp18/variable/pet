@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "pet",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "cmip6_cmor_tables_row_id": [
             "??"
@@ -35,5 +35,5 @@
     "description": "Potential evapotranspiration rate",
     "namespace": "ukcp:ukcp18:variable:pet",
     "status": "pending",
-    "uid": "9c0adbb5-bc3a-47b9-8a65-8e8fcd63f998"
+    "uid": "e5526e1e-e596-460d-8eee-72891710b6d7"
 }

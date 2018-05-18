@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "projection-x-coordinate",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "axis": "X",
         "bounds_values": "",
@@ -22,5 +22,5 @@
     "namespace": "ukcp:ukcp18:coordinate:projection-x-coordinate",
     "raw_name": "projection_x_coordinate",
     "status": "pending",
-    "uid": "19df6f8b-7309-45d8-99cf-6c3f76c9147e"
+    "uid": "52c913fe-c2d4-43d3-b3b0-739403c9be76"
 }

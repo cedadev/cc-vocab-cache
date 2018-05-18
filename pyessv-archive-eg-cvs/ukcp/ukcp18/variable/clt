@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "clt",
-    "create_date": "2018-05-18 11:52:48.202833",
+    "create_date": "2018-05-18 12:07:40.096000",
     "data": {
         "cmip6_cmor_tables_row_id": [
             "206",
@@ -38,5 +38,5 @@
     "description": "Total cloud",
     "namespace": "ukcp:ukcp18:variable:clt",
     "status": "pending",
-    "uid": "7313788a-fd68-4a1c-8ad9-4ad98a10e65b"
+    "uid": "ffb6e241-7d20-4c9e-9d81-c0d9154f5ed1"
 }
