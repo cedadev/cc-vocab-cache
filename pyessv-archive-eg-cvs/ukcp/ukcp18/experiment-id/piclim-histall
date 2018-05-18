@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "piclim-histall",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "RFMIP"
@@ -35,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:piclim-histall",
     "raw_name": "piClim-histall",
     "status": "pending",
-    "uid": "2a546418-aa4b-45b9-bdab-62b6213faaca"
+    "uid": "b386df80-584b-46b2-a477-5c32e6107d40"
 }

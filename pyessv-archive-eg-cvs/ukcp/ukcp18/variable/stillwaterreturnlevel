@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "stillwaterreturnlevel",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "description": "Still water return level",
         "label_units": "m",
@@ -28,5 +28,5 @@
     "namespace": "ukcp:ukcp18:variable:stillwaterreturnlevel",
     "raw_name": "stillWaterReturnLevel",
     "status": "pending",
-    "uid": "b9564dde-3831-4d5a-9928-a3076d5b964b"
+    "uid": "77dba6cd-43d8-4068-972b-f53114b6a49b"
 }

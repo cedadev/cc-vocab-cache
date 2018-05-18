@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "piclim-n2o",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "AerChemMIP"
@@ -34,5 +34,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:piclim-n2o",
     "raw_name": "piClim-N2O",
     "status": "pending",
-    "uid": "7191f094-691c-4f11-97a2-85836f9c1381"
+    "uid": "c8a0851b-be57-4a96-ab93-0cf55f811567"
 }

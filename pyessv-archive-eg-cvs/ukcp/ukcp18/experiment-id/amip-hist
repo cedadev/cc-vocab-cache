@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "amip-hist",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "GMMIP"
@@ -33,5 +33,5 @@
     "description": "Extended AMIP run that covers 1870-2014. All natural and anthropogenic historical forcings as used in CMIP6 Historical Simulation will be included. AGCM resolution as CMIP6 Historical Simulation. The HadISST data will be used",
     "namespace": "ukcp:ukcp18:experiment-id:amip-hist",
     "status": "pending",
-    "uid": "939f0c90-85a3-4f32-9b18-f10f260ab114"
+    "uid": "e98f34c6-b3e9-40e5-b161-bee6ca2b55b2"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "historical-ext",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "CMIP"
@@ -34,5 +34,5 @@
     "description": "Extension beyond 2014 of the CMIP6 historical",
     "namespace": "ukcp:ukcp18:experiment-id:historical-ext",
     "status": "pending",
-    "uid": "788ab0d5-8793-421b-b206-f1041ff4a21b"
+    "uid": "62a1db58-922e-4eeb-b010-770e6967222f"
 }

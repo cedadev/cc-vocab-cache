@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "lfmip-rmlc-cruncep",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "LS3MIP"
@@ -36,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:lfmip-rmlc-cruncep",
     "raw_name": "lfmip-rmLC-cruNcep",
     "status": "pending",
-    "uid": "c637b3cb-1f37-47a3-8101-6ffaca633b23"
+    "uid": "0695ad76-febd-4cf1-a53d-f59a7683f10b"
 }

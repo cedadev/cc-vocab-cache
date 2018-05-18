@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ism-historical-self",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "ISMIP6"
@@ -30,5 +30,5 @@
     "description": "Historical simulation using \"offline\" ice sheet models. Forcing for ice sheet model is from its own AOGCM",
     "namespace": "ukcp:ukcp18:experiment-id:ism-historical-self",
     "status": "pending",
-    "uid": "a5726f26-b50c-4267-a45f-13890272830a"
+    "uid": "7a3039d5-4cfe-45fd-b2b8-dfd82cc6bdaa"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "piclim-control",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "RFMIP",
@@ -36,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:piclim-control",
     "raw_name": "piClim-control",
     "status": "pending",
-    "uid": "ab314cf4-c28f-489b-83c2-17d07ab50440"
+    "uid": "962bb374-8503-46a8-b95b-1e74b023f01f"
 }

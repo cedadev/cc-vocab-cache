@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "season-year",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "axis": "",
         "bounds_values": "",
@@ -22,5 +22,5 @@
     "namespace": "ukcp:ukcp18:coordinate:season-year",
     "raw_name": "season_year",
     "status": "pending",
-    "uid": "8a6002e4-3bb7-4953-8ed6-fb9691d5db0f"
+    "uid": "6c560e10-eb91-4684-b850-6b5780298637"
 }

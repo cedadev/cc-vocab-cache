@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "piclim-spaer-aer",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "RFMIP"
@@ -32,5 +32,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:piclim-spaer-aer",
     "raw_name": "piClim-spAer-aer",
     "status": "pending",
-    "uid": "0d0000b6-11d6-4103-bab3-177239b17b58"
+    "uid": "0a1fc98e-9fc5-4509-bd9d-588c0fb5288c"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ism-1pctco2to4x-self",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "ISMIP6"
@@ -32,5 +32,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:ism-1pctco2to4x-self",
     "raw_name": "ism-1pctCO2to4x-self",
     "status": "pending",
-    "uid": "58732e68-8454-4e04-a223-a8c32e628204"
+    "uid": "91886580-0634-4705-b459-27ec4cbe2dc3"
 }

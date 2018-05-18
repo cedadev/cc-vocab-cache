@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "foganom",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "anomaly_type": "absolute_change",
         "description": "Fog",
@@ -33,5 +33,5 @@
     "namespace": "ukcp:ukcp18:variable:foganom",
     "raw_name": "fogAnom",
     "status": "pending",
-    "uid": "8680ebad-a8d1-4359-b1e5-0f8e9e1ac395"
+    "uid": "3064a1ec-e08f-48d2-b074-56047707b0a4"
 }

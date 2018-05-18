@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "hist-aer",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "DAMIP"
@@ -34,5 +34,5 @@
     "description": "Historical anthropogenic-Aerosols-only run",
     "namespace": "ukcp:ukcp18:experiment-id:hist-aer",
     "status": "pending",
-    "uid": "df4fbfc0-0ac6-4558-813e-9001f7d443b1"
+    "uid": "4823a33d-c0af-4663-af26-0005a5acd27b"
 }

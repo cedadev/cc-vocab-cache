@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "land-hist-princeton",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "LS3MIP"
@@ -30,5 +30,5 @@
     "description": "Land only simulations",
     "namespace": "ukcp:ukcp18:experiment-id:land-hist-princeton",
     "status": "pending",
-    "uid": "7c28c85f-908e-49ec-8695-6e300a4dc4c2"
+    "uid": "c5353cf6-cfa3-4831-999e-4752c862214f"
 }

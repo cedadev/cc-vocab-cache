@@ -1,14 +1,14 @@
 {
     "_type": "term",
     "canonical_name": "twbanom",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "anomaly_type": "absolute_change",
         "description": "Wet bulb temperature",
-        "label_units": "\u00b0c",
+        "label_units": "\u00b0C",
         "level": "1.5 m???",
         "long_name": "Wet bulb temperature",
-        "plot_label": "Wet bulb temperature anomaly at 1.5 m??? (\u00b0c)",
+        "plot_label": "Wet bulb temperature anomaly at 1.5 m??? (\u00b0C)",
         "standard_name": "wet_bulb_temperature",
         "strand": [
             "land strand 1",
@@ -34,5 +34,5 @@
     "namespace": "ukcp:ukcp18:variable:twbanom",
     "raw_name": "twbAnom",
     "status": "pending",
-    "uid": "07878bd3-33f6-4fb6-b828-a3950e339f51"
+    "uid": "8a8c2262-2d3e-485c-bc2d-ffb51952b9bb"
 }

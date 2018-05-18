@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "psl",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "cmip6_cmor_tables_row_id": [
             "1235",
@@ -42,5 +42,5 @@
     "description": "Sea level pressure",
     "namespace": "ukcp:ukcp18:variable:psl",
     "status": "pending",
-    "uid": "46682bb8-420b-4893-9b7e-d1a6e1ffb174"
+    "uid": "ec91ec09-c12a-4e0f-ae0a-263e2279cd72"
 }

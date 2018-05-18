@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ssp370-lowntcf",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "AerChemMIP"
@@ -36,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:ssp370-lowntcf",
     "raw_name": "ssp370-lowNTCF",
     "status": "pending",
-    "uid": "60ebe9b1-aa39-4cc1-a38a-7b06b71942eb"
+    "uid": "ab6b9c5e-867b-4fda-8d32-dc089ef07e6a"
 }

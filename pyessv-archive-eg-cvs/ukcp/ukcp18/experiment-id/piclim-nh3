@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "piclim-nh3",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "AerChemMIP"
@@ -35,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:piclim-nh3",
     "raw_name": "piClim-NH3",
     "status": "pending",
-    "uid": "29d3e633-8b92-4d23-8cc8-e1f0ea272eb2"
+    "uid": "4df7454c-7ae0-4fd7-ac5b-07c719e2e3b4"
 }

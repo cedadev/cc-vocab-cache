@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ssp370sst",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "AerChemMIP"
@@ -35,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:ssp370sst",
     "raw_name": "ssp370SST",
     "status": "pending",
-    "uid": "2553b090-d6cc-4f47-9101-e56a74bc3795"
+    "uid": "1a0b8deb-ac64-4789-82f0-7a8eecf0e674"
 }

@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "north-western-ireland",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "label": "north_western_ireland",
     "namespace": "ukcp:ukcp18:river-basin:north-western-ireland",
     "raw_name": "north_western_ireland",
     "status": "pending",
-    "uid": "018b7b2c-c3ee-44ca-90de-012b550826db"
+    "uid": "b520b823-79bd-4def-98d1-b0099f03ef00"
 }

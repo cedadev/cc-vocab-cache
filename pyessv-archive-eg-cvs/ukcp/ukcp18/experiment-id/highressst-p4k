@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "highressst-p4k",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "HighResMIP"
@@ -34,5 +34,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:highressst-p4k",
     "raw_name": "highresSST-p4K",
     "status": "pending",
-    "uid": "b3de6e76-67ba-4442-9005-f7746f273c24"
+    "uid": "6320a8e1-af52-42c5-9f51-15138f6cd36d"
 }

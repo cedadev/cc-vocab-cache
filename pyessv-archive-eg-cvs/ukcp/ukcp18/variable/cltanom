@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "cltanom",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_cmor_tables_row_id": [
@@ -41,5 +41,5 @@
     "namespace": "ukcp:ukcp18:variable:cltanom",
     "raw_name": "cltAnom",
     "status": "pending",
-    "uid": "8cce0ce9-3edb-429f-9630-30cc692afb95"
+    "uid": "f122babc-8b8c-449b-a116-74f3b5c34cc8"
 }

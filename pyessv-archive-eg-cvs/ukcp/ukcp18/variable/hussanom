@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "hussanom",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_cmor_tables_row_id": [
@@ -42,5 +42,5 @@
     "namespace": "ukcp:ukcp18:variable:hussanom",
     "raw_name": "hussAnom",
     "status": "pending",
-    "uid": "af4d95d2-63a4-4e11-9e67-45487dbf698d"
+    "uid": "83bba07a-5f4d-48a6-b80d-f890f577c1fd"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "1pctco2to4x-withism",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "ISMIP6"
@@ -37,5 +37,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:1pctco2to4x-withism",
     "raw_name": "1pctCO2to4x-withism",
     "status": "pending",
-    "uid": "7ba25bc3-be08-40b0-a985-3b37dcdcac7e"
+    "uid": "5aa8ac0a-a055-40ac-afbe-fa6c6393666c"
 }

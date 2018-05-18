@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "flashrateanom",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_cmor_tables_row_id": [
@@ -39,5 +39,5 @@
     "namespace": "ukcp:ukcp18:variable:flashrateanom",
     "raw_name": "flashrateAnom",
     "status": "pending",
-    "uid": "3a96efc5-ca16-4640-80e5-9b83170cbc55"
+    "uid": "f96b4cb5-2ed6-44b7-9f54-60e95aa017e3"
 }

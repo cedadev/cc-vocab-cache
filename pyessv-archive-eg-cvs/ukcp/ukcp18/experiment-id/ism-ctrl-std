@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ism-ctrl-std",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "ISMIP6"
@@ -30,5 +30,5 @@
     "description": "Offline ice sheet control run for the initMIP experiment that explores the uncertainty in sea level due to ice sheet initialization",
     "namespace": "ukcp:ukcp18:experiment-id:ism-ctrl-std",
     "status": "pending",
-    "uid": "83e0d349-ceea-4206-a973-a4c726c559e4"
+    "uid": "c1888c7a-ecb0-40f7-b208-a51e8b9b5fc4"
 }

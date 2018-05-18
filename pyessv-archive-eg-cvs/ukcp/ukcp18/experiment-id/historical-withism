@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "historical-withism",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "ISMIP6"
@@ -35,5 +35,5 @@
     "description": "Historical simulation that includes interactive ice sheets. Set up follows the historical experiment",
     "namespace": "ukcp:ukcp18:experiment-id:historical-withism",
     "status": "pending",
-    "uid": "892b2a3d-a08d-4755-9e37-fc390387f699"
+    "uid": "2812b515-b293-4062-936e-ebaea01b7f23"
 }

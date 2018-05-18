@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "tplanom",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "anomaly_type": "absolute_change",
         "description": "Target protection level",
@@ -26,5 +26,5 @@
     "namespace": "ukcp:ukcp18:variable:tplanom",
     "raw_name": "tplAnom",
     "status": "pending",
-    "uid": "b7aa214c-cb81-4cf8-9f32-c5e9c6fd986b"
+    "uid": "603cd962-6b0b-43ee-846e-7c37fad1e8dc"
 }

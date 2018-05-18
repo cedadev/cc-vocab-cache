@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "volc-pinatubo-slab",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "VolMIP"
@@ -35,5 +35,5 @@
     "description": "As volc-pinatubo-full, but with a slab ocean",
     "namespace": "ukcp:ukcp18:experiment-id:volc-pinatubo-slab",
     "status": "pending",
-    "uid": "0c3e779d-3887-4d27-9cda-76c64886a263"
+    "uid": "dccac397-79e2-40af-9d48-d364e3b87084"
 }

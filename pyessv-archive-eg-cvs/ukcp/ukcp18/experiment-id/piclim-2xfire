@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "piclim-2xfire",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "AerChemMIP"
@@ -35,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:piclim-2xfire",
     "raw_name": "piClim-2xfire",
     "status": "pending",
-    "uid": "cf7c4bff-d850-4b9a-8ae2-194684f089ad"
+    "uid": "d83c9757-334f-413a-ac0c-940c9e2dbf32"
 }

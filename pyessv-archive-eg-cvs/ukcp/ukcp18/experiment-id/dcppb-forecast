@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppb-forecast",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "DCPP"
@@ -50,5 +50,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppb-forecast",
     "raw_name": "dcppB-forecast",
     "status": "pending",
-    "uid": "3afbc099-6189-4a44-aa5d-b7d676c7bf26"
+    "uid": "d0ab8b9f-2eab-4bcf-b915-4ca59f0826a6"
 }

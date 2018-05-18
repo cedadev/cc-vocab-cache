@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "sfcwind",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "cmip6_cmor_tables_row_id": [
             "1474",
@@ -47,5 +47,5 @@
     "namespace": "ukcp:ukcp18:variable:sfcwind",
     "raw_name": "sfcWind",
     "status": "pending",
-    "uid": "0fc4f150-a4db-4887-a5a4-d0413c45b22d"
+    "uid": "f0c48a5f-c667-4950-80fa-5aeb41333da6"
 }

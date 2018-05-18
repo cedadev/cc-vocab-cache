@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "amip-lfmip-pobs",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "LS3MIP"
@@ -36,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:amip-lfmip-pobs",
     "raw_name": "amip-lfmip-pObs",
     "status": "pending",
-    "uid": "a058f05d-8bb6-4c50-af07-7a4f7931cbf2"
+    "uid": "cace417a-dc44-4f83-9730-386e562907dd"
 }

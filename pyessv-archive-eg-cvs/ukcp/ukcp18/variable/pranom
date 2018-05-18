@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "pranom",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_cmor_tables_row_id": [
@@ -45,5 +45,5 @@
     "namespace": "ukcp:ukcp18:variable:pranom",
     "raw_name": "prAnom",
     "status": "pending",
-    "uid": "75b50568-41ae-4a63-b181-ad3e58d0ad18"
+    "uid": "c5381a65-2928-44ec-b21b-5ad8724cb159"
 }

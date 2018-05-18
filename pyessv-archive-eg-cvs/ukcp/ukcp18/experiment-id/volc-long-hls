@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "volc-long-hls",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "VolMIP"
@@ -36,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:volc-long-hls",
     "raw_name": "volc-long-hlS",
     "status": "pending",
-    "uid": "c4cad3a4-ab08-446c-abc4-4d7d734827bf"
+    "uid": "5dc861da-6314-48d4-b297-708488875797"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "tpl",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "description": "Target protection level",
         "label_units": "m",
@@ -23,5 +23,5 @@
     "description": "Target protection level",
     "namespace": "ukcp:ukcp18:variable:tpl",
     "status": "pending",
-    "uid": "475b60ad-7f70-4c2d-a73d-8732ccf1c362"
+    "uid": "9cd71ff8-4f2a-493d-8443-d4875a84bba8"
 }

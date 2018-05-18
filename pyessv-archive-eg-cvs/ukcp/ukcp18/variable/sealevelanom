@@ -1,13 +1,13 @@
 {
     "_type": "term",
     "canonical_name": "sealevelanom",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "anomaly_type": "absolute_change",
-        "description": "Time-mean sea level anomaly",
+        "description": "Time-mean sea level",
         "label_units": "m",
         "long_name": "Local time-mean relative sea level anomaly",
-        "plot_label": "Time-mean sea level anomaly anomaly (m)",
+        "plot_label": "Time-mean sea level anomaly (m)",
         "strand": [
             "marine",
             "observations"
@@ -20,10 +20,10 @@
         ],
         "units": "m"
     },
-    "description": "Time-mean sea level anomaly",
+    "description": "Time-mean sea level",
     "label": "seaLevelAnom",
     "namespace": "ukcp:ukcp18:variable:sealevelanom",
     "raw_name": "seaLevelAnom",
     "status": "pending",
-    "uid": "4e04cf36-00b4-43ab-b47c-02044125c179"
+    "uid": "42900d90-c524-4821-9a3c-72a61c787524"
 }

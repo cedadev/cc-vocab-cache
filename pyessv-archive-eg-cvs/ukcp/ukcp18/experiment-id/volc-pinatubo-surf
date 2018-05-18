@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "volc-pinatubo-surf",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "VolMIP"
@@ -34,5 +34,5 @@
     "description": "As volc-pinatubo-full, but with prescribed perturbation to the shortwave flux to mimic the attenuation of solar radiation by volcanic aerosols",
     "namespace": "ukcp:ukcp18:experiment-id:volc-pinatubo-surf",
     "status": "pending",
-    "uid": "9c58d22b-670e-4798-a3e8-37cb66145d1e"
+    "uid": "57e95dd8-5e47-477d-b63d-1cd2a8ba352e"
 }

@@ -1,13 +1,13 @@
 {
     "_type": "term",
     "canonical_name": "twb",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "description": "Wet bulb temperature",
-        "label_units": "\u00b0c",
+        "label_units": "\u00b0C",
         "level": "1.5 m???",
         "long_name": "Wet bulb temperature",
-        "plot_label": "Wet bulb temperature at 1.5 m??? (\u00b0c)",
+        "plot_label": "Wet bulb temperature at 1.5 m??? (\u00b0C)",
         "standard_name": "wet_bulb_temperature",
         "strand": [
             "land strand 1",
@@ -31,5 +31,5 @@
     "description": "Wet bulb temperature",
     "namespace": "ukcp:ukcp18:variable:twb",
     "status": "pending",
-    "uid": "923213a2-ee16-4afb-90fc-9c060e95355b"
+    "uid": "e8b70dd9-c268-4a61-982c-f9a14b75434a"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "piclim-so2",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "AerChemMIP"
@@ -35,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:piclim-so2",
     "raw_name": "piClim-SO2",
     "status": "pending",
-    "uid": "b29c1833-fc10-488a-977c-9123ef429ad7"
+    "uid": "31cb885a-4cf9-4888-902d-802a0361f48b"
 }

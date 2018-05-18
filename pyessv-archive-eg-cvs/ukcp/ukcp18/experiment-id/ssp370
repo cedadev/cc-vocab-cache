@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ssp370",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "ScenarioMIP",
@@ -35,5 +35,5 @@
     "description": "Future scenario with high radiative forcing by the end of century. Reaches about 7.0 W/m2 by 2100; fills gap in RCP forcing pathways between 6.0 and 8.5 W/m2. Concentration-driven",
     "namespace": "ukcp:ukcp18:experiment-id:ssp370",
     "status": "pending",
-    "uid": "fd87cb7b-d161-4c02-8c7c-fa18831080dc"
+    "uid": "beccfaf1-40a3-4dde-9dc4-b214b3c64293"
 }

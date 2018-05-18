@@ -1,15 +1,15 @@
 {
     "_type": "term",
     "canonical_name": "ta500",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "cmip6_name": "ta",
         "cmip6_standard_name": "air_temperature",
         "description": "Air temperature",
-        "label_units": "\u00b0c",
+        "label_units": "\u00b0C",
         "level": "500hPa",
         "long_name": "Air Temperature",
-        "plot_label": "Air temperature at 500hPa (\u00b0c)",
+        "plot_label": "Air temperature at 500hPa (\u00b0C)",
         "standard_name": "air_temperature",
         "strand": [
             "land strand 1",
@@ -30,5 +30,5 @@
     "description": "Air temperature",
     "namespace": "ukcp:ukcp18:variable:ta500",
     "status": "pending",
-    "uid": "eb8970c8-d130-4633-b4b0-667fb8bd48ca"
+    "uid": "17c1e85a-898c-4a71-bb9a-a8068557b9ee"
 }

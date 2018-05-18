@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "snowlyinganom",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "anomaly_type": "absolute_change",
         "description": "Snow lying",
@@ -33,5 +33,5 @@
     "namespace": "ukcp:ukcp18:variable:snowlyinganom",
     "raw_name": "snowLyingAnom",
     "status": "pending",
-    "uid": "4e20112c-b296-4505-9b1e-fbe1d006969a"
+    "uid": "b138cdff-c041-4c75-9e40-33d38298139f"
 }

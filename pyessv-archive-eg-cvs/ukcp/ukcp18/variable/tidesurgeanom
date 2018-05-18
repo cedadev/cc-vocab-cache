@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "tidesurgeanom",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_standard_name": "sea_surface_height_above_mean_sea_level",
@@ -29,5 +29,5 @@
     "namespace": "ukcp:ukcp18:variable:tidesurgeanom",
     "raw_name": "tideSurgeAnom",
     "status": "pending",
-    "uid": "e150d1f3-a66c-47b9-8dc4-9a16f9d9ea64"
+    "uid": "2e12dee1-1c71-4784-9f29-1e3628fbf671"
 }

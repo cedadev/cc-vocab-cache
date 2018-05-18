@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ssp585",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "ScenarioMIP"
@@ -34,5 +34,5 @@
     "description": "Future scenario with high radiative forcing by the end of century. Following approximately RCP8.5 global forcing pathway but with new forcing based on SSP5. Concentration-driven. As a tier 2 option, this simulation should be extended to year 2300",
     "namespace": "ukcp:ukcp18:experiment-id:ssp585",
     "status": "pending",
-    "uid": "9b45aec1-269f-44a3-8124-d7c2a4c47874"
+    "uid": "f5ce15b1-82f8-4178-9308-37f077736316"
 }

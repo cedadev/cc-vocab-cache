@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "histsst-pich4",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "AerChemMIP"
@@ -34,5 +34,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:histsst-pich4",
     "raw_name": "histSST-piCH4",
     "status": "pending",
-    "uid": "ceb13ab4-d18a-4e49-97ce-2b88560fe7ab"
+    "uid": "cf203cad-c9b4-4b79-81fa-07150e7e210f"
 }

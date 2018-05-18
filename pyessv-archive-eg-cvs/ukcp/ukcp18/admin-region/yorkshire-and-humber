@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "yorkshire-and-humber",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "label": "yorkshire_and_humber",
     "namespace": "ukcp:ukcp18:admin-region:yorkshire-and-humber",
     "raw_name": "yorkshire_and_humber",
     "status": "pending",
-    "uid": "2418b0ca-a79d-448a-8c69-74714a04ce4a"
+    "uid": "9a6589d5-1a8f-4f0f-918c-66c5cdafb6f4"
 }

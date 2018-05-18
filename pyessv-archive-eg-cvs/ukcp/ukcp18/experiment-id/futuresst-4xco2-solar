@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "futuresst-4xco2-solar",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "GeoMIP"
@@ -35,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:futuresst-4xco2-solar",
     "raw_name": "futureSST-4xCO2-solar",
     "status": "pending",
-    "uid": "c67cbf8e-d855-4f72-b8c0-67f7c77ace16"
+    "uid": "5d3b0119-de2d-46fe-ab67-b8d1a5d62c14"
 }

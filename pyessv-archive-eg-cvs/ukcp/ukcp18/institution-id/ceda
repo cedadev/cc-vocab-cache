@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ceda",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "postal_address": "Centre for Environmental Data Analysis, Rutherford Appleton Laboratory, Harwell Campus, Didcot OX11 0QX"
     },
@@ -9,5 +9,5 @@
     "namespace": "ukcp:ukcp18:institution-id:ceda",
     "raw_name": "CEDA",
     "status": "pending",
-    "uid": "dc5b8dc6-c8b1-43f9-ba2e-02738a3f17ab"
+    "uid": "8a367fe1-d8db-4a4d-9692-78d6d8993a32"
 }

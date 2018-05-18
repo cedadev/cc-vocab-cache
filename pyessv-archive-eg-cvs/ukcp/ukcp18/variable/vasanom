@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "vasanom",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_cmor_tables_row_id": [
@@ -40,5 +40,5 @@
     "namespace": "ukcp:ukcp18:variable:vasanom",
     "raw_name": "vasAnom",
     "status": "pending",
-    "uid": "c659314d-1abb-4b1b-a393-64e714be1ec9"
+    "uid": "0f20767a-4f35-4c52-9d7a-b0d787b370be"
 }

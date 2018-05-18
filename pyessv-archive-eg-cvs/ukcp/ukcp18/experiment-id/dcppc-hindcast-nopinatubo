@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppc-hindcast-nopinatubo",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "DCPP"
@@ -38,5 +38,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppc-hindcast-nopinatubo",
     "raw_name": "dcppC-hindcast-noPinatubo",
     "status": "pending",
-    "uid": "d6bdb24d-d40e-49dc-839e-d9704bc4884c"
+    "uid": "1cbb9df0-c663-4fb9-92b7-cf3192a27a11"
 }

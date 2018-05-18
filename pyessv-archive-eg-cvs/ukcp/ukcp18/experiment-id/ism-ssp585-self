@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "ism-ssp585-self",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "ISMIP6"
@@ -30,5 +30,5 @@
     "description": "Future climate ScenarioMIP SSP5-8.5 simulation using \"offline\" ice sheet models. Forcing for ice sheet model is from its own AOGCM",
     "namespace": "ukcp:ukcp18:experiment-id:ism-ssp585-self",
     "status": "pending",
-    "uid": "d06f0d98-e286-4ebe-b3ef-2fb95d73016d"
+    "uid": "ecf984b5-ee15-479f-a736-0ecf8a7d5f10"
 }

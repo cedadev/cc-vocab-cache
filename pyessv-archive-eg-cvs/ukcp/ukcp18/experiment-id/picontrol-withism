@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "picontrol-withism",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "ISMIP6"
@@ -37,5 +37,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:picontrol-withism",
     "raw_name": "piControl-withism",
     "status": "pending",
-    "uid": "f6a2811b-69e6-47ab-9a0d-eb7d185ccb82"
+    "uid": "a65e64aa-3c3b-4301-b37f-d3cd6c11cc7a"
 }

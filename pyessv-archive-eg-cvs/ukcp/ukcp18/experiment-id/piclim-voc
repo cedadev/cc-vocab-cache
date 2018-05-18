@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "piclim-voc",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "AerChemMIP"
@@ -34,5 +34,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:piclim-voc",
     "raw_name": "piClim-VOC",
     "status": "pending",
-    "uid": "a688160a-db4f-4424-9ba6-37372f6bd708"
+    "uid": "1fd5d593-496e-4c9a-bdb8-5569c965f145"
 }

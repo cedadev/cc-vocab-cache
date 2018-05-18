@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "neagh-bann",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "label": "neagh_bann",
     "namespace": "ukcp:ukcp18:river-basin:neagh-bann",
     "raw_name": "neagh_bann",
     "status": "pending",
-    "uid": "8031e74b-67b4-4051-9852-e04907da57b8"
+    "uid": "ba60a419-7a47-449f-8e73-7ec4376567d8"
 }

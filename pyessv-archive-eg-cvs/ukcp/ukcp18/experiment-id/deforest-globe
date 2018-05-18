@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "deforest-globe",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "LUMIP"
@@ -34,5 +34,5 @@
     "description": "Idealized deforestation experiment, 20 million km2 forest removed linearly over a period of 50 years, with an additional 30 years with no specified change in forest cover; all other forcings held constant",
     "namespace": "ukcp:ukcp18:experiment-id:deforest-globe",
     "status": "pending",
-    "uid": "6e1bf1b5-6a78-4adb-bf46-81f7539ce58f"
+    "uid": "33932cff-393e-41ac-af43-2f7df3b154d1"
 }

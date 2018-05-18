@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "hist-piaer",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "AerChemMIP"
@@ -36,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:hist-piaer",
     "raw_name": "hist-piAer",
     "status": "pending",
-    "uid": "59af28a6-a57c-40a9-8949-e4b97895806a"
+    "uid": "600902fa-3442-462c-b886-edda10cae815"
 }

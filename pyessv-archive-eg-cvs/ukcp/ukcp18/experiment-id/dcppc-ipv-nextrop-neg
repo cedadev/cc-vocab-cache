@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppc-ipv-nextrop-neg",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "DCPP"
@@ -36,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppc-ipv-nextrop-neg",
     "raw_name": "dcppC-ipv-NexTrop-neg",
     "status": "pending",
-    "uid": "fbd503e0-ecd8-45f8-af5d-e055ea74422a"
+    "uid": "9cc02a81-ae50-4211-85af-a6b2ff7ea2c1"
 }

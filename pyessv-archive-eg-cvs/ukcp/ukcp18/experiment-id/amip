@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "amip",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "CMIP"
@@ -33,5 +33,5 @@
     "description": "DECK: AMIP",
     "namespace": "ukcp:ukcp18:experiment-id:amip",
     "status": "pending",
-    "uid": "0a294390-c41c-411c-8b28-4f551316dfcd"
+    "uid": "815a04bd-87ce-41a6-a7df-33ec72002597"
 }

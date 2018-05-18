@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "tasmin",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "cmip6_cmor_tables_row_id": [
             "1722",
@@ -10,13 +10,13 @@
         "cmip6_name": "tasmin",
         "cmip6_standard_name": "air_temperature",
         "description": "Minimum air temperature",
-        "label_units": "\u00b0c",
+        "label_units": "\u00b0C",
         "level": "1.5m",
         "long_name": "Minimum air temperature",
         "notes": [
             "Use WPS for LS1-3"
         ],
-        "plot_label": "Minimum air temperature at 1.5m (\u00b0c)",
+        "plot_label": "Minimum air temperature at 1.5m (\u00b0C)",
         "standard_name": "air_temperature",
         "strand": [
             "land strand 1",
@@ -40,5 +40,5 @@
     "description": "Minimum air temperature",
     "namespace": "ukcp:ukcp18:variable:tasmin",
     "status": "pending",
-    "uid": "e495471b-a34c-47e6-a275-1856ded5f416"
+    "uid": "36d03905-7d70-4ce7-9c62-e8586b5881a0"
 }

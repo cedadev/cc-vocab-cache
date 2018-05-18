@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "histsst-1950hc",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "AerChemMIP"
@@ -34,5 +34,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:histsst-1950hc",
     "raw_name": "histSST-1950HC",
     "status": "pending",
-    "uid": "5de1580a-fcbf-44c0-9ba5-4ea99023113d"
+    "uid": "7758cd87-1ef4-4ce4-ab5f-717aec6e25eb"
 }

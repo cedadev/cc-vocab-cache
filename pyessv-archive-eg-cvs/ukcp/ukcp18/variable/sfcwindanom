@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "sfcwindanom",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_cmor_tables_row_id": [
@@ -48,5 +48,5 @@
     "namespace": "ukcp:ukcp18:variable:sfcwindanom",
     "raw_name": "sfcWindAnom",
     "status": "pending",
-    "uid": "a730c5a2-0d0e-4003-8859-4a27f3cb0d0c"
+    "uid": "28174e92-fe14-40c7-afec-fa920ba8fe0e"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "pv",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "description": "Vapour pressure",
         "label_units": "hPa",
@@ -30,5 +30,5 @@
     "description": "Vapour pressure",
     "namespace": "ukcp:ukcp18:variable:pv",
     "status": "pending",
-    "uid": "bfd378b8-9172-448e-9aad-be8d99870fbe"
+    "uid": "3b22eb3f-066f-493b-adff-5923b4a68e4f"
 }

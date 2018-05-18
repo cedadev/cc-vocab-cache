@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "piclim-spaer-anthro",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "RFMIP"
@@ -32,5 +32,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:piclim-spaer-anthro",
     "raw_name": "piClim-spAer-anthro",
     "status": "pending",
-    "uid": "973e696c-b1ee-4cc9-b20d-ec0c4d04a588"
+    "uid": "92e6983e-dfad-40ae-804a-14e5c1e26f42"
 }

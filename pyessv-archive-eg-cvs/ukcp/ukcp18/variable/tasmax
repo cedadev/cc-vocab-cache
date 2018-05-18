@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "tasmax",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "cmip6_cmor_tables_row_id": [
             "1718",
@@ -10,13 +10,13 @@
         "cmip6_name": "tasmax",
         "cmip6_standard_name": "air_temperature",
         "description": "Maximum air temperature",
-        "label_units": "\u00b0c",
+        "label_units": "\u00b0C",
         "level": "1.5m",
         "long_name": "Maximum air temperature",
         "notes": [
             "Use WPS for LS1-3"
         ],
-        "plot_label": "Maximum air temperature at 1.5m (\u00b0c)",
+        "plot_label": "Maximum air temperature at 1.5m (\u00b0C)",
         "standard_name": "air_temperature",
         "strand": [
             "land strand 1",
@@ -40,5 +40,5 @@
     "description": "Maximum air temperature",
     "namespace": "ukcp:ukcp18:variable:tasmax",
     "status": "pending",
-    "uid": "4e1359a7-66af-4608-8e26-24ec2a64df19"
+    "uid": "ea8512fe-750f-4390-88cb-a0823e2cc90d"
 }

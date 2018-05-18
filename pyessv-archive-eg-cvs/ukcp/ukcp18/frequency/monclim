@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "monclim",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "label": "monClim",
     "namespace": "ukcp:ukcp18:frequency:monclim",
     "raw_name": "monClim",
     "status": "pending",
-    "uid": "eca4f55f-ab7d-496d-bb8a-586db7283dac"
+    "uid": "fce3d6a6-f668-47d0-b135-39bde994edb7"
 }

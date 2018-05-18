@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppc-forecast-addagung",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "DCPP"
@@ -38,5 +38,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppc-forecast-addagung",
     "raw_name": "dcppC-forecast-addAgung",
     "status": "pending",
-    "uid": "33a1e2a6-b43f-43c0-a2f8-ddddc65dece8"
+    "uid": "dafe6357-9320-4beb-8fef-fc07ec8cdc4f"
 }

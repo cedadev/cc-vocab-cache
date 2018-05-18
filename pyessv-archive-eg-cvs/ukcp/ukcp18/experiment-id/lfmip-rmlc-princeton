@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "lfmip-rmlc-princeton",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "LS3MIP"
@@ -36,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:lfmip-rmlc-princeton",
     "raw_name": "lfmip-rmLC-princeton",
     "status": "pending",
-    "uid": "fce483e0-735a-42df-8219-3c2853de5b14"
+    "uid": "6d0a1e20-fd75-44e4-9f1c-4e739a84f524"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "control-slab",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "VolMIP"
@@ -35,5 +35,5 @@
     "description": "slab control run for volc-pinatubo-slab",
     "namespace": "ukcp:ukcp18:experiment-id:control-slab",
     "status": "pending",
-    "uid": "ef7a1254-6090-4647-9f22-116a01825311"
+    "uid": "b240f08d-13b1-4077-943c-bc4ec84092b1"
 }

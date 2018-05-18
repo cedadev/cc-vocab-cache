@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "pisst-4xco2-solar",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "GeoMIP"
@@ -35,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:pisst-4xco2-solar",
     "raw_name": "piSST-4xCO2-solar",
     "status": "pending",
-    "uid": "be9c6b94-a776-4243-902b-8fff2ad06cfa"
+    "uid": "8f3e3ed4-dbb4-4304-8775-ff12b191f6c3"
 }

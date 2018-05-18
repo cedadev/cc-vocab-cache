@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppc-amv-neg",
-    "create_date": "2018-03-28 19:52:17.258367",
+    "create_date": "2018-05-18 11:52:48.202833",
     "data": {
         "activity_id": [
             "DCPP"
@@ -36,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppc-amv-neg",
     "raw_name": "dcppC-amv-neg",
     "status": "pending",
-    "uid": "fa76ef15-967d-4211-ae78-58623bf434c6"
+    "uid": "ada7ae37-e980-42d7-9719-76860b62fd9f"
 }
