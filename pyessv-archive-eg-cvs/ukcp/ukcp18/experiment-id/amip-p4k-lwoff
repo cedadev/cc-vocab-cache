@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "amip-p4k-lwoff",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "activity_id": [
             "CFMIP"
@@ -35,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:amip-p4k-lwoff",
     "raw_name": "amip-p4K-lwoff",
     "status": "pending",
-    "uid": "d3b91ae0-ddc3-486b-8403-76917b636938"
+    "uid": "c5d1e9ca-2549-4864-ae58-4212848d166d"
 }

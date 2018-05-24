@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "midholocene",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "activity_id": [
             "PMIP"
@@ -36,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:midholocene",
     "raw_name": "midHolocene",
     "status": "pending",
-    "uid": "7ea15dac-d554-46f7-a7b6-4c7c68858cf1"
+    "uid": "abc5745d-7ebc-4bf2-8ed7-e21adeeac5a5"
 }

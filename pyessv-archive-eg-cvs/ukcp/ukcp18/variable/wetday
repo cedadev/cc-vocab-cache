@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "wetday",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "description": "Wettest day",
         "label_units": "1",
@@ -27,5 +27,5 @@
     "description": "Wettest day",
     "namespace": "ukcp:ukcp18:variable:wetday",
     "status": "pending",
-    "uid": "c4e208ce-1b7b-4b6d-aea7-e770a4a5bb8b"
+    "uid": "2cefdbaf-4c00-4517-a82a-280fb0bcb867"
 }

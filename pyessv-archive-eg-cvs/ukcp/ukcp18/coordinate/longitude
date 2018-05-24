@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "longitude",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "axis": "X",
         "bounds_values": "",
@@ -20,5 +20,5 @@
     },
     "namespace": "ukcp:ukcp18:coordinate:longitude",
     "status": "pending",
-    "uid": "6fd3ea01-7fd6-4cf1-b27e-8cc21a78e47c"
+    "uid": "ecef28ad-74df-4a91-870a-de581eecc070"
 }

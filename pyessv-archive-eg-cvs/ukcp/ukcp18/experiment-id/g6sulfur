@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "g6sulfur",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "activity_id": [
             "GeoMIP"
@@ -36,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:g6sulfur",
     "raw_name": "G6sulfur",
     "status": "pending",
-    "uid": "8d2cabca-ef62-44ce-ac83-3faa6a72be58"
+    "uid": "868d59e8-6582-4954-947b-c8ed6331ee78"
 }

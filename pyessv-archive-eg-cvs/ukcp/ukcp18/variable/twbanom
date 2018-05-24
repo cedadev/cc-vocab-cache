@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "twbanom",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "anomaly_type": "absolute_change",
         "description": "Wet bulb temperature",
@@ -34,5 +34,5 @@
     "namespace": "ukcp:ukcp18:variable:twbanom",
     "raw_name": "twbAnom",
     "status": "pending",
-    "uid": "0fc053a5-881d-4938-b6c4-81bac8e13dcb"
+    "uid": "e06562bb-385b-4ceb-a21b-ef993987da3f"
 }

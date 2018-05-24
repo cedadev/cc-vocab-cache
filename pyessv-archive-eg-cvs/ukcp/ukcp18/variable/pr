@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "pr",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "cmip6_cmor_tables_row_id": [
             "1164",
@@ -42,5 +42,5 @@
     "description": "Precipitation rate",
     "namespace": "ukcp:ukcp18:variable:pr",
     "status": "pending",
-    "uid": "31b0ff07-c1fe-4965-9f79-96b983ef17cb"
+    "uid": "4506cc6b-dc01-45a6-818a-bbaceab56714"
 }

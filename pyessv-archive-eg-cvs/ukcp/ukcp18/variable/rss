@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "rss",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "cmip6_cmor_tables_row_id": [
             "1399",
@@ -37,5 +37,5 @@
     "description": "Net Surface short wave flux",
     "namespace": "ukcp:ukcp18:variable:rss",
     "status": "pending",
-    "uid": "36383a73-c6eb-4c3d-a894-9e7e6aa0ca24"
+    "uid": "73a43c68-f53a-4286-9fb4-4586f1107234"
 }

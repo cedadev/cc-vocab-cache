@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "rain5dayaccummax",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "description": "Max. 5-day accumulative rainfall",
         "label_units": "mm",
@@ -29,5 +29,5 @@
     "namespace": "ukcp:ukcp18:variable:rain5dayaccummax",
     "raw_name": "rain5DayAccumMax",
     "status": "pending",
-    "uid": "5c36cdcc-fe3f-4988-83d2-a954b2880da0"
+    "uid": "5397591f-209b-4054-b355-d625700e7d6c"
 }

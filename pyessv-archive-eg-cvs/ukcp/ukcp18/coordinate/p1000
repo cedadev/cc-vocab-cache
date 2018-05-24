@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "p1000",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "axis": "Z",
         "bounds_values": "",
@@ -20,5 +20,5 @@
     },
     "namespace": "ukcp:ukcp18:coordinate:p1000",
     "status": "pending",
-    "uid": "12611334-4372-4f99-b80d-1c44bf04abab"
+    "uid": "0c5cd171-cf0e-419d-b4c6-3feaa37f092c"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppc-amv-trop-neg",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "activity_id": [
             "DCPP"
@@ -36,5 +36,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppc-amv-trop-neg",
     "raw_name": "dcppC-amv-Trop-neg",
     "status": "pending",
-    "uid": "a21804cc-294c-471d-abaf-43b23dabf357"
+    "uid": "6f6dbb61-24d1-4252-8ab3-90c3815e46b6"
 }

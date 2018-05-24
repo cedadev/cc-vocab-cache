@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "south-east-england",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "label": "south_east_england",
     "namespace": "ukcp:ukcp18:river-basin:south-east-england",
     "raw_name": "south_east_england",
     "status": "pending",
-    "uid": "f7587fbf-34e0-46d6-a9d1-d2f82f85ce4f"
+    "uid": "46722ba8-5578-4144-9280-4cb5f82398d5"
 }

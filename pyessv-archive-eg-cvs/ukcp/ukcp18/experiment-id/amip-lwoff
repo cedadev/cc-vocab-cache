@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "amip-lwoff",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "activity_id": [
             "CFMIP"
@@ -33,5 +33,5 @@
     "description": "As amip experiment, but with cloud-radiative effects switched off in the LW radiation code",
     "namespace": "ukcp:ukcp18:experiment-id:amip-lwoff",
     "status": "pending",
-    "uid": "6dd67105-1f21-47ae-b584-4c20a914c135"
+    "uid": "e77c65f0-ae96-4a63-a953-a5a53adfc8d0"
 }

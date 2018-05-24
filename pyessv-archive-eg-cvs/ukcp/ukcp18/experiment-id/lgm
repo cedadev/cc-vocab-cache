@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "lgm",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "activity_id": [
             "PMIP"
@@ -34,5 +34,5 @@
     "description": "main forcings: ice-sheet; trace gases, astronomical parameters, dust (forcing, or feedback if dust cycle represented in model)",
     "namespace": "ukcp:ukcp18:experiment-id:lgm",
     "status": "pending",
-    "uid": "89c67d02-0761-440d-87b6-9722d5abc0d7"
+    "uid": "5fccfe77-9239-4282-b003-620aaf599a3c"
 }

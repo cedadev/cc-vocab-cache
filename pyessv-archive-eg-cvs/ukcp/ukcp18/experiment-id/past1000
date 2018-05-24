@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "past1000",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "activity_id": [
             "PMIP"
@@ -34,5 +34,5 @@
     "description": "main forcings: trace gases, volcanoes, solar variability, land use",
     "namespace": "ukcp:ukcp18:experiment-id:past1000",
     "status": "pending",
-    "uid": "7fa1edbf-ba6c-4826-8a8a-3faf284c0a3a"
+    "uid": "06fc5f69-d193-4338-8bac-23b6b931cada"
 }

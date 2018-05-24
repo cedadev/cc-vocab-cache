@@ -1,10 +1,10 @@
 {
     "_type": "term",
     "canonical_name": "channel-islands",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "label": "channel_islands",
     "namespace": "ukcp:ukcp18:country:channel-islands",
     "raw_name": "channel_islands",
     "status": "pending",
-    "uid": "a0b66492-d3de-4c1e-a0b8-00c5853d7f84"
+    "uid": "f3eb8861-36c1-48fb-8795-3ca5cc477dd1"
 }

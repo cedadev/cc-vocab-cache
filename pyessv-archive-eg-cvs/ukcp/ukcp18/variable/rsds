@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "rsds",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "cmip6_cmor_tables_row_id": [
             "1371"
@@ -36,5 +36,5 @@
     "description": "Total downward shortwave flux",
     "namespace": "ukcp:ukcp18:variable:rsds",
     "status": "pending",
-    "uid": "f4811f87-f0bf-4a54-804d-35f5195c1938"
+    "uid": "5b8ed8a8-419b-4489-bc0c-c619b811d691"
 }

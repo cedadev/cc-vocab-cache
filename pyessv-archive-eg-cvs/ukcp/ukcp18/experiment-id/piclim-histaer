@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "piclim-histaer",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "activity_id": [
             "RFMIP"
@@ -35,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:piclim-histaer",
     "raw_name": "piClim-histaer",
     "status": "pending",
-    "uid": "8b1d0f61-6146-4025-9181-0737c83f8c21"
+    "uid": "cea79f1f-fb32-4ee8-8723-1415d6b2084a"
 }

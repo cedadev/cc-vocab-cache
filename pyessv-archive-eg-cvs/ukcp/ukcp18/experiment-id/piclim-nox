@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "piclim-nox",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "activity_id": [
             "AerChemMIP"
@@ -34,5 +34,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:piclim-nox",
     "raw_name": "piClim-NOx",
     "status": "pending",
-    "uid": "2ab23c89-bc27-4120-b89f-51a30da4a830"
+    "uid": "d5e4cbf7-5489-4927-9374-d8e656fae158"
 }

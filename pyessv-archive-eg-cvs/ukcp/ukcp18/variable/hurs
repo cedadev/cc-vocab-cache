@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "hurs",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "cmip6_cmor_tables_row_id": [
             "678",
@@ -44,5 +44,5 @@
     "description": "Relative humidity",
     "namespace": "ukcp:ukcp18:variable:hurs",
     "status": "pending",
-    "uid": "8ba7d8b4-3151-498c-ab93-4a443c45fe1a"
+    "uid": "1b0a9196-63d1-49ec-bcbf-a0e6066d61a6"
 }

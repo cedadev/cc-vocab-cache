@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "evspsbl",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "cmip6_name": "evspsbl",
         "cmip6_standard_name": "water_evaporation_flux",
@@ -31,5 +31,5 @@
     "description": "Evaporation rate",
     "namespace": "ukcp:ukcp18:variable:evspsbl",
     "status": "pending",
-    "uid": "af7bbd2b-e7b5-459f-b6a7-3b7ada4d5634"
+    "uid": "108bf6b0-1559-43aa-9111-5bb41ef94da8"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "p100",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "axis": "Z",
         "bounds_values": "",
@@ -20,5 +20,5 @@
     },
     "namespace": "ukcp:ukcp18:coordinate:p100",
     "status": "pending",
-    "uid": "200f1b21-744f-4cad-9302-09356aed3d25"
+    "uid": "1fa15676-1967-46f9-9b39-cd910196683c"
 }

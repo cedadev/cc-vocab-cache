@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "hist-bgc",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "activity_id": [
             "C4MIP"
@@ -34,5 +34,5 @@
     "description": "Concentration-driven historical simulation, biogeochemically-coupled",
     "namespace": "ukcp:ukcp18:experiment-id:hist-bgc",
     "status": "pending",
-    "uid": "82f769b4-4c67-42a9-87ce-00926f6ec5e4"
+    "uid": "e6902cd7-7b5b-4e4b-8664-4dd8ed47c596"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "rssanom",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "anomaly_type": "absolute_change",
         "cmip6_cmor_tables_row_id": [
@@ -40,5 +40,5 @@
     "namespace": "ukcp:ukcp18:variable:rssanom",
     "raw_name": "rssAnom",
     "status": "pending",
-    "uid": "18504f08-c241-43c3-86d0-2fb3597ef685"
+    "uid": "8f97c578-7332-4db6-9367-cb5d63365f6c"
 }

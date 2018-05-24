@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "tas",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "cmip6_cmor_tables_row_id": [
             "1706",
@@ -43,5 +43,5 @@
     "description": "Mean air temperature",
     "namespace": "ukcp:ukcp18:variable:tas",
     "status": "pending",
-    "uid": "7b9a8233-5fce-44c9-a9da-0c975f8bfcde"
+    "uid": "22c8e6aa-b873-44b1-9385-1946563ead49"
 }

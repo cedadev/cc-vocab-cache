@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "land-crop-noirrig",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "activity_id": [
             "LUMIP"
@@ -32,5 +32,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:land-crop-noirrig",
     "raw_name": "land-crop-noIrrig",
     "status": "pending",
-    "uid": "f2c761cd-1de3-4b4b-ae44-d3175cbeead1"
+    "uid": "25f30bd6-f2ce-4183-8a78-fe1395ef94dd"
 }

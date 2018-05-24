@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "abrupt-solm4p",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "activity_id": [
             "CFMIP"
@@ -34,5 +34,5 @@
     "description": "Conceptually similar to abrupt 4xCO2 DECK experiment, except that the solar constant rather than CO2 is abruptly reduced by 4%",
     "namespace": "ukcp:ukcp18:experiment-id:abrupt-solm4p",
     "status": "pending",
-    "uid": "4e4be417-6fb1-48a7-b14e-6c8849fcb842"
+    "uid": "859df974-25aa-4dd0-8421-5421cf3f96af"
 }

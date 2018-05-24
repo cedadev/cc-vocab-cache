@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "flashrate",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "cmip6_cmor_tables_row_id": [
             "535"
@@ -36,5 +36,5 @@
     "description": "Lightning",
     "namespace": "ukcp:ukcp18:variable:flashrate",
     "status": "pending",
-    "uid": "00aae20c-01c7-4521-bff1-7ca0a4fd32bc"
+    "uid": "11c74762-2cc4-4e15-a8b3-1dd3d9ad2c7d"
 }

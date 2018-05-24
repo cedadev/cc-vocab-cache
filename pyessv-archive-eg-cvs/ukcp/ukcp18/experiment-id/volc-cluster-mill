@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "volc-cluster-mill",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "activity_id": [
             "VolMIP"
@@ -34,5 +34,5 @@
     "description": "Parallel experiment to volc-cluster-ctrl but with initial conditions taken from last millennium simulation to account for the effects of a more realistic history of past natural forcing. All forcings except volcanic kept constant from year AD 1790 on",
     "namespace": "ukcp:ukcp18:experiment-id:volc-cluster-mill",
     "status": "pending",
-    "uid": "fe9d1ca1-44e0-4c43-994d-bb58fbdb311e"
+    "uid": "641659f2-ffcc-4c04-9edc-7713e3e9a8d0"
 }

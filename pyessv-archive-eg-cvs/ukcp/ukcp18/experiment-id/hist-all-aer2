@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "hist-all-aer2",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "activity_id": [
             "DAMIP"
@@ -34,5 +34,5 @@
     "description": "Historical ALL forcing run with alternate estimates of aerosol concentrations/emissions",
     "namespace": "ukcp:ukcp18:experiment-id:hist-all-aer2",
     "status": "pending",
-    "uid": "a674b914-f9eb-4cde-bb2d-6dd24cadbcf7"
+    "uid": "627f0cfa-995a-42ba-a31c-d54d013c272a"
 }

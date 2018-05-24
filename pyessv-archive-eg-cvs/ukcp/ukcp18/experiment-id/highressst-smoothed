@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "highressst-smoothed",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "activity_id": [
             "HighResMIP"
@@ -34,5 +34,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:highressst-smoothed",
     "raw_name": "highresSST-smoothed",
     "status": "pending",
-    "uid": "07b88321-da9e-4a8c-8d22-538eec982914"
+    "uid": "d235a624-8b0d-4168-9505-3e0206b9afe9"
 }

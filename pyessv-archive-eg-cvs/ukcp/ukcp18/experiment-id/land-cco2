@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "land-cco2",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "activity_id": [
             "LUMIP"
@@ -32,5 +32,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:land-cco2",
     "raw_name": "land-cCO2",
     "status": "pending",
-    "uid": "43f9739d-e9e4-426d-a59d-803e0c04e265"
+    "uid": "ad0c0dde-e376-4d7d-8e9d-c5c2c4293250"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "height100m",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "axis": "Z",
         "bounds_values": "",
@@ -20,5 +20,5 @@
     },
     "namespace": "ukcp:ukcp18:coordinate:height100m",
     "status": "pending",
-    "uid": "db75c0c0-9760-4d86-86ac-d59b8565e530"
+    "uid": "69e81ce0-7751-4b22-9913-bcd7a33e075f"
 }

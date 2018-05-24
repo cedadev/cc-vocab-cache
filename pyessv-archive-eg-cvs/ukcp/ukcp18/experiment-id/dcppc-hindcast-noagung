@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppc-hindcast-noagung",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "activity_id": [
             "DCPP"
@@ -38,5 +38,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppc-hindcast-noagung",
     "raw_name": "dcppC-hindcast-noAgung",
     "status": "pending",
-    "uid": "403fd5e2-cb3b-401d-af9d-4460a5bdf34c"
+    "uid": "6a619404-624d-4193-a671-ea7b63a1f100"
 }

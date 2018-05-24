@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "volc-cluster-ctrl",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "activity_id": [
             "VolMIP"
@@ -34,5 +34,5 @@
     "description": "Early 19th century cluster of strong tropical volcanic eruptions, including the 1809 event of unknown location, the 1815 Tambora and 1835 Cosigueina eruptions. Experiment initialized from PiControl",
     "namespace": "ukcp:ukcp18:experiment-id:volc-cluster-ctrl",
     "status": "pending",
-    "uid": "84085e5c-96a4-486b-8205-6401845f20b2"
+    "uid": "bef1e432-2b75-493c-8e2e-9ba85e129fea"
 }

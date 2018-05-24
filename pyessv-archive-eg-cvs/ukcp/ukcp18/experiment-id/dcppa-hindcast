@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "dcppa-hindcast",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "activity_id": [
             "DCPP"
@@ -94,5 +94,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:dcppa-hindcast",
     "raw_name": "dcppA-hindcast",
     "status": "pending",
-    "uid": "2c05c5a4-2476-4058-ac6f-0326775e46fa"
+    "uid": "4836a62b-c395-4c63-916d-9483f56767d8"
 }

@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "g6sst1",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "activity_id": [
             "GeoMIP"
@@ -35,5 +35,5 @@
     "namespace": "ukcp:ukcp18:experiment-id:g6sst1",
     "raw_name": "G6SST1",
     "status": "pending",
-    "uid": "eba57d6c-e7e8-4e98-8a7a-c1c82f84e83c"
+    "uid": "c33680b1-b020-4cfe-81e3-26cb007b16f9"
 }

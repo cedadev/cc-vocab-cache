@@ -1,7 +1,7 @@
 {
     "_type": "authority",
     "canonical_name": "ukcp",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "description": "UK Climate Projections",
     "label": "UKCP",
     "namespace": "ukcp",
@@ -11,12 +11,12 @@
             "_type": "scope",
             "canonical_name": "global",
             "collections": [],
-            "create_date": "2018-05-18 12:07:40.096000",
+            "create_date": "2018-05-24 10:35:23.348105",
             "description": "Global controlled Vocabularies (CVs)",
             "label": "GLOBAL",
             "namespace": "ukcp:global",
             "raw_name": "GLOBAL",
-            "uid": "01a5a00a-5351-4a1f-a705-4ca378acea73",
+            "uid": "99ebff79-3b5c-4a1f-850e-98400c4e682e",
             "url": "https://github.com/ukcp-data/UKCP18_CVs"
         },
         {
@@ -26,7 +26,7 @@
                 {
                     "_type": "collection",
                     "canonical_name": "activity-id",
-                    "create_date": "2018-05-18 12:07:40.096000",
+                    "create_date": "2018-05-24 10:35:23.348105",
                     "description": "UKCP UKCP18 CV collection:",
                     "label": "Activity ID",
                     "namespace": "ukcp:ukcp18:activity-id",
@@ -36,12 +36,12 @@
                         "ukcp09:UKCP09",
                         "ukcp18:UKCP18"
                     ],
-                    "uid": "62a2e852-d5c5-40f8-9b6a-c258f06912d8"
+                    "uid": "f537a104-c2de-4c31-a934-cc72fff708c5"
                 },
                 {
                     "_type": "collection",
                     "canonical_name": "admin-region",
-                    "create_date": "2018-05-18 12:07:40.096000",
+                    "create_date": "2018-05-24 10:35:23.348105",
                     "description": "UKCP UKCP18 CV collection:",
                     "label": "Admin Region",
                     "namespace": "ukcp:ukcp18:admin-region",
@@ -65,12 +65,27 @@
                         "west-scotland:west_scotland",
                         "yorkshire-and-humber:yorkshire_and_humber"
                     ],
-                    "uid": "9ba07664-a88f-477e-9e8b-4d8142720a27"
+                    "uid": "e70f9b66-5ee6-44fa-ade7-880fbb5eae17"
+                },
+                {
+                    "_type": "collection",
+                    "canonical_name": "climate-change-type",
+                    "create_date": "2018-05-24 10:35:23.348105",
+                    "description": "UKCP UKCP18 CV collection:",
+                    "label": "Climate Change Type",
+                    "namespace": "ukcp:ukcp18:climate-change-type",
+                    "raw_name": "climate_change_type",
+                    "term_regex": "^[a-z0-9\\-]*$",
+                    "terms": [
+                        "absolute:absolute",
+                        "anomaly:anomaly"
+                    ],
+                    "uid": "031d7aaa-3811-459d-968a-ad8d5593b8ee"
                 },
                 {
                     "_type": "collection",
                     "canonical_name": "collection",
-                    "create_date": "2018-05-18 12:07:40.096000",
+                    "create_date": "2018-05-24 10:35:23.348105",
                     "description": "UKCP UKCP18 CV collection:",
                     "label": "Collection",
                     "namespace": "ukcp:ukcp18:collection",
@@ -78,14 +93,15 @@
                     "terms": [
                         "land-gcm:land-gcm",
                         "land-prob:land-prob",
+                        "land-rcm:land-rcm",
                         "marine-sim:marine-sim"
                     ],
-                    "uid": "7c165420-c4c8-421b-b415-f0a525856509"
+                    "uid": "7ad86418-8a9d-4176-ba3b-05d15a49de3b"
                 },
                 {
                     "_type": "collection",
                     "canonical_name": "coordinate",
-                    "create_date": "2018-05-18 12:07:40.096000",
+                    "create_date": "2018-05-24 10:35:23.348105",
                     "description": "UKCP UKCP18 CV collection:",
                     "label": "Coordinate",
                     "namespace": "ukcp:ukcp18:coordinate",
@@ -111,12 +127,12 @@
                         "season-year:season_year",
                         "time:time"
                     ],
-                    "uid": "0a22b6db-35bd-4c91-b544-10100b8a35bd"
+                    "uid": "7913ff7f-f449-4d2f-9faf-c177419bebda"
                 },
                 {
                     "_type": "collection",
                     "canonical_name": "country",
-                    "create_date": "2018-05-18 12:07:40.096000",
+                    "create_date": "2018-05-24 10:35:23.348105",
                     "description": "UKCP UKCP18 CV collection:",
                     "label": "Country",
                     "namespace": "ukcp:ukcp18:country",
@@ -125,18 +141,18 @@
                         "channel-islands:channel_islands",
                         "england:england",
                         "england-and-wales:england_and_wales",
-                        "ireland:ireland",
                         "isle-of-man:isle_of_man",
+                        "northern-ireland:northern_ireland",
                         "scotland:scotland",
                         "uk:uk",
                         "wales:wales"
                     ],
-                    "uid": "cc1dc833-e654-4fca-8a8d-2c94dcd75679"
+                    "uid": "ae546eda-be5e-4770-b366-27ff605c7d58"
                 },
                 {
                     "_type": "collection",
                     "canonical_name": "dataset-id",
-                    "create_date": "2018-05-18 12:07:40.096000",
+                    "create_date": "2018-05-24 10:35:23.348105",
                     "description": "UKCP UKCP18 CV collection:",
                     "label": "Dataset ID",
                     "namespace": "ukcp:ukcp18:dataset-id",
@@ -145,59 +161,83 @@
                     "terms": [
                         "ukcp18-land-prob-25km:ukcp18-land-prob-25km"
                     ],
-                    "uid": "138be650-6400-4db8-8467-a30527d04b04"
+                    "uid": "80921cf4-217e-45cd-b540-fd7769df7994"
                 },
                 {
                     "_type": "collection",
                     "canonical_name": "domain",
-                    "create_date": "2018-05-18 12:07:40.096000",
+                    "create_date": "2018-05-24 10:35:23.348105",
                     "description": "UKCP UKCP18 CV collection:",
                     "label": "Domain",
                     "namespace": "ukcp:ukcp18:domain",
                     "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
+                        "eur:eur",
                         "global:global",
                         "uk:uk"
                     ],
-                    "uid": "a358e4e2-f520-43ae-86f3-ffd6f2aa7647"
+                    "uid": "f496d421-c9c4-4575-9c7f-bd37f063c978"
+                },
+                {
+                    "_type": "collection",
+                    "canonical_name": "ensemble-group",
+                    "create_date": "2018-05-24 10:35:23.348105",
+                    "description": "UKCP UKCP18 CV collection:",
+                    "label": "Ensemble Group",
+                    "namespace": "ukcp:ukcp18:ensemble-group",
+                    "raw_name": "ensemble_group",
+                    "term_regex": "^[a-z0-9\\-]*$",
+                    "terms": [
+                        "land-gcm:land-gcm",
+                        "land-rcm:land-rcm"
+                    ],
+                    "uid": "e31f0ec7-d060-44ce-91a4-c1aa8cb5ef53"
                 },
                 {
                     "_type": "collection",
                     "canonical_name": "ensemble-member",
-                    "create_date": "2018-05-18 12:07:40.096000",
+                    "create_date": "2018-05-24 10:35:23.348105",
                     "description": "UKCP UKCP18 CV collection:",
                     "label": "Ensemble Member",
                     "namespace": "ukcp:ukcp18:ensemble-member",
                     "raw_name": "ensemble_member",
                     "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
-                        "r001i1p00000:r001i1p00000",
-                        "r001i1p00090:r001i1p00090",
-                        "r001i1p00605:r001i1p00605",
-                        "r001i1p00834:r001i1p00834",
-                        "r001i1p01113:r001i1p01113",
-                        "r001i1p01554:r001i1p01554",
-                        "r001i1p01649:r001i1p01649",
-                        "r001i1p01843:r001i1p01843",
-                        "r001i1p01935:r001i1p01935",
-                        "r001i1p02089:r001i1p02089",
-                        "r001i1p02123:r001i1p02123",
-                        "r001i1p02242:r001i1p02242",
-                        "r001i1p02305:r001i1p02305",
-                        "r001i1p02335:r001i1p02335",
-                        "r001i1p02491:r001i1p02491",
-                        "r001i1p02753:r001i1p02753",
-                        "r001i1p02832:r001i1p02832",
-                        "r001i1p02868:r001i1p02868",
-                        "r001i1p02884:r001i1p02884",
-                        "r001i1p02914:r001i1p02914"
+                        "01:01",
+                        "02:02",
+                        "03:03",
+                        "04:04",
+                        "05:05",
+                        "06:06",
+                        "07:07",
+                        "08:08",
+                        "09:09",
+                        "10:10",
+                        "11:11",
+                        "12:12",
+                        "13:13",
+                        "14:14",
+                        "15:15",
+                        "16:16",
+                        "17:17",
+                        "18:18",
+                        "19:19",
+                        "20:20",
+                        "21:21",
+                        "22:22",
+                        "23:23",
+                        "24:24",
+                        "25:25",
+                        "26:26",
+                        "27:27",
+                        "28:28"
                     ],
-                    "uid": "a23218bb-2b8a-43e6-a81d-5213c5590434"
+                    "uid": "6a93302c-8d61-4061-bdaf-61e787fe7fde"
                 },
                 {
                     "_type": "collection",
                     "canonical_name": "experiment-id",
-                    "create_date": "2018-05-18 12:07:40.096000",
+                    "create_date": "2018-05-24 10:35:23.348105",
                     "description": "UKCP UKCP18 CV collection:",
                     "label": "Experiment ID",
                     "namespace": "ukcp:ukcp18:experiment-id",
@@ -453,39 +493,33 @@
                         "volc-pinatubo-strat:volc-pinatubo-strat",
                         "volc-pinatubo-surf:volc-pinatubo-surf"
                     ],
-                    "uid": "96a38a5c-dd1e-4a53-aacf-9e1d07a042fc"
+                    "uid": "7369bc95-00c6-4516-95ff-f567e8674192"
                 },
                 {
                     "_type": "collection",
                     "canonical_name": "frequency",
-                    "create_date": "2018-05-18 12:07:40.096000",
+                    "create_date": "2018-05-24 10:35:23.348105",
                     "description": "UKCP UKCP18 CV collection:",
                     "label": "Frequency",
                     "namespace": "ukcp:ukcp18:frequency",
                     "term_regex": "^[a-z0-9\\-]*$",
                     "terms": [
                         "1hr:1hr",
-                        "1hrclimmon:1hrClimMon",
                         "3hr:3hr",
-                        "3hrmean:3hrMean",
                         "6hr:6hr",
-                        "6hrmean:6hrMean",
                         "ann:ann",
                         "day:day",
-                        "dec:dec",
                         "fx:fx",
                         "mon:mon",
-                        "monclim:monClim",
                         "seas:seas",
-                        "subhr:subhr",
-                        "yr:yr"
+                        "subhr:subhr"
                     ],
-                    "uid": "d01c7bb8-b888-4a06-a58e-bf6c1b0803a2"
+                    "uid": "28fe9b7e-52ad-4aa7-8548-6b023e9afeb6"
                 },
                 {
                     "_type": "collection",
                     "canonical_name": "institution-id",
-                    "create_date": "2018-05-18 12:07:40.096000",
+                    "create_date": "2018-05-24 10:35:23.348105",
                     "description": "UKCP UKCP18 CV collection:",
                     "label": "Institution ID",
                     "namespace": "ukcp:ukcp18:institution-id",
@@ -496,12 +530,12 @@
                         "mohc:MOHC",
                         "stfc:STFC"
                     ],
-                    "uid": "10e6efb3-cfa6-4ae1-827c-86375ffa1d53"
+                    "uid": "dbe6c400-2d8a-4240-a542-5ddf4eb54d33"
                 },
                 {
                     "_type": "collection",
                     "canonical_name": "license",
-                    "create_date": "2018-05-18 12:07:40.096000",
+                    "create_date": "2018-05-24 10:35:23.348105",
                     "description": "UKCP UKCP18 CV collection:",
                     "label": "License",
                     "namespace": "ukcp:ukcp18:license",
@@ -509,12 +543,12 @@
                     "terms": [
                         "add-license-text-here:ADD LICENSE TEXT HERE"
                     ],
-                    "uid": "09b563f1-e661-4952-aef8-909fb899e403"
+                    "uid": "ae177335-3033-4101-a0ed-4a6f6aabe1a1"
                 },
                 {
                     "_type": "collection",
                     "canonical_name": "marine-input-model",
-                    "create_date": "2018-05-18 12:07:40.096000",
+                    "create_date": "2018-05-24 10:35:23.348105",
                     "description": "UKCP UKCP18 CV collection:",
                     "label": "Marine Input Model",
                     "namespace": "ukcp:ukcp18:marine-input-model",
@@ -527,12 +561,12 @@
                         "ipsl-cm5a-mr:IPSL-CM5A-MR",
                         "mpi-esm-lr:MPI-ESM-LR"
                     ],
-                    "uid": "4b3b62bd-d136-4394-9986-7ae56026d098"
+                    "uid": "7580299e-3094-4941-a161-177f820ad3a3"
                 },
                 {
                     "_type": "collection",
                     "canonical_name": "prob-data-type",
-                    "create_date": "2018-05-18 12:07:40.096000",
+                    "create_date": "2018-05-24 10:35:23.348105",
                     "description": "UKCP UKCP18 CV collection:",
                     "label": "Prob Data Type",
                     "namespace": "ukcp:ukcp18:prob-data-type",
@@ -543,12 +577,12 @@
                         "pdf:pdf",
                         "sample:sample"
                     ],
-                    "uid": "f9c083d3-d914-4cde-b4b7-222a43d4b000"
+                    "uid": "b459c927-cde1-4d18-bdae-e2aa0fce2a70"
                 },
                 {
                     "_type": "collection",
                     "canonical_name": "project",
-                    "create_date": "2018-05-18 12:07:40.096000",
+                    "create_date": "2018-05-24 10:35:23.348105",
                     "description": "UKCP UKCP18 CV collection:",
                     "label": "Project",
                     "namespace": "ukcp:ukcp18:project",
@@ -557,12 +591,12 @@
                         "ukcp09:ukcp09",
                         "ukcp18:ukcp18"
                     ],
-                    "uid": "fd2177fd-1190-4acd-ad47-6e64df2e670d"
+                    "uid": "8cf33177-f59b-45b3-8e7d-dfb745a1aac5"
                 },
                 {
                     "_type": "collection",
                     "canonical_name": "projection",
-                    "create_date": "2018-05-18 12:07:40.096000",
+                    "create_date": "2018-05-24 10:35:23.348105",
                     "description": "UKCP UKCP18 CV collection:",
                     "label": "Projection",
                     "namespace": "ukcp:ukcp18:projection",
@@ -570,12 +604,12 @@
                     "terms": [
                         "transverse-mercator:transverse_mercator"
                     ],
-                    "uid": "7885a7ef-5c94-4e64-99f8-c441083ab5ba"
+                    "uid": "93292aa2-0bb2-4e65-908f-60a8c3897215"
                 },
                 {
                     "_type": "collection",
                     "canonical_name": "resolution",
-                    "create_date": "2018-05-18 12:07:40.096000",
+                    "create_date": "2018-05-24 10:35:23.348105",
                     "description": "UKCP UKCP18 CV collection:",
                     "label": "Resolution",
                     "namespace": "ukcp:ukcp18:resolution",
@@ -589,12 +623,12 @@
                         "region:region",
                         "river:river"
                     ],
-                    "uid": "743098a2-450a-4713-9584-c8e96c894bbb"
+                    "uid": "c01bb394-d84d-4bd5-842a-809f99a67d46"
                 },
                 {
                     "_type": "collection",
                     "canonical_name": "river-basin",
-                    "create_date": "2018-05-18 12:07:40.096000",
+                    "create_date": "2018-05-24 10:35:23.348105",
                     "description": "UKCP UKCP18 CV collection:",
                     "label": "River Basin",
                     "namespace": "ukcp:ukcp18:river-basin",
@@ -625,12 +659,12 @@
                         "west-highland:west_highland",
                         "western-wales:western_wales"
                     ],
-                    "uid": "456bfc4b-f7b2-4799-87ab-36ddfd97402e"
+                    "uid": "4f11eaed-be62-4756-9844-3f417776b8b6"
                 },
                 {
                     "_type": "collection",
                     "canonical_name": "scenario",
-                    "create_date": "2018-05-18 12:07:40.096000",
+                    "create_date": "2018-05-24 10:35:23.348105",
                     "description": "UKCP UKCP18 CV collection:",
                     "label": "Scenario",
                     "namespace": "ukcp:ukcp18:scenario",
@@ -642,12 +676,12 @@
                         "rcp85:rcp85",
                         "sres-a1b:sres-a1b"
                     ],
-                    "uid": "ab80af22-0354-4b90-bce2-974e3cd1f9d9"
+                    "uid": "33ea7af3-d307-4f9f-9ac8-11649883a945"
                 },
                 {
                     "_type": "collection",
                     "canonical_name": "variable",
-                    "create_date": "2018-05-18 12:07:40.096000",
+                    "create_date": "2018-05-24 10:35:23.348105",
                     "description": "UKCP UKCP18 CV collection:",
                     "label": "Variable",
                     "namespace": "ukcp:ukcp18:variable",
@@ -733,18 +767,18 @@
                         "wsgmax10m:wsgmax10m",
                         "wsgmax10manom:wsgmax10mAnom"
                     ],
-                    "uid": "e4113bd1-c60d-474f-9a40-5540731d8768"
+                    "uid": "7aa925af-49df-425c-807a-f7d3bb4023ab"
                 }
             ],
-            "create_date": "2018-05-18 12:07:40.096000",
+            "create_date": "2018-05-24 10:35:23.348105",
             "description": "Controlled Vocabularies (CVs) for use in UKCP18",
             "label": "UKCP18",
             "namespace": "ukcp:ukcp18",
             "raw_name": "UKCP18",
-            "uid": "4a588a46-54d1-4f4f-873f-ab22b7269f2b",
+            "uid": "9faac12f-c540-47ad-9736-5d27768ec1ce",
             "url": "https://github.com/ukcp-data/UKCP18_CVs"
         }
     ],
-    "uid": "94c77cee-67fe-489e-9430-f9a3512d7c9c",
+    "uid": "9eeefbee-ab44-4bf8-bddd-422520e6ca41",
     "url": "https://tba.tba.com/tba"
 }

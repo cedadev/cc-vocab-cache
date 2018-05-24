@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "lig127k",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "activity_id": [
             "PMIP"
@@ -34,5 +34,5 @@
     "description": "main forcings: astronomical parameters, trace gases, dust (forcing, or feedback if dust cycle represented in model)",
     "namespace": "ukcp:ukcp18:experiment-id:lig127k",
     "status": "pending",
-    "uid": "640d3983-055f-4fc8-a183-655e068a9a78"
+    "uid": "f523c403-2541-4968-a6eb-5ccce4e4c7cd"
 }

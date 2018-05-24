@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "huss",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "cmip6_cmor_tables_row_id": [
             "704",
@@ -39,5 +39,5 @@
     "description": "Specific humidity",
     "namespace": "ukcp:ukcp18:variable:huss",
     "status": "pending",
-    "uid": "7067e9d7-cfae-4846-83b2-69fc59de28d5"
+    "uid": "32b8b9ed-83b9-4a5b-9f49-2cfdf3a6cf18"
 }

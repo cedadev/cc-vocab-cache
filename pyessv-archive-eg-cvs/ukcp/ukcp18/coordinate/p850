@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "p850",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "axis": "Z",
         "bounds_values": "",
@@ -20,5 +20,5 @@
     },
     "namespace": "ukcp:ukcp18:coordinate:p850",
     "status": "pending",
-    "uid": "6e9f1031-6620-43ad-b571-40cade4eae19"
+    "uid": "8910a47c-f6ee-4e2b-9080-45439dff668e"
 }

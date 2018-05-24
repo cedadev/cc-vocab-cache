@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "aqua-control",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-24 10:35:23.348105",
     "data": {
         "activity_id": [
             "CFMIP"
@@ -33,5 +33,5 @@
     "description": "Extended version of CMIP5/CFMIP-2 aquaControl experiment. Aquaplanet (no land) experiment with no seasonal cycle forced with specified zonally symmetric SSTs",
     "namespace": "ukcp:ukcp18:experiment-id:aqua-control",
     "status": "pending",
-    "uid": "cbc3ef95-192c-4d41-a9c1-338d13b25c7a"
+    "uid": "e2bf35ff-6b8c-44a7-aadd-33346c75f925"
 }

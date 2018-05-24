@@ -1,7 +1,7 @@
 {
     "_type": "term",
     "canonical_name": "6hrmean",
-    "create_date": "2018-05-18 12:07:40.096000",
+    "create_date": "2018-05-18 12:07:40.096000+00:00",
     "label": "6hrMean",
     "namespace": "ukcp:ukcp18:frequency:6hrmean",
     "raw_name": "6hrMean",
