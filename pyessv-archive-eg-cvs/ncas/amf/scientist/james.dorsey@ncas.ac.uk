@@ -1,0 +1,14 @@
+{
+    "_type": "term", 
+    "canonical_name": "james.dorsey@ncas.ac.uk", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "name": "James Dorsey", 
+        "orcid": null, 
+        "previous_emails": [], 
+        "primary_email": "james.dorsey@ncas.ac.uk"
+    }, 
+    "namespace": "ncas:amf:scientist:james.dorsey@ncas.ac.uk", 
+    "status": "pending", 
+    "uid": "5a773f61-0cf5-4844-926c-77dfd7d57ed5"
+}

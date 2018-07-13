@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "qc-flag-channel-13-failure", 
+    "create_date": "2018-07-09 13:09:00", 
+    "label": "qc_flag_channel_13_failure", 
+    "namespace": "ncas:amf:product-brightness-temperature-variable:qc-flag-channel-13-failure", 
+    "raw_name": "qc_flag_channel_13_failure", 
+    "status": "pending", 
+    "uid": "8f8aa3c3-d8a0-4973-9a4a-82d48565f73c"
+}

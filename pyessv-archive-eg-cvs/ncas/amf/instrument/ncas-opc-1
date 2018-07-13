@@ -1,0 +1,15 @@
+{
+    "_type": "term", 
+    "canonical_name": "ncas-opc-1", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "description": "NCAS Optical Particle Counter unit 1", 
+        "instrument_id": "ncas-opc-1", 
+        "previous_instrument_ids": [
+            "uom-grimm"
+        ]
+    }, 
+    "namespace": "ncas:amf:instrument:ncas-opc-1", 
+    "status": "pending", 
+    "uid": "bb31c304-1786-42e0-8abe-e49c41b02857"
+}

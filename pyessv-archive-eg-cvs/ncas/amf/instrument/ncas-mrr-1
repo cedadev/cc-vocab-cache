@@ -1,0 +1,13 @@
+{
+    "_type": "term", 
+    "canonical_name": "ncas-mrr-1", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "description": "NCAS Micro Rain Radar unit 1", 
+        "instrument_id": "ncas-mrr-1", 
+        "previous_instrument_ids": []
+    }, 
+    "namespace": "ncas:amf:instrument:ncas-mrr-1", 
+    "status": "pending", 
+    "uid": "e1276100-8cdc-49dd-b9f7-1ca84c3f7ce8"
+}

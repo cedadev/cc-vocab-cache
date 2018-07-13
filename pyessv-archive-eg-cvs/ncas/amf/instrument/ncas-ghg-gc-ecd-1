@@ -1,0 +1,15 @@
+{
+    "_type": "term", 
+    "canonical_name": "ncas-ghg-gc-ecd-1", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "description": "NCAS Gas Chromatograph with Electron Capture Detector unit 1", 
+        "instrument_id": "ncas-ghg-gc-ecd-1", 
+        "previous_instrument_ids": [
+            "wao-ghg-gc-ecd"
+        ]
+    }, 
+    "namespace": "ncas:amf:instrument:ncas-ghg-gc-ecd-1", 
+    "status": "pending", 
+    "uid": "65339b17-fdcd-4386-bec3-d2417aca0171"
+}

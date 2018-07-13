@@ -1,0 +1,23 @@
+{
+    "_type": "term", 
+    "canonical_name": "rainfall-rate", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "_FillValue": -1e+20, 
+        "cell_methods": "time: mean", 
+        "coordinates": "latitude longitude", 
+        "dimension": "time", 
+        "long_name": "Rainfall Rate", 
+        "name": "rainfall_rate", 
+        "standard_name": "rainfall_rate", 
+        "type": "float32", 
+        "units": "mm hr-1", 
+        "valid_max": "<derived from file>", 
+        "valid_min": "<derived from file>"
+    }, 
+    "label": "rainfall_rate", 
+    "namespace": "ncas:amf:product-surface-met-variable:rainfall-rate", 
+    "raw_name": "rainfall_rate", 
+    "status": "pending", 
+    "uid": "da9f3b60-9d11-4b46-b27d-3394eb6e6b01"
+}

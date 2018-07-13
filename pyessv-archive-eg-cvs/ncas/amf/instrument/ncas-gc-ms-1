@@ -1,0 +1,13 @@
+{
+    "_type": "term", 
+    "canonical_name": "ncas-gc-ms-1", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "description": "NCAS Gas Chromatograph with Mass Spectrometer unit 1", 
+        "instrument_id": "ncas-gc-ms-1", 
+        "previous_instrument_ids": []
+    }, 
+    "namespace": "ncas:amf:instrument:ncas-gc-ms-1", 
+    "status": "pending", 
+    "uid": "d9080f14-45e9-4678-af85-68e556b0f91f"
+}

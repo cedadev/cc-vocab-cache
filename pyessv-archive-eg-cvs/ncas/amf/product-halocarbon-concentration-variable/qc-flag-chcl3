@@ -1,0 +1,15 @@
+{
+    "_type": "term", 
+    "canonical_name": "qc-flag-chcl3", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "dimension": "time", 
+        "name": "qc_flag_chcl3", 
+        "type": "byte"
+    }, 
+    "label": "qc_flag_chcl3", 
+    "namespace": "ncas:amf:product-halocarbon-concentration-variable:qc-flag-chcl3", 
+    "raw_name": "qc_flag_chcl3", 
+    "status": "pending", 
+    "uid": "113b0094-9b69-4e09-82b8-4b917e56e030"
+}

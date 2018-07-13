@@ -1,0 +1,13 @@
+{
+    "_type": "term", 
+    "canonical_name": "ncas-licor-2", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "description": "NCAS LiCor unit 2", 
+        "instrument_id": "ncas-licor-2", 
+        "previous_instrument_ids": []
+    }, 
+    "namespace": "ncas:amf:instrument:ncas-licor-2", 
+    "status": "pending", 
+    "uid": "8e95e149-c8c6-4fd6-8969-ed41c68c0c56"
+}

@@ -1,0 +1,13 @@
+{
+    "_type": "term", 
+    "canonical_name": "ncas-49i-o3-3", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "description": "NCAS Thermo 49i O3 Monitor unit 3", 
+        "instrument_id": "ncas-49i-o3-3", 
+        "previous_instrument_ids": []
+    }, 
+    "namespace": "ncas:amf:instrument:ncas-49i-o3-3", 
+    "status": "pending", 
+    "uid": "c7a60713-f7c0-40ef-8181-746911dd8d99"
+}

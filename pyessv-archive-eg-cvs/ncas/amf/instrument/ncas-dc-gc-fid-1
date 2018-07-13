@@ -1,0 +1,13 @@
+{
+    "_type": "term", 
+    "canonical_name": "ncas-dc-gc-fid-1", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "description": "NCAS Dual Channel Gas Chromatograph with Flame Ionisation Detector unit 1", 
+        "instrument_id": "ncas-dc-gc-fid-1", 
+        "previous_instrument_ids": []
+    }, 
+    "namespace": "ncas:amf:instrument:ncas-dc-gc-fid-1", 
+    "status": "pending", 
+    "uid": "5a7a6a55-7f02-41b7-ba11-af2df11ba584"
+}

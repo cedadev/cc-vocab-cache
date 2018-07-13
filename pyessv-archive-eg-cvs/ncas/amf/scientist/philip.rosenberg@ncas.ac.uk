@@ -1,0 +1,14 @@
+{
+    "_type": "term", 
+    "canonical_name": "philip.rosenberg@ncas.ac.uk", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "name": "Phil Rosenberg", 
+        "orcid": "https://orcid.org/0000-0002-6920-0559", 
+        "previous_emails": [], 
+        "primary_email": "philip.rosenberg@ncas.ac.uk"
+    }, 
+    "namespace": "ncas:amf:scientist:philip.rosenberg@ncas.ac.uk", 
+    "status": "pending", 
+    "uid": "3b01c6db-d8dc-4044-a931-4296af3518e6"
+}

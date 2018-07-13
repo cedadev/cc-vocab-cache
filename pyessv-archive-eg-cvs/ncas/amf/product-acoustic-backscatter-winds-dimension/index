@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "index", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "length": "<i>", 
+        "units": "1"
+    }, 
+    "namespace": "ncas:amf:product-acoustic-backscatter-winds-dimension:index", 
+    "status": "pending", 
+    "uid": "b820ddea-fc92-4a12-83ef-3266475c66d6"
+}

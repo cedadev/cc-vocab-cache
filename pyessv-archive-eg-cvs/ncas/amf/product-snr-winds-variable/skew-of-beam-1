@@ -1,0 +1,15 @@
+{
+    "_type": "term", 
+    "canonical_name": "skew-of-beam-1", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "dimension": "time, index", 
+        "name": "skew_of_beam_1", 
+        "type": "float32"
+    }, 
+    "label": "skew_of_beam_1", 
+    "namespace": "ncas:amf:product-snr-winds-variable:skew-of-beam-1", 
+    "raw_name": "skew_of_beam_1", 
+    "status": "pending", 
+    "uid": "c5369468-13df-410e-baea-94085d93635f"
+}

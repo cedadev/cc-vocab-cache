@@ -1,0 +1,15 @@
+{
+    "_type": "term", 
+    "canonical_name": "ncas-radiosonde-1", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "description": "NCAS Vaisala Sounding Station unit 1", 
+        "instrument_id": "ncas-radiosonde-1", 
+        "previous_instrument_ids": [
+            "man-radiosonde"
+        ]
+    }, 
+    "namespace": "ncas:amf:instrument:ncas-radiosonde-1", 
+    "status": "pending", 
+    "uid": "c88e1f14-5c72-4351-b052-eec918e65e4b"
+}

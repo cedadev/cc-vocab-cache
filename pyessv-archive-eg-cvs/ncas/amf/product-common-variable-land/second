@@ -1,0 +1,17 @@
+{
+    "_type": "term", 
+    "canonical_name": "second", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "dimension": "time", 
+        "long_name": "Second", 
+        "name": "second", 
+        "type": "float32", 
+        "units": "1", 
+        "valid_max": "<derived from file>", 
+        "valid_min": "<derived from file>"
+    }, 
+    "namespace": "ncas:amf:product-common-variable-land:second", 
+    "status": "pending", 
+    "uid": "3f10f1b1-5b55-4c0d-936f-a709fbb70c57"
+}

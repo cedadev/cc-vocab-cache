@@ -1,0 +1,22 @@
+{
+    "_type": "term", 
+    "canonical_name": "altitude-of-first-gate", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "_FillValue": -1e+20, 
+        "cell_methods": "time: mean", 
+        "coordinates": "latitude longitude", 
+        "dimension": "time", 
+        "long_name": "Altitude of First Gate.", 
+        "name": "altitude_of_first_gate", 
+        "type": "float32", 
+        "units": "m", 
+        "valid_max": "<derived from file>", 
+        "valid_min": "<derived from file>"
+    }, 
+    "label": "altitude_of_first_gate", 
+    "namespace": "ncas:amf:product-snr-winds-variable:altitude-of-first-gate", 
+    "raw_name": "altitude_of_first_gate", 
+    "status": "pending", 
+    "uid": "016dc4b6-9c0a-4e15-bdcf-3fa9b711cc16"
+}

@@ -1,0 +1,23 @@
+{
+    "_type": "term", 
+    "canonical_name": "northward-wind", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "_FillValue": -1e+20, 
+        "cell_methods": "time: mean", 
+        "coordinates": "latitude longitude", 
+        "dimension": "time, index", 
+        "long_name": "Northward Wind Component", 
+        "name": "northward_wind", 
+        "standard_name": "northward_wind", 
+        "type": "float32", 
+        "units": "m s-1", 
+        "valid_max": "<derived from file>", 
+        "valid_min": "<derived from file>"
+    }, 
+    "label": "northward_wind", 
+    "namespace": "ncas:amf:product-snr-winds-variable:northward-wind", 
+    "raw_name": "northward_wind", 
+    "status": "pending", 
+    "uid": "c6edcc7b-f233-46be-997c-020d95cb8506"
+}

@@ -1,0 +1,23 @@
+{
+    "_type": "term", 
+    "canonical_name": "eastward-wind", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "_FillValue": -1e+20, 
+        "cell_methods": "time: mean", 
+        "coordinates": "latitude longitude", 
+        "dimension": "time, index", 
+        "long_name": "Eastward Wind Component", 
+        "name": "eastward_wind", 
+        "standard_name": "eastward_wind", 
+        "type": "float32", 
+        "units": "m s-1", 
+        "valid_max": "<derived form file>", 
+        "valid_min": "<derived form file>"
+    }, 
+    "label": "eastward_wind", 
+    "namespace": "ncas:amf:product-acoustic-backscatter-winds-variable:eastward-wind", 
+    "raw_name": "eastward_wind", 
+    "status": "pending", 
+    "uid": "4f4ad051-79f1-4ec7-bd8a-17253f7c6898"
+}

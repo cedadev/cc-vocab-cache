@@ -1,0 +1,16 @@
+{
+    "_type": "term", 
+    "canonical_name": "latitude", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "dimension": "latitude", 
+        "long_name": "Latitude", 
+        "name": "latitude", 
+        "standard_name": "latitude", 
+        "type": "float32", 
+        "units": "degrees_north"
+    }, 
+    "namespace": "ncas:amf:product-common-variable-land:latitude", 
+    "status": "pending", 
+    "uid": "d27ba4d2-e3fc-486b-ae52-f7e70defaf81"
+}

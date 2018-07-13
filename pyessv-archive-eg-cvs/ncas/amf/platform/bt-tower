@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "bt-tower", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "description": "british telecoms tower observatory", 
+        "platform_id": "bt-tower"
+    }, 
+    "namespace": "ncas:amf:platform:bt-tower", 
+    "status": "pending", 
+    "uid": "0d0606ea-dced-4ba8-bfdd-70584ffb0ae2"
+}

@@ -1,0 +1,15 @@
+{
+    "_type": "term", 
+    "canonical_name": "year", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "dimension": "time", 
+        "long_name": "Year", 
+        "name": "year", 
+        "type": "int32", 
+        "units": "1"
+    }, 
+    "namespace": "ncas:amf:product-common-variable-air:year", 
+    "status": "pending", 
+    "uid": "accef7d8-15bf-45aa-87ef-7c4b55c8d41e"
+}

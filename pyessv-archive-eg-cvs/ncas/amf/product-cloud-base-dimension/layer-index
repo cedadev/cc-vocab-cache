@@ -1,0 +1,14 @@
+{
+    "_type": "term", 
+    "canonical_name": "layer-index", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "length": "<i>", 
+        "units": "1"
+    }, 
+    "label": "layer_index", 
+    "namespace": "ncas:amf:product-cloud-base-dimension:layer-index", 
+    "raw_name": "layer_index", 
+    "status": "pending", 
+    "uid": "1731b5b2-49b6-41c4-ae3a-26242258a09c"
+}

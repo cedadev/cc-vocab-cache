@@ -1,0 +1,14 @@
+{
+    "_type": "term", 
+    "canonical_name": "qc-flag-channel-14-failure", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "name": "qc_flag_channel_14_failure", 
+        "type": "byte"
+    }, 
+    "label": "qc_flag_channel_14_failure", 
+    "namespace": "ncas:amf:product-full-troposphere-temperature-profiles-variable:qc-flag-channel-14-failure", 
+    "raw_name": "qc_flag_channel_14_failure", 
+    "status": "pending", 
+    "uid": "69fafea9-927b-4757-89b1-f13274da1e05"
+}

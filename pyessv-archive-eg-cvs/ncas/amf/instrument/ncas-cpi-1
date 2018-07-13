@@ -1,0 +1,15 @@
+{
+    "_type": "term", 
+    "canonical_name": "ncas-cpi-1", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "description": "NCAS Cloud Particle Imager unit 1", 
+        "instrument_id": "ncas-cpi-1", 
+        "previous_instrument_ids": [
+            "man-cpi"
+        ]
+    }, 
+    "namespace": "ncas:amf:instrument:ncas-cpi-1", 
+    "status": "pending", 
+    "uid": "045a4b47-09f8-4e88-b852-17ebfa16fcbe"
+}

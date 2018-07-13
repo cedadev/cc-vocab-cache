@@ -1,0 +1,17 @@
+{
+    "_type": "term", 
+    "canonical_name": "year", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "dimension": "time", 
+        "long_name": "Year", 
+        "name": "year", 
+        "type": "int32", 
+        "units": "1", 
+        "valid_max": "<derived from file>", 
+        "valid_min": "<derived from file>"
+    }, 
+    "namespace": "ncas:amf:product-common-variable-land:year", 
+    "status": "pending", 
+    "uid": "bc4531a2-b26b-4563-99e2-c0546ae07b17"
+}

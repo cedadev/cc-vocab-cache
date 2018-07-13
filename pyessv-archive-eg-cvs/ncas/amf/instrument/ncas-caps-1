@@ -1,0 +1,15 @@
+{
+    "_type": "term", 
+    "canonical_name": "ncas-caps-1", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "description": "NCAS Cloud & Aerosol Particle Spectrometer unit 1", 
+        "instrument_id": "ncas-caps-1", 
+        "previous_instrument_ids": [
+            "man-caps"
+        ]
+    }, 
+    "namespace": "ncas:amf:instrument:ncas-caps-1", 
+    "status": "pending", 
+    "uid": "9f46e909-1f55-48af-9363-468920793b55"
+}

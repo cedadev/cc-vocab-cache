@@ -1,0 +1,22 @@
+{
+    "_type": "term", 
+    "canonical_name": "photolysis-frquencies", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "_FillValue": -1e+20, 
+        "cell_methods": "time: ????", 
+        "coordinates": "latitude longitude", 
+        "dimension": "time", 
+        "long_name": "Photolysis Frquencies (j(NO2))", 
+        "name": "photolysis_frquencies", 
+        "type": "float32", 
+        "units": "s-1", 
+        "valid_max": "<derived from file>", 
+        "valid_min": "<derived from file>"
+    }, 
+    "label": "photolysis_frquencies", 
+    "namespace": "ncas:amf:product-solar-actinic-flux-variable:photolysis-frquencies", 
+    "raw_name": "photolysis_frquencies", 
+    "status": "pending", 
+    "uid": "9e37f3f4-ab21-441a-8dee-7cac95db4041"
+}

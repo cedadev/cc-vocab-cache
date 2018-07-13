@@ -1,0 +1,14 @@
+{
+    "_type": "term", 
+    "canonical_name": "hugo.ricketts@ncas.ac.uk", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "name": "Hugo Ricketts", 
+        "orcid": "https://orcid.org/0000-0002-1708-2431", 
+        "previous_emails": [], 
+        "primary_email": "hugo.ricketts@ncas.ac.uk"
+    }, 
+    "namespace": "ncas:amf:scientist:hugo.ricketts@ncas.ac.uk", 
+    "status": "pending", 
+    "uid": "972592da-1e8d-47a6-853e-84eb26293583"
+}

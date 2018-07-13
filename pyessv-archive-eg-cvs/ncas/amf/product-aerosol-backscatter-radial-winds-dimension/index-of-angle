@@ -1,0 +1,14 @@
+{
+    "_type": "term", 
+    "canonical_name": "index-of-angle", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "length": "<i>", 
+        "units": "1"
+    }, 
+    "label": "index_of_angle", 
+    "namespace": "ncas:amf:product-aerosol-backscatter-radial-winds-dimension:index-of-angle", 
+    "raw_name": "index_of_angle", 
+    "status": "pending", 
+    "uid": "b223ea5b-1502-403f-a883-212520ffc015"
+}

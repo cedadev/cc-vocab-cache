@@ -1,0 +1,14 @@
+{
+    "_type": "term", 
+    "canonical_name": "qc-flag-channel-14-failure", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "name": "qc_flag_channel_14_failure", 
+        "type": "byte"
+    }, 
+    "label": "qc_flag_channel_14_failure", 
+    "namespace": "ncas:amf:product-iwv-lwp-variable:qc-flag-channel-14-failure", 
+    "raw_name": "qc_flag_channel_14_failure", 
+    "status": "pending", 
+    "uid": "24218b44-329c-4cfa-a03d-037d12f6c25d"
+}

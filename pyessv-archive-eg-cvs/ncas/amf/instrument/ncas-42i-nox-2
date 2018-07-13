@@ -1,0 +1,13 @@
+{
+    "_type": "term", 
+    "canonical_name": "ncas-42i-nox-2", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "description": "NCAS Thermo 42i NOX Monitor unit 2", 
+        "instrument_id": "ncas-42i-nox-2", 
+        "previous_instrument_ids": []
+    }, 
+    "namespace": "ncas:amf:instrument:ncas-42i-nox-2", 
+    "status": "pending", 
+    "uid": "d5ba9f48-24bc-47f8-ae6a-9a2e2bd2578d"
+}

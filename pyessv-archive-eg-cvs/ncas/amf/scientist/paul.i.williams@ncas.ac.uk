@@ -1,0 +1,14 @@
+{
+    "_type": "term", 
+    "canonical_name": "paul.i.williams@ncas.ac.uk", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "name": "Paul I. Williams", 
+        "orcid": null, 
+        "previous_emails": [], 
+        "primary_email": "paul.i.williams@ncas.ac.uk"
+    }, 
+    "namespace": "ncas:amf:scientist:paul.i.williams@ncas.ac.uk", 
+    "status": "pending", 
+    "uid": "86e41b37-1f34-4d01-8b2d-ae9d6120b463"
+}

@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "day", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "name": "day", 
+        "type": "int32"
+    }, 
+    "namespace": "ncas:amf:product-common-variable-sea:day", 
+    "status": "pending", 
+    "uid": "d07c0552-fac4-4642-8d93-e1851f3a2602"
+}

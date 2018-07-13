@@ -1,0 +1,12 @@
+{
+    "_type": "term", 
+    "canonical_name": "iao", 
+    "create_date": "2018-07-09 13:09:00", 
+    "data": {
+        "description": "icelandic atmospheric observatory", 
+        "platform_id": "iao"
+    }, 
+    "namespace": "ncas:amf:platform:iao", 
+    "status": "pending", 
+    "uid": "3cc22845-57d0-45f4-aa56-42467edb9028"
+}
