@@ -4,7 +4,13 @@
     "create_date": "2018-07-09 13:09:00", 
     "data": {
         "dimension": "time", 
-        "flag_meanings": "not_used good_data  bad_data_lw_radiation_<_0 bad_data_lw_radiation_>_1000_W_m-2 suspect_data_time_stamp_error", 
+        "flag_meanings": [
+            "not_used", 
+            "good_data", 
+            "bad_data_lw_radiation_<_0", 
+            "bad_data_lw_radiation_>_1000_W_m-2", 
+            "suspect_data_time_stamp_error"
+        ], 
         "flag_values": "0b,1b, 2b, 3b, 4b", 
         "long_name": "Data Quality flag: upwelling longwave", 
         "name": "qc_flag_upwelling_longwave", 
@@ -15,5 +21,5 @@
     "namespace": "ncas:amf:product-radiation-variable:qc-flag-upwelling-longwave", 
     "raw_name": "qc_flag_upwelling_longwave", 
     "status": "pending", 
-    "uid": "23ab3f49-a676-4743-900b-628db605b11f"
+    "uid": "c074004e-de53-4c86-aaec-4ad4b434364f"
 }

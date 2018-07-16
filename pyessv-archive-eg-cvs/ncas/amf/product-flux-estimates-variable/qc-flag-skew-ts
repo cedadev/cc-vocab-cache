@@ -4,7 +4,11 @@
     "create_date": "2018-07-09 13:09:00", 
     "data": {
         "dimension": "time", 
-        "flag_meanings": "bad_data good_data  suspect_data", 
+        "flag_meanings": [
+            "bad_data", 
+            "good_data", 
+            "suspect_data"
+        ], 
         "flag_values": "0b,1b, 2b", 
         "long_name": "Quality flag: Skew Ts", 
         "name": "qc_flag_skew_ts", 
@@ -15,5 +19,5 @@
     "namespace": "ncas:amf:product-flux-estimates-variable:qc-flag-skew-ts", 
     "raw_name": "qc_flag_skew_ts", 
     "status": "pending", 
-    "uid": "28904aba-58ef-42e2-9aaf-1feddde499b4"
+    "uid": "2342ecf8-8744-44ba-8c77-c77743b8baab"
 }

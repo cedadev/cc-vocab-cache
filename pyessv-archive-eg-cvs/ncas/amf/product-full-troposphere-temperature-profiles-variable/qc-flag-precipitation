@@ -4,7 +4,12 @@
     "create_date": "2018-07-09 13:09:00", 
     "data": {
         "dimension": "time", 
-        "flag_meanings": "not_used good_data  suspect_data_precipitation_detected suspect_data_time_stamp_error", 
+        "flag_meanings": [
+            "not_used", 
+            "good_data", 
+            "suspect_data_precipitation_detected", 
+            "suspect_data_time_stamp_error"
+        ], 
         "flag_values": "0b,1b, 2b, 3b", 
         "long_name": "Data Quality flag: Precipitation", 
         "name": "qc_flag_precipitation", 
@@ -15,5 +20,5 @@
     "namespace": "ncas:amf:product-full-troposphere-temperature-profiles-variable:qc-flag-precipitation", 
     "raw_name": "qc_flag_precipitation", 
     "status": "pending", 
-    "uid": "2b00ce13-6bed-4b2d-8639-eeb0878e8a4c"
+    "uid": "b7014747-b11f-4288-ab49-dee116108f7d"
 }

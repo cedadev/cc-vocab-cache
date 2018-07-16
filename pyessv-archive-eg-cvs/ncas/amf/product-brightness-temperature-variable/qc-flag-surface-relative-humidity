@@ -4,7 +4,12 @@
     "create_date": "2018-07-09 13:09:00", 
     "data": {
         "dimension": "time", 
-        "flag_meanings": "not_used good_data  bad_data_relative_humidity_outside_sensor_operational_range suspect_data_time_stamp_error", 
+        "flag_meanings": [
+            "not_used", 
+            "good_data", 
+            "bad_data_relative_humidity_outside_sensor_operational_range", 
+            "suspect_data_time_stamp_error"
+        ], 
         "flag_values": "0b,1b, 2b, 3b", 
         "long_name": "Data Quality flag: Surface Relative Humidity", 
         "name": "qc_flag_surface_relative_humidity", 
@@ -15,5 +20,5 @@
     "namespace": "ncas:amf:product-brightness-temperature-variable:qc-flag-surface-relative-humidity", 
     "raw_name": "qc_flag_surface_relative_humidity", 
     "status": "pending", 
-    "uid": "fd57294b-fdbb-49c6-b26a-51b0cf60c9ab"
+    "uid": "e6406603-eb70-4bda-a1a3-fb9199dffa99"
 }

@@ -4,7 +4,12 @@
     "create_date": "2018-07-09 13:09:00", 
     "data": {
         "dimension": "time", 
-        "flag_meanings": "not_used good_data  bad_data_channel_failure suspect_data_time_stamp_error", 
+        "flag_meanings": [
+            "not_used", 
+            "good_data", 
+            "bad_data_channel_failure", 
+            "suspect_data_time_stamp_error"
+        ], 
         "flag_values": "0b,1b, 2b, 3b", 
         "long_name": "Data Quality flag: Receiver channel 8 failed", 
         "name": "qc_flag_channel_8_failure", 
@@ -15,5 +20,5 @@
     "namespace": "ncas:amf:product-boundary-layer-temperature-profiles-variable:qc-flag-channel-8-failure", 
     "raw_name": "qc_flag_channel_8_failure", 
     "status": "pending", 
-    "uid": "af6eec3e-b08a-41cd-91d7-7441e5e54ff5"
+    "uid": "7e06351e-8f46-4e07-b85f-cfaa643574a2"
 }

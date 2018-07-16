@@ -4,7 +4,11 @@
     "create_date": "2018-07-09 13:09:00", 
     "data": {
         "dimension": "time", 
-        "flag_meanings": "not_used good_data  bad_data_do not_use", 
+        "flag_meanings": [
+            "not_used", 
+            "good_data", 
+            "bad_data_do not_use"
+        ], 
         "flag_values": "0b,1b, 2b", 
         "long_name": "Data Quality flag", 
         "name": "qc_flag", 
@@ -15,5 +19,5 @@
     "namespace": "ncas:amf:product-liquid-water-content-variable:qc-flag", 
     "raw_name": "qc_flag", 
     "status": "pending", 
-    "uid": "c1420d62-e30a-4cf9-a260-8f02abb61297"
+    "uid": "ecdc9b00-957c-4bf4-bc53-97feac90a2c5"
 }

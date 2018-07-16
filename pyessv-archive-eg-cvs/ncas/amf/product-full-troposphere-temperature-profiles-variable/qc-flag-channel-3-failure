@@ -4,7 +4,12 @@
     "create_date": "2018-07-09 13:09:00", 
     "data": {
         "dimension": "time", 
-        "flag_meanings": "not_used good_data  bad_data_channel_failure suspect_data_time_stamp_error", 
+        "flag_meanings": [
+            "not_used", 
+            "good_data", 
+            "bad_data_channel_failure", 
+            "suspect_data_time_stamp_error"
+        ], 
         "flag_values": "0b,1b, 2b, 3b", 
         "long_name": "Data Quality flag: Receiver channel 3 failed", 
         "name": "qc_flag_channel_3_failure", 
@@ -15,5 +20,5 @@
     "namespace": "ncas:amf:product-full-troposphere-temperature-profiles-variable:qc-flag-channel-3-failure", 
     "raw_name": "qc_flag_channel_3_failure", 
     "status": "pending", 
-    "uid": "d1186483-0fcf-41da-bb26-734a41c67ed1"
+    "uid": "4a42e2e2-7d10-4822-9763-764664121b5e"
 }

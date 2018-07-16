@@ -4,7 +4,11 @@
     "create_date": "2018-07-09 13:09:00", 
     "data": {
         "dimension": "time", 
-        "flag_meanings": "bad_data good_data  suspect_data", 
+        "flag_meanings": [
+            "bad_data", 
+            "good_data", 
+            "suspect_data"
+        ], 
         "flag_values": "0b,1b, 2b", 
         "long_name": "Quality flag: Skew U", 
         "name": "qc_flag_skew_u", 
@@ -15,5 +19,5 @@
     "namespace": "ncas:amf:product-flux-estimates-variable:qc-flag-skew-u", 
     "raw_name": "qc_flag_skew_u", 
     "status": "pending", 
-    "uid": "941ca673-1cde-4040-a8b1-6f5cb70ffda9"
+    "uid": "ad849689-6e20-44c9-ae5d-95ed7cc69c86"
 }

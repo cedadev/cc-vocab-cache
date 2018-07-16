@@ -4,7 +4,12 @@
     "create_date": "2018-07-09 13:09:00", 
     "data": {
         "dimension": "time", 
-        "flag_meanings": "not_used good_data  suspect_data_contact_creator bad_data_do_not_use", 
+        "flag_meanings": [
+            "not_used", 
+            "good_data", 
+            "suspect_data_contact_creator", 
+            "bad_data_do_not_use"
+        ], 
         "flag_values": "0b,1b, 2b, 3b", 
         "long_name": "Data Quality flag", 
         "name": "qc_flag", 
@@ -15,5 +20,5 @@
     "namespace": "ncas:amf:product-dew-point-variable:qc-flag", 
     "raw_name": "qc_flag", 
     "status": "pending", 
-    "uid": "d186a047-2276-4d48-8545-b5ba03004dfb"
+    "uid": "30eebf9c-e3e6-4de7-9726-a136e01220d7"
 }

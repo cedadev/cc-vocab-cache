@@ -4,7 +4,12 @@
     "create_date": "2018-07-09 13:09:00", 
     "data": {
         "dimension": "time", 
-        "flag_meanings": "not_used good_data  bad_data_channel_failure suspect_data_time_stamp_error", 
+        "flag_meanings": [
+            "not_used", 
+            "good_data", 
+            "bad_data_channel_failure", 
+            "suspect_data_time_stamp_error"
+        ], 
         "flag_values": "0b,1b, 2b, 3b", 
         "long_name": "Data Quality flag: Receiver channel 8 failed", 
         "name": "qc_flag_channel_8_failure", 
@@ -15,5 +20,5 @@
     "namespace": "ncas:amf:product-iwv-lwp-variable:qc-flag-channel-8-failure", 
     "raw_name": "qc_flag_channel_8_failure", 
     "status": "pending", 
-    "uid": "ee353bf3-6037-4ce2-ab68-12430152f950"
+    "uid": "20209484-5e53-4244-811f-63e18f9489ba"
 }

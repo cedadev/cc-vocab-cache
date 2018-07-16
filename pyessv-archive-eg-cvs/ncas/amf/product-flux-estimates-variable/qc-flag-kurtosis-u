@@ -4,7 +4,11 @@
     "create_date": "2018-07-09 13:09:00", 
     "data": {
         "dimension": "time", 
-        "flag_meanings": "bad_data good_data  suspect_data", 
+        "flag_meanings": [
+            "bad_data", 
+            "good_data", 
+            "suspect_data"
+        ], 
         "flag_values": "0b,1b, 2b", 
         "long_name": "Quality flag: Kurtosis U", 
         "name": "qc_flag_kurtosis_u", 
@@ -15,5 +19,5 @@
     "namespace": "ncas:amf:product-flux-estimates-variable:qc-flag-kurtosis-u", 
     "raw_name": "qc_flag_kurtosis_u", 
     "status": "pending", 
-    "uid": "c67078e7-4c28-40f6-bb49-66eada154460"
+    "uid": "eeb90a98-ae9f-4912-a4d7-e9667e62e364"
 }

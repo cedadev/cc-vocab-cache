@@ -4,7 +4,13 @@
     "create_date": "2018-07-09 13:09:00", 
     "data": {
         "dimension": "time", 
-        "flag_meanings": "not_used good_data  bad_data_temperature_outside_sensor_operational_range bad_data_gate_index_exceeds_number_of_measurement_gates_in_use suspect_data_time_stamp_error", 
+        "flag_meanings": [
+            "not_used", 
+            "good_data", 
+            "bad_data_temperature_outside_sensor_operational_range", 
+            "bad_data_gate_index_exceeds_number_of_measurement_gates_in_use", 
+            "suspect_data_time_stamp_error"
+        ], 
         "flag_values": "0b,1b, 2b, 3b, 4b", 
         "long_name": "Data Quality flag: Surface Temperature", 
         "name": "qc_flag_surface_temperature", 
@@ -15,5 +21,5 @@
     "namespace": "ncas:amf:product-brightness-temperature-variable:qc-flag-surface-temperature", 
     "raw_name": "qc_flag_surface_temperature", 
     "status": "pending", 
-    "uid": "2bcc6aba-afe5-4022-a887-f9a323ab45e7"
+    "uid": "45a921df-0e05-47a1-8119-5596f7d4803c"
 }

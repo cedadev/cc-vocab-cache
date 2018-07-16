@@ -4,7 +4,12 @@
     "create_date": "2018-07-09 13:09:00", 
     "data": {
         "dimension": "time", 
-        "flag_meanings": "not_used good_data  suspect_data_precipitation_detected suspect_data_time_stamp_error", 
+        "flag_meanings": [
+            "not_used", 
+            "good_data", 
+            "suspect_data_precipitation_detected", 
+            "suspect_data_time_stamp_error"
+        ], 
         "flag_values": "0b,1b, 2b, 3b", 
         "long_name": "Data Quality flag: Precipitation", 
         "name": "qc_flag_precipitation", 
@@ -15,5 +20,5 @@
     "namespace": "ncas:amf:product-boundary-layer-temperature-profiles-variable:qc-flag-precipitation", 
     "raw_name": "qc_flag_precipitation", 
     "status": "pending", 
-    "uid": "a292e5ca-a43f-4871-9e1a-93972813576c"
+    "uid": "e45391fe-e672-4b90-8c63-fc5266a6428d"
 }

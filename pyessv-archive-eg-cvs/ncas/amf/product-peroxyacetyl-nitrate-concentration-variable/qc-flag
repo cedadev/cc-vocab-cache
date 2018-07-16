@@ -4,7 +4,12 @@
     "create_date": "2018-07-09 13:09:00", 
     "data": {
         "dimension": "time", 
-        "flag_meanings": "not_used good_data  suspect_data_unspecified_instrument_performance_issues_contact_data_originator_for_more_information suspect_data_time_stamp_error", 
+        "flag_meanings": [
+            "not_used", 
+            "good_data", 
+            "suspect_data_unspecified_instrument_performance_issues_contact_data_originator_for_more_information", 
+            "suspect_data_time_stamp_error"
+        ], 
         "flag_values": "0b,1b, 2b, 3b", 
         "long_name": "Data Quality flag:", 
         "name": "qc_flag", 
@@ -15,5 +20,5 @@
     "namespace": "ncas:amf:product-peroxyacetyl-nitrate-concentration-variable:qc-flag", 
     "raw_name": "qc_flag", 
     "status": "pending", 
-    "uid": "b1578e4b-26c7-422b-800e-49f9ec5a9060"
+    "uid": "a19f010d-5244-47a3-bc20-b50742cb287d"
 }

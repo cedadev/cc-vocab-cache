@@ -4,7 +4,11 @@
     "create_date": "2018-07-09 13:09:00", 
     "data": {
         "dimension": "time", 
-        "flag_meanings": "not_used good_data  bad_data_do_not_use", 
+        "flag_meanings": [
+            "not_used", 
+            "good_data", 
+            "bad_data_do_not_use"
+        ], 
         "flag_values": "0b,1b, 2b, 3b", 
         "long_name": "Data Quality flag: NOy", 
         "name": "qc_flag_noy", 
@@ -15,5 +19,5 @@
     "namespace": "ncas:amf:product-nox-noxy-concentration-variable:qc-flag-noy", 
     "raw_name": "qc_flag_noy", 
     "status": "pending", 
-    "uid": "dc381b4a-d5de-46d1-9a30-b0ec1bb92399"
+    "uid": "f0a0998c-7479-44fe-a758-c73cded7359b"
 }

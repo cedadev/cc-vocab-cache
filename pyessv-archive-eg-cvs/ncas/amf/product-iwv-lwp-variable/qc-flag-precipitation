@@ -4,7 +4,12 @@
     "create_date": "2018-07-09 13:09:00", 
     "data": {
         "dimension": "time", 
-        "flag_meanings": "not_used good_data  suspect_data_precipitation_detected suspect_data_time_stamp_error", 
+        "flag_meanings": [
+            "not_used", 
+            "good_data", 
+            "suspect_data_precipitation_detected", 
+            "suspect_data_time_stamp_error"
+        ], 
         "flag_values": "0b,1b, 2b, 3b", 
         "long_name": "Data Quality flag: Precipitation", 
         "name": "qc_flag_precipitation", 
@@ -15,5 +20,5 @@
     "namespace": "ncas:amf:product-iwv-lwp-variable:qc-flag-precipitation", 
     "raw_name": "qc_flag_precipitation", 
     "status": "pending", 
-    "uid": "af4ae00c-6ec5-4dd6-a5a0-e4221d3adea1"
+    "uid": "fbda4738-22b2-4a2e-9c90-270eacbfe340"
 }
