@@ -110,7 +110,7 @@
                         "ncas-teco-nox-1:ncas-teco-nox-1", 
                         "ncas-tgm-tekran-1:ncas-tgm-tekran-1"
                     ], 
-                    "uid": "2bb389eb-f45f-4e8b-948f-b60e19517262"
+                    "uid": "9e78b35a-fe1c-4ce6-b424-0fdd6a2d3b19"
                 }, 
                 {
                     "_type": "collection", 
@@ -120,12 +120,12 @@
                     "namespace": "ncas:amf:platform", 
                     "term_regex": "^[a-z0-9\\-@\\.]*$", 
                     "terms": [
-                        "bt-tower:bt-tower", 
+                        "bt-tower-t35:bt-tower-t35", 
                         "cvao:cvao", 
                         "iao:iao", 
                         "wao:wao"
                     ], 
-                    "uid": "18411b22-f084-4c6b-bf9e-ac095388f607"
+                    "uid": "1e10da43-7016-4941-9dc7-39ebe264f6dd"
                 }, 
                 {
                     "_type": "collection", 
@@ -185,7 +185,7 @@
                         "tgm-concentration:tgm-concentration", 
                         "voc-concentration:voc-concentration"
                     ], 
-                    "uid": "a9695319-1ab7-428d-ba0b-5b2397108909"
+                    "uid": "e4ed113b-fe4b-44d9-a54f-5e0bcc621f1d"
                 }, 
                 {
                     "_type": "collection", 
@@ -199,7 +199,7 @@
                     "terms": [
                         "index:index"
                     ], 
-                    "uid": "48eeb748-d5ec-450d-89f6-415729558f66"
+                    "uid": "41aeb399-1dff-41b7-bde5-9494e64aef37"
                 }, 
                 {
                     "_type": "collection", 
@@ -228,7 +228,7 @@
                         "wind-from-direction:wind_from_direction", 
                         "wind-speed:wind_speed"
                     ], 
-                    "uid": "b0a6f3fe-869f-4b1d-8761-8e3e0599b7f4"
+                    "uid": "dc88b42e-3ae6-4618-999e-28a9748909e4"
                 }, 
                 {
                     "_type": "collection", 
@@ -242,7 +242,7 @@
                     "terms": [
                         "index:index"
                     ], 
-                    "uid": "3a104d52-4124-48dd-a505-4103b060d137"
+                    "uid": "a7174b1e-adaf-46b7-ba9b-c0ce242ddb81"
                 }, 
                 {
                     "_type": "collection", 
@@ -257,7 +257,7 @@
                         "index-of-angle:index_of_angle", 
                         "index-of-range:index_of_range"
                     ], 
-                    "uid": "8c61a109-b668-4487-aea3-72fee34423d6"
+                    "uid": "cfb6af10-d28c-4ef3-a191-2cfbbff08f60"
                 }, 
                 {
                     "_type": "collection", 
@@ -276,7 +276,7 @@
                         "sensor-azimuth-angle:sensor_azimuth_angle", 
                         "sensor-view-angle:sensor_view_angle"
                     ], 
-                    "uid": "7ebe9aab-6386-4fa5-9457-2647240f202d"
+                    "uid": "5c263264-7203-46a9-9781-3b35267b6ca1"
                 }, 
                 {
                     "_type": "collection", 
@@ -297,7 +297,7 @@
                         "sensor-zenith-angle:sensor_zenith_angle", 
                         "window-contamination:window_contamination"
                     ], 
-                    "uid": "e1972194-8729-4417-92b6-eaec09c291c5"
+                    "uid": "a6438e10-88cf-4367-b239-5b7d3c70119f"
                 }, 
                 {
                     "_type": "collection", 
@@ -312,7 +312,7 @@
                         "number-concentration-of-ambient-aerosol-particles-in-air:number_concentration_of_ambient_aerosol_particles_in_air", 
                         "qc-flag:qc_flag"
                     ], 
-                    "uid": "1083c038-509a-4f83-acf5-4ee188a52c27"
+                    "uid": "11613afb-78ab-43b9-ac10-e06414a13f0e"
                 }, 
                 {
                     "_type": "collection", 
@@ -326,7 +326,7 @@
                     "terms": [
                         "index:index"
                     ], 
-                    "uid": "8a9c361e-9fc4-4f09-8fca-002fc7095721"
+                    "uid": "66c804a1-3b97-4b5b-be29-5e82b28d81ec"
                 }, 
                 {
                     "_type": "collection", 
@@ -344,7 +344,7 @@
                         "volume-extinction-coefficient-in-air-due-to-ambient-aerosol-particles-316:volume_extinction_coefficient_in_air_due_to_ambient_aerosol_particles_316", 
                         "volume-extinction-coefficient-in-air-due-to-ambient-aerosol-particles-355:volume_extinction_coefficient_in_air_due_to_ambient_aerosol_particles_355"
                     ], 
-                    "uid": "28b3d354-cef9-47e9-838f-83f7d4ced9df"
+                    "uid": "8baf30aa-16df-4c80-8e56-71ccba3ab60c"
                 }, 
                 {
                     "_type": "collection", 
@@ -358,7 +358,7 @@
                     "terms": [
                         "index:index"
                     ], 
-                    "uid": "5fa53af5-0f4e-43de-bbac-5cbf9df08def"
+                    "uid": "3e7278d6-57fc-467b-8680-6f39c0e14580"
                 }, 
                 {
                     "_type": "collection", 
@@ -375,7 +375,7 @@
                         "instrument-channel-wavelength:instrument_channel_wavelength", 
                         "qc-flag:qc_flag"
                     ], 
-                    "uid": "0f23dcef-f062-4e2f-bd85-79fafe89502d"
+                    "uid": "044c1f34-3329-48ae-9f70-94fa84e2c40e"
                 }, 
                 {
                     "_type": "collection", 
@@ -389,7 +389,7 @@
                     "terms": [
                         "index:index"
                     ], 
-                    "uid": "8fb7336a-822d-4c4f-be14-baba9f15471b"
+                    "uid": "c918e850-6571-4b08-a99b-4bc52d8ed77f"
                 }, 
                 {
                     "_type": "collection", 
@@ -405,7 +405,7 @@
                         "ambient-aerosol-size-distribution:ambient_aerosol_size_distribution", 
                         "qc-flag:qc_flag"
                     ], 
-                    "uid": "b4b7e536-a15c-46ff-8230-b252cccd7002"
+                    "uid": "88a786cc-f3c1-4844-9753-4f601826a008"
                 }, 
                 {
                     "_type": "collection", 
@@ -419,7 +419,7 @@
                     "terms": [
                         "index:index"
                     ], 
-                    "uid": "07d39dd4-ba2b-41f1-a101-b093afac8668"
+                    "uid": "0b18a830-1e08-490e-8200-c0f493a1ddf3"
                 }, 
                 {
                     "_type": "collection", 
@@ -452,7 +452,7 @@
                         "qc-flag-surface-relative-humidity:qc_flag_surface_relative_humidity", 
                         "qc-flag-surface-temperature:qc_flag_surface_temperature"
                     ], 
-                    "uid": "6b71c2e2-582b-48f2-be9a-1582243613c4"
+                    "uid": "de8471bf-3f73-4ad8-bd3a-e2922d45d087"
                 }, 
                 {
                     "_type": "collection", 
@@ -466,7 +466,7 @@
                     "terms": [
                         "radiation-frequency:radiation_frequency"
                     ], 
-                    "uid": "1844faff-7101-4640-9453-abfe1f5db2c9"
+                    "uid": "b3a882fc-ae2d-4c3d-a818-0ce08b1de949"
                 }, 
                 {
                     "_type": "collection", 
@@ -499,7 +499,7 @@
                         "qc-flag-surface-temperature:qc_flag_surface_temperature", 
                         "radiation-frequency:radiation_frequency"
                     ], 
-                    "uid": "d17c8601-1e6a-4d77-8fdc-7d15f4b62fd2"
+                    "uid": "3ea2b340-a615-4f79-b298-58498edfe359"
                 }, 
                 {
                     "_type": "collection", 
@@ -513,7 +513,7 @@
                     "terms": [
                         "layer-index:layer_index"
                     ], 
-                    "uid": "15711a54-98a4-4f3e-a286-6f9a7b6060b6"
+                    "uid": "033839a0-d955-40cd-b74c-489e043bd003"
                 }, 
                 {
                     "_type": "collection", 
@@ -533,7 +533,7 @@
                         "sensor-zenith-angle:sensor_zenith_angle", 
                         "window-contamination:window_contamination"
                     ], 
-                    "uid": "15cf9c9b-d024-41d1-92a2-f68410f312c8"
+                    "uid": "b0c78776-3bca-4a0a-a401-5ba3cf584f9e"
                 }, 
                 {
                     "_type": "collection", 
@@ -548,7 +548,7 @@
                         "mole-fraction-of-carbon-monoxide-in-air:mole_fraction_of_carbon_monoxide_in_air", 
                         "qc-flag:qc_flag"
                     ], 
-                    "uid": "f859f254-2a62-4b8b-b334-bee599658889"
+                    "uid": "e3b6ca69-3230-4199-98e8-a282338ef282"
                 }, 
                 {
                     "_type": "collection", 
@@ -564,7 +564,7 @@
                         "longitude:longitude", 
                         "time:time"
                     ], 
-                    "uid": "0191809e-38c0-441e-ad4d-29c0e669bbed"
+                    "uid": "067fb9a4-840a-4d89-90dd-f3df0c161445"
                 }, 
                 {
                     "_type": "collection", 
@@ -580,7 +580,7 @@
                         "longitude:longitude", 
                         "time:time"
                     ], 
-                    "uid": "0afa99e7-1f67-46fb-9b6d-fb105797d81c"
+                    "uid": "33b7cfd8-b1ea-4a8c-9658-25d1e31a0a06"
                 }, 
                 {
                     "_type": "collection", 
@@ -596,7 +596,7 @@
                         "longitude:longitude", 
                         "time:time"
                     ], 
-                    "uid": "0cd33464-7f94-4f35-b38f-5599101742bc"
+                    "uid": "0b0d8977-fa0c-4c38-bfc0-e8ce2fe89cb6"
                 }, 
                 {
                     "_type": "collection", 
@@ -625,7 +625,7 @@
                         "time:time", 
                         "year:year"
                     ], 
-                    "uid": "aec52844-a6bb-4e4f-8244-644a2b83d836"
+                    "uid": "3d7ee617-1895-41f2-ad17-9b3866cfc5e9"
                 }, 
                 {
                     "_type": "collection", 
@@ -648,7 +648,7 @@
                         "time:time", 
                         "year:year"
                     ], 
-                    "uid": "5a9bb14f-6ef2-43fe-976f-ad84b00f9c0c"
+                    "uid": "d84e075c-49f8-439a-b817-077defa1562b"
                 }, 
                 {
                     "_type": "collection", 
@@ -678,7 +678,7 @@
                         "time:time", 
                         "year:year"
                     ], 
-                    "uid": "89981f54-6d16-497d-bda9-1d122d040b20"
+                    "uid": "c0498e82-6ec6-4d12-9b15-0d84a2a0a29d"
                 }, 
                 {
                     "_type": "collection", 
@@ -695,7 +695,7 @@
                         "qc-flag:qc_flag", 
                         "relative-humidity:relative_humidity"
                     ], 
-                    "uid": "fd22cc11-abe1-4fd7-b6b7-bf9ba65e37f2"
+                    "uid": "23c9b961-5a37-41b0-89f6-c8075e9e45e2"
                 }, 
                 {
                     "_type": "collection", 
@@ -709,7 +709,7 @@
                     "terms": [
                         "index:index"
                     ], 
-                    "uid": "04539b7a-5270-4ade-8380-e37340918155"
+                    "uid": "347857cb-d757-4e7e-9812-e2bc6ca4b74d"
                 }, 
                 {
                     "_type": "collection", 
@@ -738,7 +738,7 @@
                         "upward-air-velocity:upward_air_velocity", 
                         "water-vapor-partial-pressure-in-air:water_vapor_partial_pressure_in_air"
                     ], 
-                    "uid": "5f0bb87d-a077-469d-9b4f-a13e705f4640"
+                    "uid": "8a74eb59-0751-4230-86ab-da81b17a86e7"
                 }, 
                 {
                     "_type": "collection", 
@@ -768,7 +768,7 @@
                         "upward-latent-heat-flux-in-air:upward_latent_heat_flux_in_air", 
                         "upward-sensible-heat-flux-in-air:upward_sensible_heat_flux_in_air"
                     ], 
-                    "uid": "71df052f-26d4-42de-8d08-da13e29c2828"
+                    "uid": "2ae69048-1c69-4044-ab68-7d5831f7d465"
                 }, 
                 {
                     "_type": "collection", 
@@ -782,7 +782,7 @@
                     "terms": [
                         "index:index"
                     ], 
-                    "uid": "642624a6-d0dd-4137-9dcf-2020b2c3fa03"
+                    "uid": "083c22a2-cd02-413f-a39a-7c69877ae8bb"
                 }, 
                 {
                     "_type": "collection", 
@@ -815,7 +815,7 @@
                         "qc-flag-surface-relative-humidity:qc_flag_surface_relative_humidity", 
                         "qc-flag-surface-temperature:qc_flag_surface_temperature"
                     ], 
-                    "uid": "9c42c218-1d9e-4bd9-bc79-4244719573b9"
+                    "uid": "1458726d-4205-4ffe-8bf0-c0dc8a109619"
                 }, 
                 {
                     "_type": "collection", 
@@ -844,7 +844,7 @@
                         "qc-flag-chbrcl2:qc_flag_chbrcl2", 
                         "qc-flag-chcl3:qc_flag_chcl3"
                     ], 
-                    "uid": "253dddec-2a80-4f88-b208-cdb070a77fc7"
+                    "uid": "dad2436c-cefa-4a5f-af88-da8ae46348cd"
                 }, 
                 {
                     "_type": "collection", 
@@ -877,7 +877,7 @@
                         "qc-flag-surface-relative-humidity:qc_flag_surface_relative_humidity", 
                         "qc-flag-surface-temperature:qc_flag_surface_temperature"
                     ], 
-                    "uid": "41cebec4-298c-4ce5-98f9-2c8d031b1046"
+                    "uid": "b4de56e1-957e-41a7-91c2-aaffcaa5d6a0"
                 }, 
                 {
                     "_type": "collection", 
@@ -892,7 +892,7 @@
                         "atmosphere-mass-content-of-cloud-liquid-water:atmosphere_mass_content_of_cloud_liquid_water", 
                         "qc-flag:qc_flag"
                     ], 
-                    "uid": "90272c17-c94f-46c6-8775-8ce3ce02aa6a"
+                    "uid": "930c9c5f-9194-470d-a9f7-c0813d50a6fe"
                 }, 
                 {
                     "_type": "collection", 
@@ -922,7 +922,53 @@
                         "wind-speed-of-gust:wind_speed_of_gust", 
                         "wind-speed-of-gust-from-direction:wind_speed_of_gust_from_direction"
                     ], 
-                    "uid": "3ed39ed8-bb10-4992-9cfd-ab295c8a66f4"
+                    "uid": "f9e89c8b-fa17-4285-adbf-748663cabe2c"
+                }, 
+                {
+                    "_type": "collection", 
+                    "canonical_name": "product-moisture-profiles-dimension", 
+                    "create_date": "2018-07-09 13:09:00", 
+                    "description": "NCAS AMF CV collection: product_moisture-profiles_dimension", 
+                    "label": "product_moisture-profiles_dimension", 
+                    "namespace": "ncas:amf:product-moisture-profiles-dimension", 
+                    "raw_name": "product_moisture-profiles_dimension", 
+                    "term_regex": "^[a-z0-9\\-@\\.]*$", 
+                    "terms": [
+                        "index:index"
+                    ], 
+                    "uid": "751a07a0-b8cd-414a-8931-6e74ffaafb42"
+                }, 
+                {
+                    "_type": "collection", 
+                    "canonical_name": "product-moisture-profiles-variable", 
+                    "create_date": "2018-07-09 13:09:00", 
+                    "description": "NCAS AMF CV collection: product_moisture-profiles_variable", 
+                    "label": "product_moisture-profiles_variable", 
+                    "namespace": "ncas:amf:product-moisture-profiles-variable", 
+                    "raw_name": "product_moisture-profiles_variable", 
+                    "term_regex": "^[a-z0-9\\-@\\.]*$", 
+                    "terms": [
+                        "absolute-humidity:absolute_humidity", 
+                        "altitude:altitude", 
+                        "qc-flag-channel-1-failure:qc_flag_channel_1_failure", 
+                        "qc-flag-channel-10-failure:qc_flag_channel_10_failure", 
+                        "qc-flag-channel-11-failure:qc_flag_channel_11_failure", 
+                        "qc-flag-channel-12-failure:qc_flag_channel_12_failure", 
+                        "qc-flag-channel-2-failure:qc_flag_channel_2_failure", 
+                        "qc-flag-channel-3-failure:qc_flag_channel_3_failure", 
+                        "qc-flag-channel-4-failure:qc_flag_channel_4_failure", 
+                        "qc-flag-channel-5-failure:qc_flag_channel_5_failure", 
+                        "qc-flag-channel-6-failure:qc_flag_channel_6_failure", 
+                        "qc-flag-channel-7-failure:qc_flag_channel_7_failure", 
+                        "qc-flag-channel-8-failure:qc_flag_channel_8_failure", 
+                        "qc-flag-channel-9-failure:qc_flag_channel_9_failure", 
+                        "qc-flag-precipitation:qc_flag_precipitation", 
+                        "qc-flag-surface-pressure:qc_flag_surface_pressure", 
+                        "qc-flag-surface-relative-humidity:qc_flag_surface_relative_humidity", 
+                        "qc-flag-surface-temperature:qc_flag_surface_temperature", 
+                        "relative-humidity:relative_humidity"
+                    ], 
+                    "uid": "c1716694-7cf0-45db-bb80-8653174dd136"
                 }, 
                 {
                     "_type": "collection", 
@@ -943,7 +989,7 @@
                         "qc-flag-nox:qc_flag_nox", 
                         "qc-flag-noy:qc_flag_noy"
                     ], 
-                    "uid": "610a2a77-5e41-4641-8e47-17187f909673"
+                    "uid": "6953e9a4-1d3a-40af-a302-dedf0a86f2fc"
                 }, 
                 {
                     "_type": "collection", 
@@ -961,7 +1007,7 @@
                         "qc-flag:qc_flag", 
                         "sum-of--hydroxyl-and-hydroperoxyl-radical-concentration-in-air:sum_of _hydroxyl_and_hydroperoxyl_radical_concentration_in_air"
                     ], 
-                    "uid": "a895cc39-a953-46ac-8479-8b4525d64de8"
+                    "uid": "b62f21eb-2055-4107-9ed4-49f088472646"
                 }, 
                 {
                     "_type": "collection", 
@@ -976,7 +1022,7 @@
                         "mole-fraction-of-peroxyacetyl-nitrate-in-air:mole_fraction_of_peroxyacetyl_nitrate_in_air", 
                         "qc-flag:qc_flag"
                     ], 
-                    "uid": "d738ac01-e612-447d-8a1f-422d40eac77b"
+                    "uid": "cf5d24f9-55c1-4c9b-8f50-d1cfe45bc8b4"
                 }, 
                 {
                     "_type": "collection", 
@@ -999,7 +1045,7 @@
                         "upwelling-longwave-flux-in-air:upwelling_longwave_flux_in_air", 
                         "upwelling-shortwave-flux-in-air:upwelling_shortwave_flux_in_air"
                     ], 
-                    "uid": "a239278c-8a64-4a5e-8fbd-55e438dada9c"
+                    "uid": "385ff4b6-55b3-4999-9b6d-ddd1033d46bc"
                 }, 
                 {
                     "_type": "collection", 
@@ -1013,7 +1059,7 @@
                     "terms": [
                         "index:index"
                     ], 
-                    "uid": "26fe167d-43d4-48c2-bfed-23b5fb69ead2"
+                    "uid": "2cbd5e9f-8ebe-45e6-aac4-001a40de3f49"
                 }, 
                 {
                     "_type": "collection", 
@@ -1034,7 +1080,7 @@
                         "rainfall-rate:rainfall_rate", 
                         "rainfall-velocity:rainfall_velocity"
                     ], 
-                    "uid": "ded9dd31-cdab-477f-af74-c53d9b88f30a"
+                    "uid": "5865fb2f-3ae3-421a-8656-8060be1692d4"
                 }, 
                 {
                     "_type": "collection", 
@@ -1049,7 +1095,7 @@
                         "index-bin:index_bin", 
                         "index-range:index_range"
                     ], 
-                    "uid": "a842e4c3-a5f4-4699-bd0c-28c8ded17131"
+                    "uid": "3e148de3-af7d-41f7-ba72-79a307476688"
                 }, 
                 {
                     "_type": "collection", 
@@ -1067,7 +1113,7 @@
                         "rain-drop-diameter:rain_drop_diameter", 
                         "spectral-reflectivity:spectral_reflectivity"
                     ], 
-                    "uid": "5f791beb-bbd2-4ae3-8a9c-49bd16fa3a55"
+                    "uid": "7ef3d71b-b603-4c1f-bd1f-4b57c20158a9"
                 }, 
                 {
                     "_type": "collection", 
@@ -1081,7 +1127,7 @@
                     "terms": [
                         "index:index"
                     ], 
-                    "uid": "42414922-29e2-43e2-96f1-579262b52287"
+                    "uid": "c99b1e32-cb43-407b-aed9-119f9dd94cb1"
                 }, 
                 {
                     "_type": "collection", 
@@ -1110,7 +1156,7 @@
                         "wind-from-direction:wind_from_direction", 
                         "wind-speed:wind_speed"
                     ], 
-                    "uid": "63911894-cc87-4afb-931f-f73070cb78bd"
+                    "uid": "792ceca6-746c-4aab-9537-0399a710dbba"
                 }, 
                 {
                     "_type": "collection", 
@@ -1124,7 +1170,7 @@
                     "terms": [
                         "index:index"
                     ], 
-                    "uid": "d75608a3-b5aa-4be0-a636-f0fd11066746"
+                    "uid": "31eeb34d-d900-4307-836d-aa48b3e11db7"
                 }, 
                 {
                     "_type": "collection", 
@@ -1143,7 +1189,7 @@
                         "soil-temperature:soil_temperature", 
                         "soil-water-potential:soil_water_potential"
                     ], 
-                    "uid": "6587a4f7-d652-47f5-9d17-8f06841d5972"
+                    "uid": "6b8ff291-7027-479b-bd4b-fb160e1bc7f6"
                 }, 
                 {
                     "_type": "collection", 
@@ -1159,7 +1205,7 @@
                         "qc-flag:qc_flag", 
                         "solar-actinic-flux:solar_actinic_flux"
                     ], 
-                    "uid": "903b73aa-8c32-4800-b698-bb987a7a7b0b"
+                    "uid": "66331943-65fd-4629-a106-575db87501de"
                 }, 
                 {
                     "_type": "collection", 
@@ -1183,7 +1229,39 @@
                         "wind-from-direction:wind_from_direction", 
                         "wind-speed:wind_speed"
                     ], 
-                    "uid": "ce21f200-99d3-4030-9fb2-f123de2149ee"
+                    "uid": "ea7de2c1-252a-44e9-9547-34f90b7d9f19"
+                }, 
+                {
+                    "_type": "collection", 
+                    "canonical_name": "product-stability-indices-variable", 
+                    "create_date": "2018-07-09 13:09:00", 
+                    "description": "NCAS AMF CV collection: product_stability-indices_variable", 
+                    "label": "product_stability-indices_variable", 
+                    "namespace": "ncas:amf:product-stability-indices-variable", 
+                    "raw_name": "product_stability-indices_variable", 
+                    "term_regex": "^[a-z0-9\\-@\\.]*$", 
+                    "terms": [
+                        "atmosphere-convective-available-potential-energy:atmosphere_convective_available_potential_energy", 
+                        "atmosphere-stability-k-index:atmosphere_stability_k_index", 
+                        "atmosphere-stability-lifted-index:atmosphere_stability_lifted_index", 
+                        "atmosphere-stability-showalter-index:atmosphere_stability_showalter_index", 
+                        "atmosphere-stability-total-totals-index:atmosphere_stability_total_totals_index", 
+                        "modified-atmosphere-stability-k-index:modified_atmosphere_stability_k_index", 
+                        "qc-flag-channel-1-failure:qc_flag_channel_1_failure", 
+                        "qc-flag-channel-2-failure:qc_flag_channel_2_failure", 
+                        "qc-flag-channel-3-failure:qc_flag_channel_3_failure", 
+                        "qc-flag-channel-4-failure:qc_flag_channel_4_failure", 
+                        "qc-flag-channel-5-failure:qc_flag_channel_5_failure", 
+                        "qc-flag-channel-6-failure:qc_flag_channel_6_failure", 
+                        "qc-flag-channel-7-failure:qc_flag_channel_7_failure", 
+                        "qc-flag-channel-8-failure:qc_flag_channel_8_failure", 
+                        "qc-flag-channel-9-failure:qc_flag_channel_9_failure", 
+                        "qc-flag-precipitation:qc_flag_precipitation", 
+                        "qc-flag-surface-pressure:qc_flag_surface_pressure", 
+                        "qc-flag-surface-relative-humidity:qc_flag_surface_relative_humidity", 
+                        "qc-flag-surface-temperature:qc_flag_surface_temperature"
+                    ], 
+                    "uid": "51890e62-84a2-4dac-8d8d-4c515e91776f"
                 }, 
                 {
                     "_type": "collection", 
@@ -1211,7 +1289,7 @@
                         "wind-from-direction:wind_from_direction", 
                         "wind-speed:wind_speed"
                     ], 
-                    "uid": "256cd58a-bfeb-4067-a4f0-e4fcfc8acdda"
+                    "uid": "fcab4497-3158-4d1c-b027-99fcd8864af4"
                 }, 
                 {
                     "_type": "collection", 
@@ -1226,7 +1304,7 @@
                         "mole-fraction-of-gaseous-elemental-mercury-in-air:mole_fraction_of_gaseous_elemental_mercury_in_air", 
                         "qc-flag:qc_flag"
                     ], 
-                    "uid": "3b8d7575-3ca9-4eac-91f5-478727672a9f"
+                    "uid": "dc86087a-f82e-4faf-9e91-517b4e315aa8"
                 }, 
                 {
                     "_type": "collection", 
@@ -1251,7 +1329,7 @@
                         "philip.rosenberg@ncas.ac.uk:philip.rosenberg@ncas.ac.uk", 
                         "trevor.ingham@ncas.ac.uk:trevor.ingham@ncas.ac.uk"
                     ], 
-                    "uid": "07bd1cb3-e28d-42fc-b89b-cacd8744c6f3"
+                    "uid": "bb44e109-948d-487c-b418-b9b93636f765"
                 }
             ], 
             "create_date": "2018-07-09 13:09:00", 
@@ -1259,10 +1337,10 @@
             "label": "AMF", 
             "namespace": "ncas:amf", 
             "raw_name": "AMF", 
-            "uid": "89d85fc6-fbad-48a2-9d5e-50280df53fbc", 
+            "uid": "6c60938e-04c5-4b1f-bdec-3f892b980116", 
             "url": "https://github.com/ncasuk/AMF_CVs"
         }
     ], 
-    "uid": "a1ee377f-3ec3-45b1-a100-0e302fd3cb7b", 
+    "uid": "cffcef1c-5713-4526-96a1-6d457b2e4623", 
     "url": "https://www.ncas.ac.uk/en/about-amf"
 }

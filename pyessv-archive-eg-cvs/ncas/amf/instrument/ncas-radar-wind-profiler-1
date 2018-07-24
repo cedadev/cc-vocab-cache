@@ -6,10 +6,11 @@
         "description": "NCAS Mobile Radar Wind Profiler unit 1", 
         "instrument_id": "ncas-radar-wind-profiler-1", 
         "previous_instrument_ids": [
+            "aber-radar-1290mhz", 
             "man-radar-1290mhz"
         ]
     }, 
     "namespace": "ncas:amf:instrument:ncas-radar-wind-profiler-1", 
     "status": "pending", 
-    "uid": "c4aedba1-97ea-4b1c-bb6a-c784837eade0"
+    "uid": "f3668ad2-71d9-496c-ad29-b827b62fd95e"
 }

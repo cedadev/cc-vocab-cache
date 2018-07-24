@@ -7,7 +7,7 @@
         "cell_methods": "time: mean", 
         "coordinates": "latitude longitude", 
         "dimension": "time", 
-        "long_name": "Temperature", 
+        "long_name": "Air Temperature", 
         "name": "air_temperature", 
         "standard_name": "air_temperature", 
         "type": "float32", 
@@ -19,5 +19,5 @@
     "namespace": "ncas:amf:product-surface-met-variable:air-temperature", 
     "raw_name": "air_temperature", 
     "status": "pending", 
-    "uid": "091c0296-669f-438d-ba95-141c0309a093"
+    "uid": "65a2aa6c-76d2-443d-aa6b-5697728a24d5"
 }

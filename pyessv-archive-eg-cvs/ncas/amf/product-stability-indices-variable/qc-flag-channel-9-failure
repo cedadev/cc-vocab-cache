@@ -1,0 +1,10 @@
+{
+    "_type": "term", 
+    "canonical_name": "qc-flag-channel-9-failure", 
+    "create_date": "2018-07-09 13:09:00", 
+    "label": "qc_flag_channel_9_failure", 
+    "namespace": "ncas:amf:product-stability-indices-variable:qc-flag-channel-9-failure", 
+    "raw_name": "qc_flag_channel_9_failure", 
+    "status": "pending", 
+    "uid": "501645b2-c927-4260-988b-71dfcb3b534e"
+}

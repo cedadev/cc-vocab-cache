@@ -7,7 +7,7 @@
         "cell_methods": "time: mean", 
         "coordinates": "latitude longitude", 
         "dimension": "time", 
-        "long_name": "Pressure", 
+        "long_name": "Air Pressure", 
         "name": "air_pressure", 
         "standard_name": "air_pressure", 
         "type": "float32", 
@@ -19,5 +19,5 @@
     "namespace": "ncas:amf:product-surface-met-variable:air-pressure", 
     "raw_name": "air_pressure", 
     "status": "pending", 
-    "uid": "06d18da6-7c18-4db4-a61f-441e55d0486d"
+    "uid": "47f7f3af-cc7d-402e-86a2-bbdeb7923109"
 }
