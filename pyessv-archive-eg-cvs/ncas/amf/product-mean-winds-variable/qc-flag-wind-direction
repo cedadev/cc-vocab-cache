@@ -9,7 +9,7 @@
             "good_data", 
             "bad_data_value_outside_operational_range_(0_to_360_degrees)", 
             "suspect_data_measured_wind_speed_==_0", 
-            "suspect_data_timw_stamp_error"
+            "suspect_data_time_stamp_error"
         ], 
         "flag_values": "0b,1b, 2b, 3b, 4b", 
         "long_name": "Data Quality flag: Wind Direction", 
@@ -21,5 +21,5 @@
     "namespace": "ncas:amf:product-mean-winds-variable:qc-flag-wind-direction", 
     "raw_name": "qc_flag_wind_direction", 
     "status": "pending", 
-    "uid": "5ae21db5-7dd3-42e1-b6f2-148cfbc2d683"
+    "uid": "73ff8542-7c41-438e-af3f-904b6440952f"
 }

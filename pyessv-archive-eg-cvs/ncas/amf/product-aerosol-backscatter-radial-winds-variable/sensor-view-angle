@@ -5,7 +5,7 @@
     "data": {
         "_FillValue": -1e+20, 
         "coordinates": "latitude longitude", 
-        "dimension": "time, index_angle", 
+        "dimension": "time, index_of_angle", 
         "long_name": "Scanning head elevation angle", 
         "name": "sensor_view_angle", 
         "standard_name": "sensor_view_angle", 
@@ -18,5 +18,5 @@
     "namespace": "ncas:amf:product-aerosol-backscatter-radial-winds-variable:sensor-view-angle", 
     "raw_name": "sensor_view_angle", 
     "status": "pending", 
-    "uid": "52ba3191-e9ff-4ae6-ac57-b84dab2a3e71"
+    "uid": "e1cee648-de19-435c-88a9-a81dd7423be6"
 }

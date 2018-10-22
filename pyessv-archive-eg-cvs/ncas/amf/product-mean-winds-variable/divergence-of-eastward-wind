@@ -9,7 +9,6 @@
         "dimension": "time", 
         "long_name": "Divergence of Eastward Wind Component (Sigma U)", 
         "name": "divergence_of_eastward_wind", 
-        "standard_name": "divergence_of_eastward_wind", 
         "type": "float32", 
         "units": "m s-1", 
         "valid_max": "<derived from file>", 
@@ -19,5 +18,5 @@
     "namespace": "ncas:amf:product-mean-winds-variable:divergence-of-eastward-wind", 
     "raw_name": "divergence_of_eastward_wind", 
     "status": "pending", 
-    "uid": "cc38dc6b-a6ae-461d-9fdc-e38751668fbb"
+    "uid": "f0c8d967-89e7-4144-818c-87b0ff371e44"
 }

@@ -6,7 +6,7 @@
         "_FillValue": -1e+20, 
         "axis": "Z", 
         "coordinates": "latitude longitude", 
-        "dimension": "time, index", 
+        "dimension": "altitude", 
         "long_name": "Geometric height above geoid (WGS84).", 
         "name": "altitude", 
         "standard_name": "altitude", 
@@ -17,5 +17,5 @@
     }, 
     "namespace": "ncas:amf:product-aerosol-backscatter-variable:altitude", 
     "status": "pending", 
-    "uid": "6f56ce6a-71ae-4190-b60a-1b0986fc9d06"
+    "uid": "a8341cef-c99a-474c-8e86-0a830ab66f8d"
 }

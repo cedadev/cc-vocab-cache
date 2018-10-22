@@ -5,7 +5,7 @@
     "data": {
         "_FillValue": -1e+20, 
         "coordinates": "latitude longitude", 
-        "dimension": "time, index_angle", 
+        "dimension": "time, index_of_angle", 
         "long_name": "Scanning head azimuth angle", 
         "name": "sensor_azimuth_angle", 
         "standard_name": "sensor_azimuth_angle", 
@@ -18,5 +18,5 @@
     "namespace": "ncas:amf:product-aerosol-backscatter-radial-winds-variable:sensor-azimuth-angle", 
     "raw_name": "sensor_azimuth_angle", 
     "status": "pending", 
-    "uid": "c5cc2b80-87a2-4b91-a2ba-096a6d8962c6"
+    "uid": "740a4cbf-bdeb-4cb3-9d39-6cee5930e6bb"
 }

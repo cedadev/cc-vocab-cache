@@ -3,7 +3,6 @@
     "canonical_name": "qc-flag-channel-7-failure", 
     "create_date": "2018-07-09 13:09:00", 
     "data": {
-        "byte": "int32", 
         "dimension": "time", 
         "flag_meanings": [
             "not_used", 
@@ -14,11 +13,12 @@
         "flag_values": "0b,1b, 2b, 3b", 
         "long_name": "Data Quality flag: Receiver channel 7 failed", 
         "name": "qc_flag_channel_7_failure", 
+        "type": "int32", 
         "units": "1"
     }, 
     "label": "qc_flag_channel_7_failure", 
     "namespace": "ncas:amf:product-moisture-profiles-variable:qc-flag-channel-7-failure", 
     "raw_name": "qc_flag_channel_7_failure", 
     "status": "pending", 
-    "uid": "43b61c1c-0ffb-4ea9-9767-0c4644254910"
+    "uid": "92c8f2d9-6685-4946-9f8a-badcfd170c8a"
 }

@@ -9,7 +9,7 @@
             "good_data", 
             "bad_data_value_outside_operational_range_(0_to_50m_s-1)", 
             "suspect_data_measured_wind_speed_==_0", 
-            "suspect_data_timw_stamp_error"
+            "suspect_data_time_stamp_error"
         ], 
         "flag_values": "0b,1b, 2b, 3b, 4b", 
         "long_name": "Data Quality flag: Wind Speed", 
@@ -21,5 +21,5 @@
     "namespace": "ncas:amf:product-mean-winds-variable:qc-flag-wind-speed", 
     "raw_name": "qc_flag_wind_speed", 
     "status": "pending", 
-    "uid": "a825670b-dacc-4c1d-8bb2-6fff29beea93"
+    "uid": "a889ad71-3913-420b-b31c-7c7265f5bff6"
 }

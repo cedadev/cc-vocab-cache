@@ -13,7 +13,7 @@
             "suspect_data_time_stamp_error"
         ], 
         "flag_values": "0b,1b, 2b, 3b, 4b, 5b", 
-        "long_name": "Data Quality flag: Northward Wind Component", 
+        "long_name": "Data Quality flag: Northward Wind Component (V)", 
         "name": "qc_flag_wind_component_northward", 
         "type": "byte", 
         "units": "1"
@@ -22,5 +22,5 @@
     "namespace": "ncas:amf:product-acoustic-backscatter-winds-variable:qc-flag-wind-component-northward", 
     "raw_name": "qc_flag_wind_component_northward", 
     "status": "pending", 
-    "uid": "6512e4c4-498a-4e56-82be-b08bd1a33169"
+    "uid": "eb2db36d-d9ff-473b-a16c-4f9075852cd9"
 }

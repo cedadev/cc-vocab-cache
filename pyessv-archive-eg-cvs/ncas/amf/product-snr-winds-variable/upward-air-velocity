@@ -7,7 +7,7 @@
         "cell_methods": "time: mean", 
         "coordinates": "latitude longitude", 
         "dimension": "time, index", 
-        "long_name": "Upward Air Velocity Component", 
+        "long_name": "Upward Air Velocity Component (W)", 
         "name": "upward_air_velocity", 
         "standard_name": "upward_air_velocity", 
         "type": "float32", 
@@ -19,5 +19,5 @@
     "namespace": "ncas:amf:product-snr-winds-variable:upward-air-velocity", 
     "raw_name": "upward_air_velocity", 
     "status": "pending", 
-    "uid": "8bfaa9bf-f20b-42e5-985d-f4649bd165a2"
+    "uid": "86226f66-6015-4589-9aca-94c0f07979a6"
 }

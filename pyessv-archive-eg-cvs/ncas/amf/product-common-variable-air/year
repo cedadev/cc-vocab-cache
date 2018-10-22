@@ -7,9 +7,11 @@
         "long_name": "Year", 
         "name": "year", 
         "type": "int32", 
-        "units": "1"
+        "units": "1", 
+        "valid_max": "<derived from file>", 
+        "valid_min": "<derived from file>"
     }, 
     "namespace": "ncas:amf:product-common-variable-air:year", 
     "status": "pending", 
-    "uid": "362da79e-c81c-4f3a-9cd6-2f8a92c5f829"
+    "uid": "33d4b8d9-d572-4b5e-adbb-cd07c9732371"
 }

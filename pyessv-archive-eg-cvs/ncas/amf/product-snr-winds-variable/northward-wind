@@ -7,7 +7,7 @@
         "cell_methods": "time: mean", 
         "coordinates": "latitude longitude", 
         "dimension": "time, index", 
-        "long_name": "Northward Wind Component", 
+        "long_name": "Northward Wind Component (V)", 
         "name": "northward_wind", 
         "standard_name": "northward_wind", 
         "type": "float32", 
@@ -19,5 +19,5 @@
     "namespace": "ncas:amf:product-snr-winds-variable:northward-wind", 
     "raw_name": "northward_wind", 
     "status": "pending", 
-    "uid": "13e21535-b703-4135-a5fd-1e59b40746f9"
+    "uid": "e1d8e459-4f09-4a30-b38a-379789e7f5c0"
 }

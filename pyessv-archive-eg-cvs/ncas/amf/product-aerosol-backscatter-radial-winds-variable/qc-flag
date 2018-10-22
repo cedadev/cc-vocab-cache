@@ -3,12 +3,11 @@
     "canonical_name": "qc-flag", 
     "create_date": "2018-07-09 13:09:00", 
     "data": {
-        "dimension": "time, index_range, index_angle", 
         "flag_meanings": [
             "not_used", 
             "good_data", 
             "bad_data_data_values_outside_measurement_range", 
-            "bad_data_signal_below_instrument _threshold", 
+            "bad_data_signal_below_instrument_threshold", 
             "suspect_data_line_of_sight_radial_velocity_ -19m_s-1_<> _19m_s-1", 
             "suspect_data_line_of_sight_radial_velocity_wind_shear_-5m_s-1_<>_5m_s-1", 
             "suspect_data_instrument_internal_temperature_outside_operational_range_low _(15C)", 
@@ -26,5 +25,5 @@
     "namespace": "ncas:amf:product-aerosol-backscatter-radial-winds-variable:qc-flag", 
     "raw_name": "qc_flag", 
     "status": "pending", 
-    "uid": "5491172b-a33a-4f72-8094-8fcb8819beca"
+    "uid": "8cfd1e83-c0e4-48e6-8c0d-b4858e0fbb1a"
 }

@@ -7,7 +7,7 @@
         "cell_methods": "time: mean", 
         "coordinates": "latitude longitude", 
         "dimension": "time, index", 
-        "long_name": "Eastward Wind Component", 
+        "long_name": "Eastward Wind Component (U)", 
         "name": "eastward_wind", 
         "standard_name": "eastward_wind", 
         "type": "float32", 
@@ -19,5 +19,5 @@
     "namespace": "ncas:amf:product-snr-winds-variable:eastward-wind", 
     "raw_name": "eastward_wind", 
     "status": "pending", 
-    "uid": "67515504-42a7-4a22-ab54-3c75dfb74b37"
+    "uid": "42812249-818f-4a51-a0ee-e129be8127c8"
 }

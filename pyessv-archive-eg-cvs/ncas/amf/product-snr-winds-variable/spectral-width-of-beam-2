@@ -8,15 +8,15 @@
         "coordinates": "latitude longitude", 
         "dimension": "time, index", 
         "long_name": "Spectral Width of beam 2 (side panel)", 
-        "name": "spectral_width of beam_2", 
+        "name": "spectral_width_of_beam_2", 
         "type": "float32", 
         "units": "dB", 
         "valid_max": "<derived from file>", 
         "valid_min": "<derived from file>"
     }, 
-    "label": "spectral_width of beam_2", 
+    "label": "spectral_width_of_beam_2", 
     "namespace": "ncas:amf:product-snr-winds-variable:spectral-width-of-beam-2", 
-    "raw_name": "spectral_width of beam_2", 
+    "raw_name": "spectral_width_of_beam_2", 
     "status": "pending", 
-    "uid": "b667576a-7977-4255-be98-9605ff079df0"
+    "uid": "d631c18b-c0fb-4a3b-b985-b7dbb1f57cb3"
 }

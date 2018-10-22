@@ -4,7 +4,7 @@
     "create_date": "2018-07-09 13:09:00", 
     "data": {
         "_FillValue": -1e+20, 
-        "cell_methods": "time: mean", 
+        "cell_methods": "time: point", 
         "coordinates": "latitude longitude", 
         "dimension": "time", 
         "long_name": "Air Pressure", 
@@ -19,5 +19,5 @@
     "namespace": "ncas:amf:product-sonde-variable:air-pressure", 
     "raw_name": "air_pressure", 
     "status": "pending", 
-    "uid": "83215781-238a-47c9-80c7-e0bd3cee1067"
+    "uid": "aa8ec8e1-e0b3-4cf3-acb0-b74b53f8bcaf"
 }
